@@ -8,24 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "71d3bda7d625d37a",
+            "id": "8df512d57de30bd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic of Logic.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "d0754600e38cebec",
+            "id": "1f14b74f230cd8ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Home/The Beginning.md",
                 "mode": "preview",
                 "source": false
               }
@@ -82,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis University.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -162,19 +159,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d0754600e38cebec",
+  "active": "1f14b74f230cd8ae",
   "lastOpenFiles": [
+    "Innopolis University.md",
+    "Home/The Beginning.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Basic of Logic.md",
     "Library/lckBnikLr0k.jpg",
     "Library/Не подтверждено 746170.~",
     "Library/Pasted image 20240908221344.png",
-    "Home/The Beginning.md",
-    "Basic of Logic.md",
     "Library/448680_The image must be in panorama format with an aspec_xl-1024-v1-0.png",
     "Library/wallpaperflare.com_wallpaper.jpg",
     "Library/illustration-city-anime-painting-wallpaper-thumb.jpg",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg",
-    "Innopolis University.md",
     "Computer instructions, their representations, and execution.md",
     "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md",
     "Linear dependency, independency. Basis. The Dot product and its properties..md",
@@ -209,7 +207,6 @@
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png",
-    "Library/Photos/Pasted image 20240906180640.png",
     "Без названия.canvas"
   ]
 }
