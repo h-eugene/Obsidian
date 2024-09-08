@@ -12,4 +12,4 @@
 - Ctrl + G – graph
 - Ctrl + O – Search
 - Ctrl + P – Commands
-- 
+- Ctrl + N – create template

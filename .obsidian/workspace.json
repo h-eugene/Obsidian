@@ -6,7 +6,6 @@
       {
         "id": "d12773cd5b0c70e6",
         "type": "split",
-        "dimension": 30.344827586206897,
         "children": [
           {
             "id": "9bf73f47e08f1922",
@@ -19,7 +18,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "References.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -28,8 +26,7 @@
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   }
-                },
-                "group": "f546586f4941eadf"
+                }
               }
             ]
           },
@@ -55,63 +52,6 @@
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "fb63fccfa35080fd",
-        "type": "tabs",
-        "dimension": 69.6551724137931,
-        "children": [
-          {
-            "id": "f8697418671e3549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30ce6cb839b0fa91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f240a429ee554a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e1b9ccd17ca162f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "f546586f4941eadf"
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "References.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -256,14 +194,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0e1b9ccd17ca162f",
+  "active": "e89baffcd1ad0a31",
   "lastOpenFiles": [
+    "Analytical Geometry and Linear Algebra I.md",
+    "Innopolis 1st year - Fall Semester.md",
     "Home/The Beginning.md",
+    "References.md",
     "Just simple thought.md",
     "sdfsd.md",
     "Inbox.md",
     "Innopolis University.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Fundamentals of Computer Architecture.md",
     "Vector Algebra.md",
     "templates/_inbox template.md",
@@ -271,11 +211,9 @@
     "Set of Numbers. Basic of Theory of Sets..md",
     "Mathematical Analysis I.md",
     "Quadratic Curves and Surfaces.md",
-    "Analytical Geometry and Linear Algebra I.md",
     "Line and Plane.md",
     "Linear dependency, independency. Basis. The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "References.md",
     "Indefinite and definite integral.md",
     "Без названия.canvas",
     "Excalidraw/Drawing 2024-09-08 22.31.24.excalidraw.md",
