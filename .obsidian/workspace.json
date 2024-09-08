@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aaf104c9804e0127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Innopolis University.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis University.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -161,7 +148,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaf104c9804e0127",
+  "active": "68db896ec70c52e3",
   "lastOpenFiles": [
     "Home/The Beginning.md",
     "Innopolis University.md",

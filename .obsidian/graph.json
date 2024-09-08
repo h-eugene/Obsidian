@@ -5,23 +5,8 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#Semester  ",
-      "color": {
-        "a": 1,
-        "rgb": 6881433
-      }
-    },
-    {
-      "query": "tag:#AGLA  ",
-      "color": {
-        "a": 1,
-        "rgb": 12058624
-      }
-    }
-  ],
+  "collapse-color-groups": false,
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
