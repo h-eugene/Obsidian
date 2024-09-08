@@ -11,8 +11,10 @@
             "id": "38c327fd9d24c5e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf"
+              }
             }
           }
         ]
@@ -140,51 +146,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38c327fd9d24c5e2",
+  "active": "c763575cb748721e",
   "lastOpenFiles": [
-    "Sections/The C++ language.md",
-    "Sections/The Java language.md",
-    "Sections/Theory of limits and continuity.md",
-    "Sections/Vector Algebra.md",
-    "Sections/The fundamental principles for modern computer systems.md",
-    "Sections/The C language.md",
-    "Sections/Set Theory and Finite combinatorics.md",
-    "Sections/Set of Numbers. Basic of Theory of Sets..md",
-    "Sections/Quadratic Curves and Surfaces.md",
-    "Sections/Line and Plane.md",
-    "Sections/Indefinite and definite integral.md",
-    "Sections/Differentiation, derivatives, and differential.md",
-    "Sections/Design patterns.md",
-    "Sections/Computer instructions, their representations, and execution.md",
-    "Sections/Computer arithmetics.md",
-    "Sections/Basic of Logic.md",
-    "Sections/Basic of Graphs.md",
+    "Без названия",
+    "Library/Programming/C Programming Language.pdf",
+    "The C++ language.md",
+    "The Java language.md",
+    "Theory of limits and continuity.md",
+    "Vector Algebra.md",
+    "The fundamental principles for modern computer systems.md",
+    "The C language.md",
+    "Set Theory and Finite combinatorics.md",
+    "Set of Numbers. Basic of Theory of Sets..md",
+    "Quadratic Curves and Surfaces.md",
+    "Line and Plane.md",
+    "Indefinite and definite integral.md",
+    "Differentiation, derivatives, and differential.md",
+    "Design patterns.md",
+    "Computer instructions, their representations, and execution.md",
+    "Computer arithmetics.md",
+    "Basic of Logic.md",
+    "Basic of Graphs.md",
     "Innopolis 1st year - Fall Semester.md",
     "asdfasdfadf.md",
     "Без наasdfванияa.md",
     "sfddfsd.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Library/Без названия.md",
-    "Lessons/Lecture 2 - Continuation of previous lecture. The Dot product and its properties..md",
-    "Lessons/Lecture 1 - Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "Fundamentals of Computer Architecture.md",
+    "Lecture 2 - Continuation of previous lecture. The Dot product and its properties..md",
+    "Lecture 1 - Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Sections",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Lessons/Set of Numbers. Basic of Theory of Sets",
     "Lessons/Mathematical Analisis",
     "Lessons",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
-    "Photos/Pasted image 20240906181422.png",
-    "Photos/Pasted image 20240906180825.png",
-    "Photos/Pasted image 20240906180640.png",
-    "Photos/Pasted image 20240906180608.png",
-    "Photos/Pasted image 20240906180558.png",
-    "Photos/Pasted image 20240906180412.png",
-    "Photos/Pasted image 20240906180124.png",
-    "Photos/Pasted image 20240906175938.png",
-    "Photos/Pasted image 20240906175759.png",
+    "Library/Photos/Pasted image 20240906181422.png",
+    "Library/Photos/Pasted image 20240906180825.png",
+    "Library/Photos/Pasted image 20240906180640.png",
+    "Library/Photos/Pasted image 20240906180608.png",
+    "Library/Photos/Pasted image 20240906180558.png",
+    "Library/Photos/Pasted image 20240906180412.png",
+    "Library/Photos/Pasted image 20240906180124.png",
+    "Library/Photos/Pasted image 20240906175938.png",
+    "Library/Photos/Pasted image 20240906175759.png",
     "Без названия.canvas",
-    "Library/Programming/C Programming Language.pdf",
     "Library/Programming/fpgas_for_dummies_Intel.pdf",
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
     "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
