@@ -11763,6 +11763,7 @@ ILf
 IDATe
 ISSZ
 IDATo
+Inno
 Telegram
 Theorem
 Text

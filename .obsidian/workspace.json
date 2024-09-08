@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Basic of Logic.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0754600e38cebec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Innopolis University.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Innopolis University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Innopolis University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Innopolis University.md"
               }
             }
           }
@@ -149,10 +162,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "71d3bda7d625d37a",
+  "active": "d0754600e38cebec",
   "lastOpenFiles": [
-    "Library/448680_The image must be in panorama format with an aspec_xl-1024-v1-0.png",
+    "Library/Pasted image 20240908221344.png",
     "Home/The Beginning.md",
+    "Basic of Logic.md",
+    "Library/448680_The image must be in panorama format with an aspec_xl-1024-v1-0.png",
     "Library/wallpaperflare.com_wallpaper.jpg",
     "Library/illustration-city-anime-painting-wallpaper-thumb.jpg",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
@@ -190,7 +205,6 @@
     "Line and Plane.md",
     "Indefinite and definite integral.md",
     "Differentiation, derivatives, and differential.md",
-    "Design patterns.md",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png",
