@@ -85,9 +85,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f240a429ee554a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Innopolis University.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Innopolis University.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Innopolis University.md"
               }
             }
           }
@@ -231,10 +243,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30ce6cb839b0fa91",
+  "active": "1f240a429ee554a3",
   "lastOpenFiles": [
-    "Innopolis 1st year - Fall Semester.md",
+    "Inbox.md",
     "Home/The Beginning.md",
+    "Innopolis 1st year - Fall Semester.md",
     "Just simple thought.md",
     "Fundamentals of Computer Architecture.md",
     "Vector Algebra.md",
@@ -278,7 +291,6 @@
     "Fundamental Ideas of Computer Architecture.md",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Introduction. The C Programming Language..md",
-    "Introduction. Foundation. Truth Table. Normal Forms..md",
     "periodic/Weekly",
     "periodic/Daily",
     "Excalidraw/Lecture 2 - Theorem 1.png",
