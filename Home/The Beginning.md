@@ -6,7 +6,8 @@ aliases:
   - home
   - д
   - h
-banner_icon:
+banner: "![[wallpaperflare.com_wallpaper.jpg]]"
+banner_y: 0.956
 ---
 # 🚪Directions:
 - **[🎓Innopolis](Innopolis%20University.md)**
