@@ -11,10 +11,8 @@
             "id": "38c327fd9d24c5e2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,7 +142,11 @@
   },
   "active": "c763575cb748721e",
   "lastOpenFiles": [
-    "Без названия",
+    "periodic/Weekly",
+    "periodic/Daily",
+    "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
+    "periodic",
+    "Home",
     "Library/Programming/C Programming Language.pdf",
     "The C++ language.md",
     "The Java language.md",
@@ -190,10 +188,6 @@
     "Library/Photos/Pasted image 20240906180124.png",
     "Library/Photos/Pasted image 20240906175938.png",
     "Library/Photos/Pasted image 20240906175759.png",
-    "Без названия.canvas",
-    "Library/Programming/fpgas_for_dummies_Intel.pdf",
-    "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
-    "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
-    "Library/Math/Linear Algebra and Applications.pdf"
+    "Без названия.canvas"
   ]
 }
