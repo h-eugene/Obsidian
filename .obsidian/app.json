@@ -10,5 +10,6 @@
     "periodic/templates/",
     "templates/"
   ],
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "showRibbon": true
 }

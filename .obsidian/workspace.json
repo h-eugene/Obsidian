@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "1f14b74f230cd8ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4180cc53506a2f0c",
             "type": "leaf",
             "state": {
@@ -39,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -107,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,35 +130,39 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home/The Beginning.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
+      "switcher:Меню быстрого перехода": true,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "daily-notes:Сегодняшняя заметка": true,
+      "templates:Вставить шаблон": true,
+      "command-palette:Открыть палитру команд": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "obsidian-git:Open Git source control": true,
+      "homepage:Open homepage": true
     }
   },
-  "active": "1f14b74f230cd8ae",
+  "active": "8df512d57de30bd0",
   "lastOpenFiles": [
-    "References.md",
+    "Excalidraw/Drawing 2024-09-08 22.31.24.excalidraw.md",
+    "Excalidraw",
+    "Без названия 4.canvas",
+    "Без названия 3.canvas",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
     "Home/The Beginning.md",
+    "References.md",
     "Innopolis University.md",
     "Innopolis 1st year - Fall Semester.md",
     "Basic of Logic.md",
@@ -205,7 +193,6 @@
     "The C language.md",
     "periodic/Weekly",
     "periodic/Daily",
-    "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
     "The C++ language.md",
     "The Java language.md",
     "Theory of limits and continuity.md",
@@ -215,10 +202,8 @@
     "Set of Numbers. Basic of Theory of Sets..md",
     "Quadratic Curves and Surfaces.md",
     "Line and Plane.md",
-    "Indefinite and definite integral.md",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
-    "Library/Photos/Pasted image 20240906180825.png",
-    "Без названия.canvas"
+    "Library/Photos/Pasted image 20240906180825.png"
   ]
 }
