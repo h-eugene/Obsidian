@@ -1,7 +1,0 @@
-/* Change the size of nodes for notes tagged with #semester */
-.graph-view.color-fill-tag-#Semester circle {
-  r: 1000px !important; /* Increase the size to 20px radius for nodes with the #semester tag */
-}
-.Semester {
-  size: 1000px;
-}
