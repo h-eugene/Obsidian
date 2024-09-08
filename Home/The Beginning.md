@@ -8,6 +8,6 @@ aliases:
   - h
 ---
 # 🚪Directions:
-- **🎓Innopolis**
+- **[🎓Innopolis](Innopolis%20University.md)**
 - **📚Books and Courses**
 - **🚀Projects**
