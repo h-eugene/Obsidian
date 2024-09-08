@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c2d74f58d84bf7c7",
+        "id": "d12773cd5b0c70e6",
         "type": "split",
-        "dimension": 28.017241379310345,
         "children": [
           {
-            "id": "fb63fccfa35080fd",
+            "id": "9bf73f47e08f1922",
             "type": "tabs",
+            "dimension": 50.60679611650486,
             "children": [
               {
-                "id": "4fec36e176c8b999",
+                "id": "4710d592b99d8bee",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Just simple thought.md",
+                    "file": "Innopolis 1st year - Fall Semester.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -28,26 +28,27 @@
                     "unlinkedCollapsed": true
                   }
                 },
-                "group": "af39a6dfb0abfad3"
+                "group": "e8f3ff11099d1128"
               }
             ]
           },
           {
-            "id": "d86b3cf16f8862c0",
+            "id": "5a6f45375973b00a",
             "type": "tabs",
+            "dimension": 49.39320388349515,
             "children": [
               {
-                "id": "ccc1ad610a4c458f",
+                "id": "fa91ec055426b189",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Just simple thought.md",
+                    "file": "Innopolis 1st year - Fall Semester.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 },
-                "group": "af39a6dfb0abfad3"
+                "group": "e8f3ff11099d1128"
               }
             ]
           }
@@ -55,18 +56,21 @@
         "direction": "horizontal"
       },
       {
-        "id": "615c33c211ed9ee9",
+        "id": "fb63fccfa35080fd",
         "type": "tabs",
-        "dimension": 71.98275862068967,
         "children": [
           {
-            "id": "fc94c5d637e4bc47",
+            "id": "f8697418671e3549",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Innopolis 1st year - Fall Semester.md",
+                "mode": "source",
+                "source": false
+              }
             },
-            "group": "af39a6dfb0abfad3"
+            "group": "e8f3ff11099d1128"
           }
         ]
       }
@@ -116,6 +120,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "87e53d24947e25bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -138,6 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Innopolis 1st year - Fall Semester.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Innopolis 1st year - Fall Semester.md"
+              }
             }
           }
         ]
@@ -188,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Меню быстрого перехода": true,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -200,13 +216,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc94c5d637e4bc47",
+  "active": "fa91ec055426b189",
   "lastOpenFiles": [
+    "Innopolis 1st year - Fall Semester.md",
+    "Home/The Beginning.md",
     "Just simple thought.md",
     "Fundamentals of Computer Architecture.md",
-    "Home/The Beginning.md",
     "Vector Algebra.md",
-    "Innopolis 1st year - Fall Semester.md",
     "templates/_inbox template.md",
     "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
     "Set of Numbers. Basic of Theory of Sets..md",
