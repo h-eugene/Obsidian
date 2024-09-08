@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Innopolis University.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -164,6 +164,8 @@
   },
   "active": "d0754600e38cebec",
   "lastOpenFiles": [
+    "Library/lckBnikLr0k.jpg",
+    "Library/Не подтверждено 746170.~",
     "Library/Pasted image 20240908221344.png",
     "Home/The Beginning.md",
     "Basic of Logic.md",
@@ -193,7 +195,6 @@
     "periodic/Weekly",
     "periodic/Daily",
     "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
-    "periodic",
     "The C++ language.md",
     "The Java language.md",
     "Theory of limits and continuity.md",
@@ -209,7 +210,6 @@
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png",
     "Library/Photos/Pasted image 20240906180640.png",
-    "Library/Photos/Pasted image 20240906180608.png",
     "Без названия.canvas"
   ]
 }

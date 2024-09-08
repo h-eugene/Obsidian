@@ -9,5 +9,6 @@
     "periodic/Weekly/",
     "periodic/templates/",
     "templates/"
-  ]
+  ],
+  "propertiesInDocument": "visible"
 }
