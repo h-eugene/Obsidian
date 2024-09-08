@@ -1,1 +1,0 @@
-**Subject:** [Logic and Discrete Mathematics](Logic%20and%20Discrete%20Mathematics.md)
