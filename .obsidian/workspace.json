@@ -18,7 +18,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
+                    "file": "Home/The Beginning.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -42,7 +42,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
+                    "file": "Home/The Beginning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
-                "mode": "preview",
+                "file": "Home/The Beginning.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -141,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -202,18 +202,21 @@
       "command-palette:Открыть палитру команд": true,
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "obsidian-git:Open Git source control": true,
-      "homepage:Open homepage": true
+      "homepage:Open homepage": true,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ccc1ad610a4c458f",
+  "active": "fc94c5d637e4bc47",
   "lastOpenFiles": [
+    "Vector Algebra.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "templates/_inbox template.md",
+    "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
     "Set of Numbers. Basic of Theory of Sets..md",
     "Mathematical Analysis I.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Quadratic Curves and Surfaces.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Line and Plane.md",
-    "Vector Algebra.md",
     "Linear dependency, independency. Basis. The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Innopolis University.md",
@@ -250,11 +253,9 @@
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Introduction. The C Programming Language..md",
     "Introduction. Foundation. Truth Table. Normal Forms..md",
-    "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
     "The C language.md",
     "periodic/Weekly",
     "periodic/Daily",
-    "The C++ language.md",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png"
