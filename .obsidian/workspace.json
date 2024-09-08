@@ -11,17 +11,9 @@
             "id": "8df512d57de30bd0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4180cc53506a2f0c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "References.md",
+                "file": "Analytical Geometry and Linear Algebra I.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,33 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db4b26330a1bf4b3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "b58f64d3852874fe",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "77ee777e7d3a063d",
             "type": "leaf",
             "state": {
@@ -126,18 +91,46 @@
             }
           },
           {
-            "id": "e5819d6d1b254e4f",
+            "id": "ac04883c308ffc85",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "Analytical Geometry and Linear Algebra I.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": true
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 387.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,19 +145,22 @@
       "homepage:Open homepage": true
     }
   },
-  "active": "8df512d57de30bd0",
+  "active": "ac04883c308ffc85",
   "lastOpenFiles": [
+    "Vector Algebra.md",
+    "Linear dependency, independency. Basis. The Dot product and its properties..md",
+    "Indefinite and definite integral.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Без названия.canvas",
+    "References.md",
     "Excalidraw/Drawing 2024-09-08 22.31.24.excalidraw.md",
     "Excalidraw",
     "Без названия 4.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
-    "Без названия.canvas",
     "Home/The Beginning.md",
-    "References.md",
     "Innopolis University.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Basic of Logic.md",
     "Library/lckBnikLr0k.jpg",
     "Library/Не подтверждено 746170.~",
@@ -176,7 +172,6 @@
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg",
     "Computer instructions, their representations, and execution.md",
     "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md",
-    "Linear dependency, independency. Basis. The Dot product and its properties..md",
     "Library/Pasted image 20240908203938.png",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Static & Dynamic Typing. C Type System. Pointer Type..md",
@@ -196,12 +191,10 @@
     "The C++ language.md",
     "The Java language.md",
     "Theory of limits and continuity.md",
-    "Vector Algebra.md",
     "The fundamental principles for modern computer systems.md",
     "Set Theory and Finite combinatorics.md",
     "Set of Numbers. Basic of Theory of Sets..md",
     "Quadratic Curves and Surfaces.md",
-    "Line and Plane.md",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png"

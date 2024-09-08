@@ -11,5 +11,5 @@
     "templates/"
   ],
   "propertiesInDocument": "visible",
-  "showRibbon": true
+  "showRibbon": false
 }
