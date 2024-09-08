@@ -15,7 +15,7 @@
 ### Theorem 1:
 - Given the basis {$\vec{g_{1}},\ \vec{g_{2}}, \ \vec{g_3}$}, then any vector $\vec{x}$ can be represented by $\vec{x} = \xi_1\vec{g_{1}} + \xi_2\vec{g_{2}}+\xi_3\vec{g_3}$ , where $\xi_{1}, \xi_{2}, \xi_3$ - scalars, moreover - uniquely.
 **Proof:** 
-  ![Proof|360](Lecture%202%20-%20Theorem%201.png) 
+  ! 
 Let us first **prove the existence** of such numbers.
 Let $\vec{x} = \vec{z}+\vec{y}$, then $\vec{z}||\vec{g}_{3}\Rightarrow\vec{z}=\xi_{3}\vec{g}_{3}$
 $\vec{y}=\xi_{1}\vec{g}_{1}+\xi_2\vec{g}_{2}$

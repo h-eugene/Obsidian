@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Semester  ",
@@ -23,7 +23,7 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1.00155925155925,
@@ -33,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 97,
   "scale": 0.7522428993561776,
-  "close": true
+  "close": false
 }

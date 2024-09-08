@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "03de729659d9e555",
+        "id": "681a6e3b390708c1",
         "type": "tabs",
         "children": [
           {
-            "id": "38c327fd9d24c5e2",
+            "id": "68db896ec70c52e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Static & Dynamic Typing. C Type System. Pointer Type..md",
+                "file": "Continuation of previous lecture. The Dot product and its properties..md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "a1c6611b75e50984",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md",
+                "file": "Continuation of previous lecture. The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md",
+                "file": "Continuation of previous lecture. The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md"
+                "file": "Continuation of previous lecture. The Dot product and its properties..md"
               }
             }
           }
@@ -159,16 +148,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c763575cb748721e",
+  "active": "68db896ec70c52e3",
   "lastOpenFiles": [
-    "Static & Dynamic Typing. C Type System. Pointer Type..md",
     "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md",
+    "Continuation of previous lecture. The Dot product and its properties..md",
+    "Static & Dynamic Typing. C Type System. Pointer Type..md",
     "Library/Excalidraw",
     "templates",
     "projects",
     "periodic/templates",
     "Fundamental Ideas of Computer Architecture.md",
-    "Continuation of previous lecture. The Dot product and its properties..md",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Introduction. The C Programming Language..md",
