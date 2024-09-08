@@ -83,5 +83,13 @@
       ],
       "key": "["
     }
+  ],
+  "editor:set-heading-0": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "0"
+    }
   ]
 }
