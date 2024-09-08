@@ -1,4 +1,3 @@
-#CompArch
 **Description:**
 - Lecturer: *Artem Burmyakov*
 - Email: a.burmyakov@innopolis.ru
