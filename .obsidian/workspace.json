@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e51dab68b618a922",
+        "id": "615c33c211ed9ee9",
         "type": "tabs",
         "children": [
           {
-            "id": "601018e6e2557bb5",
+            "id": "fc94c5d637e4bc47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home/The Beginning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Semester",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +67,34 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "cd84b5600273a0a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home/The Beginning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d58cb35e704ecb1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -84,6 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,8 +138,20 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224431,
-                  "close": true
+                  "close": false
                 }
+              }
+            }
+          },
+          {
+            "id": "7c6cc7224822aee6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home/The Beginning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -123,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home/The Beginning.md"
+              }
             }
           }
         ]
@@ -145,25 +190,26 @@
       "homepage:Open homepage": true
     }
   },
-  "active": "601018e6e2557bb5",
+  "active": "96807406faa38874",
   "lastOpenFiles": [
+    "References.md",
+    "Home/The Beginning.md",
+    "Innopolis University.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Fundamentals of Computer Architecture.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Line and Plane.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Linear dependency, independency. Basis. The Dot product and its properties..md",
     "Indefinite and definite integral.md",
     "Без названия.canvas",
-    "References.md",
     "Excalidraw/Drawing 2024-09-08 22.31.24.excalidraw.md",
     "Excalidraw",
     "Без названия 4.canvas",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
-    "Home/The Beginning.md",
-    "Innopolis University.md",
     "Basic of Logic.md",
     "Library/lckBnikLr0k.jpg",
     "Library/Не подтверждено 746170.~",
@@ -194,7 +240,6 @@
     "The Java language.md",
     "Theory of limits and continuity.md",
     "The fundamental principles for modern computer systems.md",
-    "Set Theory and Finite combinatorics.md",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png"
