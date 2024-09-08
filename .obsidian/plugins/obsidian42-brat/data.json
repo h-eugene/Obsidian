@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "noatpad/obsidian-banners",
     "salmund/obsidian-better-link-inserter"
   ],
   "pluginSubListFrozenVersion": [],

@@ -6,6 +6,7 @@
       {
         "id": "d12773cd5b0c70e6",
         "type": "split",
+        "dimension": 30.344827586206897,
         "children": [
           {
             "id": "9bf73f47e08f1922",
@@ -58,6 +59,7 @@
       {
         "id": "fb63fccfa35080fd",
         "type": "tabs",
+        "dimension": 69.6551724137931,
         "children": [
           {
             "id": "f8697418671e3549",
@@ -71,8 +73,21 @@
               }
             },
             "group": "e8f3ff11099d1128"
+          },
+          {
+            "id": "30ce6cb839b0fa91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/The Beginning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -216,7 +231,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fa91ec055426b189",
+  "active": "30ce6cb839b0fa91",
   "lastOpenFiles": [
     "Innopolis 1st year - Fall Semester.md",
     "Home/The Beginning.md",
