@@ -11,8 +11,12 @@
             "id": "38c327fd9d24c5e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Static & Dynamic Typing. C Type System. Pointer Type..md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Static & Dynamic Typing. C Type System. Pointer Type..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Static & Dynamic Typing. C Type System. Pointer Type..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Static & Dynamic Typing. C Type System. Pointer Type..md"
+              }
             }
           }
         ]
@@ -142,6 +150,15 @@
   },
   "active": "c763575cb748721e",
   "lastOpenFiles": [
+    "periodic/templates",
+    "Fundamental Ideas of Computer Architecture.md",
+    "Continuation of previous lecture. The Dot product and its properties..md",
+    "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
+    "Introduction. Vector Spaces. Linear Independence. Basis..md",
+    "Introduction. The C Programming Language..md",
+    "Introduction. Foundation. Truth Table. Normal Forms..md",
+    "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
+    "The C language.md",
     "periodic/Weekly",
     "periodic/Daily",
     "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
@@ -153,7 +170,6 @@
     "Theory of limits and continuity.md",
     "Vector Algebra.md",
     "The fundamental principles for modern computer systems.md",
-    "The C language.md",
     "Set Theory and Finite combinatorics.md",
     "Set of Numbers. Basic of Theory of Sets..md",
     "Quadratic Curves and Surfaces.md",
@@ -166,19 +182,11 @@
     "Basic of Logic.md",
     "Basic of Graphs.md",
     "Innopolis 1st year - Fall Semester.md",
-    "asdfasdfadf.md",
-    "Без наasdfванияa.md",
-    "sfddfsd.md",
-    "Analytical Geometry and Linear Algebra I.md",
-    "Library/Без названия.md",
-    "Lecture 2 - Continuation of previous lecture. The Dot product and its properties..md",
-    "Lecture 1 - Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Sections",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Lessons/Set of Numbers. Basic of Theory of Sets",
     "Lessons/Mathematical Analisis",
     "Lessons",
-    "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png",
     "Library/Photos/Pasted image 20240906180640.png",
