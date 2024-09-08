@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer instructions, their representations, and execution.md",
+                "file": "Home/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer instructions, their representations, and execution.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer instructions, their representations, and execution.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer instructions, their representations, and execution.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "68db896ec70c52e3",
   "lastOpenFiles": [
+    "Home/The Beginning.md",
     "Computer instructions, their representations, and execution.md",
     "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md",
     "Linear dependency, independency. Basis. The Dot product and its properties..md",
