@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "showInlineTitle": true,
   "attachmentFolderPath": "Photos",
   "alwaysUpdateLinks": true

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "013ef137baea9e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без наasdfванияa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без наasdfванияa.md",
+                "file": "Innopolis 1st year - Fall Semester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без наasdfванияa.md",
+                "file": "Innopolis 1st year - Fall Semester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без наasdfванияa.md"
+                "file": "Innopolis 1st year - Fall Semester.md"
               }
             }
           }
@@ -161,8 +148,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "013ef137baea9e85",
+  "active": "38c327fd9d24c5e2",
   "lastOpenFiles": [
+    "asdfasdfadf.md",
     "Innopolis 1st year - Fall Semester.md",
     "Без наasdfванияa.md",
     "sfddfsd.md",
@@ -188,7 +176,6 @@
     "Sections/Basic of Graphs.md",
     "Sections/Set Theory and Finite combinatorics.md",
     "Sections/Design patterns.md",
-    "Sections/The C++ language.md",
     "Sections",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Lessons/Set of Numbers. Basic of Theory of Sets",
