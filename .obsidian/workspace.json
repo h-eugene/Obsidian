@@ -11,12 +11,8 @@
             "id": "68db896ec70c52e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuation of previous lecture. The Dot product and its properties..md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuation of previous lecture. The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Continuation of previous lecture. The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Continuation of previous lecture. The Dot product and its properties..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,8 +142,11 @@
   },
   "active": "68db896ec70c52e3",
   "lastOpenFiles": [
+    "Computer instructions, their representations, and execution.md",
     "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md",
-    "Continuation of previous lecture. The Dot product and its properties..md",
+    "Linear dependency, independency. Basis. The Dot product and its properties..md",
+    "Library/Pasted image 20240908203938.png",
+    "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Static & Dynamic Typing. C Type System. Pointer Type..md",
     "Library/Excalidraw",
     "templates",
@@ -169,7 +164,6 @@
     "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
     "periodic",
     "Home",
-    "Library/Programming/C Programming Language.pdf",
     "The C++ language.md",
     "The Java language.md",
     "Theory of limits and continuity.md",
@@ -182,10 +176,8 @@
     "Indefinite and definite integral.md",
     "Differentiation, derivatives, and differential.md",
     "Design patterns.md",
-    "Computer instructions, their representations, and execution.md",
     "Computer arithmetics.md",
     "Basic of Logic.md",
-    "Basic of Graphs.md",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png",
@@ -195,7 +187,6 @@
     "Library/Photos/Pasted image 20240906180412.png",
     "Library/Photos/Pasted image 20240906180124.png",
     "Library/Photos/Pasted image 20240906175938.png",
-    "Library/Photos/Pasted image 20240906175759.png",
     "Без названия.canvas"
   ]
 }
