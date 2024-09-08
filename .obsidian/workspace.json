@@ -19,7 +19,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Home/The Beginning.md",
+                    "file": "References.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "References.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "References.md"
               }
             }
           }
@@ -258,8 +258,8 @@
   },
   "active": "0e1b9ccd17ca162f",
   "lastOpenFiles": [
-    "Just simple thought.md",
     "Home/The Beginning.md",
+    "Just simple thought.md",
     "sdfsd.md",
     "Inbox.md",
     "Innopolis University.md",
