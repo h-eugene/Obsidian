@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "graph-colors"
+  ]
+}

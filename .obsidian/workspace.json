@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "ba238ece98349b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "03de729659d9e555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38c327fd9d24c5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytical Geometry and Linear Algebra I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eb6660d2336b10b",
+    "type": "split",
+    "children": [
+      {
+        "id": "20568c7377e7d865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c763575cb748721e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0989b295985b2c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70588dc0a342c2e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "57e2b10c14e61662",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9956f8eaa47a6d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db4b26330a1bf4b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analytical Geometry and Linear Algebra I.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b58f64d3852874fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Analytical Geometry and Linear Algebra I.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77ee777e7d3a063d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5819d6d1b254e4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analytical Geometry and Linear Algebra I.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "38c327fd9d24c5e2",
+  "lastOpenFiles": [
+    "Library/Без названия.md",
+    "Analytical Geometry and Linear Algebra I.md",
+    "Sections/Quadratic Curves and Surfaces.md",
+    "Sections/Line and Plane.md",
+    "Sections/Vector Algebra.md",
+    "Lessons/Lecture 2 - Continuation of previous lecture. The Dot product and its properties..md",
+    "Lessons/Lecture 1 - Introduction. Vector Spaces. Linear Independence. Basis..md",
+    "Fundamentals of Computer Architecture.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Lessons/Lecture 1 - Introduction. The C Programming Language..md",
+    "Sections/The C language.md",
+    "Introduction to Programming.md",
+    "Lessons/Lecture 2 - Static & Dynamic Typing. C Type System. Pointer Type..md",
+    "Lessons/Lecture 2 - Fundamental Ideas of Computer Architecture.md",
+    "Lessons/Lecture 2 - Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
+    "Lessons/Lecture 1 - Introduction. Foundation. Truth Table. Normal Forms..md",
+    "Lessons/Lecture 1 - Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
+    "Lessons/Lecture 1 - Introduction to Computer Architecture Discipline. Computer Layout - A Brief Overview..md",
+    "Logic and Discrete Mathematics.md",
+    "Sections/Basic of Logic.md",
+    "Sections/Basic of Graphs.md",
+    "Sections/Set Theory and Finite combinatorics.md",
+    "Sections/Design patterns.md",
+    "Sections/The C++ language.md",
+    "Sections/The Java language.md",
+    "Sections/The fundamental principles for modern computer systems.md",
+    "Sections",
+    "Excalidraw/Lecture 2 - Theorem 1.png",
+    "Lessons/Set of Numbers. Basic of Theory of Sets",
+    "Lessons/Mathematical Analisis",
+    "Lessons",
+    "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
+    "Photos/Pasted image 20240906181422.png",
+    "Photos/Pasted image 20240906180825.png",
+    "Photos/Pasted image 20240906180640.png",
+    "Photos/Pasted image 20240906180608.png",
+    "Photos/Pasted image 20240906180558.png",
+    "Photos/Pasted image 20240906180412.png",
+    "Photos/Pasted image 20240906180124.png",
+    "Photos/Pasted image 20240906175938.png",
+    "Photos/Pasted image 20240906175759.png",
+    "Без названия.canvas",
+    "Library/Programming/C Programming Language.pdf",
+    "Library/Programming/fpgas_for_dummies_Intel.pdf",
+    "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
+    "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
+    "Library/Math/Linear Algebra and Applications.pdf"
+  ]
+}
