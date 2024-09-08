@@ -48,5 +48,14 @@
       ],
       "key": "N"
     }
+  ],
+  "obsidian-better-internal-link-inserter:use-selected-word-as-alias": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
   ]
 }
