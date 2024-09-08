@@ -4,8 +4,60 @@
     "type": "split",
     "children": [
       {
+        "id": "c2d74f58d84bf7c7",
+        "type": "split",
+        "dimension": 28.017241379310345,
+        "children": [
+          {
+            "id": "fb63fccfa35080fd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4fec36e176c8b999",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "af39a6dfb0abfad3"
+              }
+            ]
+          },
+          {
+            "id": "d86b3cf16f8862c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ccc1ad610a4c458f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "af39a6dfb0abfad3"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
         "id": "615c33c211ed9ee9",
         "type": "tabs",
+        "dimension": 71.98275862068967,
         "children": [
           {
             "id": "fc94c5d637e4bc47",
@@ -13,11 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quadratic Curves and Surfaces.md",
-                "mode": "source",
+                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
+                "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "af39a6dfb0abfad3"
           }
         ]
       }
@@ -31,25 +84,7 @@
       {
         "id": "20568c7377e7d865",
         "type": "tabs",
-        "dimension": 51.66240409207161,
         "children": [
-          {
-            "id": "cd84b5600273a0a7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Quadratic Curves and Surfaces.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "c763575cb748721e",
             "type": "leaf",
@@ -87,29 +122,11 @@
             }
           }
         ]
-      },
-      {
-        "id": "7223625a6990c9f7",
-        "type": "tabs",
-        "dimension": 48.33759590792839,
-        "children": [
-          {
-            "id": "7c6cc7224822aee6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Quadratic Curves and Surfaces.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -125,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quadratic Curves and Surfaces.md",
+                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quadratic Curves and Surfaces.md"
+                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md"
               }
             }
           }
@@ -174,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,12 +208,15 @@
   },
   "active": "fc94c5d637e4bc47",
   "lastOpenFiles": [
+    "Set of Numbers. Basic of Theory of Sets..md",
+    "Mathematical Analysis I.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Quadratic Curves and Surfaces.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Line and Plane.md",
     "Vector Algebra.md",
     "Linear dependency, independency. Basis. The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
     "References.md",
@@ -236,9 +256,6 @@
     "periodic/Weekly",
     "periodic/Daily",
     "The C++ language.md",
-    "The Java language.md",
-    "Theory of limits and continuity.md",
-    "The fundamental principles for modern computer systems.md",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png"
