@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "Home/The Beginning.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -160,6 +160,7 @@
   },
   "active": "83cbb1b663174ffd",
   "lastOpenFiles": [
+    "Library/448680_The image must be in panorama format with an aspec_xl-1024-v1-0.png",
     "Home/The Beginning.md",
     "Innopolis University.md",
     "Computer instructions, their representations, and execution.md",
@@ -196,7 +197,6 @@
     "Indefinite and definite integral.md",
     "Differentiation, derivatives, and differential.md",
     "Design patterns.md",
-    "Computer arithmetics.md",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png",
