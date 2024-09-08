@@ -14,12 +14,12 @@
             "dimension": 50.60679611650486,
             "children": [
               {
-                "id": "4710d592b99d8bee",
+                "id": "c7473e0723e72bf5",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Innopolis 1st year - Fall Semester.md",
+                    "file": "Home/The Beginning.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -29,7 +29,7 @@
                     "unlinkedCollapsed": true
                   }
                 },
-                "group": "e8f3ff11099d1128"
+                "group": "f546586f4941eadf"
               }
             ]
           },
@@ -39,17 +39,17 @@
             "dimension": 49.39320388349515,
             "children": [
               {
-                "id": "fa91ec055426b189",
+                "id": "e89baffcd1ad0a31",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Innopolis 1st year - Fall Semester.md",
+                    "file": "Home/The Beginning.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 },
-                "group": "e8f3ff11099d1128"
+                "group": "1947e2a333b82ca7"
               }
             ]
           }
@@ -71,8 +71,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "e8f3ff11099d1128"
+            }
           },
           {
             "id": "30ce6cb839b0fa91",
@@ -92,14 +91,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Home/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e1b9ccd17ca162f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/The Beginning.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "f546586f4941eadf"
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +216,8 @@
                   "close": true
                 }
               }
-            }
+            },
+            "group": "1947e2a333b82ca7"
           }
         ]
       },
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis University.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -243,12 +256,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1f240a429ee554a3",
+  "active": "0e1b9ccd17ca162f",
   "lastOpenFiles": [
-    "Inbox.md",
-    "Home/The Beginning.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Just simple thought.md",
+    "Home/The Beginning.md",
+    "sdfsd.md",
+    "Inbox.md",
+    "Innopolis University.md",
+    "Innopolis 1st year - Fall Semester.md",
     "Fundamentals of Computer Architecture.md",
     "Vector Algebra.md",
     "templates/_inbox template.md",
@@ -260,7 +275,6 @@
     "Line and Plane.md",
     "Linear dependency, independency. Basis. The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "Innopolis University.md",
     "References.md",
     "Indefinite and definite integral.md",
     "Без названия.canvas",
@@ -290,7 +304,6 @@
     "periodic/templates",
     "Fundamental Ideas of Computer Architecture.md",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
-    "Introduction. The C Programming Language..md",
     "periodic/Weekly",
     "periodic/Daily",
     "Excalidraw/Lecture 2 - Theorem 1.png",
