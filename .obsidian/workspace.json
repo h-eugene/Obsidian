@@ -8,25 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68db896ec70c52e3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "83cbb1b663174ffd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Library/448680_The image must be in panorama format with an aspec_xl-1024-v1-0.png"
-              }
-            }
-          },
-          {
-            "id": "e50ddf58d1f167c1",
+            "id": "8b2649592c1964a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +149,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e50ddf58d1f167c1",
+  "active": "8b2649592c1964a6",
   "lastOpenFiles": [
-    "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
-    "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg",
     "Library/448680_The image must be in panorama format with an aspec_xl-1024-v1-0.png",
     "Home/The Beginning.md",
+    "Library/wallpaperflare.com_wallpaper.jpg",
+    "Library/illustration-city-anime-painting-wallpaper-thumb.jpg",
+    "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
+    "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg",
     "Innopolis University.md",
     "Computer instructions, their representations, and execution.md",
     "Library/Excalidraw/Drawing 2024-09-08 20.32.46.excalidraw.md",
@@ -196,7 +179,6 @@
     "periodic/Daily",
     "Library/Programming/Computer Organization and Design_ The Hardware-Software Interface RISC-V Edition by David A. Patterson & John L. Hennessy.pdf",
     "periodic",
-    "Home",
     "The C++ language.md",
     "The Java language.md",
     "Theory of limits and continuity.md",
@@ -214,8 +196,6 @@
     "Library/Photos/Pasted image 20240906180825.png",
     "Library/Photos/Pasted image 20240906180640.png",
     "Library/Photos/Pasted image 20240906180608.png",
-    "Library/Photos/Pasted image 20240906180558.png",
-    "Library/Photos/Pasted image 20240906180412.png",
     "Без названия.canvas"
   ]
 }
