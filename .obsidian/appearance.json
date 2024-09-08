@@ -2,5 +2,8 @@
   "theme": "obsidian",
   "cssTheme": "Minimal",
   "baseFontSize": 21,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ]
 }
