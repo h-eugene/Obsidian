@@ -19,6 +19,16 @@
             "id": "83cbb1b663174ffd",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Library/448680_The image must be in panorama format with an aspec_xl-1024-v1-0.png"
+              }
+            }
+          },
+          {
+            "id": "e50ddf58d1f167c1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Home/The Beginning.md",
@@ -28,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,8 +168,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "83cbb1b663174ffd",
+  "active": "e50ddf58d1f167c1",
   "lastOpenFiles": [
+    "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg",
     "Library/448680_The image must be in panorama format with an aspec_xl-1024-v1-0.png",
     "Home/The Beginning.md",
@@ -205,7 +216,6 @@
     "Library/Photos/Pasted image 20240906180608.png",
     "Library/Photos/Pasted image 20240906180558.png",
     "Library/Photos/Pasted image 20240906180412.png",
-    "Library/Photos/Pasted image 20240906180124.png",
     "Без названия.canvas"
   ]
 }
