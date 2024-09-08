@@ -1,4 +1,3 @@
-#AGLA
 **Description:**
 - Lecturer: *Vladimir Ivanov*
 - Telegram: *@nomemm*

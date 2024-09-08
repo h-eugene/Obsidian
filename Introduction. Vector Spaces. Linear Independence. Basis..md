@@ -1,4 +1,3 @@
-#AGLA 
 # Material:
 - [Lecture](2024_AGLA1_Lecture_1.pdf)
 # Body:

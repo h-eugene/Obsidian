@@ -1,4 +1,3 @@
-#AGLA 
 # Material: 
 - [Аналитическая Геометрия и Линейная Алгебра](Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf)
 - [Slides](2024_AGLA1_Lecture_1.pdf)
