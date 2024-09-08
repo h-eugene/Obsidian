@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -206,7 +205,7 @@
       "homepage:Open homepage": true
     }
   },
-  "active": "fc94c5d637e4bc47",
+  "active": "ccc1ad610a4c458f",
   "lastOpenFiles": [
     "Set of Numbers. Basic of Theory of Sets..md",
     "Mathematical Analysis I.md",
