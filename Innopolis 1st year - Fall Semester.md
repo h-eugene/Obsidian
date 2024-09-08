@@ -5,6 +5,3 @@ Subjects:
 - [Introduction to Programming](Introduction%20to%20Programming.md)
 - [Logic and Discrete Mathematics](Logic%20and%20Discrete%20Mathematics.md)
 - [Mathematical Analysis I](Mathematical%20Analysis%20I.md)
-- [[https://habr.com/ru/articles/711884/ | dasdfsdf]]
-- [[asdfasdfadf|https://habr.com/ru/articles/711884/]]
-- 
