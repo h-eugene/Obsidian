@@ -6,9 +6,8 @@ aliases:
   - home
   - д
   - h
-banner_icon:
-banner_icon: 🔥
-banner: "![[448680_The image must be in panorama format with an aspec_xl-1024-v1-0.png]]"
+banner: "![[149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg]]"
+banner_y: 0.4
 ---
 # 🚪Directions:
 - **[🎓Innopolis](Innopolis%20University.md)**
