@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2ec24a7275139d64",
+        "id": "e51dab68b618a922",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa5759281f5d0e8",
+            "id": "601018e6e2557bb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Analytical Geometry and Linear Algebra I.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Semester",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -76,15 +79,58 @@
     "type": "split",
     "children": [
       {
-        "id": "c9956f8eaa47a6d1",
+        "id": "762a57a3118be348",
         "type": "tabs",
         "children": [
           {
-            "id": "f962f4cd29a397a3",
+            "id": "96807406faa38874",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "Analytical Geometry and Linear Algebra I.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622443,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8230a8f50f8d4fd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a551ce9606235a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analytical Geometry and Linear Algebra I.md"
+              }
             }
           }
         ]
@@ -106,10 +152,11 @@
       "homepage:Open homepage": true
     }
   },
-  "active": "d0989b295985b2c1",
+  "active": "96807406faa38874",
   "lastOpenFiles": [
-    "Innopolis 1st year - Fall Semester.md",
+    "Line and Plane.md",
     "Analytical Geometry and Linear Algebra I.md",
+    "Innopolis 1st year - Fall Semester.md",
     "Vector Algebra.md",
     "Linear dependency, independency. Basis. The Dot product and its properties..md",
     "Indefinite and definite integral.md",
@@ -155,7 +202,6 @@
     "Theory of limits and continuity.md",
     "The fundamental principles for modern computer systems.md",
     "Set Theory and Finite combinatorics.md",
-    "Set of Numbers. Basic of Theory of Sets..md",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png"
