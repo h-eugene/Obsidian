@@ -2,11 +2,12 @@
   "promptDelete": false,
   "useMarkdownLinks": true,
   "showInlineTitle": true,
-  "attachmentFolderPath": "Library/Photos",
+  "attachmentFolderPath": "Library",
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "periodic/Daily/",
     "periodic/Weekly/",
-    "periodic/templates/"
+    "periodic/templates/",
+    "templates/"
   ]
 }
