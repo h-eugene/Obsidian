@@ -36,9 +36,10 @@
   "homepage:open-homepage": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "I"
+      "key": "H"
     }
   ]
 }
