@@ -60,3 +60,9 @@
 > [!abstract] Definition
 > Let $V$ be vector space with a dot product.
 > Vectors $u,v\in V$ are said to be **orthogonal** if $$u\cdot v =0$$
+# Homework
+- Show that the difference between a vector $a$ and its orthogonal projection ($a_{b}$) on a vector $b$ is orthogonal to the vector $b$.
+  If $$p=a-a_{b}$$then $$p\cdot b=0$$
+  **Solution:**
+  $$p = a - a_{b} =$$
+  
