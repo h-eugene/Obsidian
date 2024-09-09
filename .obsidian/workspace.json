@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -133,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md"
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md"
               }
             }
           }
@@ -200,9 +199,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7b762a9a7c20324",
+  "active": "80b83395f7b3b5f4",
   "lastOpenFiles": [
     "Vector Algebra.md",
+    "Linear dependency, independency. Basis. The Dot product and its properties..md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
@@ -226,7 +226,6 @@
     "Mathematical Analysis I.md",
     "Quadratic Curves and Surfaces.md",
     "Line and Plane.md",
-    "Linear dependency, independency. Basis. The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Indefinite and definite integral.md",
     "Без названия.canvas",
