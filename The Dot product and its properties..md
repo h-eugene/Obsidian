@@ -5,9 +5,6 @@
 >[!abstract] Scalar / dot product: 
 >$a*b = |a||b|\cos\theta$, where $\theta$ is the angle between $a$ and $b$.
   ![Photo|500](Pasted%20image%2020240903223757.png)
-> **Explanation:**
-> It's just areas of parallelogramm that appears when we move each vector
-
 >[!Abstract] Scalar projection of vector $a$ on vector $b$  
 >**A scalar:** $a_{b}=\|a\|\cos \theta$ 
 
