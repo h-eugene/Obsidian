@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9efea683c4add68",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -132,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dot product and its properties..md"
+                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md"
               }
             }
           }
@@ -199,15 +211,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "147b90a0dbf12b8d",
+  "active": "c9efea683c4add68",
   "lastOpenFiles": [
+    "The Dot product and its properties..md",
+    "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "The Dot product and its properties..md",
     "References.md",
     "Computer arithmetics.md",
     "Fundamentals of Computer Architecture.md",
@@ -227,7 +240,6 @@
     "Mathematical Analysis I.md",
     "Quadratic Curves and Surfaces.md",
     "Line and Plane.md",
-    "Indefinite and definite integral.md",
     "Без названия.canvas",
     "Excalidraw",
     "Без названия 4.canvas",
