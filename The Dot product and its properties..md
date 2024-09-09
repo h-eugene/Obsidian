@@ -32,7 +32,6 @@
 
 > [!attention] Notation
 > $u\cdot = (u,v) = u\ v = \langle u,v \rangle$
-# Calculation:
-# Norm of a vector:
+# Norm (or a length) of a vector:
 # Cauchy-Schwarz inequality:
 # Triangle Inequality:
