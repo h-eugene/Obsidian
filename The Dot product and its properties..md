@@ -42,7 +42,7 @@
 
 >[!check] Check
 >$u\cdot v = \sum^{n}_{i=1}u_{i}v_{i} = \|u\|\|v\|\cos\theta$
-
-
 # Cauchy-Schwarz inequality:
+> [!abstract] Cauchy-Schwarz inequality
+> For all $x,y \in \mathbb{R^{n}},$$|x\cdot$$$
 # Triangle Inequality:
