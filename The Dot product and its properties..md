@@ -4,4 +4,7 @@
 # Geometric view (int $\mathbb{R}^{2} \  and \ \mathbb{R}^{3}$):
 - Scalar | dot product: $a*b = |a||b|\cos\theta$, where $\theta$ is the angle between $a$ and $b$.
   ![Photo|500](Pasted%20image%2020240903223757.png)
-# 
+# Algebraic view:
+# Calculation:
+# Norm of a vector:
+# Cauchy-Schwarz inequality 

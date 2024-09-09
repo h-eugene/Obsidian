@@ -1,10 +1,11 @@
 {
-  "theme": "obsidian",
-  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "cssTheme": "Things",
   "baseFontSize": 21,
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "accentColor": "#cf4a57"
 }
