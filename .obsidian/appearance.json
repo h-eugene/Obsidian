@@ -1,6 +1,6 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "baseFontSize": 21,
   "enabledCssSnippets": [
     "dashboard",

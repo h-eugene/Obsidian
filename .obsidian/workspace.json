@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96807406faa38874",
+  "active": "80b83395f7b3b5f4",
   "lastOpenFiles": [
     "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
