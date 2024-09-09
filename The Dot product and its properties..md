@@ -75,4 +75,4 @@
   a\cdot b - b\cdot \hat{b}\|a\|\cos\theta =0 \\
   \|a\|\|b\|\cos \theta - b\cdot \hat{b}\|a\| \cos\theta = 0
   }$$We know that $\hat{b} = \frac{b}{\|b\|} \Leftrightarrow b\cdot \hat{b}=\frac{b\cdot b}{\|b\|}=\frac{\|b\|^{2}}{\|b\|}= \|b\|$, if we substitude it into expression: $$\|a\|\|b\|\cos \theta-\|b\|\|a\|\cos\theta=0$$$\blacksquare$  
-- In the triangle ABC the median AD is divided into three equal segments: AE, EF and FD. $$\vec{BA} \cdot$$
+- In the triangle ABC the median AD is divided into three equal segments: AE, EF and FD. $$\overrightarrow{BA} \cdot \vec{}$$

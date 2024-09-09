@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "The Dot product and its properties..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -202,14 +202,14 @@
   },
   "active": "147b90a0dbf12b8d",
   "lastOpenFiles": [
-    "The Dot product and its properties..md",
-    "References.md",
-    "Home/The Beginning.md",
     "Vector Algebra.md",
+    "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
-    "Introduction. Vector Spaces. Linear Independence. Basis..md",
+    "Home/The Beginning.md",
+    "The Dot product and its properties..md",
+    "References.md",
     "Computer arithmetics.md",
     "Fundamentals of Computer Architecture.md",
     "The C language.md",
