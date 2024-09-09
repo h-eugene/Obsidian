@@ -22,7 +22,10 @@
 >[!abstract] Dot product
 >Let $V$ be a vector space over $\mathbb{R}$.
 >By a *dot product* on $V$ we mean a real valued function $u \cdot v$ on $V \times V \rightarrow \mathbb{R}$ which satisfies the following axioms:
->- $u\cdot v = v \cdot u,\ \$    
+>- $u\cdot v = v \cdot u,\ \forall u, v \in V$
+>- $u\cdot (w + v) = u\cdot w + u\cdot v,\ \forall u,v,w\in V$
+>- $(\lambda u) \cdot v = \lambda(u\cdot v),\ \forall u,v\in V, \lambda\in\mathbb{R}$
+>- $u\cdot u >=$
 # Calculation:
 # Norm of a vector:
 # Cauchy-Schwarz inequality:
