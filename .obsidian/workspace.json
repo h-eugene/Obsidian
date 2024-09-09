@@ -4,60 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "744e493bc28d2d19",
-        "type": "split",
-        "dimension": 28.27586206896552,
-        "children": [
-          {
-            "id": "51f8b842b38728b7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f7b762a9a7c20324",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "References.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                },
-                "group": "ef566af85e3aeeb9"
-              }
-            ]
-          },
-          {
-            "id": "44a14b9c8c73d741",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "020d546bbe4d8259",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "References.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                },
-                "group": "ef566af85e3aeeb9"
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
         "id": "1ce2c9111069b459",
         "type": "tabs",
-        "dimension": 71.72413793103448,
         "children": [
           {
             "id": "80b83395f7b3b5f4",
@@ -65,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References.md",
+                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "ef566af85e3aeeb9"
+            }
           }
         ]
       }
@@ -128,9 +75,44 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f7b762a9a7c20324",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "8e68b3348704f47e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "020d546bbe4d8259",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "References.md",
+                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References.md"
+                "file": "Linear dependency, independency. Basis. The Dot product and its properties..md"
               }
             }
           }
@@ -200,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,11 +200,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80b83395f7b3b5f4",
+  "active": "f7b762a9a7c20324",
   "lastOpenFiles": [
-    "Home/The Beginning.md",
-    "Innopolis University.md",
+    "Vector Algebra.md",
+    "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
+    "References.md",
     "Computer arithmetics.md",
     "Fundamentals of Computer Architecture.md",
     "The C language.md",
@@ -231,12 +217,9 @@
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
     "helloworld.md",
     "Static & Dynamic Typing. C Type System. Pointer Type..md",
-    "Analytical Geometry and Linear Algebra I.md",
-    "References.md",
     "Just simple thought.md",
     "sdfsd.md",
     "Inbox.md",
-    "Vector Algebra.md",
     "templates/_inbox template.md",
     "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
     "Set of Numbers. Basic of Theory of Sets..md",
