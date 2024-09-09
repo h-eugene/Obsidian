@@ -25,7 +25,11 @@
 >- $u\cdot v = v \cdot u,\ \forall u, v \in V$
 >- $u\cdot (w + v) = u\cdot w + u\cdot v,\ \forall u,v,w\in V$
 >- $(\lambda u) \cdot v = \lambda(u\cdot v),\ \forall u,v\in V, \lambda\in\mathbb{R}$
->- $u\cdot u >=$
+>- $u\cdot u \geq 0,\ \forall u \in V$
+>- $u\cdot u = 0 \Leftrightarrow u=0$
+
+> [!attention] Notation
+> $u\cdot = (u,v) = u\ v = \langle$
 # Calculation:
 # Norm of a vector:
 # Cauchy-Schwarz inequality:
