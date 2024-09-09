@@ -74,5 +74,5 @@
   (a-\hat{b}\|a\|\cos\theta)\cdot b=0 \\
   a\cdot b - b\cdot \hat{b}\|a\|\cos\theta =0 \\
   \|a\|\|b\|\cos \theta - b\cdot \hat{b}\|a\| \cos\theta = 0
-  }$$
+  }$$We know that $\hat{b} = \frac{b}{\|b\|} \Leftrightarrow b\cdot \hat{b}=\frac{b\cdot b}{\|b\|}=\frac{\|b\|^{2}}{\|b\|}= \|b\|$, if we substitude it into expression: $$$$  
   
