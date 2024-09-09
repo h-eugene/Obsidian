@@ -14,3 +14,6 @@
 - Ctrl + P – Commands
 - Ctrl + N – create template
 - Ctrl + Shift + H – Homepage
+
+**Features:**
+- To wrap callouts you need to add "+/–" after type of callouts
