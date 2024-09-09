@@ -11765,6 +11765,7 @@ ISSZ
 IDATo
 Inno
 Inbox
+Inequality
 Telegram
 Theorem
 Text
@@ -14380,6 +14381,7 @@ TKu
 TggC
 Tnk
 TRTJh
+Triangle
 nomemm
 need
 necessary
@@ -22457,6 +22459,8 @@ Crp
 CompArch
 Ctrl
 Commands
+Calculation
+Cauchy
 Sections
 Surfaces
 Spaces
@@ -25238,6 +25242,7 @@ SSU
 SuaK
 Shift
 Search
+Schwarz
 Algebra
 AGLA
 Assignments
@@ -30753,6 +30758,7 @@ aLF
 alk
 aMu
 aBg
+areas
 Plane
 Problem
 Prove
@@ -44875,6 +44881,8 @@ pWX
 pVwo
 pqc
 push
+parallelogramm
+projection
 Read
 Relations
 RY
@@ -68654,6 +68662,7 @@ iJF
 ilPPI
 iTJHZ
 icon
+inequality
 For
 Functions
 Frolov
@@ -90928,6 +90937,7 @@ NOOQ
 NRhg
 NnO
 NMzN
+Norm
 Given
 Graphs
 Gg
@@ -102582,6 +102592,7 @@ OLXVF
 OGTc
 OyBh
 Ofg
+Orthogonal
 menu
 more
 mA
@@ -106016,6 +106027,7 @@ mZHI
 mFe
 mMiE
 markdown
+move
 You
 YC
 YR
