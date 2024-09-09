@@ -1,5 +1,4 @@
 [
-  "obsidian-minimal-settings",
   "obsidian-completr",
   "quick-latex",
   "obsidian-excalidraw-plugin",
@@ -10,5 +9,6 @@
   "note-refactor-obsidian",
   "obsidian42-brat",
   "obsidian-better-internal-link-inserter",
-  "obsidian-banners"
+  "obsidian-banners",
+  "obsidian-minimal-settings"
 ]

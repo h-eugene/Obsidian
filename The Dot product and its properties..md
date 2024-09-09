@@ -10,7 +10,7 @@
 - **Scalar** projection of vector $a$ on vector $b$ is **a scalar:** $a_{b}=\|a\|\cos \theta$ 
 - Orthogonal projection of vector $a$ on vector $b$ is **a vector:** $a_{b}= \hat{b}\|a\|\cos\theta$ 
   $\hat{b}$ is the *unit vector* in the direction on $b$
-  ![[Introduction. Vector Spaces. Linear Independence. Basis..md#]]
+  ![](Introduction.%20Vector%20Spaces.%20Linear%20Independence.%20Basis..md#^cdc541)
 # Algebraic view:
 # Calculation:
 # Norm of a vector:

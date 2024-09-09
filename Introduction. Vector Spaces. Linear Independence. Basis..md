@@ -13,7 +13,7 @@
 - **Vector** is all directed line segments sharing the same direction and length.
 - The length of a vector - $|\vec{a}|$ 
 - *Unit vector* **$\hat{u}$** = $\frac{\vec{V}}{|V|}$
-  It's a "mini-vector" with magnitude (length) 1 that needs to represent any vector with same direction as unit vector with some coefficient
+  It's a "mini-vector" with magnitude (length) 1 that needs to represent any vector with same direction as unit vector with some coefficient ^cdc541
 - $\begin{bmatrix}3& 4\end{bmatrix}^{\top} = \begin{bmatrix}3\\4\end{bmatrix}$ 
 ## Vector Addition. Scalar Vector Multiplication.
 ## Properties of Vector Arithmetic.
