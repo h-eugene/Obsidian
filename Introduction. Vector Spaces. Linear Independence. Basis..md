@@ -12,7 +12,7 @@
 ## Points and Vectors.
 - **Vector** is all directed line segments sharing the same direction and length.
 - The length of a vector - $|\vec{a}|$ 
-- *Unit vector* **u** = $\frac{\vec{V}}{|V|}$ ^63ddc6
+- *Unit vector* **$\hat{u}$** = $\frac{\vec{V}}{|V|}$ ^63ddc6
 - $\begin{bmatrix}3& 4\end{bmatrix}^{\top} = \begin{bmatrix}3\\4\end{bmatrix}$ 
 ## Vector Addition. Scalar Vector Multiplication.
 ## Properties of Vector Arithmetic.
