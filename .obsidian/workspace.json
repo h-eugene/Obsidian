@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c24231603c81c732",
+        "id": "8577f9b78dce2cfa",
         "type": "split",
         "children": [
           {
-            "id": "c0085991dac33870",
+            "id": "7979620e9df4cc10",
             "type": "tabs",
             "children": [
               {
-                "id": "54887e0b9e528552",
+                "id": "3b4a9615a43220f3",
                 "type": "leaf",
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Introduction to Programming.md",
+                    "file": "Home/The Beginning.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -26,13 +26,12 @@
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   }
-                },
-                "group": "d9a8d5067a93fe2d"
+                }
               }
             ]
           },
           {
-            "id": "984b3c949ff3cf19",
+            "id": "8700506470be366b",
             "type": "tabs",
             "children": [
               {
@@ -41,46 +40,29 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "The C language.md",
+                    "file": "Home/The Beginning.md",
                     "linksCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "80b83395f7b3b5f4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home/The Beginning.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "6bb7dcf1810e793a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b4830ca75a3e4b2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The C language.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad189464ebe15d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "helloworld.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -159,9 +141,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction to Programming.md",
+                "file": "Home/The Beginning.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -182,12 +164,11 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224439,
+                  "scale": 0.7132754626224446,
                   "close": true
                 }
               }
-            },
-            "group": "d9a8d5067a93fe2d"
+            }
           }
         ]
       },
@@ -201,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The C language.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -226,15 +207,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4830ca75a3e4b2a",
+  "active": "80b83395f7b3b5f4",
   "lastOpenFiles": [
-    "helloworld.md",
     "The C language.md",
-    "Static & Dynamic Typing. C Type System. Pointer Type..md",
     "Introduction to Programming.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "Introduction. The C Programming Language..md",
+    "The Java language.md",
+    "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
+    "helloworld.md",
+    "Static & Dynamic Typing. C Type System. Pointer Type..md",
     "Analytical Geometry and Linear Algebra I.md",
     "References.md",
     "Just simple thought.md",
@@ -258,7 +242,6 @@
     "Без названия 3.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
-    "Basic of Logic.md",
     "Library/lckBnikLr0k.jpg",
     "Library/Не подтверждено 746170.~",
     "Library/Pasted image 20240908221344.png",
@@ -267,7 +250,6 @@
     "Library/illustration-city-anime-painting-wallpaper-thumb.jpg",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg",
-    "Computer instructions, their representations, and execution.md",
     "Library/Pasted image 20240908203938.png",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Library/Excalidraw",
@@ -275,7 +257,6 @@
     "projects",
     "periodic/templates",
     "periodic/Weekly",
-    "periodic/Daily",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png",
     "Library/Photos/Pasted image 20240906180825.png"
