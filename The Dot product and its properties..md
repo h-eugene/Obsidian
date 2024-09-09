@@ -64,5 +64,6 @@
 - Show that the difference between a vector $a$ and its orthogonal projection ($a_{b}$) on a vector $b$ is orthogonal to the vector $b$.
   If $$p=a-a_{b}$$then $$p\cdot b=0$$
   **Solution:**
-  $$p = a - a_{b} =$$
+  $$p = a - a_{b} = a - \hat{b}\|a\|\cos\theta$$
+  Substitute the $p$ in another equation: $$(a-\hat{b}\|a\|\cos\theta)\cdot b=0$$
   
