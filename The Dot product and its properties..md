@@ -38,5 +38,11 @@
 > - $\| \alpha u \| = |\alpha| \|u\|$
 > - $\|u\| \geq 0$
 > - $\| u \| = 0 \Leftrightarrow u = 0$
+> - $\| u+v \| \leq\|u\| + \| v\|$
+
+>[!check] Check
+>$u\cdot v = \sum^{n}_{i=1}u_{i}v_{i} = \|u\|\|v\|\cos\theta$
+
+
 # Cauchy-Schwarz inequality:
 # Triangle Inequality:
