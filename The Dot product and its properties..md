@@ -7,7 +7,8 @@
 > [!abstract] Explanation
 > It's just areas of parallelogramm that appears when we move each vector
 > 
-- Scalar projection of vector $a$ on vector $b$ is **a scalar:** $a_{b}=|\vec{a}|\cos \theta$ 
+- **Scalar** projection of vector $a$ on vector $b$ is **a scalar:** $a_{b}=|a|\cos \theta$ 
+- Orthogonal projection of vector $a$ on vector $b$ is **a vector:** $a_{b}= \hat{b}\|a\|\cos\theta$ 
 # Algebraic view:
 # Calculation:
 # Norm of a vector:
