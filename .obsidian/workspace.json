@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "mode": "preview",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dot product and its properties..md"
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md"
               }
             }
           }
@@ -202,8 +202,8 @@
   },
   "active": "80b83395f7b3b5f4",
   "lastOpenFiles": [
-    "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "The Dot product and its properties..md",
+    "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
