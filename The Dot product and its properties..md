@@ -48,4 +48,5 @@
 
 > [!check] Proof
 > Consider the expression $\| x- \lambda y \|^{2}.$ We must have $$\|x-\lambda y\|^{2}\geq 0$$ $$(x-\lambda y)\cdot(x - \lambda y)\geq 0$$ $$\lambda^{2}\|y\|^{2} - \lambda (2x \cdot y) + \|x\|^{2}\geq 0.$$
+> Viewing this as a quadratic in $\lambda$, we see that the quadratic is non-negative. It's possible if the discriminant $\Delta\leq0$, so quadratic cannot have 2 different 
 # Triangle Inequality:
