@@ -46,5 +46,6 @@
 > [!abstract] Cauchy-Schwarz inequality
 > For all $x,y \in \mathbb{R^{n}},$$$|x\cdot y| \leq \|x\|\|y\|.$$
 
-> [!todo] ff
+> [!check] Proof
+> Consider the expression $\| x- \lambda y \|^{2}.$ We must have $$\|x-\lambda y\|^{2}\geq 0$$ $$(x-\lambda y)\cdot(x - \lambda y)\geq 0$$ $$\lambda^{2}\|y\|^{2} - \lambda (2x \cdot y)$$
 # Triangle Inequality:
