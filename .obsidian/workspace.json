@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b92636ad67b6f23",
+        "id": "7fcb0ee28f0230c6",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e6c32d18b41dc2",
+            "id": "147b90a0dbf12b8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Home/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dot product and its properties..md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -200,11 +200,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3e6c32d18b41dc2",
+  "active": "147b90a0dbf12b8d",
   "lastOpenFiles": [
+    "The Dot product and its properties..md",
     "References.md",
     "Home/The Beginning.md",
-    "The Dot product and its properties..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
