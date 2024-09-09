@@ -27,7 +27,8 @@
 >- $(\lambda u) \cdot v = \lambda(u\cdot v),\ \forall u,v\in V, \lambda\in\mathbb{R}$
 >- $u\cdot u \geq 0,\ \forall u \in V$
 >- $u\cdot u = 0 \Leftrightarrow u=0$
->$$u\cdot v = u_{1}v_{1}+...+u_{n}v_{n}=\sum^{N}_{n=1}$$
+>$$u\cdot v = a_{1}b_{1}+...+a_{n}b_{n}=\sum^{N}_{n=1}a_{n}b_{n}$$
+>Where $u =\{a_{1},...,a_{n}\}$ and $v=\{b_{1},...,b_{n}\}$
 
 > [!attention] Notation
 > $u\cdot = (u,v) = u\ v = \langle u,v \rangle$
