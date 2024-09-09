@@ -13,3 +13,4 @@
 - Ctrl + O – Search
 - Ctrl + P – Commands
 - Ctrl + N – create template
+- Ctrl + Shift + H – Homepage
