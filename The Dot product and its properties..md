@@ -33,5 +33,10 @@
 > [!attention] Notation
 > $u\cdot = (u,v) = u\ v = \langle u,v \rangle$
 # Norm (or a length) of a vector:
+> [!abstract] Definition
+> We say $\| u \|$ is a norm on a vector space $V$ if $\forall u, v \in V$ and $\alpha\in\mathbb{R}:$
+> - $\| \alpha u \| = |\alpha| \|u\|$
+> - $\|u\| \geq 0$
+> - $\| u \| = 0 \Leftrightarrow u = 0$
 # Cauchy-Schwarz inequality:
 # Triangle Inequality:
