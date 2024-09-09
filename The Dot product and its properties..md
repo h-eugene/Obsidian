@@ -46,5 +46,5 @@
 > [!abstract] Cauchy-Schwarz inequality
 > For all $x,y \in \mathbb{R^{n}},$$$|x\cdot y| \leq \|x\|\|y\|.$$
 
-> [!t]
+> [!todo] ff
 # Triangle Inequality:
