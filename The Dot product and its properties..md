@@ -47,7 +47,9 @@
 > For all $x,y \in \mathbb{R^{n}},$$$|x\cdot y| \leq \|x\|\|y\|.$$
 
 > [!check] Proof
-> Consider the expression $\| x- \lambda y \|^{2}.$ We must have $$\|x-\lambda y\|^{2}\geq 0$$ $$(x-\lambda y)\cdot(x - \lambda y)\geq 0$$ $$\lambda^{2}\|y\|^{2} - \lambda (2x \cdot y) + \|x\|^{2}\geq 0.$$
+> Consider the expression $\| x- \lambda y \|^{2}.$ We must have $$\|x-\lambda y\|^{2}\geq 0\\
+> (x-\lambda y)\cdot(x - \lambda y)\geq 0\\ 
+> \lambda^{2}\|y\|^{2} - \lambda (2x \cdot y) + \|x\|^{2}\geq 0.$$
 > Viewing this as a quadratic in $\lambda$, we see that the quadratic is non-negative. It's possible if the discriminant $\Delta\leq0$, so quadratic cannot have 2 different real roots. $$\Delta = b^{2}-4ac\leq0$$ $$4(x\cdot y)^{2}\leq 4\|y\|^{2}\|x\|^{2}$$ $$(x\cdot y)^{2}\leq \|x\|^{2}\|y\|^{2}$$ $$|x\cdot y|\leq\|x\|\|y\|$$
 # Triangle Inequality:
 > [!abstract] Triangle inequality
@@ -65,6 +67,9 @@
   If $$p=a-a_{b}$$then $$p\cdot b=0$$
   **Solution:**
   $$p = a - a_{b} = a - \hat{b}\|a\|\cos\theta$$
-  Substitute the $p$ in another equation: $$(a-\hat{b}\|a\|\cos\theta)\cdot b=0 \\
-  \$$$
+  Substitute the $p$ in another equation: $$\displaylines{
+  (a-\hat{b}\|a\|\cos\theta)\cdot b=0 \\
+  a\cdot b - b\cdot \hat{b}\|a\|\cos\theta =0 \\
+  \|a\|\|b\|\cos \theta - b\cdot \hat{b}\|a\| \cos\theta = 0
+  }$$
   
