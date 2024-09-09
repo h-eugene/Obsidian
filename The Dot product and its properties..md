@@ -19,7 +19,10 @@
   ![](Introduction.%20Vector%20Spaces.%20Linear%20Independence.%20Basis..md#^cdc541)
   > Orthogonal projection is a Scalar projection but we also add a direction to it using the unit vector of vector $\hat{b}$ 
 # Algebraic view:
-- Definition
+>[!abstract] Dot product
+>Let $V$ be a vector space over $\mathbb{R}$.
+>By a *dot product* on $V$ we mean a real valued function $u \cdot v$ on $V \times V \rightarrow \mathbb{R}$ which satisfies the following axioms:
+>- $u\cdot v = v \cdot u,\ \$    
 # Calculation:
 # Norm of a vector:
 # Cauchy-Schwarz inequality:
