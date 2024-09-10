@@ -17102,6 +17102,7 @@ nCz
 nDo
 nUJ
 norm
+nothing
 to
 the
 topics
@@ -30775,6 +30776,7 @@ avoid
 array
 arrays
 access
+apply
 Plane
 Problem
 Prove
@@ -44905,6 +44907,7 @@ parallelogramm
 projection
 processor
 precise
+pointed
 Read
 Relations
 RY
@@ -56148,6 +56151,7 @@ gXg
 gtP
 gWFA
 graph
+general
 Umnov
 Uniqueness
 Uf
@@ -65046,6 +65050,8 @@ denotes
 destroys
 definition
 distinguish
+declaration
+destroy
 independency
 in
 info
@@ -79673,6 +79679,7 @@ scoping
 specifies
 semantically
 single
+special
 exist
 excalidraw
 everything
@@ -88403,6 +88410,7 @@ cdot
 callouts
 constant
 constructs
+completed
 Necessity
 Nikolay
 Natural
@@ -99671,6 +99679,7 @@ EbdB
 EDS
 Ebk
 EIL
+Even
 OPTIONS
 Operations
 Obtain
@@ -106087,6 +106096,7 @@ magnitude
 mean
 median
 moment
+myDealloc
 You
 YC
 YR
@@ -111913,6 +111923,7 @@ wGG
 wiki
 wkQWlHGA
 wrap
+whether
 under
 up
 unclear
