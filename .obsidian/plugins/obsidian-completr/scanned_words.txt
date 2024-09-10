@@ -5605,6 +5605,7 @@ LdW
 LcI
 LksAoL
 Local
+Loops
 Vladimir
 Vector
 VIEW
@@ -25260,6 +25261,7 @@ Stores
 Scott
 Syntax
 Semantics
+String
 Algebra
 AGLA
 Assignments
@@ -76914,6 +76916,7 @@ ftt
 fdA
 fog
 fsh
+files
 scalars
 sufficient
 settings
@@ -82634,6 +82637,7 @@ ecE
 enter
 easy
 ensure
+exercises
 have
 hQ
 hfRF
