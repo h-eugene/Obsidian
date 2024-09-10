@@ -76,11 +76,18 @@
 > A declaration of a pointer tells nothing whether we must destroy the object pointed after the work is completed.
 > ```C
 > void fun(T* ptr) {
-> // Some work with an object
-> // pointed to by ptr
+> 	// Some work with an object
+> 	// pointed to by ptr
 > 	
 > 	// Should we desroy the object 
 > 	// before return?
 > 	return ;
 > }
 > ```
+
+Problem 2:
+Even if we know that we should destroy the object pointed to by a pointer to by a pointer – in general we don't know **how to that**!
+
+i.e., either just to apply 
+```C al
+```
