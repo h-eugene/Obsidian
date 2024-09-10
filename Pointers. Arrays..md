@@ -34,7 +34,7 @@
 > ```
 # Arrays:
 > [!abstract] Denotation
-> `T A[size];` T – type of array elements, A – the array identifier, size – specifies the number of array elements; this is an expression of an integer type
+> `T A[size];` *T* – type of array elements, *A* – the array identifier, *size* – specifies the number of array elements; this is an expression of an integer type
 > ```C
 > int Array[10];
 > 
@@ -43,3 +43,13 @@
 > 
 > int Matrix[10][100];
 > ``` 
+> The only operator on arrays: 
+> - **Getting access to an element**
+> ```C
+> int e15=Array[5];
+> 
+> Array[7] = 7;
+> ```
+
+## Arrays & Pointers:
+- `int Array[10]` By definition, array name is treated as a pointer to the first array element
