@@ -77,7 +77,9 @@
    Find $\overline{BE}\cdot \overline{CE}$. 
    **Solution:**
    ![Drawing 2024-09-09 23.41.39.excalidraw](Drawing%202024-09-09%2023.41.39.excalidraw.md)
-   $$\displaylines{\overline{AC}\cdot \overline{AB} = 4 = \|AC\|\|AB\|\cos \theta\\
-   \overline{FC}\cdot \overline{FB}
+   $$\displaylines{\overline{AC}\cdot \overline{AB} = 4 = \|\overline{AC}\|\|\overline{AB}\|\cos \theta\\
+   \overline{FC}\cdot \overline{FB} = -1 =\|\overline{FC}\|\|\overline{FB}\|\cos\theta\\
+   \overline{AC}-\overline{AB}=\overline{FC}-\overline{FB}\\
+   \overline{AC}-\overline{AB}=\overline{AD}-\overline{AB}
    }$$
    
