@@ -58,3 +58,4 @@
   `int Array[10];` $\Leftrightarrow$ `const int* Array;`
   Therefore, these two constructs are semantically the same:
   `Array[0]` $\Leftrightarrow$ `*Array`
+# Problem with C pointers:
