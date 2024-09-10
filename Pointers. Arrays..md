@@ -12,7 +12,7 @@
 > - Stores in the Heap
 > - Dynamic objects are the ones that are created at any moment during program execution.
 > - The lifetime of dynamic objects is not under the scoping rules
-> - Created by function ```{cpp} malloc``` from `<stdlib.h>` direction of processor 
+> - Created by function ``malloc`` from `<stdlib.h>` direction of processor 
 > ```C
 > malloc(memory size)
 > ```
@@ -57,5 +57,4 @@
   To be more precise, array name is a **constant pointer:**
   `int Array[10];` $\Leftrightarrow$ `const int* Array;`
   Therefore, these two constructs are semantically the same:
-  `Array[0]` $\Leftrightarrow$ ```{cpp} *Array
-  
+  `Array[0]` $\Leftrightarrow$ `*Array`

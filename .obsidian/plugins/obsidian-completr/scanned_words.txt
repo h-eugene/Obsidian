@@ -3083,6 +3083,7 @@ DfG
 DJu
 Dmv
 DMI
+Denotation
 Lecturer
 Link
 Line
@@ -5602,6 +5603,7 @@ LHc
 LdW
 LcI
 LksAoL
+Local
 Vladimir
 Vector
 VIEW
@@ -14383,6 +14385,7 @@ TggC
 Tnk
 TRTJh
 Triangle
+Therefore
 nomemm
 need
 necessary
@@ -19660,6 +19663,7 @@ trl
 template
 triangle
 tYQv
+treated
 Course
 Curves
 Continuation
@@ -22465,6 +22469,7 @@ Ctrl
 Commands
 Calculation
 Cauchy
+Created
 Sections
 Surfaces
 Spaces
@@ -25247,6 +25252,7 @@ SuaK
 Shift
 Search
 Schwarz
+Stores
 Algebra
 AGLA
 Assignments
@@ -30765,6 +30771,10 @@ aMu
 aBg
 areas
 asdfasdfasdf
+avoid
+array
+arrays
+access
 Plane
 Problem
 Prove
@@ -33319,6 +33329,7 @@ PTaf
 PTX
 PSOV
 Pointers
+Part
 Quadratic
 Qn
 QL
@@ -44891,6 +44902,8 @@ pqc
 push
 parallelogramm
 projection
+processor
+precise
 Read
 Relations
 RY
@@ -50647,6 +50660,7 @@ ozb
 oqF
 ovG
 orQ
+operator
 lecture
 lineynaya
 linear
@@ -53300,6 +53314,9 @@ ltoc
 lfw
 lBV
 leq
+local
+lifetime
+leak
 geometria
 gN
 gQ
@@ -65022,6 +65039,11 @@ dBYY
 dfgffg
 displaylines
 divided
+dynamic
+during
+denotes
+destroys
+definition
 independency
 in
 info
@@ -68675,6 +68697,8 @@ ilPPI
 iTJHZ
 icon
 inequality
+identifier
+integer
 For
 Functions
 Frolov
@@ -79642,6 +79666,10 @@ sdfsd
 sdfsdf
 satisfies
 say
+static
+scoping
+specifies
+semantically
 exist
 excalidraw
 everything
@@ -88370,6 +88398,8 @@ create
 coefficient
 cdot
 callouts
+constant
+constructs
 Necessity
 Nikolay
 Natural
@@ -94030,6 +94060,7 @@ Gtb
 GIJ
 GZv
 GskH
+Getting
 basis
 be
 bd
@@ -106052,6 +106083,7 @@ mini
 magnitude
 mean
 median
+moment
 You
 YC
 YR
@@ -117680,6 +117712,7 @@ rHY
 rymQJ
 rsd
 ryu
+rules
 Zorich
 ZM
 ZB
