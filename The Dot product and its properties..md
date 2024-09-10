@@ -76,7 +76,7 @@
    \overline{BF}\cdot\overline{CF}=-1}$$
    Find $\overline{BE}\cdot \overline{CE}$. 
    **Solution:**
-   ![Drawing 2024-09-09 23.41.39.excalidraw](Drawing%202024-09-09%2023.41.39.excalidraw.md)
+	   ![Drawing 2024-09-09 23.41.39.excalidraw](Drawing%202024-09-09%2023.41.39.excalidraw.md)
    $$\displaylines{ =\|\overline{FC}\|\|\overline{FB}\|\cos\theta\\
    \overline{AC}-\overline{AB}=\overline{FC}-\overline{FB}\\
    \overline{AC}-\overline{AD}=\overline{AD}-\overline{AB} \Rightarrow \overline{AC}+\overline{AB}=2\overline{AD}\\
