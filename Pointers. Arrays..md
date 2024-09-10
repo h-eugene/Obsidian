@@ -133,4 +133,17 @@
 > ```
 
 > [!important] Problem 7 (in addition to Scott Meyers):
-> There is no way to ensure that an object gets destroyed when the single pointer to it dis
+> There is no way to ensure that an object gets destroyed when the single pointer to it disappears.
+> ```C
+> if ( condition ) {
+> 	T* ptr = (T*)malloc(sizeof(T));
+> 	..
+> 	// No free(ptr)
+> } // Here, ptr doesn't exist, but the object itself still does: memory leak
+> ```
+# Declaration: Syntax & Semantics
+
+- Four kinds of information are given in a declaration:
+	- Object storage class 
+	- Entity name
+	- 
