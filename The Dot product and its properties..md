@@ -92,5 +92,5 @@
 \overline{AC}\cdot \overline{AB} = 4=(2\overline{FC}+\overline{FB})\cdot(\overline{FC}+2\overline{FB})\\
    \overline{FB}\cdot\overline{FC}=-1\end{cases}\\\begin{cases}
 2\overline{FC}^{2}+5\overline{FC}\overline{FB}+2\overline{FB}^{2}=4 \\
-\overline{FB}\cdot\overline{FC}=1
+\overline{FB}\cdot\overline{FC}=-1
 \end{cases}\Rightarrow }$$
