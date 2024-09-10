@@ -85,18 +85,22 @@
 > }
 > ```
 
->Problem 3:
+>[!important] Problem 3:
 >Even if we know that we should destroy the object pointed to by a pointer to by a pointer – in general we don't know **how to that**!
 >
 >i.e., either just to apply `free()` or use some special function for that?
-```C
-void fun(T* ptr) {
-	// Some work with an object 
-	// pointed to by ptr
-	
-	// We know that fun() should destroy
-	// the object before return.
-	free(ptr); // .. or perhaps: `myDealloc(ptr)`
-	return;
-}
-```
+>```C
+>void fun(T* ptr) {
+>	// Some work with an object 
+>	// pointed to by ptr
+>	
+>	// We know that fun() should destroy
+>	// the object before return.
+>	free(ptr); // .. or perhaps: `myDealloc(ptr)`
+>	return;
+>}
+>```
+
+> [!important] Problem 5 (a consequence from problem 2):
+> Even if we **own** the object pointed to by a pointer it's hard (or even impossible) 
+> 
