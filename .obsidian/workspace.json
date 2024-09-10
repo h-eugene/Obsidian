@@ -14,12 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "Pointers. Arrays..md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "767060274f73f14b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointers. Arrays..md",
+                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointers. Arrays..md",
+                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pointers. Arrays..md",
+                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointers. Arrays..md"
+                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md"
               }
             }
           }
@@ -200,14 +211,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f66b080430cb1d4",
+  "active": "767060274f73f14b",
   "lastOpenFiles": [
+    "Pointers. Arrays..md",
+    "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-10 12.54.55.excalidraw.md",
     "The C language.md",
     "Introduction to Programming.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Pointers. Arrays..md",
     "The Dot product and its properties..md",
     "Без названия.md",
     "References.md",
@@ -227,8 +240,6 @@
     "Inbox.md",
     "templates/_inbox template.md",
     "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
-    "Set of Numbers. Basic of Theory of Sets..md",
-    "Mathematical Analysis I.md",
     "Без названия.canvas",
     "Excalidraw",
     "Без названия 4.canvas",

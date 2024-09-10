@@ -60,7 +60,9 @@
   `Array[0]` $\Leftrightarrow$ `*Array`
 # Problem with C pointers:
 > [!important] Problems 1 & 4:
-> A pointer can point either to a *single object*,
+> A pointer can point either to a **single object**, or to an **array**. 
+> – And there's no way to distinguish between these.
+> ![[Pointers. Arrays. 2024-09-10 12.55.29.excalidraw]]
   
   
   
