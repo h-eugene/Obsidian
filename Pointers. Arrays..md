@@ -102,5 +102,17 @@
 >```
 
 > [!important] Problem 5 (a consequence from problem 2):
-> Even if we **own** the object pointed to by a pointer it's hard (or even impossible) 
+> Even if we **own** the object pointed to by a pointer it's hard (or even impossible) provide **exactly one** act of destroy.
 > 
+> i.e it's quite easy either to leave the object live, or to try to destroy it twice or more.
+> ```C
+> void lib_fun(T* ptr) {
+> 	// This library performs some
+> 	// actions on the object passed 
+> 	// as parameter.
+> 	
+> 	// The function doesn't destroy
+> 	// the object before return.
+> 	return ;
+> }
+> ```
