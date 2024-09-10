@@ -79,11 +79,11 @@
 	   ![Drawing 2024-09-09 23.41.39.excalidraw](Drawing%202024-09-09%2023.41.39.excalidraw.md)
 $$\displaylines{
 \overline{AD} = \frac{1}{2}\cdot (\overline{AC}+\overline{AB})\\
-\overline{AF} = \frac{2}{3}\overline{AD} = \frac{1}{3}(\overline{AC}+\overline{AB})\\
-\overline{CA}+\overline{AF} = \overline{CF} = \overline{CA}+\frac{1}{3}(\overline{AB}+\overline{AC})\\
-\overline{BF}=\overline{BA}+\frac{1}{3}(\overline{AB}+\overline{AC})=\frac{2}{3}\overline{BA}\\
+\overline{AF} = \frac{2}{3}\overline{AD} = \frac{1}{3}(\overline{AC}+\overline{AB})\\\\
+\overline{CA}+\overline{AF} = \overline{CF} = \overline{CA}+\frac{1}{3}(\overline{AB}+\overline{AC})=\frac{2}{3}\overline{CA}-\frac{1}{3}\overline{BA}\\
+\overline{BF}=\overline{BA}+\frac{1}{3}(\overline{AB}+\overline{AC})=\frac{2}{3}\overline{BA}-\frac{1}{3}\overline{CA}\\\\
 \overline{CE} = \frac{1}{2}(\overline{CA}+\overline{CF})=\frac{1}{2}(\overline{CA}+\overline{CA}+\frac{1}{3}(\overline{AB}+\overline{AC}))\\
 =\overline{CA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{CA}-\frac{1}{6}\overline{BA}\\
-\overline{BE} = \overline{BA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{BA}-\frac{1}{6}\overline{CA}\\
-
+\overline{BE} = \overline{BA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{BA}-\frac{1}{6}\overline{CA}\\\\
+\overline{CE}\overline{#}ba
 }$$
