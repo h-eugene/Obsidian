@@ -77,5 +77,7 @@
    Find $\overline{BE}\cdot \overline{CE}$. 
    **Solution:**
    ![Drawing 2024-09-09 23.41.39.excalidraw](Drawing%202024-09-09%2023.41.39.excalidraw.md)
-   Let $A$ be the origin of the Coordinate System, and let $C=(i,0),\ B=(0,j)$, then:$$\overline{BA} = (-j,0)$$  
+   Let $A$ be the origin of the Coordinate System, and let $C=(i,0),\ B=(0,j)$, then:$$\displaylines{\overline{BA} = (-j,0),\ \overline{CA}=(0,-i)\\
+   \overline{BA}\cdot\overline{CA}=4=
+   }$$  
    
