@@ -128,6 +128,9 @@
 > // Long code..
 > ..
 > // How to know whether ptr
-> 
+> // still points to an object?
+> ..
 > ```
 
+> [!important] Problem 7 (in addition to Scott Meyers):
+> There is no way to ensure that an object gets destroyed when the single pointer to it dis
