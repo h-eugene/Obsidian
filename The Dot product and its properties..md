@@ -88,4 +88,8 @@
 \overline{AC}=2\overline{FC}+\overline{FB} \\
 \overline{AB}=\overline{FC}+2\overline{FB}
 \end{cases}}$$
-   $$\displaylines{\overline{AC}\cdot \overline{AB} = 4\\}$$
+   $$\displaylines{\begin{cases}
+\overline{AC}\cdot \overline{AB} = 4=(2\overline{FC}+\overline{FB})\cdot(\overline{FC}+2\overline{FB})\\
+   \overline{FB}\cdot\overline{FC}=-1\end{cases}\\\begin{cases}
+2\overline{FC}^{2}+5\overline{FC}\overline{FB}+2\overline{FB}
+\end{cases}}$$
