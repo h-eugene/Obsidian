@@ -52,4 +52,7 @@
 > ```
 
 ## Arrays & Pointers:
-- `int Array[10]` By definition, array name is treated as a pointer to the first array element
+- `int Array[10]` By definition, array name is treated as a pointer to the first array element.
+  To be more precise, array name is a **constant pointer:**
+  `int Array[10];` $\Leftrightarrow$ `const int* Array;`
+  Therefore, these two constructs are semantilly.. 
