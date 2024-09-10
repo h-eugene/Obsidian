@@ -82,6 +82,7 @@
    \overline{AC}-\overline{AB}=\overline{FC}-\overline{FB}\\
    \overline{AC}-\overline{AD}=\overline{AD}-\overline{AB} \Rightarrow \overline{AC}+\overline{AB}=2\overline{AD}\\
    \overline{FC}+\overline{FB}=2\overline{FD}=2\cdot \frac{1}{3}\overline{AD} = \frac{1}{3}(\overline{AC}+\overline{AB})\\
-   
-   }$$
+   }$$ $$\begin{cases}3\overline{FC}+3\overline{FB}=\overline{AC}+\overline{AB} \\
+\overline{AC}-\overline{AB}=\overline{FC}-\overline{FB}
+\end{cases}\Rightarrow 2\overline{AC}=4$$
    
