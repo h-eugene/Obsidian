@@ -80,6 +80,8 @@
    $$\displaylines{\overline{AC}\cdot \overline{AB} = 4 = \|\overline{AC}\|\|\overline{AB}\|\cos \theta\\
    \overline{FC}\cdot \overline{FB} = -1 =\|\overline{FC}\|\|\overline{FB}\|\cos\theta\\
    \overline{AC}-\overline{AB}=\overline{FC}-\overline{FB}\\
-   \overline{AC}-\overline{AB}=\overline{AD}-\overline{AB}
+   \overline{AC}-\overline{AD}=\overline{AD}-\overline{AB} \Rightarrow \overline{AC}+\overline{AB}=2\overline{AD}\\
+   \overline{FC}+\overline{FB}=2\overline{FD}=2\cdot \frac{1}{3}\overline{AD} = \frac{1}{3}(\overline{AC}+\overline{AB})\\
+   
    }$$
    
