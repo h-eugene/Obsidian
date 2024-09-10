@@ -77,19 +77,21 @@
    Find $\overline{BE}\cdot \overline{CE}$. 
    **Solution:**
 	   ![Drawing 2024-09-09 23.41.39.excalidraw](Drawing%202024-09-09%2023.41.39.excalidraw.md)
-$$\begin{align}\overline{AD} = \frac{1}{2}\cdot (\overline{AC}+\overline{AB})\\ \overline{AF} = \frac{2}{3}\overline{AD} = \frac{1}{3}(\overline{AC}+\overline{AB})\\\\
+$$\displaylines{\overline{AD} = \frac{1}{2}\cdot (\overline{AC}+\overline{AB})\\
+\overline{AF} = \frac{2}{3}\overline{AD} = \frac{1}{3}(\overline{AC}+\overline{AB})\\\\
 \overline{CA}+\overline{AF} = \overline{CF} = \overline{CA}+\frac{1}{3}(\overline{AB}+\overline{AC})=\frac{2}{3}\overline{CA}-\frac{1}{3}\overline{BA}\\
 \overline{BF}=\overline{BA}+\frac{1}{3}(\overline{AB}+\overline{AC})=\frac{2}{3}\overline{BA}-\frac{1}{3}\overline{CA}\\ \\
 \overline{CE} = \frac{1}{2}(\overline{CA}+\overline{CF})=\frac{1}{2}(\overline{CA}+\overline{CA}+\frac{1}{3}(\overline{AB}+\overline{AC}))\\
 =\overline{CA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{CA}-\frac{1}{6}\overline{BA}\\
 \overline{BE} = \overline{BA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{BA}-\frac{1}{6}\overline{CA}\\ \\
 \overline{CE}\cdot\overline{BE}=\frac{25}{36}\cdot 4 -\frac{5}{36}\overline{CA}^{2}- \frac{5}{36} \overline{BA}^{2}+ \frac{1}{36}\cdot 4 =\\ \frac{26}{9}- \frac{5}{36}(\overline{CA}^{2}+\overline{BA}^{2})
-\end{align}$$$$\begin{align}
+}$$
+$$\displaylines{
 \overline{BF}\cdot\overline{CF}= \frac{4}{9}\cdot 4 - \frac{2}{9}\overline{CA}^{2}- \frac{2}{9}\overline{BA}^{2}+ \frac{1}{9}\cdot 4 = \\
 \frac{20}{9}- \frac{2}{9}(\overline{CA}^{2}+\overline{BA}^{2})=-1 \Rightarrow \\
 \Rightarrow \overline{CA}^{2}+\overline{BA}^{2}= \frac{29}{2}
-\end{align}$$ 
-$$\begin{align}
+}$$
+$$\displaylines{
 \overline{CE}\cdot\overline{BE}= \frac{26}{9}- \frac{5}{36}\cdot \frac{29}{2} = \frac{26}{9}- \frac{145}{72} = \frac{26*8-145}{72}=\\
 \frac{208-145}{72}=\frac{63}{72}=\frac{7}{8}
-\end{align}$$ $$12123$$
+}$$ 
