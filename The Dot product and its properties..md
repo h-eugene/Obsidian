@@ -85,5 +85,5 @@ $$\displaylines{
 \overline{CE} = \frac{1}{2}(\overline{CA}+\overline{CF})=\frac{1}{2}(\overline{CA}+\overline{CA}+\frac{1}{3}(\overline{AB}+\overline{AC}))\\
 =\overline{CA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{CA}-\frac{1}{6}\overline{BA}\\
 \overline{BE} = \overline{BA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{BA}-\frac{1}{6}\overline{CA}\\\\
-\overline{CE}\overline{#}ba
+\overline{CE}\cdot\overline{BE}=\frac{25}{36}\cdot 4 -\frac{5}{36}\overline{CA}^{2}- \frac{5}{36}\overline{BA}^{2}+ \frac{1}{36}\cdot 4
 }$$
