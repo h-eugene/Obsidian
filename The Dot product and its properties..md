@@ -77,20 +77,6 @@
    Find $\overline{BE}\cdot \overline{CE}$. 
    **Solution:**
 	   ![Drawing 2024-09-09 23.41.39.excalidraw](Drawing%202024-09-09%2023.41.39.excalidraw.md)
-   $$\displaylines{ =\|\overline{FC}\|\|\overline{FB}\|\cos\theta\\
-   \overline{AC}-\overline{AB}=\overline{FC}-\overline{FB}\\
-   \overline{AC}-\overline{AD}=\overline{AD}-\overline{AB} \Rightarrow \overline{AC}+\overline{AB}=2\overline{AD}\\
-   \overline{FC}+\overline{FB}=2\overline{FD}=2\cdot \frac{1}{3}\overline{AD} = \frac{1}{3}(\overline{AC}+\overline{AB})\\
-   }$$ $$\displaylines{\begin{cases}3\overline{FC}+3\overline{FB}=\overline{AC}+\overline{AB} \\
-\overline{AC}-\overline{AB}=\overline{FC}-\overline{FB}
-\end{cases}\Rightarrow \begin{cases}2\overline{AC}=4\overline{FC}+2\overline{FB} \\
-2\overline{AB}=2\overline{FC}+4\overline{FB}\end{cases}\Rightarrow\\ \begin{cases}
-\overline{AC}=2\overline{FC}+\overline{FB} \\
-\overline{AB}=\overline{FC}+2\overline{FB}
-\end{cases}}$$
-   $$\displaylines{\begin{cases}
-\overline{AC}\cdot \overline{AB} = 4=(2\overline{FC}+\overline{FB})\cdot(\overline{FC}+2\overline{FB})\\
-   \overline{FB}\cdot\overline{FC}=-1\end{cases}\\\begin{cases}
-2\overline{FC}^{2}+5\overline{FC}\overline{FB}+2\overline{FB}^{2}=4 \\
-\overline{FB}\cdot\overline{FC}=-1
-\end{cases}\Rightarrow }$$
+$$\displaylines{
+AD = 1
+}$$
