@@ -143,7 +143,12 @@
 > ```
 # Declaration: Syntax & Semantics
 
-- Four kinds of information are given in a declaration:
-	- Object storage class 
-	- Entity name
-	- 
+> [!info] Four kinds of information are given in a declaration:
+> - Object storage class 
+> - Entity name
+> - Entity type
+> - An object initializer
+> All parts are optional 
+>`static int a = 777;` 
+
+>[!important] The main desing 
