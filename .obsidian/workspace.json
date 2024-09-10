@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "767060274f73f14b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
+                "file": "Pointers. Arrays..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
+                "file": "Pointers. Arrays..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
+                "file": "Pointers. Arrays..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md"
+                "file": "Pointers. Arrays..md"
               }
             }
           }
@@ -211,10 +200,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "767060274f73f14b",
+  "active": "8f66b080430cb1d4",
   "lastOpenFiles": [
-    "Pointers. Arrays..md",
     "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
+    "Pointers. Arrays..md",
     "Excalidraw/Drawing 2024-09-10 12.54.55.excalidraw.md",
     "The C language.md",
     "Introduction to Programming.md",

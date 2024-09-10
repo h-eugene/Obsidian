@@ -62,8 +62,14 @@
 > [!important] Problems 1 & 4:
 > A pointer can point either to a **single object**, or to an **array**. 
 > – And there's no way to distinguish between these.
-> ![[Pointers. Arrays. 2024-09-10 12.55.29.excalidraw]]
-  
-  
-  
-  
+> ![[Pointers. Arrays. 2024-09-10 12.55.29.excalidraw|3500]]
+> ```C
+> int x;
+> int A1[10];
+> int* A2 = &x;
+> int* A = cond ? A1 : A2;
+> 
+> int res = A[5]; // ??????
+> ```  
+
+> [im]
