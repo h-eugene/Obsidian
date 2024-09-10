@@ -59,3 +59,9 @@
   Therefore, these two constructs are semantically the same:
   `Array[0]` $\Leftrightarrow$ `*Array`
 # Problem with C pointers:
+> [!important] Problems 1 & 4:
+> A pointer can point either to a *single object*,
+  
+  
+  
+  
