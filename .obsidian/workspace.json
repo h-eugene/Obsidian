@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The C language.md",
+                "file": "The Dot product and its properties..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The C language.md",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The C language.md",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The C language.md",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The C language.md"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -202,10 +202,12 @@
   },
   "active": "574cd47d92617549",
   "lastOpenFiles": [
-    "Reading and writing fromto files. Loops and arrays exercises. String exercises. Pointer exercises.md",
-    "The C language.md",
-    "Introduction to Programming.md",
+    "Vector Algebra.md",
+    "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
+    "Introduction to Programming.md",
+    "The C language.md",
+    "Reading and writing fromto files. Loops and arrays exercises. String exercises. Pointer exercises.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
     "Pointers. Arrays..md",
@@ -215,9 +217,7 @@
     "Без названия.md",
     "References.md",
     "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
-    "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "Analytical Geometry and Linear Algebra I.md",
     "Computer arithmetics.md",
     "Fundamentals of Computer Architecture.md",
     "Introduction. The C Programming Language..md",
