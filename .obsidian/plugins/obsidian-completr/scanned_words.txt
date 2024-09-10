@@ -3084,6 +3084,7 @@ DJu
 Dmv
 DMI
 Denotation
+Declaration
 Lecturer
 Link
 Line
@@ -19665,6 +19666,8 @@ template
 triangle
 tYQv
 treated
+try
+twice
 Course
 Curves
 Continuation
@@ -25254,6 +25257,9 @@ Shift
 Search
 Schwarz
 Stores
+Scott
+Syntax
+Semantics
 Algebra
 AGLA
 Assignments
@@ -42098,6 +42104,7 @@ Mls
 MRb
 MHt
 MaHgU
+Meyers
 pdf
 previous
 prove
@@ -44908,6 +44915,9 @@ projection
 processor
 precise
 pointed
+provide
+parts
+precedence
 Read
 Relations
 RY
@@ -50665,6 +50675,7 @@ oqF
 ovG
 orQ
 operator
+optional
 lecture
 lineynaya
 linear
@@ -53321,6 +53332,8 @@ leq
 local
 lifetime
 leak
+leave
+live
 geometria
 gN
 gQ
@@ -56152,6 +56165,9 @@ gtP
 gWFA
 graph
 general
+gets
+given
+grouping
 Umnov
 Uniqueness
 Uf
@@ -65052,6 +65068,10 @@ definition
 distinguish
 declaration
 destroy
+dangling
+destroyed
+disappears
+declarations
 independency
 in
 info
@@ -68707,6 +68727,9 @@ icon
 inequality
 identifier
 integer
+impossible
+information
+initializer
 For
 Functions
 Frolov
@@ -71666,6 +71689,7 @@ FaM
 Fdds
 FeK
 Features
+Four
 vectors
 vector
 variable
@@ -79680,6 +79704,8 @@ specifies
 semantically
 single
 special
+syntax
+similar
 exist
 excalidraw
 everything
@@ -82606,6 +82632,8 @@ exy
 eQt
 ecE
 enter
+easy
+ensure
 have
 hQ
 hfRF
@@ -88411,6 +88439,9 @@ callouts
 constant
 constructs
 completed
+consequence
+class
+conceptually
 Necessity
 Nikolay
 Natural
@@ -99680,6 +99711,7 @@ EDS
 Ebk
 EIL
 Even
+Entity
 OPTIONS
 Operations
 Obtain
@@ -102656,6 +102688,7 @@ OGTc
 OyBh
 Ofg
 Orthogonal
+Object
 menu
 more
 mA
@@ -141658,6 +141691,7 @@ kKjES
 kgl
 ksAZ
 kEL
+kinds
 yn
 yhR
 yg
