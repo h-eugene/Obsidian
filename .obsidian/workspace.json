@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pointers. Arrays..md",
+                "file": "The Dot product and its properties..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointers. Arrays..md",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pointers. Arrays..md",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pointers. Arrays..md",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pointers. Arrays..md"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -202,8 +202,8 @@
   },
   "active": "c9efea683c4add68",
   "lastOpenFiles": [
-    "The C language.md",
     "Pointers. Arrays..md",
+    "The C language.md",
     "Без названия.md",
     "References.md",
     "Home/The Beginning.md",
