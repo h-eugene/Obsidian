@@ -30,6 +30,16 @@
 > struct S {int a, b;};
 > 
 > void* ptr = malloc(sizeof(struct S));
-> struct S* s = 
+> struct S* s = (struct S*)ptr;
 > ```
-
+# Arrays:
+> [!abstract] Denotation
+> `T A[size];` T – type of array elements, A – the array identifier, size – specifies the number of array elements; this is an expression of an integer type
+> ```C
+> int Array[10];
+> 
+> const int x = 7;
+> void* Ptrs[x*2+5];
+> 
+> int Matrix[10][100];
+> ``` 
