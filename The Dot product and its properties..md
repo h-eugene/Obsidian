@@ -86,4 +86,9 @@ $$\displaylines{
 =\overline{CA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{CA}-\frac{1}{6}\overline{BA}\\
 \overline{BE} = \overline{BA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{BA}-\frac{1}{6}\overline{CA}\\\\
 \overline{CE}\cdot\overline{BE}=\frac{25}{36}\cdot 4 -\frac{5}{36}\overline{CA}^{2}- \frac{5}{36}\overline{BA}^{2}+ \frac{1}{36}\cdot 4 =\\ \frac{26}{9}- \frac{5}{36}(\overline{CA}^{2}+\overline{BA}^{2})
-}$$ $$\overline{BF}\cdot\overline{CF}= \frac{4}{9}\cdot 4 - \frac{2}{9}\overline{CA}^{2}- \frac{2}{9}\overline{BA}^{2}$$
+}$$ $$\displaylines{\overline{BF}\cdot\overline{CF}= \frac{4}{9}\cdot 4 - \frac{2}{9}\overline{CA}^{2}- \frac{2}{9}\overline{BA}^{2}+ \frac{1}{9}\cdot 4 = \\
+\frac{20}{9}- \frac{2}{9}(\overline{CA}^{2}+\overline{BA}^{2})=-1 \Rightarrow \\
+\Rightarrow \overline{CA}^{2}+\overline{BA}^{2}= \frac{29}{2}
+}$$ $$\displaylines{
+\overline{CE}\cdot\overline{BE}= \frac{26}{9}- \frac{5}{36}
+}$$
