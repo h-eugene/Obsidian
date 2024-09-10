@@ -116,3 +116,18 @@
 > 	return ;
 > }
 > ```
+
+> [!important] Problem 6:
+> There is no way to check whether a pointer actually points to a real object.
+> Or: to check whether the pointer is "dangling pointer".
+> ```C
+> T* ptr = (T*)malloc(sizeof(T));
+> ..
+> if ( condition ) free(ptr);
+> ..
+> // Long code..
+> ..
+> // How to know whether ptr
+> 
+> ```
+
