@@ -12,7 +12,7 @@
 > - Stores in the Heap
 > - Dynamic objects are the ones that are created at any moment during program execution.
 > - The lifetime of dynamic objects is not under the scoping rules
-> - Created by function `malloc`.{.python} from `<stdlib.h>` direction of processor 
+> - Created by function ``malloc`` from `<stdlib.h>` direction of processor 
 > ```C
 > malloc(memory size)
 > ```
@@ -23,5 +23,13 @@
 > `(int*)` – change type of `malloc()`
 > ```C
 > int* p = (int*)malloc(8);
+> ```
+> - `free` – destroys *the Dynamic objects*, it needs to avoid *the memory leak*
+> ```C
+> #include <stdlib.h>
+> struct S {int a, b;};
+> 
+> void* ptr = malloc(sizeof(struct S));
+> struct S* s = 
 > ```
 
