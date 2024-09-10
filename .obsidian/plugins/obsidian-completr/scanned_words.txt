@@ -27963,6 +27963,7 @@ AWG
 AwJ
 AGAo
 AJf
+Arrays
 and
 algebra
 any
@@ -33317,6 +33318,7 @@ PmPi
 PTaf
 PTX
 PSOV
+Pointers
 Quadratic
 Qn
 QL
@@ -71631,6 +71633,7 @@ FTS
 FaM
 Fdds
 FeK
+Features
 vectors
 vector
 variable
@@ -88366,6 +88369,7 @@ commit
 create
 coefficient
 cdot
+callouts
 Necessity
 Nikolay
 Natural
@@ -111873,6 +111877,7 @@ wGC
 wGG
 wiki
 wkQWlHGA
+wrap
 under
 up
 unclear
