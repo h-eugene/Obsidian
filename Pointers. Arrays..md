@@ -57,5 +57,7 @@
   To be more precise, array name is a **constant pointer:**
   `int Array[10];` $\Leftrightarrow$ `const int* Array;`
   Therefore, these two constructs are semantically the same:
-  `Array[0]` $\Leftrightarrow$ `*Array`
-  
+  `Array[0]` $\Leftrightarrow$ ```{python} print(helloworld)*Array
+  ```Python
+  print(Hello World)
+```
