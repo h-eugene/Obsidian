@@ -72,4 +72,15 @@
 > int res = A[5]; // ??????
 > ```  
 
-> [im]
+> [!important] Problem 2:
+> A declaration of a pointer tells nothing whether we must destroy the object pointed after the work is completed.
+> ```C
+> void fun(T* ptr) {
+> // Some work with an object
+> // pointed to by ptr
+> 	
+> 	// Should we desroy the object 
+> 	// before return?
+> 	return ;
+> }
+> ```
