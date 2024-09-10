@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d74731cc02a8c04",
+        "id": "2af0060c0a6ee119",
         "type": "tabs",
         "children": [
           {
-            "id": "0c82b4b3cfe9b643",
+            "id": "c7fcd8c7de1634e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Innopolis University.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Innopolis University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Innopolis University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Innopolis University.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dot product and its properties..md"
+                "file": "Innopolis University.md"
               }
             }
           }
@@ -200,17 +200,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c82b4b3cfe9b643",
+  "active": "c7fcd8c7de1634e5",
   "lastOpenFiles": [
+    "Home/The Beginning.md",
+    "The Dot product and its properties..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Innopolis 1st year - Fall Semester.md",
     "Introduction to Programming.md",
     "Innopolis University.md",
-    "Home/The Beginning.md",
     "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
-    "The Dot product and its properties..md",
     "Library/Pasted image 20240910181529.png",
     "The C language.md",
     "Reading and writing fromto files. Loops and arrays exercises. String exercises. Pointer exercises.md",

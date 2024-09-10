@@ -83,9 +83,9 @@ $$\displaylines{
 \overline{CA}+\overline{AF} = \overline{CF} = \overline{CA}+\frac{1}{3}(\overline{AB}+\overline{AC})=\frac{2}{3}\overline{CA}-\frac{1}{3}\overline{BA}\\
 \overline{BF}=\overline{BA}+\frac{1}{3}(\overline{AB}+\overline{AC})=\frac{2}{3}\overline{BA}-\frac{1}{3}\overline{CA}}$$
 $$\displaylines{
-\overline{CE} = \frac{1}{2}(\overline{CA}+\overline{CF})=\frac{1}{2}(\overline{CA}+\frac{2}{3}\overline{CA}-\frac{1}{3}\overline{BA})\\
-=\overline{CA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{CA}-\frac{1}{6}\overline{BA}\\
-\overline{BE} = \overline{BA}+\frac{1}{6}\overline{AB}+\frac{1}{6}\overline{AC}=\frac{5}{6}\overline{BA}-\frac{1}{6}\overline{CA}}$$
+\overline{CE} = \frac{1}{2}(\overline{CA}+\overline{CF})=\frac{1}{2}(\overline{CA}+\frac{2}{3}\overline{CA}-\frac{1}{3}\overline{BA})
+=\frac{5}{6}\overline{CA}-\frac{1}{6}\overline{BA}\\
+\overline{BE} = \frac{5}{6}\overline{BA}-\frac{1}{6}\overline{CA}}$$
 $$\displaylines{
 \overline{CE}\cdot\overline{BE}=\frac{25}{36}\cdot 4 -\frac{5}{36}\overline{CA}^{2}- \frac{5}{36} \overline{BA}^{2}+ \frac{1}{36}\cdot 4 =\\ \frac{26}{9}- \frac{5}{36}(\overline{CA}^{2}+\overline{BA}^{2})
 }$$
