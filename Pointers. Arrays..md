@@ -151,4 +151,6 @@
 > All parts are optional 
 >`static int a = 777;` 
 
->[!important] The main desing 
+>[!important] The main design idea behind declaration syntax:
+>Syntax rules for declarations are conceptually similar to *expression* rules: 
+>associativity + precedence + grouping
