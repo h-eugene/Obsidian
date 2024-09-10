@@ -84,5 +84,6 @@
    \overline{FC}+\overline{FB}=2\overline{FD}=2\cdot \frac{1}{3}\overline{AD} = \frac{1}{3}(\overline{AC}+\overline{AB})\\
    }$$ $$\begin{cases}3\overline{FC}+3\overline{FB}=\overline{AC}+\overline{AB} \\
 \overline{AC}-\overline{AB}=\overline{FC}-\overline{FB}
-\end{cases}\Rightarrow 2\overline{AC}=4$$
+\end{cases}\Rightarrow \begin{cases}2\overline{AC}=4\overline{FC} \\
+2\overline{AB}\end{cases}\Leftrightarrow \overline{AC}=2\overline{FC}$$
    
