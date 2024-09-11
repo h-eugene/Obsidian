@@ -73,6 +73,7 @@
 - when $X$ isn't a Cartesian product then predicate $Y$ is a monadic pradicate.
 ## Relations on a set:
 - Multi-arity relation on a set is any subset of $X\times ...X=X^{k}\ (k\in \mathbb{N})$. 
+  **Explanation:** Just one of all combination with repeations that selects by some relation. 
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
