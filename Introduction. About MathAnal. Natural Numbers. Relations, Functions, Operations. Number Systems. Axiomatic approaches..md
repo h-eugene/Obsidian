@@ -107,6 +107,9 @@
   **Explanation:** $R=\{f(),\ g(),\ ...\}$, $f()=a,\ g()=b,...$ always.
 - Algebraic system is a set with a fixed set of predicates and operations on it. Algebra is an algebraic system with a single predicate equality.
   i.e There are no unknown predicates and operations.
+# $\lambda$-notation (by examples):
+- $2\times y +3$ where $y\in \mathbb{R}$ that depends on a *parameter* $y$, but not a function;
+- $\lambda y \in \mathbb{R}.\ (2\times y + 3)$ is a 
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
