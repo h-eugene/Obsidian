@@ -1,8 +1,8 @@
 # Material: 
 - [Lecture](https://moodle.innopolis.university/pluginfile.php/208410/mod_resource/content/1/MathAnal1fall24.pdf)
 - [Lab](https://moodle.innopolis.university/pluginfile.php/210092/mod_resource/content/1/Lab1.pdf)
-# Body:
-## Basics of naive Set Theory.
+
+# Basics of naive Set Theory.
 ### Naive Set Theory postulates existence of:
 - the empty set and enumerable sets, an infinite set,
 - maps (functions from a set in a set) and power-sets (the sets of all subsets of a set),
@@ -45,7 +45,7 @@
   >3) $\Pi_{C\in A}I(C) \neq \varnothing$ means *The Cartesian Product* of $I_{C\in A}(C)$ exists and don't equal an empty set, i.e there is at least one combination of elements. For example: Let we have $A = \{a,b\},\ a=\{1,2\},\ b=\{3,4\},$ then $I_{C\in A}(C)=\{\{1,2\},\{3,4\}\},$ and $\Pi_{C\in A}I(C) = \{\{1,3\},\{1,4\},\{2,3\},\{2,4\}\}.$
   > 4) Function $F()$ just maybe functions for selecting some element from each set, I'm not sure because the statement not clear.
   
-## Natural Numbers:
+# Natural Numbers:
 - A *natural number* is a measure of the quantity of (indivisible) objects.
 - Let $\mathbb{N}$ is the set that satisfies the following two properties:
 	- $\mathbb{N}\subseteq \omega, \ \varnothing \in \mathbb{N}$ and with each element $A \in \mathbb{N}$ it contains the set $\{A,\{A\}\};$
@@ -61,7 +61,7 @@
 	- and for $n \in P$ (induction hypothesis) implies $(n+1) \in P$ (induction step) every $n\in \mathbb{N}$
 	- then $P = \mathbb{N}$
 - The principle follows from the definition of the natural numbers and set theory axiomatic.
-## Relations, Functions, Operations:
+# Relations, Functions, Operations:
 - Relation (or predicate) on a set $X$ is some subset $Y$ of $X$.
 - Examples:
 	- natural numbers $p$ and $q$ are co-prime
@@ -107,11 +107,11 @@
   **Explanation:** $R=\{f(),\ g(),\ ...\}$, $f()=a,\ g()=b,...$ always.
 - Algebraic system is a set with a fixed set of predicates and operations on it. Algebra is an algebraic system with a single predicate equality.
   i.e There are no unknown predicates and operations.
-# $\lambda$-notation (by examples):
+## $\lambda$-notation (by examples):
 - $2\times y +3$ where $y\in \mathbb{R}$ that depends on a *parameter* $y$, but not a function;
 - $\lambda y \in \mathbb{R}.\ (2\times y + 3)$ is a (nameless) function with variable $y$ on real numbers that maps every real value $r\in R$ to real number $(2\times r +3)\in \mathbb{R}$;
 - $f = \lambda y \in \mathbb{R}.\ (2\times y + 3)$ is equality between two functions (anonymous function $\lambda y \in \mathbb{R}.\ (2\times y +3$) has got name $f$.
-## Number
+# Number Systems: Axiomatic approaches:
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
