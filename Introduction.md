@@ -9,3 +9,4 @@
 - [Number Systems. Axiomatic approaches.](Number%20Systems.%20Axiomatic%20approaches..md)
 **Some notes:**
 - Singleton - a set with exactly one element, represented as $\{x\}$, where $x$ is the only member of the set.
+- Bootstrap - a resampling technique to estimate statistical properties.
