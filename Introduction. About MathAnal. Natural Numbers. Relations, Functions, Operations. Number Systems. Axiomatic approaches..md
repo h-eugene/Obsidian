@@ -109,7 +109,9 @@
   i.e There are no unknown predicates and operations.
 # $\lambda$-notation (by examples):
 - $2\times y +3$ where $y\in \mathbb{R}$ that depends on a *parameter* $y$, but not a function;
-- $\lambda y \in \mathbb{R}.\ (2\times y + 3)$ is a 
+- $\lambda y \in \mathbb{R}.\ (2\times y + 3)$ is a (nameless) function with variable $y$ on real numbers that maps every real value $r\in R$ to real number $(2\times r +3)\in \mathbb{R}$;
+- $f = \lambda y \in \mathbb{R}.\ (2\times y + 3)$ is equality between two functions (anonymous function $\lambda y \in \mathbb{R}.\ (2\times y +3$) has got name $f$.
+## Number
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
