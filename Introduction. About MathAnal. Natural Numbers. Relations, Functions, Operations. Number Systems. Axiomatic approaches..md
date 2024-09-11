@@ -104,7 +104,9 @@
 - A function $F:D\rightarrow R$ is an operation on $R$ if it is total and the domain is Cartesian product of some copies of range $R$ (i.e., $D=R\times ... R$).
   **Example:** Let $R$ is a set $\{0,1\}$ then $D$ is a set $\{(0,0),(0,1),(1,0),(1,1)\}$
 - Remark: elements of $R$ may be considered as constant operations with zero-arity.
-  **Explanation:** R=\{f(),g()..\}
+  **Explanation:** $R=\{f(),\ g(),\ ...\}$, $f()=a,\ g()=b,...$ always.
+- Algebraic system is a set with a fixed set of predicates and operations on it. Algebra is an algebraic system with a single predicate equality.
+  i.e There are no unknown predicates and operations.
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
