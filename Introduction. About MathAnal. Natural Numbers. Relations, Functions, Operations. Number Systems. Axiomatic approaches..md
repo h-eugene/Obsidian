@@ -101,7 +101,7 @@
 	- $F$ is a surjection if the range equals to the image;
 	- $F$ is a bijection if it is a total surjective injection.
 ## Operation on a set:
-- A function $F:D\rightarrow R$ is an operation on $R$ if it is total 
+- A function $F:D\rightarrow R$ is an operation on $R$ if it is total and the domain is Cartesian product of some copies of range $R$ (i.e., $D=R\times ... R$).
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
