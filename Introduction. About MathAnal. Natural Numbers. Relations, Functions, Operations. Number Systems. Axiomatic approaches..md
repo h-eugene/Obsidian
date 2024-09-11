@@ -79,6 +79,8 @@
 	- irreflexive if never $xRx$;
 	- symmetric if $xRy$ implies $yRx$ for all $x$ and $y$;
 	- transitive if $xRy$ and $yRz$ implies $xRz$ for all $x$,$y$ and $z$
+## Equality:
+- Reflexive, symmetric and transitive relation is called equivalence.
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
