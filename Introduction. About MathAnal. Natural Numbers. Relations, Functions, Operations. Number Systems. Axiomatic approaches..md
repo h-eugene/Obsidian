@@ -86,6 +86,8 @@
 - Pre-order (or quasi-order) is a reflexive and transitive relation.
 - (Partial) order is an anti-symmetric pre-order, i.e, for any $x$ and $y$, if $xRy$ and $yRx$ then $x=y$.
   **Note:** It means that anti-simmetric relation can be simmetric iff their arguments are equal, otherwise, relation is not anti-simmetric
+  **Note:** If a relation is **not anti-symmetric**, it does not imply that it is **symmetric**.
+- Linear order is a partial order where all elements are compatible (comparable), i.e., for all $x$ and $y$, either $xRy$ or $yRx$. (Examples?)
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
