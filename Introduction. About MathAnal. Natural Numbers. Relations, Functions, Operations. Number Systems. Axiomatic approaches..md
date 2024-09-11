@@ -102,7 +102,7 @@
 	- $F$ is a bijection if it is a total surjective injection.
 ## Operation on a set:
 - A function $F:D\rightarrow R$ is an operation on $R$ if it is total and the domain is Cartesian product of some copies of range $R$ (i.e., $D=R\times ... R$).
-  **Explanation:** $F(d)\subseteq R,\ d \in D$. $F(d)$ can be equal to $R$ but not always. $R$ is formed by $D$ with some function $F$ that select elements, it means that $R$ is formed by combination elements of $R$  
+  **Example:** Let function $F$ is conjuction $\wedge$ and $R$ is a set $\{0,1\}$ then $D$ is a set \{(0,0),(0,1),(1,0),(1,1)\}
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
