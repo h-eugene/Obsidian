@@ -84,7 +84,7 @@
 - Equality is the equivalence that satisfies Leibnitz axiom: $x=y$ iff $\phi(x)\Leftrightarrow \phi(y)$ for every property $\phi.$
 ## Pre-order, partial and linear order:
 - Pre-order (or quasi-order) is a reflexive and transitive relation.
-- (Partial) order is an anti-symmetric pre-order, i.e, for any $x$ and $y$, 
+- (Partial) order is an anti-symmetric pre-order, i.e, for any $x$ and $y$, if $xRy$ and $yRx$ then $x=y$.
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
