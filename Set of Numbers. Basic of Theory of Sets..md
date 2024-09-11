@@ -1,3 +1,6 @@
+**Material:** 
+- [Lecture](https://moodle.innopolis.university/pluginfile.php/208410/mod_resource/content/1/MathAnal1fall24.pdf)
+- [Lab](https://moodle.innopolis.university/pluginfile.php/210092/mod_resource/content/1/Lab1.pdf)
 **Lectures:**
-- [Lecture 1:](Introduction.%20About%20MathAnal.%20Basics%20of%20naive%20Set%20Theory.%20Natural%20Numbers.%20Relations,%20Functions,%20Operations.%20Number%20Systems.%20Axiomatic%20approaches..md) Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches.
-- 
+- [Basics of naive Set Theory.](Basics%20of%20naive%20Set%20Theory..md)
+- Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches.
