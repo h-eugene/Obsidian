@@ -95,7 +95,13 @@
 	- $R$ is called range (or co-domain) of $F$,
 	- support of $F$ is the set $\{x\in D:F$ is defined on $x\}$,
 	- image of $F$ is the set $\{F(x):x\in D\}$.
-## Inj
+## Injection, bijection, surjection..:
+- Let $F:D\rightarrow R$ be a function.
+	- $F$ is a total if the support equals to the domain;
+	- $F$ is a surjection if the range equals to the image;
+	- $F$ is a bijection if it is a total surjective injection.
+## Operation on a set:
+- A function $F:D\rightarrow R$ is an operation on $R$ if it is total 
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
