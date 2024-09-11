@@ -81,6 +81,10 @@
 	- transitive if $xRy$ and $yRz$ implies $xRz$ for all $x$,$y$ and $z$
 ## Equality:
 - Reflexive, symmetric and transitive relation is called equivalence.
+- Equality is the equivalence that satisfies Leibnitz axiom: $x=y$ iff $\phi(x)\Leftrightarrow \phi(y)$ for every property $\phi.$
+## Pre-order, partial and linear order:
+- Pre-order (or quasi-order) is a reflexive and transitive relation.
+- (Partial) order is an anti-symmetric pre-order, i.e, for any $x$ and $y$, 
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
