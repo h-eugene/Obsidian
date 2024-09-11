@@ -1,4 +1,4 @@
-# Definition and properties of:
+# Definition and properties:
 - A *natural number* is a measure of the quantity of (indivisible) objects.
 - Let $\mathbb{N}$ is the set that satisfies the following two properties:
 	- $\mathbb{N}\subseteq \omega, \ \varnothing \in \mathbb{N}$ and with each element $A \in \mathbb{N}$ it contains the set $\{A,\{A\}\};$
