@@ -73,7 +73,12 @@
 - when $X$ isn't a Cartesian product then predicate $Y$ is a monadic pradicate.
 ## Relations on a set:
 - Multi-arity relation on a set is any subset of $X\times ...X=X^{k}\ (k\in \mathbb{N})$. 
-  **Explanation:** Just one of all combination with repeations that selects by some relation. 
+  **Explanation:** Just one of all combination with repeations that selects by some property. 
+- Binary relation on a set is
+	- reflexive if $xRx$ for every x;
+	- irreflexive if never $xRx$;
+	- symmetric if $xRy$ implies $yRx$ for all $x$ and $y$;
+	- transitive if $xRy$ and $yRx$ implies $xRz$ for all $x$,$y$ and $z$
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
