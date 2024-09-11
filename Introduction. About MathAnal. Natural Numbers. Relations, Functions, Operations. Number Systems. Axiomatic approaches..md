@@ -89,7 +89,13 @@
   **Note:** If a relation is **not anti-symmetric**, it does not imply that it is **symmetric**.
 - Linear order is a partial order where all elements are compatible (comparable), i.e., for all $x$ and $y$, either $xRy$ or $yRx$. (Examples?)
 ## Fucntion is a Relation:
-- Function $F:\ D\rightarrow R$ is a binary relation $F\subseteq D\times R$ such that for every $x\in D$ there exist 
+- Function $F:\ D\rightarrow R$ is a binary relation $F\subseteq D\times R$ such that for every $x\in D$ there exists at most one $y\in R$ such that $(x,y)\in F.$
+	- $D \rightarrow R$ is type of $F$,
+	- $D$ is called domain of $F$,
+	- $R$ is called range (or co-domain) of $F$,
+	- support of $F$ is the set $\{x\in D:F$ is defined on $x\}$,
+	- image of $F$ is the set $\{F(x):x\in D\}$.
+## Inj
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)
