@@ -39,7 +39,7 @@
 	- $F$ is a bijection if it is a total surjective injection.
 # Operation on a set:
 - A function $F:D\rightarrow R$ is an operation on $R$ if it is total and the domain is Cartesian product of some copies of range $R$ (i.e., $D=R\times ... R$).
-  **Example:** Let $R$ is a set $\{0,1\}$ then $D$ is a set $\{(0,0),(0,1),(1,0),(1,1)\}$
+  **Example:** Let $R$ is a set $\{0,1\}$ and function $f(x)$ is for example conjuction & between 2 element, then $D$ is a $R^{2}$ $\{(0,0),(0,1),(1,0),(1,1)\}$
 - Remark: elements of $R$ may be considered as constant operations with zero-arity.
   **Explanation:** $R=\{f(),\ g(),\ ...\}$, $f()=a,\ g()=b,...$ always.
 - Algebraic system is a set with a fixed set of predicates and operations on it. Algebra is an algebraic system with a single predicate equality.

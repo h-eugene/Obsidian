@@ -3085,6 +3085,7 @@ Dmv
 DMI
 Denotation
 Declaration
+Dedekind
 Lecturer
 Link
 Line
@@ -11774,6 +11775,7 @@ Inbox
 Inequality
 Induction
 Injection
+Italian
 Telegram
 Theorem
 Text
@@ -17111,6 +17113,7 @@ nothing
 natural
 never
 nameless
+notes
 to
 the
 topics
@@ -19678,6 +19681,7 @@ twice
 ternary
 transitive
 total
+technique
 Course
 Curves
 Continuation
@@ -25272,6 +25276,7 @@ Scott
 Syntax
 Semantics
 String
+Singleton
 Algebra
 AGLA
 Assignments
@@ -27990,6 +27995,7 @@ AGAo
 AJf
 Arrays
 Arity
+Axioms
 and
 algebra
 any
@@ -33361,6 +33367,8 @@ Part
 Problems
 Pre
 Partial
+Peano
+Postulates
 Quadratic
 Qn
 QL
@@ -38704,6 +38712,7 @@ BxQ
 BamTu
 BJo
 Binary
+Bootstrap
 Material
 MORE
 Mathematical
@@ -44948,6 +44957,7 @@ proofs
 prime
 partial
 parameter
+presented
 Read
 Relations
 RY
@@ -79760,6 +79770,7 @@ simmetric
 support
 surjection
 surjective
+statistical
 exist
 excalidraw
 everything
@@ -82694,6 +82705,7 @@ equivalence
 equals
 equality
 examples
+estimate
 have
 hQ
 hfRF
@@ -94169,6 +94181,7 @@ GIJ
 GZv
 GskH
 Getting
+Giuseppe
 basis
 be
 bd
@@ -106203,6 +106216,8 @@ moment
 myDealloc
 measure
 multiple
+member
+mathematician
 You
 YC
 YR
@@ -117836,6 +117851,7 @@ rules
 repeations
 reflexive
 range
+resampling
 Zorich
 ZM
 ZB

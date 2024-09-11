@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
-                "mode": "source",
+                "file": "Relations, Functions, Operations.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Relations, Functions, Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Relations, Functions, Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -132,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction.md",
+                "file": "Relations, Functions, Operations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Relations, Functions, Operations.md"
               }
             }
           }
@@ -201,11 +202,12 @@
   },
   "active": "90297cacd479119c",
   "lastOpenFiles": [
-    "Number Systems. Axiomatic approaches..md",
     "Introduction.md",
+    "Number Systems. Axiomatic approaches..md",
+    "Basics of naive Set Theory..md",
+    "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Relations, Functions, Operations.md",
     "Natural Numbers.md",
-    "Basics of naive Set Theory..md",
     "References.md",
     "Home/The Beginning.md",
     "Excalidraw/Drawing 2024-09-10 12.54.55.excalidraw.md",
@@ -227,7 +229,6 @@
     "Computer arithmetics.md",
     "Fundamentals of Computer Architecture.md",
     "Introduction. The C Programming Language..md",
-    "The Java language.md",
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
     "Без названия.canvas",
     "Excalidraw",
@@ -249,7 +250,6 @@
     "templates",
     "projects",
     "periodic/templates",
-    "periodic/Weekly",
     "Excalidraw/Lecture 2 - Theorem 1.png",
     "Library/Photos/Pasted image 20240906181422.png"
   ]
