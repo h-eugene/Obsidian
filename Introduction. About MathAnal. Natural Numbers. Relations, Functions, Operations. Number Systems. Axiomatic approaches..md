@@ -72,7 +72,7 @@
 - $Y$ is a ternary relation on $X_{1},\ X_{2}$ and $X_{3}$ if $X$ is Cartesian product of sets $X_{1},\ X_{2}$ and $X_{3}$ (i.e $Y \subseteq X_{1}\times X_{2}\times X_{3}$);
 - when $X$ isn't a Cartesian product then predicate $Y$ is a monadic pradicate.
 ## Relations on a set:
-- Multi-arity relation on a set is any subset of
+- Multi-arity relation on a set is any subset of $X\times ...X=X^{k}\ (k\in \mathbb{N})$. 
 # Assignments:
 - Set up a SciLab
 - Explore everything that is unclear: [Математический анализ](V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf)

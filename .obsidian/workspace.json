@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Introduction. About MathAnal. Natural Numbers. Relations, Functions, Operations. Number Systems. Axiomatic approaches..md"
               }
             }
           }
@@ -202,13 +202,14 @@
   },
   "active": "5334b15793eb72dd",
   "lastOpenFiles": [
+    "Set of Numbers. Basic of Theory of Sets..md",
+    "Mathematical Analysis I.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
     "The Dot product and its properties..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
-    "Innopolis 1st year - Fall Semester.md",
-    "Mathematical Analysis I.md",
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Introduction to Programming.md",
     "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
@@ -229,7 +230,6 @@
     "Static & Dynamic Typing. C Type System. Pointer Type..md",
     "Just simple thought.md",
     "sdfsd.md",
-    "Inbox.md",
     "Без названия.canvas",
     "Excalidraw",
     "Без названия 4.canvas",
