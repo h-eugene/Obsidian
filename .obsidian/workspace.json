@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "8e68b3348704f47e",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -133,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md",
+                "file": "Introduction.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -202,8 +201,8 @@
   },
   "active": "90297cacd479119c",
   "lastOpenFiles": [
-    "Introduction.md",
     "Number Systems. Axiomatic approaches..md",
+    "Introduction.md",
     "Relations, Functions, Operations.md",
     "Natural Numbers.md",
     "Basics of naive Set Theory..md",
