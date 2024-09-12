@@ -103,4 +103,4 @@
 >$$\forall x\ \forall y \ P(x,y)\equiv \forall y\ \forall x \ P(x,y)$$
 >$$\exists x\ \exists y \ P(x,y)\equiv \exists y\ \exists x \ P(x,y)$$
 >$$\exists x\ \forall y \ P(x,y)\not \equiv \forall y \ \exists x \ P(x,y)$$ 
->**Explanation:** Left side means that there is x for any 
+>**Explanation:** Left side means that there is at least one $x$ for any $y$, and right side says for any $y$ there is at least one $x$ maybe own for each $y$ or shared for some $y$ in the same time 
