@@ -11779,6 +11779,7 @@ Injection
 Italian
 Its
 Interpretation
+Inequivalence
 Telegram
 Theorem
 Text
@@ -22495,6 +22496,7 @@ Cauchy
 Created
 Constants
 Counterexample
+Cases
 Sections
 Surfaces
 Spaces
@@ -79797,6 +79799,9 @@ surjection
 surjective
 statistical
 sentence
+side
+says
+shared
 exist
 excalidraw
 everything
@@ -91140,6 +91145,7 @@ NnO
 NMzN
 Norm
 Note
+Nested
 Given
 Graphs
 Gg

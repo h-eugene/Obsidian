@@ -104,3 +104,11 @@
 >$$\exists x\ \exists y \ P(x,y)\equiv \exists y\ \exists x \ P(x,y)$$
 >$$\exists x\ \forall y \ P(x,y)\not \equiv \forall y \ \exists x \ P(x,y)$$ 
 >**Explanation:** Left side means that there is at least one $x$ for any $y$, and right side says for any $y$ there is at least one $x$ maybe own for each $y$ or shared for some $y$ in the same time 
+>**Example:**
+>Let the domain consist of all natural numbers and $$P(x,y)=\textit{"x = y"}$$
+>$$\exists x\ \forall y \ P(x,y)=0$$
+>$$\forall y\ \exists x \ P(x,y)=1$$
+
+# Special Cases:
+>[!abstract] Uniqueness quantifier
+>$\exists !x\ P(x)\rightleftharpoons$ ""
