@@ -70,3 +70,5 @@
 >$$\forall x\ P(x) = \text{"any natural number is even"}$$ 
 >$$\neg \forall x \ P(x) = \text{"not any natural number is even}$$
 >$$\exists x \neg P(x) = \text{"there exists a natural number which is not even"}$$
+>
+>Let the domain consists of all people and $P(x)$
