@@ -67,5 +67,6 @@
 
 >[!check]  Interpretation
 >Let the domain consist of all natural numbers and $P(x) =$ "$x$ is even".
->$$\forall\ P(x) = \text{"any natural is even"}$$ 
->
+>$$\forall x\ P(x) = \text{"any natural number is even"}$$ 
+>$$\neg \forall x \ P(x) = \text{"not any natural number is even}$$
+>$$\exists x \neg P(x) = \text{"there exists a natural number which is not even"}$$
