@@ -64,5 +64,8 @@
 >[!abstract] Definition
 >$\neg \forall x \ P(x)\equiv \exists x \neg P(x)$
 >$\neg \exists x \ P(x) \equiv \forall x \neq P(x)$
->
+
+>[!check]  Interpretation
+>Let the domain consist of all natural numbers and $P(x) =$ "$x$ is even".
+>$$\forall\ P(x) = \text{"any natural is even"}$$ 
 >
