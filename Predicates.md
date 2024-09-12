@@ -111,7 +111,9 @@
 
 # Special Cases:
 >[!abstract] Uniqueness quantifier
->$$\displaylines{\exists !x\ P(x)\rightleftharpoons \ \textit{"there exists a unique x such that P(x)"}
->=\exists x\ \forall y\ [P(x)\wedge (P(y)\rightarrow(y=x))]}$$ 
+>$$\displaylines{\exists !x\ P(x)\rightleftharpoons \ \textit{"there exists a unique x such that P(x)"}=\\\exists x\ \forall y\ [P(x)\wedge (P(y)\rightarrow(y=x))]}$$ 
 >**Example:**
->$$\exists ! x \ ((x>0)\wedge (x^{2}=16))$$
+>$$\displaylines{\exists ! x \ ((x>0)\wedge (x^{2}=16))=\\
+>\exists x \ \forall y [(x>0)\wedge (x^{2}=16) \wedge ((y>0 \wedge y^{2}=16)\rightarrow(y=x))]}$$
+
+>[!abstract] Restricted 
