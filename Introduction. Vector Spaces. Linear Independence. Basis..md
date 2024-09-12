@@ -95,3 +95,4 @@ $\begin{pmatrix}-5\\-1\end{pmatrix}= {\begin{pmatrix}-1*k\\3*k\end{pmatrix}}\Rig
 # Assignments:
 - Read the topics of lecture: [Аналитическая Геометрия и Линейная Алгебра](Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf)
 - Watch the topics of lecture: [Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+- Assignment
