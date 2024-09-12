@@ -26,5 +26,11 @@
 >"for Any", "for All"|"Exists" 
 >$\forall x\ P(x)$|$\exists x \ P(x)$
 
->Bound and Free occurrence
->Every occurrence of a variable $x$ in a formula of the form $\exists x P(x)$ or of the   
+>[!abstract] Bound and Free occurrence
+>- Every occurrence of a variable $x$ in a formula of the form $\exists x \ P(x)$ or of the form $\forall x \ P(x)$ is called a ***bound*** occurrence.
+>- Occurrences which are not *bound* are called ***free***.  
+>  
+>  **Example:**
+>  $$P(z)=\exists x ((z\neq x)\rightarrow \forall y((y=z)\vee (y=x)))$$ 
+>  Bound: $x,y$
+>  Free: $z$
