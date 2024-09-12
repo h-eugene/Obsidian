@@ -65,7 +65,7 @@
 >$\neg \forall x \ P(x)\equiv \exists x \neg P(x)$
 >$\neg \exists x \ P(x) \equiv \forall x \neq P(x)$
 
->[!check]  Interpretation
+>[!check]  Interpretation $\neg \forall x \ P(x)\equiv\exists x \neg P(x)$
 >Let the domain consist of all natural numbers and $P(x) =$ "$x$ is even".
 >$$\forall x\ P(x) = \text{"any natural number is even"}$$ 
 >$$\neg \forall x \ P(x) = \text{"not any natural number is even}$$
@@ -74,4 +74,8 @@
 >Let the domain consists of all people and $P(x)=\text{"x is a woman"}$
 >$$\forall x \ P(x)=\text{"everyone is a woman"}$$
 >$$\neg \forall x \ P(x)=\text{"not everyone is a woman"}$$
+>$$\exists x \neg P(x)=\text{"there is a person who is not a woman"}$$
+
+>[!check] Interpretation $\neg \forall x \ P(x)\equiv \exists x \neg P(x)$
+>Let the domain consists of all natural numbers and $P(x) = \text{"x is a prime number"}$
 >$$\exists$$
