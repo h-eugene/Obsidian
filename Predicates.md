@@ -117,13 +117,17 @@
 >\exists x \ \forall y [(x>0)\wedge (x^{2}=16) \wedge ((y>0 \wedge y^{2}=16)\rightarrow(y=x))]}$$
 
 >[!abstract] Restricted universal quantifier
->$$\forall  n \ (R(n)) \ P(n)\rightleftharpoons \textit{P(n) for any n such that R(n)}$$
+>$$\displaylines{\forall  n \ (R(n)) \ P(n)\rightleftharpoons \textit{P(n) for any n such that R(n)}=\\
+>\forall n \ (R(n)\rightarrow P(n))}$$
 >**Examples:** 
 >- $\forall n \leq 5 \ P(n) = \forall n \ (n\leq 5 \rightarrow P(n))$
 >- $\forall \epsilon > 0 \ P(\epsilon) = \forall\epsilon\ (\epsilon > 0 \rightarrow P(\epsilon))$
 >- $\forall i \in \{1,...,10\} \ P(i)=\forall i \ (i\in \{1,...,10\} \rightarrow P(i))$
 
 >[!abstract] Restricted existential quantifier
->$$\exists n \ (R(n)) \ P(n)\rightleftharpoons \textit{there exists n with R(n) such that P(n)}$$
+>$$\displaylines{\exists n \ (R(n)) \ P(n)\rightleftharpoons \textit{there exists n with R(n) such that P(n)}=\\
+>\exists n \ (R(n)\wedge P(n))}$$
 >**Examples:**
->- $\exists n \geq$
+>- $\exists n \geq 7 \ P(n)$
+>- $\exists \delta > 0\ P(\delta)$
+>- $\exists i \in \mathbb{N} \ P(i)$
