@@ -7,4 +7,10 @@
 > *Rule* $X= \{x|$ some condition on $x$ holds$\}$
 
 > [!abstract] Membership
-> $a\in X$ – "$a$ is an element of $X$" 
+> $a\in X$ – "$a$ is an element of $X$"
+> $\neg(a\in X)\rightleftharpoons a \notin X$
+> 
+> *$\rightleftharpoons$ means "by definition" 
+
+>[!abstract] Proposition
+>A sentence (that declares a fact) that is either *true* or *false*, but not both.
