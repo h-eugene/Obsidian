@@ -46,4 +46,15 @@
 > $P(x)=$ "$x$ is even"
 > Therefore, $\exists x \ P(x) =$ "There is an even number"  
 > 
-> Let the domain consti
+> Let the domain consist of all natural numbers dividing by 4.
+> $P(x) =$ "$x$ is even"
+> Therefore, $\forall x\ P(x) =$ "Any natural number dividing by 4 is divided by 2"
+> 
+
+>[!abstract] Counterexample
+>A counterexample for a formula of predicate logic is possible meanings for domain, predicates and variables such that a truth value of the formula becomes *FALSE*.
+>
+>**Example:**
+>Let the domain consist of all people.
+>$P(x) =$ "$x$ can fly"
+>Therefore, $\forall x \ P$
