@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "The Dot product and its properties..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -203,6 +203,7 @@
   "active": "5af97b9373f8ec5a",
   "lastOpenFiles": [
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
+    "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Predicates.md",
     "Basic of Logic.md",
     "Logic and Discrete Mathematics.md",
@@ -229,7 +230,6 @@
     "The C language.md",
     "Reading and writing fromto files. Loops and arrays exercises. String exercises. Pointer exercises.md",
     "Pointers. Arrays..md",
-    "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
     "Без названия.canvas",
     "Excalidraw",
@@ -246,7 +246,6 @@
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg",
     "Library/Pasted image 20240908203938.png",
-    "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Library/Excalidraw",
     "templates",
     "projects",
