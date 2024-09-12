@@ -116,4 +116,7 @@
 >$$\displaylines{\exists ! x \ ((x>0)\wedge (x^{2}=16))=\\
 >\exists x \ \forall y [(x>0)\wedge (x^{2}=16) \wedge ((y>0 \wedge y^{2}=16)\rightarrow(y=x))]}$$
 
->[!abstract] Restricted 
+>[!abstract] Restricted universal quantifier
+>$$\forall  n \ (R(n)) \ P(n)\rightleftharpoons \textit{P(n) for any n such that R(n)}$$
+>**Examples:** 
+>- $\forall n \leq 5 \ P(n) = \forall n \ (n\leq 5 \rightarrow P(n))$
