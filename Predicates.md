@@ -14,3 +14,8 @@
 
 >[!abstract] Proposition
 >A sentence (that declares a fact) that is either *true* or *false*, but not both.
+
+>[!abstract] Predicate $P\{x_1,...,x_{n}\}$
+>A sentence with parameters $x_{1} \in D_{1},...,x_{n}\in D_{n}$ (its truth depends on $x_1,...,x_n$)
+>
+>The set $D_{1}\times ... \times D_{n}$ is called the ***domain*** of P
