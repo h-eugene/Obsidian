@@ -100,5 +100,7 @@
 
 # Nested Quantifiers
 >[!example] Properties
->$$\forall x \forall y \ P(x,y)\equiv \forall y \forall x \ P(x,y)$$
->$$\exists x \exists y \ P(x,y)\equiv \exists y \exists x \ P(x,y)$$
+>$$\forall x\ \forall y \ P(x,y)\equiv \forall y\ \forall x \ P(x,y)$$
+>$$\exists x\ \exists y \ P(x,y)\equiv \exists y\ \exists x \ P(x,y)$$
+>$$\exists x\ \forall y \ P(x,y)\not \equiv \forall y \ \exists x \ P(x,y)$$ 
+>**Explanation:** Left side means that there is x for any 
