@@ -87,6 +87,10 @@
 >$$\neg \exists x \ P(x)=\text{"Rich people do not exist"}$$
 >$$\forall x \neg P(x)=\text{"Everyone is not rich"}$$
 
-> [!abstract] Definition by bit operations
+> [!abstract] Definition by another way
 > $\begin{cases}\neg (A \wedge B)\equiv \neg A \vee \neg B  \\
  \neg (A\vee B)\equiv \neg A \wedge \neg B\end{cases}$
+
+# Properties:
+> [!example] Some Equivalence and Inequivalence
+> $$\forall x (P_{1}(x)\wedge P_{2}(x)) \equiv \forall x \ P_{1}(x) \wedge \forall x \ P_{2}(x)$$
