@@ -61,7 +61,7 @@
 
 # De Morgan's Laws:
 
->[!abstract] Definition
+>[!abstract] Definition by quantifiers
 >$\neg \forall x \ P(x)\equiv \exists x \neg P(x)$
 >$\neg \exists x \ P(x) \equiv \forall x \neq P(x)$
 
@@ -84,5 +84,9 @@
 >
 >Let the domain consists of all people and $P(x)=\text{"x is a rich"}$
 >$$\exists x \ P(x)=\text{"Rich people exist"}$$
->$$\neg \exist x \ P(x)=\text{"Rich people do not exist"}$$
->$\forall x \neg P(x)="Everyone is not rich"}$
+>$$\neg \exists x \ P(x)=\text{"Rich people do not exist"}$$
+>$$\forall x \neg P(x)=\text{"Everyone is not rich"}$$
+
+> [!abstract] Definition by bit operations
+> $\begin{cases}\neg (A \wedge B)\equiv \neg A \vee \neg B  \\
+ \neg (A\vee B)\equiv \neg A \wedge \neg B\end{cases}$
