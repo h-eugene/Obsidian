@@ -120,3 +120,10 @@
 >$$\forall  n \ (R(n)) \ P(n)\rightleftharpoons \textit{P(n) for any n such that R(n)}$$
 >**Examples:** 
 >- $\forall n \leq 5 \ P(n) = \forall n \ (n\leq 5 \rightarrow P(n))$
+>- $\forall \epsilon > 0 \ P(\epsilon) = \forall\epsilon\ (\epsilon > 0 \rightarrow P(\epsilon))$
+>- $\forall i \in \{1,...,10\} \ P(i)=\forall i \ (i\in \{1,...,10\} \rightarrow P(i))$
+
+>[!abstract] Restricted existential quantifier
+>$$\exists n \ (R(n)) \ P(n)\rightleftharpoons \textit{there exists n with R(n) such that P(n)}$$
+>**Examples:**
+>- $\exists n \geq$
