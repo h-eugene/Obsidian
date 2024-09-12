@@ -57,4 +57,12 @@
 >**Example:**
 >Let the domain consist of all people.
 >$P(x) =$ "$x$ can fly"
->Therefore, $\forall x \ P$
+>Therefore, $\forall x \ P(x) =$ "Anyone can fly"
+
+# De Morgan's Laws:
+
+>[!abstract] Definition
+>$\neg \forall x \ P(x)\equiv \exists x \neg P(x)$
+>$\neg \exists x \ P(x) \equiv \forall x \neq P(x)$
+>
+>

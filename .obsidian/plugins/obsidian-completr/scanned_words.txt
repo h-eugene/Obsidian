@@ -3086,6 +3086,7 @@ DMI
 Denotation
 Declaration
 Dedekind
+Descriptions
 Lecturer
 Link
 Line
@@ -11776,6 +11777,8 @@ Inequality
 Induction
 Injection
 Italian
+Its
+Interpretation
 Telegram
 Theorem
 Text
@@ -14393,6 +14396,7 @@ Tnk
 TRTJh
 Triangle
 Therefore
+TRUE
 nomemm
 need
 necessary
@@ -19682,6 +19686,7 @@ ternary
 transitive
 total
 technique
+things
 Course
 Curves
 Continuation
@@ -22489,6 +22494,7 @@ Calculation
 Cauchy
 Created
 Constants
+Counterexample
 Sections
 Surfaces
 Spaces
@@ -27996,6 +28002,7 @@ AJf
 Arrays
 Arity
 Axioms
+Anyone
 and
 algebra
 any
@@ -33370,6 +33377,8 @@ Partial
 Peano
 Postulates
 Predicates
+Proposition
+Predicate
 Quadratic
 Qn
 QL
@@ -36076,6 +36085,7 @@ QLHB
 QaERTL
 QJEe
 QmXS
+Quantifiers
 Basis
 Body
 Basic
@@ -38714,6 +38724,7 @@ BamTu
 BJo
 Binary
 Bootstrap
+Bound
 Material
 MORE
 Mathematical
@@ -42138,6 +42149,7 @@ MRb
 MHt
 MaHgU
 Meyers
+Membership
 pdf
 previous
 prove
@@ -44959,6 +44971,8 @@ prime
 partial
 parameter
 presented
+possible
+people
 Read
 Relations
 RY
@@ -48006,6 +48020,7 @@ References
 Relation
 Reflexive
 Remark
+Rule
 of
 one
 others
@@ -50720,6 +50735,7 @@ ovG
 orQ
 operator
 optional
+occurrence
 lecture
 lineynaya
 linear
@@ -65118,6 +65134,9 @@ disappears
 declarations
 domain
 depends
+declares
+denotions
+dividing
 independency
 in
 info
@@ -68782,6 +68801,7 @@ irreflexive
 iff
 imply
 injection
+interpretation
 For
 Functions
 Frolov
@@ -71743,6 +71763,9 @@ FeK
 Features
 Four
 Fucntion
+Free
+Fact
+FALSE
 vectors
 vector
 variable
@@ -76971,6 +76994,7 @@ files
 fromto
 follows
 fixed
+free
 scalars
 sufficient
 settings
@@ -79772,6 +79796,7 @@ support
 surjection
 surjective
 statistical
+sentence
 exist
 excalidraw
 everything
@@ -82707,6 +82732,7 @@ equals
 equality
 examples
 estimate
+existential
 have
 hQ
 hfRF
@@ -88521,6 +88547,10 @@ comparable
 copies
 considered
 conjuction
+counting
+contain
+consist
+counterexample
 Necessity
 Nikolay
 Natural
@@ -96750,6 +96780,8 @@ bQQ
 bfS
 binary
 bijection
+bound
+becomes
 EXCALIDRAW
 Excalidraw
 Elements
@@ -99797,6 +99829,8 @@ Even
 Entity
 Examples
 Equality
+Exists
+Every
 OPTIONS
 Operations
 Obtain
@@ -102775,6 +102809,7 @@ Ofg
 Orthogonal
 Object
 Operation
+Occurrences
 menu
 more
 mA
@@ -106220,6 +106255,8 @@ measure
 multiple
 member
 mathematician
+multiplicities
+meanings
 You
 YC
 YR
@@ -115052,6 +115089,8 @@ uxrJR
 utz
 uunAR
 uDBJ
+unordered
+universal
 represented
 ru
 rows
@@ -127198,6 +127237,8 @@ qIh
 qDpP
 qme
 quasi
+quantifiers
+quantifier
 HB
 HE
 HK

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e625ba2bfaa079",
+        "id": "3e363fa83f69ac1e",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd951546f13f037",
+            "id": "9bb2d4239ea85193",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1cd951546f13f037",
+  "active": "9bb2d4239ea85193",
   "lastOpenFiles": [
     "Predicates.md",
     "Basic of Logic.md",
