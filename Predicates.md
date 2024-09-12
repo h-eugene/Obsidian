@@ -93,4 +93,6 @@
 
 # Properties:
 > [!example] Some Equivalence and Inequivalence
-> $$\forall x (P_{1}(x)\wedge P_{2}(x)) \equiv \forall x \ P_{1}(x) \wedge \forall x \ P_{2}(x)$$
+> $$\forall x\ (P_{1}(x)\wedge P_{2}(x)) \equiv \forall x \ P_{1}(x) \wedge \forall x \ P_{2}(x)$$
+> $$\forall x \ (P_{1}(x)\vee P_{2}(x)\not\equiv \forall x \ P_{1}(x) \vee \forall x \ P_{2}(x)$$
+> $$\exists x \ (P_{1}(x)$$
