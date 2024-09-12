@@ -18,4 +18,10 @@
 >[!abstract] Predicate $P\{x_1,...,x_{n}\}$
 >A sentence with parameters $x_{1} \in D_{1},...,x_{n}\in D_{n}$ (its truth depends on $x_1,...,x_n$)
 >
->The set $D_{1}\times ... \times D_{n}$ is called the ***domain*** of P
+>The set $D_{1}\times ... \times D_{n}$ is called the ***domain*** of $P$
+
+>[!abstract] Quantifiers (some denotions)
+>The universal quantifiers|The existential quantifier
+>--|--
+>"for Any", "for All"|"Exists" 
+>$\forall x\ P(x)$|$\exists x \ P(x)$
