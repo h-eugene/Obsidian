@@ -34,3 +34,9 @@
 >  $$P(z)=\exists x ((z\neq x)\rightarrow \forall y((y=z)\vee (y=x)))$$ 
 >  Bound: $x,y$
 >  Free: $z$
+
+>[!info] Fact
+>If a formula does not contain free variables then it becomes a *proposition*. (Its truth still depends on the domain.)
+
+> [!abstract] Interpretation
+> An (positive) ***interpretation*** for a formula of predicate logic is possible meanings for domain, predicates and variables such that a truth value of the formula becomes *TRUE*.
