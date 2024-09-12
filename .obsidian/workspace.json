@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e363fa83f69ac1e",
+        "id": "cb63a84d62b8049e",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb2d4239ea85193",
+            "id": "bdebb85cc466ffae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predicates.md",
+                "file": "Home/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicates.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predicates.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Predicates.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predicates.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -200,7 +200,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9bb2d4239ea85193",
+  "active": "bdebb85cc466ffae",
   "lastOpenFiles": [
     "Predicates.md",
     "Basic of Logic.md",
