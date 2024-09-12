@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Predicates.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Predicates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Predicates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Predicates.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Predicates.md"
               }
             }
           }
@@ -202,14 +202,14 @@
   },
   "active": "bdebb85cc466ffae",
   "lastOpenFiles": [
-    "Predicates.md",
     "Basic of Logic.md",
-    "Introduction. Foundation. Truth Table. Normal Forms..md",
-    "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "Predicates.md",
+    "Introduction. Foundation. Truth Table. Normal Forms..md",
+    "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Relations, Functions, Operations.md",
     "Introduction.md",
     "Number Systems. Axiomatic approaches..md",

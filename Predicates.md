@@ -71,4 +71,7 @@
 >$$\neg \forall x \ P(x) = \text{"not any natural number is even}$$
 >$$\exists x \neg P(x) = \text{"there exists a natural number which is not even"}$$
 >
->Let the domain consists of all people and $P(x)$
+>Let the domain consists of all people and $P(x)=\text{"x is a woman"}$
+>$$\forall x \ P(x)=\text{"everyone is a woman"}$$
+>$$\neg \forall x \ P(x)=\text{"not everyone is a woman"}$$
+>$$\exists$$
