@@ -78,4 +78,11 @@
 
 >[!check] Interpretation $\neg \forall x \ P(x)\equiv \exists x \neg P(x)$
 >Let the domain consists of all natural numbers and $P(x) = \text{"x is a prime number"}$
->$$\exists$$
+>$$\exists x\ P(x)=\text{"there exists a prime number"}$$
+>$$\neg \exists x \ P(x)=\text{"there does not exist a prime number"}$$
+>$$\forall x \neg P(x) = \text{"every natural number is not prime"}$$
+>
+>Let the domain consists of all people and $P(x)=\text{"x is a rich"}$
+>$$\exists x \ P(x)=\text{"Rich people exist"}$$
+>$$\neg \exist x \ P(x)=\text{"Rich people do not exist"}$$
+>$\forall x \neg P(x)="Everyone is not rich"}$
