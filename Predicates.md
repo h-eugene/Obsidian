@@ -40,3 +40,10 @@
 
 > [!abstract] Interpretation
 > An (positive) ***interpretation*** for a formula of predicate logic is possible meanings for domain, predicates and variables such that a truth value of the formula becomes *TRUE*.
+> 
+> **Example:**
+> Let the domain consist of all natural numbers.
+> $P(x)=$ "$x$ is even"
+> Therefore, $\exists x \ P(x) =$ "There is an even number"  
+> 
+> Let the domain consti
