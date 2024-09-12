@@ -1,3 +1,4 @@
 **Lectures:**
 - [Introduction. Foundation. Truth Table. Normal Forms.](Introduction.%20Foundation.%20Truth%20Table.%20Normal%20Forms..md)
 - [Classification of Formulas. Logical Equivalence. Algebraic Normal Form.](Classification%20of%20Formulas.%20Logical%20Equivalence.%20Algebraic%20Normal%20Form..md)
+- [Predicates](Predicates.md)
