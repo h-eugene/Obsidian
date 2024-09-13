@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "746afee00cc6988e",
+        "id": "5180e9f34c9cb92e",
         "type": "tabs",
         "children": [
           {
-            "id": "ad6f0f1d4f5729bf",
+            "id": "e7cad60dd3da0f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -207,8 +207,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad6f0f1d4f5729bf",
+  "active": "e7cad60dd3da0f87",
   "lastOpenFiles": [
+    "References.md",
+    "Home/The Beginning.md",
     "Lecture 3.md",
     "Fundamental Ideas of Computer Architecture.md",
     "The fundamental principles for modern computer systems.md",
@@ -216,7 +218,6 @@
     "Fundamentals of Computer Architecture.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
-    "Home/The Beginning.md",
     "Library/Pasted image 20240913114341.png",
     "The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
@@ -232,7 +233,6 @@
     "Basics of naive Set Theory..md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Natural Numbers.md",
-    "References.md",
     "Excalidraw/Drawing 2024-09-10 12.54.55.excalidraw.md",
     "Mathematical Analysis I.md",
     "Vector Algebra.md",
