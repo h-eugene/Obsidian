@@ -14400,6 +14400,7 @@ TRTJh
 Triangle
 Therefore
 TRUE
+Trapeziod
 nomemm
 need
 necessary
@@ -19690,6 +19691,7 @@ transitive
 total
 technique
 things
+textis
 Course
 Curves
 Continuation
@@ -28011,6 +28013,7 @@ Arity
 Axioms
 Anyone
 Average
+ABCD
 and
 algebra
 any
