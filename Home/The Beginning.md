@@ -6,7 +6,7 @@ aliases:
   - home
   - д
   - h
-banner_icon: 💯
+banner_icon: 💤
 ---
 # 🚪Directions:
 - **🎓[Innopolis](Innopolis%20University.md)**
