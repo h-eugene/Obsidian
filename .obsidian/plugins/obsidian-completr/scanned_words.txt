@@ -25285,6 +25285,7 @@ Syntax
 Semantics
 String
 Singleton
+Southbridge
 Algebra
 AGLA
 Assignments
@@ -91146,6 +91147,7 @@ NMzN
 Norm
 Note
 Nested
+Northbridge
 Given
 Graphs
 Gg
