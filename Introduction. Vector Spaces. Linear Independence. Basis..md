@@ -85,13 +85,14 @@ u\gamma - \beta b = 0 \rightarrow u\gamma = \beta v = \beta*\frac{\gamma}{\alpha
 -\alpha u + \beta w = 0 \rightarrow -\alpha*\frac{\beta}{\alpha}w + \beta w = 0 
 \end{cases}$$
 $\blacksquare$
-**Task 2: Check that $\vec{a}(-5,-1),\ \vec{b}(-1,3)$ form a basis in the plane. Find the coordinates of $\vec{e}(-1,2), \ \vec{l}(2,-6)$(homework) in this basis.**
+### Task 2: Check that $\vec{a}(-5,-1),\ \vec{b}(-1,3)$ form a basis in the plane. Find the coordinates of $\vec{e}(-1,2), \ \vec{l}(2,-6)$(homework) in this basis.
 1. Check the collinearity: $\vec{a} = k\vec{b}$
 $\begin{pmatrix}-5\\-1\end{pmatrix}= {\begin{pmatrix}-1*k\\3*k\end{pmatrix}}\Rightarrow \nexists \ k \Rightarrow basis$. 
 2. $\vec{e} = \alpha\vec{a} +\beta\vec{b}\Leftrightarrow \begin{pmatrix}-1\\2\end{pmatrix} = \alpha\begin{pmatrix}-5\\-1\end{pmatrix}+\beta{\begin{pmatrix}-1\\3\end{pmatrix}}$ 
    ${\begin{cases}-5\alpha-\beta=-1\\-\alpha+3\beta=2\end{cases}}$ $\Rightarrow \beta=\frac{11}{16}; \ \alpha=\frac{1}{16}$ 
 3. $\vec{l}=\lambda\vec{a}+\beta\vec{b}\Leftrightarrow{\begin{pmatrix}2\\-6\end{pmatrix}}= \alpha\begin{pmatrix}-5\\-1\end{pmatrix}+\beta{\begin{pmatrix}-1\\3\end{pmatrix}}$ 
    $\begin{cases}-5\alpha-\beta=2\\-\alpha+3\beta=-6\end{cases}$ $\Rightarrow \alpha=0; \ \beta=-2$  
+Task 3: $ABCD - \text{trapeziod}\ \frac{|AD|0}{#}$
 # Assignments:
 - Read the topics of lecture: [Аналитическая Геометрия и Линейная Алгебра](Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf)
 - Watch the topics of lecture: [Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)

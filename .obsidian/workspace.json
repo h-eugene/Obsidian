@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predicates.md",
-                "mode": "preview",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicates.md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predicates.md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Predicates.md",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predicates.md"
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md"
               }
             }
           }
@@ -210,7 +210,11 @@
   },
   "active": "e7cad60dd3da0f87",
   "lastOpenFiles": [
+    "Vector Algebra.md",
+    "The Dot product and its properties..md",
+    "Analytical Geometry and Linear Algebra I.md",
     "Basic of Logic.md",
+    "Predicates.md",
     "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
@@ -222,10 +226,8 @@
     "Introduction to Computer Architecture Discipline. Computer Layout - A Brief Overview..md",
     "Fundamentals of Computer Architecture.md",
     "Library/Pasted image 20240913114341.png",
-    "The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
-    "Predicates.md",
     "Introduction. Foundation. Truth Table. Normal Forms..md",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Relations, Functions, Operations.md",
@@ -236,8 +238,6 @@
     "Natural Numbers.md",
     "Excalidraw/Drawing 2024-09-10 12.54.55.excalidraw.md",
     "Mathematical Analysis I.md",
-    "Vector Algebra.md",
-    "Analytical Geometry and Linear Algebra I.md",
     "Introduction to Programming.md",
     "Library/Pasted image 20240910181529.png",
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
