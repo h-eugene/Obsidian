@@ -92,7 +92,7 @@ $\begin{pmatrix}-5\\-1\end{pmatrix}= {\begin{pmatrix}-1*k\\3*k\end{pmatrix}}\Rig
    ${\begin{cases}-5\alpha-\beta=-1\\-\alpha+3\beta=2\end{cases}}$ $\Rightarrow \beta=\frac{11}{16}; \ \alpha=\frac{1}{16}$ 
 3. $\vec{l}=\lambda\vec{a}+\beta\vec{b}\Leftrightarrow{\begin{pmatrix}2\\-6\end{pmatrix}}= \alpha\begin{pmatrix}-5\\-1\end{pmatrix}+\beta{\begin{pmatrix}-1\\3\end{pmatrix}}$ 
    $\begin{cases}-5\alpha-\beta=2\\-\alpha+3\beta=-6\end{cases}$ $\Rightarrow \alpha=0; \ \beta=-2$  
-Task 3: $ABCD - \texttt{Trapeziod},\ \frac{|AD|}{|BC|}=\frac{4}{1},\ M -\texttt{diagonals' intersection}$
+Task 3: $\displaylines{ABCD - \texttt{Trapeziod},\ \frac{|AD|}{|BC|}=\frac{4}{1},\ M -\texttt{diagonals' intersection},\\ P-\texttt{intersection of extensions of the side edges.}\\ \overline{AD}\ \&\ \overline{AB}-\texttt{basis},\ \texttt{Find} M}$
 # Assignments:
 - Read the topics of lecture: [Аналитическая Геометрия и Линейная Алгебра](Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf)
 - Watch the topics of lecture: [Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
