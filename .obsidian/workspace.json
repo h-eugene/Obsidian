@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -160,6 +159,14 @@
                   "close": true
                 }
               }
+            }
+          },
+          {
+            "id": "8d20eeec6bc8dbcd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
