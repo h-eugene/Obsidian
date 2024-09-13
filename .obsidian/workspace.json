@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Fundamental Ideas of Computer Architecture.md",
                 "mode": "preview",
                 "source": false
               }
@@ -82,11 +82,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Fundamental Ideas of Computer Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Fundamental Ideas of Computer Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Fundamental Ideas of Computer Architecture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Fundamental Ideas of Computer Architecture.md"
               }
             }
           }
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,15 +201,20 @@
   },
   "active": "a5380bbeefa31f28",
   "lastOpenFiles": [
+    "Library/Pasted image 20240913114341.png",
+    "The fundamental principles for modern computer systems.md",
+    "Introduction to Computer Architecture Discipline. Computer Layout - A Brief Overview..md",
+    "Fundamental Ideas of Computer Architecture.md",
+    "Fundamentals of Computer Architecture.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
     "The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Predicates.md",
     "Basic of Logic.md",
     "Logic and Discrete Mathematics.md",
-    "Innopolis 1st year - Fall Semester.md",
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Introduction. Foundation. Truth Table. Normal Forms..md",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Relations, Functions, Operations.md",
@@ -225,11 +229,7 @@
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Introduction to Programming.md",
-    "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "Library/Pasted image 20240910181529.png",
-    "The C language.md",
-    "Reading and writing fromto files. Loops and arrays exercises. String exercises. Pointer exercises.md",
-    "Pointers. Arrays..md",
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
     "Без названия.canvas",
     "Excalidraw",

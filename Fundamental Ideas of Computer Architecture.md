@@ -19,3 +19,5 @@
 - **Finite State Machines (FSM)**
   *Finite State Machine $-$ a (finite) set of states and transitions between them; a convenient way to model systems behavior.*
   ![|420](Pasted%20image%2020240906181422.png)
+**A Northbridge / Southbridge Hardware Layout:**
+![|1200](Pasted%20image%2020240913114341.png)
