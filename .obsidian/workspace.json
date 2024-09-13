@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
+                "file": "Predicates.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Predicates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Predicates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -132,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Predicates.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Predicates.md"
               }
             }
           }
@@ -209,22 +210,22 @@
   },
   "active": "e7cad60dd3da0f87",
   "lastOpenFiles": [
-    "References.md",
+    "Basic of Logic.md",
+    "Logic and Discrete Mathematics.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
     "Home/The Beginning.md",
+    "References.md",
     "Lecture 3.md",
     "Fundamental Ideas of Computer Architecture.md",
     "The fundamental principles for modern computer systems.md",
     "Introduction to Computer Architecture Discipline. Computer Layout - A Brief Overview..md",
     "Fundamentals of Computer Architecture.md",
-    "Innopolis 1st year - Fall Semester.md",
-    "Innopolis University.md",
     "Library/Pasted image 20240913114341.png",
     "The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Predicates.md",
-    "Basic of Logic.md",
-    "Logic and Discrete Mathematics.md",
     "Introduction. Foundation. Truth Table. Normal Forms..md",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Relations, Functions, Operations.md",
