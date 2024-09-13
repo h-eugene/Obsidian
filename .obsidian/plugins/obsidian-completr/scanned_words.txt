@@ -3087,6 +3087,7 @@ Denotation
 Declaration
 Dedekind
 Descriptions
+Desktop
 Lecturer
 Link
 Line
@@ -5609,6 +5610,7 @@ LksAoL
 Local
 Loops
 Leibnitz
+Laptop
 Vladimir
 Vector
 VIEW
@@ -22497,6 +22499,7 @@ Created
 Constants
 Counterexample
 Cases
+Characteristics
 Sections
 Surfaces
 Spaces
@@ -25286,6 +25289,7 @@ Semantics
 String
 Singleton
 Southbridge
+Subsystem
 Algebra
 AGLA
 Assignments
@@ -28006,6 +28010,7 @@ Arrays
 Arity
 Axioms
 Anyone
+Average
 and
 algebra
 any
@@ -94222,6 +94227,7 @@ GZv
 GskH
 Getting
 Giuseppe
+Graphics
 basis
 be
 bd

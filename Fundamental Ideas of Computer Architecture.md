@@ -1,5 +1,5 @@
 - **Hierarchy of memories**
-  ![|360](Pasted%20image%2020240906175529.png)
+  ![|360](Pasted%20image%2020240906175529.png) ^e2843f
 - **Design simplification via abstraction use (a CPU example)**
   ![](Pasted%20image%2020240906175623.png)
 - **Moore's law for CPU performance**

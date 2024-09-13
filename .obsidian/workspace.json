@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
-                "mode": "preview",
+                "file": "Lecture 3.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Lecture 3.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md"
+                "file": "Lecture 3.md"
               }
             }
           }
@@ -202,14 +202,15 @@
   },
   "active": "1e3fe405672af1d4",
   "lastOpenFiles": [
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Fundamental Ideas of Computer Architecture.md",
-    "Library/Pasted image 20240913114341.png",
+    "Lecture 3.md",
     "The fundamental principles for modern computer systems.md",
     "Introduction to Computer Architecture Discipline. Computer Layout - A Brief Overview..md",
     "Fundamentals of Computer Architecture.md",
     "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
+    "Library/Pasted image 20240913114341.png",
     "The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
