@@ -41,8 +41,8 @@
 >$u\cdot v = \sum^{n}_{i=1}u_{i}v_{i} = \|u\|\|v\|\cos\theta$
 
 >[!check] Proof
->![dd|300](Pasted%20image%2020240914114030.png)
->asdfsadf
+>![Drawing 2024-09-14 11.42.14.excalidraw](Drawing%202024-09-14%2011.42.14.excalidraw.md)
+>$$\| V_{2}-V_{1}\|^{2}=\|V_{1}\|^{2}+\|V_{2}\|^{2}-2\|V_{1}\|\|V_{2}\| = (a_{1}^{2}+b_{1}^{2}+c_{1}^{2})+(a_{2}^{2}+b_{2}^{2}+c_{2}^{2})$$
 # Cauchy-Schwarz inequality:
 > [!abstract] Cauchy-Schwarz inequality
 > For all $x,y \in \mathbb{R^{n}},$$$|x\cdot y| \leq \|x\|\|y\|.$$

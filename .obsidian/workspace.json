@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "The Dot product and its properties..md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -219,10 +218,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e94ada8fcc65617",
+  "active": "f293b714349fdf53",
   "lastOpenFiles": [
-    "The Dot product and its properties..md",
     "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
+    "The Dot product and its properties..md",
     "Library/Pasted image 20240914114030.png",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Vector Algebra.md",
