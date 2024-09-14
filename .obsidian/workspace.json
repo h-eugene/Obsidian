@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0aaee3aecf354e",
+        "id": "35fbad0b98f66390",
         "type": "tabs",
         "children": [
           {
-            "id": "65de666ab33e1b5a",
+            "id": "f293b714349fdf53",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -206,9 +199,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65de666ab33e1b5a",
+  "active": "f293b714349fdf53",
   "lastOpenFiles": [
     "The Dot product and its properties..md",
+    "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Home/The Beginning.md",
@@ -225,7 +219,6 @@
     "Introduction to Computer Architecture Discipline. Computer Layout - A Brief Overview..md",
     "Fundamentals of Computer Architecture.md",
     "Library/Pasted image 20240913114341.png",
-    "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Introduction. Foundation. Truth Table. Normal Forms..md",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Relations, Functions, Operations.md",
@@ -236,7 +229,6 @@
     "Natural Numbers.md",
     "Excalidraw/Drawing 2024-09-10 12.54.55.excalidraw.md",
     "Mathematical Analysis I.md",
-    "Introduction to Programming.md",
     "Library/Pasted image 20240910181529.png",
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
     "Без названия.canvas",

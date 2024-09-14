@@ -37,8 +37,11 @@
 > - $\| u \| = 0 \Leftrightarrow u = 0$
 > - $\| u+v \| \leq\|u\| + \| v\|$
 
->[!check] Check
+>[!Note] Equality
 >$u\cdot v = \sum^{n}_{i=1}u_{i}v_{i} = \|u\|\|v\|\cos\theta$
+
+>[!check]- Proof
+>sfsdf
 # Cauchy-Schwarz inequality:
 > [!abstract] Cauchy-Schwarz inequality
 > For all $x,y \in \mathbb{R^{n}},$$$|x\cdot y| \leq \|x\|\|y\|.$$
