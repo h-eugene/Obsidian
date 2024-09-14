@@ -10,7 +10,7 @@ banner_icon: 💤
 ---
 # 🚪Directions:
 - **🎓[Innopolis](Innopolis%20University.md)**
-- **📚Books and Courses**
+- **📚[Books and Courses](Books%20and%20Courses.md)
 - **🚀Projects**
 
 **📙[References](References.md)**
