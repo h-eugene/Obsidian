@@ -5,10 +5,10 @@
 >[!abstract] Scalar / dot product: 
 >$a*b = |a||b|\cos\theta$, where $\theta$ is the angle between $a$ and $b$.
   ![Photo|500](Pasted%20image%2020240903223757.png)
-  Scalar projection of vector $a$ on vector $b$ is 
+  [Proof](The%20Dot%20product%20and%20its%20properties..md#^666f08)
+  
+  >[!abstract] Scalar projection of vector $a$ on vector $b$ 
   **A scalar:** $a_{b}=\|a\|\cos \theta$
-  Proof
-
 
 >[!abstract] Orthogonal projection of vector $a$ on vector $b$ 
 > **A vector:** $a_{b}= \hat{b}\|a\|\cos\theta$ 
@@ -49,6 +49,9 @@
 >a_{2}^{2}-2a_{2}a_{1}+a_{1}^{2}+b_{2}^{2}-2b_{2}b_{1}+b_{1}^{2}+c_{2}^{2}-2c_{2}c_{1}+c_{1}^{2}\\
 >\texttt{If we equate two expressions and shorten it, we get: } \\
 >\|V_{1}\|\|V_{2}\|\cos\theta=a_{1}a_{2}+b_{1}b_{2}+c_{1}c_{2}}$$
+
+^666f08
+
 # Cauchy-Schwarz inequality:
 > [!abstract] Cauchy-Schwarz inequality
 > For all $x,y \in \mathbb{R^{n}},$$$|x\cdot y| \leq \|x\|\|y\|.$$
