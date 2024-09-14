@@ -40,8 +40,9 @@
 >[!Note] Equality
 >$u\cdot v = \sum^{n}_{i=1}u_{i}v_{i} = \|u\|\|v\|\cos\theta$
 
->[!check]- Proof
->sfsdf
+>[!check] Proof
+>![|360](Pasted%20image%2020240914114030.png)
+>asdfsadf
 # Cauchy-Schwarz inequality:
 > [!abstract] Cauchy-Schwarz inequality
 > For all $x,y \in \mathbb{R^{n}},$$$|x\cdot y| \leq \|x\|\|y\|.$$
@@ -58,7 +59,7 @@
 > [!abstract] Triangle inequality
 > $\|x+y\|\leq\|x\|+\|y\|.$
 
->[!check] Proof
+>[!check]- Proof
 >$$\|x+y\|^{2}= (x+y)\cdot(x+y)=\|x\|^{2}+2x\cdot y + \|y\|^{2}$$ $$\leq \|x\|^{2}+2\|x\|\|y\| + \|y\|^{2} = (\|x\|+\|y\|)^{2}$$ 
 
 # Orthogonality

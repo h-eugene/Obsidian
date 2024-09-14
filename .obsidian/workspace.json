@@ -11,8 +11,12 @@
             "id": "f293b714349fdf53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Dot product and its properties..md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -78,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Dot product and its properties..md"
+              }
             }
           }
         ]
@@ -201,6 +210,7 @@
   },
   "active": "f293b714349fdf53",
   "lastOpenFiles": [
+    "Library/Pasted image 20240914114030.png",
     "The Dot product and its properties..md",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Vector Algebra.md",
