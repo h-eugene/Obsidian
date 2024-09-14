@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b3a7a56a1a99441",
+        "id": "e8921fbe0e2943fe",
         "type": "tabs",
         "children": [
           {
-            "id": "f62af3da645a5134",
+            "id": "09afa62faca3906c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "Home/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -208,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f62af3da645a5134",
+  "active": "09afa62faca3906c",
   "lastOpenFiles": [
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Vector Algebra.md",
