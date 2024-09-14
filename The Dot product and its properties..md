@@ -44,7 +44,7 @@
 
 >[!check]- Proof
 >![Drawing 2024-09-14 11.42.14.excalidraw](Drawing%202024-09-14%2011.42.14.excalidraw.md)
->$$\displaylines{\| V_{2}-V_{1}\|^{2}=\|V_{1}\|^{2}+\|V_{2}\|^{2}-2\|V_{1}\|\|V_{2}\| = \\(a_{1}^{2}+b_{1}^{2}+c_{1}^{2})+(a_{2}^{2}+b_{2}^{2}+c_{2}^{2})-2\|V_{1}\|\|V_{2}\|\cos\theta\\\texttt{On the other hand, } \\
+>$$\displaylines{\texttt{By cosines' theorem: }\\\| V_{2}-V_{1}\|^{2} = \|V_{1}\|^{2} +\|V_{2}\|^{2}-2\| V_{1}\|\|V_{2}\| = \\(a_{1}^{2}+b_{1}^{2})+(a_{2}^{2}+b_{2}^{2})-2\|V_{1}\|\|V_{2}\|\cos\theta\\\texttt{On the other hand, by default way: } \\
 >\| V_{2}-V_{1}\|^{2}=(a_{2}-a_{1})^{2}+(b_{2}-b_{1})^{2}+(c_{1}-c_{2})^{2}=\\
 >a_{2}^{2}-2a_{2}a_{1}+a_{1}^{2}+b_{2}^{2}-2b_{2}b_{1}+b_{1}^{2}+c_{2}^{2}-2c_{2}c_{1}+c_{1}^{2}\\
 >\texttt{If we equate two expressions and shorten it, we get: } \\
