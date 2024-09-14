@@ -41,13 +41,13 @@
 >$u\cdot v = \sum^{n}_{i=1}u_{i}v_{i} = \|u\|\|v\|\cos\theta$
 
 >[!check] Proof
->![|360](Pasted%20image%2020240914114030.png)
+>![dd|300](Pasted%20image%2020240914114030.png)
 >asdfsadf
 # Cauchy-Schwarz inequality:
 > [!abstract] Cauchy-Schwarz inequality
 > For all $x,y \in \mathbb{R^{n}},$$$|x\cdot y| \leq \|x\|\|y\|.$$
 
-> [!check] Proof
+> [!check]- Proof
 > Consider the expression $\| x- \lambda y \|^{2}.$ We must have $$\displaylines{\|x-\lambda y\|^{2}\geq 0\\
 > (x-\lambda y)\cdot(x - \lambda y)\geq 0\\ 
 > \lambda^{2}\|y\|^{2} - \lambda (2x \cdot y) + \|x\|^{2}\geq 0.}$$

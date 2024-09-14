@@ -14,12 +14,23 @@
               "type": "markdown",
               "state": {
                 "file": "The Dot product and its properties..md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e94ada8fcc65617",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dot product and its properties..md"
+                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md"
               }
             }
           }
@@ -208,10 +219,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f293b714349fdf53",
+  "active": "7e94ada8fcc65617",
   "lastOpenFiles": [
-    "Library/Pasted image 20240914114030.png",
     "The Dot product and its properties..md",
+    "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
+    "Library/Pasted image 20240914114030.png",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
@@ -259,7 +271,6 @@
     "Library/Excalidraw",
     "templates",
     "projects",
-    "periodic/templates",
-    "Excalidraw/Lecture 2 - Theorem 1.png"
+    "periodic/templates"
   ]
 }
