@@ -20,9 +20,9 @@
 | 5         | `<<` `>>`       | Побитовые сдвиги                                       | Bitwise left shift and right shift                |
 | 6         | `<` `<=`        | Меньше, меньше или равно                               | For relational operators < and ≤ respectively     |
 | 6         | `>` `>=`        | Больше, больше или равно                               | For relational operators > and ≥ respectively     |
-| 7         | `==` `!=`       | Равно, не равно                                        | For relational = and ≠ respectively               |
-| 8         | `&`             | Побитовое И                                            | Bitwise AND                                       |
-| 9         | `^`             | Побитовое исключающее ИЛИ                              | Bitwise XOR (exclusive or)                        |
+| 7         | `==, !=`        | Равно, не равно                                        | For relational = and ≠ respectively               |
+| 8         |                 | Побитовое И                                            | Bitwise AND                                       |
+| 9         |                 | Побитовое исключающее ИЛИ                              | Bitwise XOR (exclusive or)                        |
 | 10        | `\|`            | Побитовое ИЛИ                                          | Bitwise OR (inclusive or)                         |
 | 11        | `&&`            | Логическое И                                           | Logical AND                                       |
 | 12        | `\|`            | Логическое ИЛИ                                         | Logical OR                                        |

@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87724857a2b2c0eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Precedence of operations.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precedence of operations.md",
+                "file": "C для начинающих (теория и задачи).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precedence of operations.md",
+                "file": "C для начинающих (теория и задачи).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Precedence of operations.md",
+                "file": "C для начинающих (теория и задачи).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precedence of operations.md"
+                "file": "C для начинающих (теория и задачи).md"
               }
             }
           }
@@ -220,10 +207,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87724857a2b2c0eb",
+  "active": "2e425eb3e336de33",
   "lastOpenFiles": [
-    "C для начинающих (теория и задачи).md",
     "Precedence of operations.md",
+    "C для начинающих (теория и задачи).md",
     "Books and Courses.md",
     "Home/The Beginning.md",
     "The C language.md",
