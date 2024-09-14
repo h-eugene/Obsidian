@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "35fbad0b98f66390",
+        "id": "a6c152ff1783c4f1",
         "type": "tabs",
         "children": [
           {
-            "id": "7e94ada8fcc65617",
+            "id": "f8cd0dfa32ea1a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dot product and its properties..md",
-                "mode": "preview",
+                "file": "Home/The Beginning.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dot product and its properties..md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -208,10 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7e94ada8fcc65617",
+  "active": "f8cd0dfa32ea1a40",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "The Dot product and its properties..md",
+    "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "Library/Photos/Pasted image 20240903223757.png",
     "Library/Pasted image 20240914114030.png",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
