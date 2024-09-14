@@ -27,7 +27,7 @@
 >$$u\cdot v = a_{1}b_{1}+...+a_{n}b_{n}=\sum^{N}_{n=1}a_{n}b_{n}$$
 >Where $u =\{a_{1},...,a_{n}\}$ and $v=\{b_{1},...,b_{n}\}$
 
-> [!attention] Notation
+> [!Note] Notation
 > $u\cdot = (u,v) = u\ v = \langle u,v \rangle$
 # Norm (or a length) of a vector:
 > [!abstract] Definition
