@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f293b714349fdf53",
+            "id": "7e94ada8fcc65617",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "The Dot product and its properties..md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7e94ada8fcc65617",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md"
               }
             }
           }
@@ -218,10 +208,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f293b714349fdf53",
+  "active": "7e94ada8fcc65617",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "The Dot product and its properties..md",
+    "Library/Photos/Pasted image 20240903223757.png",
     "Library/Pasted image 20240914114030.png",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Vector Algebra.md",
@@ -249,7 +240,6 @@
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Natural Numbers.md",
     "Excalidraw/Drawing 2024-09-10 12.54.55.excalidraw.md",
-    "Mathematical Analysis I.md",
     "Library/Pasted image 20240910181529.png",
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
     "Без названия.canvas",
@@ -266,7 +256,6 @@
     "Library/illustration-city-anime-painting-wallpaper-thumb.jpg",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg",
-    "Library/Pasted image 20240908203938.png",
     "Library/Excalidraw",
     "templates",
     "projects",

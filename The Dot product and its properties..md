@@ -5,8 +5,10 @@
 >[!abstract] Scalar / dot product: 
 >$a*b = |a||b|\cos\theta$, where $\theta$ is the angle between $a$ and $b$.
   ![Photo|500](Pasted%20image%2020240903223757.png)
->[!Abstract] Scalar projection of vector $a$ on vector $b$  
->**A scalar:** $a_{b}=\|a\|\cos \theta$ 
+  Scalar projection of vector $a$ on vector $b$ is 
+  **A scalar:** $a_{b}=\|a\|\cos \theta$
+  Proof
+
 
 >[!abstract] Orthogonal projection of vector $a$ on vector $b$ 
 > **A vector:** $a_{b}= \hat{b}\|a\|\cos\theta$ 
