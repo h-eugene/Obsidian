@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ident",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,14 +87,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "identity",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "8e68b3348704f47e",
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -209,6 +210,8 @@
   },
   "active": "a7423b38d05ce7b9",
   "lastOpenFiles": [
+    "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
+    "Number Systems. Axiomatic approaches..md",
     "Introduction.md",
     "Basics of naive Set Theory..md",
     "Mathematical Analysis I.md",
@@ -237,8 +240,6 @@
     "Lecture 3.md",
     "Fundamental Ideas of Computer Architecture.md",
     "The fundamental principles for modern computer systems.md",
-    "Introduction to Computer Architecture Discipline. Computer Layout - A Brief Overview..md",
-    "Fundamentals of Computer Architecture.md",
     "Library/Pasted image 20240913114341.png",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/Pasted image 20240910181529.png",

@@ -33,4 +33,8 @@
 	- if $z\not = x$ then $x<z$ and if $z\neq y$ then $z<y$.
 # Real numbers is a field...:
 - **Commutativity, Associativity, Distributivity works.**
-- 
+- **Additive and multiplicative identity:** there exists two distinct elements $0$ and $1$ that $a+0=a$ and $a\cdot 1 = a$ for every $a$.
+- **Multiplicative inverses:** for every $a\neq 0$ there exists an element $a^{-}$ ) also denoted as $\frac{1}{a}$) such that $a\cdot a^{-}=1$.
+# But a special field...:
+- Every upper / down bounded $A\subseteq \mathbb{R}$ has supremum / infimum respectively:
+	- If there exists some $b\in \mathbb{R}$ such that if $a < b$ for all $a\in A$, then there
