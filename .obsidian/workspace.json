@@ -23,9 +23,11 @@
             "id": "ab9cc282e7eb1f95",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md"
+                "file": "The Dot product and its properties..md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -154,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -286,9 +289,12 @@
   },
   "active": "ab9cc282e7eb1f95",
   "lastOpenFiles": [
+    "Vector Algebra.md",
+    "Introduction. Vector Spaces. Linear Independence. Basis..md",
+    "Analytical Geometry and Linear Algebra I.md",
+    "Excalidraw/multiplication of matrices.md",
     "Excalidraw/Drawing 2024-09-16 21.42.15.excalidraw.md",
     "Excalidraw/Drawing 2024-09-16 21.42.25.excalidraw.md",
-    "Excalidraw/multiplication of matrices.md",
     "Theory of sequences and their limits..md",
     "Number Systems. Axiomatic approaches..md",
     "Excalidraw/Drawing 2024-09-16 10.41.08.excalidraw.md",
@@ -311,9 +317,6 @@
     "Codes.md",
     "Library/Programming/C Programming Language.pdf",
     "The Dot product and its properties..md",
-    "Vector Algebra.md",
-    "Analytical Geometry and Linear Algebra I.md",
-    "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "Library/Photos/Pasted image 20240903223757.png",
     "Library/Pasted image 20240914114030.png",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
