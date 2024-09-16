@@ -28,9 +28,19 @@
                 "file": "Excalidraw/multiplication of matrices.md"
               }
             }
+          },
+          {
+            "id": "c9319e888cd212eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-16 21.42.15.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "Excalidraw/Drawing 2024-09-16 21.42.25.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "Excalidraw/Drawing 2024-09-16 21.42.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "Excalidraw/Drawing 2024-09-16 21.42.25.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md"
+                "file": "Excalidraw/Drawing 2024-09-16 21.42.25.excalidraw.md"
               }
             }
           }
@@ -239,10 +249,47 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ab9cc282e7eb1f95",
+  "floating": {
+    "id": "3bad0b66b8ea86e9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0561c571cd51fff1",
+        "type": "window",
+        "children": [
+          {
+            "id": "bdfeb7a241676d21",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "37787ee526e4aa50",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2024-09-16 21.42.25.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 52,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "37787ee526e4aa50",
   "lastOpenFiles": [
-    "Theory of sequences and their limits..md",
+    "Excalidraw/Drawing 2024-09-16 21.42.15.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-16 21.42.25.excalidraw.md",
     "Excalidraw/multiplication of matrices.md",
+    "Theory of sequences and their limits..md",
     "Number Systems. Axiomatic approaches..md",
     "Excalidraw/Drawing 2024-09-16 10.41.08.excalidraw.md",
     "Excalidraw/Drawing 2024-09-16 10.39.17.excalidraw.md",
@@ -270,8 +317,6 @@
     "Library/Photos/Pasted image 20240903223757.png",
     "Library/Pasted image 20240914114030.png",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
-    "Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "Basic of Logic.md",
     "Library/Pasted image 20240913114341.png",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/Pasted image 20240910181529.png",
