@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "preview",
+                "file": "Number Systems. Axiomatic approaches..md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Number Systems. Axiomatic approaches..md"
               }
             }
           }
@@ -210,15 +210,18 @@
   },
   "active": "a7423b38d05ce7b9",
   "lastOpenFiles": [
+    "Introduction.md",
+    "Basics of naive Set Theory..md",
+    "Mathematical Analysis I.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
     "C для начинающих (теория и задачи).md",
     "Precedence of operations.md",
     "Books and Courses.md",
-    "Home/The Beginning.md",
     "The C language.md",
     "Introduction to Programming.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Logic and Discrete Mathematics.md",
-    "Innopolis University.md",
     "Codes.md",
     "Library/Programming/C Programming Language.pdf",
     "The Dot product and its properties..md",
@@ -238,9 +241,6 @@
     "Introduction to Computer Architecture Discipline. Computer Layout - A Brief Overview..md",
     "Fundamentals of Computer Architecture.md",
     "Library/Pasted image 20240913114341.png",
-    "Introduction. Foundation. Truth Table. Normal Forms..md",
-    "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
-    "Relations, Functions, Operations.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/Pasted image 20240910181529.png",
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
