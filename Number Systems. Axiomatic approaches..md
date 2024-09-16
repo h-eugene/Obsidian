@@ -31,3 +31,6 @@
 	- then there exists some $z$ such that
 	- for all $x\in X$ and $y \in Y$,
 	- if $z\not = x$ then $x<z$ and if $z\neq y$ then $z<y$.
+# Real numbers is a field...:
+- **Commutativity, Associativity, Distributivity works.**
+- 
