@@ -17,4 +17,10 @@
 	- infix "<" for a total binary relation on $\mathbb{R}$,
 	- infix "+" for addition over $\mathbb{R}$,
 	- and the constant $1$.
-- We intraoduce Tarski axioms with operation "+" only while multiplication may be introduced asd derived operation.
+- We introduce Tarski axioms with operation "+" only while multiplication may be introduced asd derived operation.
+  
+- Permutable associativity: For all $x,y,$ and $z$, $x+(y+z)=(x+z)+y.$
+- Subtraction: For all $x,y,$ there exists some $z$ such that $x+z=y.$
+- Monotonicity: If $x+y<z+w$, then $x<z$ or $y<w$.
+- Axioms for one: $1\in \mathbb{R}$ and $1<1+1$.
+- Irreflexivity of $<:$ if $x<y$. then not $y<x$.
