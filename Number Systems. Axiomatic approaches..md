@@ -19,8 +19,15 @@
 	- and the constant $1$.
 - We introduce Tarski axioms with operation "+" only while multiplication may be introduced asd derived operation.
   
-- Permutable associativity: For all $x,y,$ and $z$, $x+(y+z)=(x+z)+y.$
-- Subtraction: For all $x,y,$ there exists some $z$ such that $x+z=y.$
-- Monotonicity: If $x+y<z+w$, then $x<z$ or $y<w$.
-- Axioms for one: $1\in \mathbb{R}$ and $1<1+1$.
-- Irreflexivity of $<:$ if $x<y$. then not $y<x$.
+- **Permutable associativity**: For all $x,y,$ and $z$, $x+(y+z)=(x+z)+y.$
+- **Subtraction:** For all $x,y,$ there exists some $z$ such that $x+z=y.$
+- **Monotonicity:** If $x+y<z+w$, then $x<z$ or $y<w$.
+- **Axioms for one:** $1\in \mathbb{R}$ and $1<1+1$.
+- **Irreflexivity of $<:$** if $x<y$. then not $y<x$.
+- **$<$ is dense:** If $x<z$, there exists a $y$ such that $x<y$ and $y<z$.
+- **$<$ is Dedekind-complete:**
+	- for all $X,Y \subseteq \mathbb{R}$,
+	- if for all $x\in X$ and $y\in Y$, if $x<y$,
+	- then there exists some $z$ such that
+	- for all $x\in X$ and $y \in Y$,
+	- if $z\not = x$ then $x<z$ and if $z\neq y$ then $z<y$.
