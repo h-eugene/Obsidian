@@ -8,4 +8,13 @@
   If a proposition $P(n)$
   >- (base of induction) proved for a given natural number $m$ (for example, for m = 2023)
   >- and if (step of induction) from the hypothesis (assumption) that $P(k)$ is true for a natural number $k$, it follows that it is true for the natural following $k$ (i.e, for (k+1)),
-  >then the proposition $P(n)$ is true for all natural numbers starting from $m$.
+>
+>then the proposition $P(n)$ is true for all natural numbers starting from $m$.
+
+# Tarski's axiomatization
+- Alfred Tarski set out (in 1936) an axiomatization of the real numbers and their arithmetic, using the following signature:
+	- $\mathbb{R}$ for the set of reals,
+	- infix "<" for a total binary relation on $\mathbb{R}$,
+	- infix "+" for addition over $\mathbb{R}$,
+	- and the constant $1$.
+- We intraoduce Tarski axioms with operation "+" only while multiplication may be introduced asd derived operation.
