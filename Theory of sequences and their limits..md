@@ -8,4 +8,9 @@
 > - Examples:
 > 	- Sequence $(1- \frac{1}{n+1})_{n\in \mathbb{N}}$ has a limit $1$.
 > 	- Sequence $((-1)^{n} - \frac{1}{n+1})_{n\in\mathbb{N}}$ has no any limit.
-> -
+
+# Sequences and their limits
+
+- A sequence converges to a real number $x\in \mathbb{R}$, if the sequences has $x$ as a limit.
+- A sequences converges (or has a limit), if it has a limit (i.e, there exists $x$ such that ...).
+- A sequences
