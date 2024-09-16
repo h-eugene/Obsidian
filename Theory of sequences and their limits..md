@@ -21,4 +21,8 @@
 
 - A sequence $(y_{n})_{n\in \mathbb{N}}$ is said to be a subsequence of a sequence $(x_{n})_{x\in \mathbb{N}}$, if there exists a strictly monotone (strictly increasing / growing) total ("sub-indexing") function $m: \mathbb{N}\to\mathbb{N}$ such that for all $n\in\mathbb{N}$ holds $y_{n}=x_{m(n)}$.
 - Example: Sequence $0,2,4,...$ of even numbers is a subsequence of all natural numbers $0,1,2,...$ but not vice-versa, a sub-indexing function is $m=\lambda m \in \mathbb{N}.(2n)$.
-- Subsequence of a conv
+- Subsequence of a converging sequence does converge to the same limit as the sequence itself.
+  >[!check] Prove
+  >- A sequence $(x_{n})$ converges to a limit $L$. This means:
+  >  $$\forall \epsilon >0, \exists N \in \mathbb{N}\ :\ \forall n\geq N, |x_{n}-L|<\epsilon.$$
+  >  
