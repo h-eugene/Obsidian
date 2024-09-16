@@ -201,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "8230a8f50f8d4fd9",
@@ -222,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,7 +242,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ab5ab5b61f2a13f4",
+  "active": "9abb6fb01985d631",
   "lastOpenFiles": [
     "smart-chats/UNTITLED CHAT 2024-09-16 02 58 23.md",
     "Introduction.md",
