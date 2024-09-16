@@ -25299,6 +25299,7 @@ Singleton
 Southbridge
 Subsystem
 Subtraction
+Supremum
 Algebra
 AGLA
 Assignments
@@ -28023,6 +28024,7 @@ Average
 ABCD
 Alfred
 Associativity
+Additive
 and
 algebra
 any
@@ -42178,6 +42180,7 @@ MaHgU
 Meyers
 Membership
 Monotonicity
+Multiplicative
 pdf
 previous
 prove
@@ -65171,6 +65174,8 @@ denotions
 dividing
 diagonals
 dense
+denoted
+down
 independency
 in
 info
@@ -68839,6 +68844,8 @@ interpretation
 intersection
 immediately
 infix
+inverses
+infimum
 For
 Functions
 Frolov
@@ -79840,6 +79847,9 @@ shared
 sfsdf
 starting
 signature
+supremum
+sup
+sequences
 exist
 excalidraw
 everything
@@ -82777,6 +82787,7 @@ examples
 estimate
 existential
 extensions
+exact
 have
 hQ
 hfRF
@@ -96830,6 +96841,7 @@ binary
 bijection
 bound
 becomes
+bounded
 EXCALIDRAW
 Excalidraw
 Elements
@@ -106305,6 +106317,7 @@ member
 mathematician
 multiplicities
 meanings
+multiplicative
 You
 YC
 YR
@@ -115141,6 +115154,7 @@ uDBJ
 unordered
 universal
 usually
+upper
 represented
 ru
 rows
@@ -117944,6 +117958,7 @@ reflexive
 range
 resampling
 reals
+reaches
 Zorich
 ZM
 ZB
