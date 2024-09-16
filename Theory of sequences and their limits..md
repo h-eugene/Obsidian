@@ -3,7 +3,7 @@
 - A real number $x\in \mathbb{R}$ is said to be a limit of a sequences $(x_{n})_{n\in N}$, (notation $x=\lim_{x\to\infty} x_{n}$) if
 	- for each (any) real $\epsilon>0$ 
 		- for some (i.e., there exists) $m\in \mathbb{N}$ such that 
-			- for all $n\geq m$ holds $|x-x_{n}|\leq \epsilon$.
+			- for all $n\geq m$ holds $|x_{m}-x_{n}|\leq \epsilon$.
 > [!hint] Examples and exercises
 > - Examples:
 > 	- Sequence $(1- \frac{1}{n+1})_{n\in \mathbb{N}}$ has a limit $1$.
