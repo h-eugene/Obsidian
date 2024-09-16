@@ -139,6 +139,7 @@
       {
         "id": "762a57a3118be348",
         "type": "tabs",
+        "dimension": 72.97619047619047,
         "children": [
           {
             "id": "96807406faa38874",
@@ -200,11 +201,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "8230a8f50f8d4fd9",
         "type": "tabs",
+        "dimension": 27.023809523809522,
         "children": [
           {
             "id": "e7a551ce9606235a",
@@ -220,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +241,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ab9cc282e7eb1f95",
+  "active": "ab5ab5b61f2a13f4",
   "lastOpenFiles": [
+    "smart-chats/UNTITLED CHAT 2024-09-16 02 58 23.md",
     "Introduction.md",
     "Theory of sequences and their limits..md",
     "Number Systems. Axiomatic approaches..md",
@@ -272,7 +274,6 @@
     "Predicates.md",
     "References.md",
     "Lecture 3.md",
-    "Fundamental Ideas of Computer Architecture.md",
     "Library/Pasted image 20240913114341.png",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/Pasted image 20240910181529.png",

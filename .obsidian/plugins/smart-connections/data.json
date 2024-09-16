@@ -33,5 +33,6 @@
     "embedding_progress": true,
     "embedding_complete": true,
     "Notice muted": true
-  }
+  },
+  "free_chat_uses": 2
 }
