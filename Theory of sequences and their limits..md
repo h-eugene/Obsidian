@@ -4,3 +4,7 @@
 	- for each (any) real $\epsilon>0$ 
 		- for some (i.e., there exists) $m\in \mathbb{N}$ such that 
 			- for all $n\geq m$ holds $|x-x_{n}|\leq \epsilon$.
+> [!hint] Examples and exercises
+> - Examples:
+> 	- Sequence $(1- \frac{1}{n+1})_{n\in \mathbb{N}}$ has a limit $1$.
+> 	- Sequence $((-1)^{n} - \frac{1}{n+1})$
