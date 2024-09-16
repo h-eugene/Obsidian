@@ -38,4 +38,6 @@
 # But a special field..:
 - Every upper / down bounded $A\subseteq \mathbb{R}$ has supremum / infimum respectively:
 	- If there exists some $b\in \mathbb{R}$ such that if $a < b$ for all $a\in A$, then there exists some $c\in \mathbb{R}$ such that if $a\leq c$ for all $a\in A$, and $c\leq d$ where $d$ is any upper bound for $A$ (i.em $a\leq$ d for all $a\in A$).
-	- If there exists some $b\in \mathbb{R}$ such that if $b<a\ |\ \forall a\in A$, then there exists some $c\in \mathbb{R}$ such that if $c\leq a \ | \ \forall a\in A$, and 
+	  Explanation
+	- If there exists some $b\in \mathbb{R}$ such that if $b<a\ |\ \forall a\in A$, then there exists some $c\in \mathbb{R}$ such that if $c\leq a \ | \ \forall a\in A$, and $d\leq c$ where $d$ is any upper bound for $A$ (i.e., $d\leq a \ |\ \forall a \in A$).
+- Supremum and infimum of a set $A$ are denoted (if any) as sup $A$ and inf $A$ respectively:
