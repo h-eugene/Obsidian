@@ -25300,6 +25300,8 @@ Southbridge
 Subsystem
 Subtraction
 Supremum
+Sequences
+Sequence
 Algebra
 AGLA
 Assignments
@@ -53429,6 +53431,7 @@ lifetime
 leak
 leave
 live
+limit
 geometria
 gN
 gQ
@@ -79850,6 +79853,8 @@ signature
 supremum
 sup
 sequences
+said
+sequence
 exist
 excalidraw
 everything
@@ -88606,6 +88611,7 @@ counting
 contain
 consist
 counterexample
+converges
 Necessity
 Nikolay
 Natural

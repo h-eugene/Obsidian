@@ -12,5 +12,5 @@
 # Sequences and their limits
 
 - A sequence converges to a real number $x\in \mathbb{R}$, if the sequences has $x$ as a limit.
-- A sequences converges (or has a limit), if it has a limit (i.e, there exists $x$ such that ...).
-- A sequences
+- A sequences converges (or has a limit), if it has a limit (i.e, there exists $x$ such that ..).
+- A sequences $(x_{n})_{x\in \mathbb{N}}$ is bounded, if for some interval $[a,b]\subseteq\mathbb{R}$ and each (all) $n \in \mathbb{N}$ holds $x_{n}\in [a,b]$. 
