@@ -14,3 +14,6 @@
 - A sequence converges to a real number $x\in \mathbb{R}$, if the sequences has $x$ as a limit.
 - A sequences converges (or has a limit), if it has a limit (i.e, there exists $x$ such that ..).
 - A sequences $(x_{n})_{x\in \mathbb{N}}$ is bounded, if for some interval $[a,b]\subseteq\mathbb{R}$ and each (all) $n \in \mathbb{N}$ holds $x_{n}\in [a,b]$. 
+>[!hint] Examples and exercises
+>- Sequences $(1- \frac{1}{n+1})_{n\in\mathbb{N}}$ and $((-1)^{n} - \frac{1}{n+1})$ are bounded.
+>- Which of the sequences $(2 + (-1)^{n}/\sqrt{})$
