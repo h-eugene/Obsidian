@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "973f3317d2cc4f4c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-16 13.27.02.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory of sequences and their limits..md",
+                "file": "Excalidraw/Drawing 2024-09-16 13.27.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory of sequences and their limits..md",
+                "file": "Excalidraw/Drawing 2024-09-16 13.27.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theory of sequences and their limits..md",
+                "file": "Excalidraw/Drawing 2024-09-16 13.27.02.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory of sequences and their limits..md"
+                "file": "Excalidraw/Drawing 2024-09-16 13.27.02.excalidraw.md"
               }
             }
           }
@@ -242,13 +252,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ab9cc282e7eb1f95",
+  "active": "973f3317d2cc4f4c",
   "lastOpenFiles": [
+    "Theory of sequences and their limits..md",
+    "Excalidraw/Drawing 2024-09-16 13.27.02.excalidraw.md",
     "Number Systems. Axiomatic approaches..md",
     "Excalidraw/Drawing 2024-09-16 10.41.08.excalidraw.md",
     "Excalidraw/Drawing 2024-09-16 10.39.17.excalidraw.md",
     "Introduction.md",
-    "Theory of sequences and their limits..md",
     "smart-chats/UNTITLED CHAT 2024-09-16 02 58 23.md",
     "smart-chats",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
@@ -274,7 +285,6 @@
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Basic of Logic.md",
-    "Predicates.md",
     "Library/Pasted image 20240913114341.png",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/Pasted image 20240910181529.png",
