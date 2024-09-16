@@ -31,10 +31,11 @@
 	- then there exists some $z$ such that
 	- for all $x\in X$ and $y \in Y$,
 	- if $z\not = x$ then $x<z$ and if $z\neq y$ then $z<y$.
-# Real numbers is a field...:
+# Real numbers is a field..:
 - **Commutativity, Associativity, Distributivity works.**
 - **Additive and multiplicative identity:** there exists two distinct elements $0$ and $1$ that $a+0=a$ and $a\cdot 1 = a$ for every $a$.
 - **Multiplicative inverses:** for every $a\neq 0$ there exists an element $a^{-}$ ) also denoted as $\frac{1}{a}$) such that $a\cdot a^{-}=1$.
-# But a special field...:
+# But a special field..:
 - Every upper / down bounded $A\subseteq \mathbb{R}$ has supremum / infimum respectively:
-	- If there exists some $b\in \mathbb{R}$ such that if $a < b$ for all $a\in A$, then there
+	- If there exists some $b\in \mathbb{R}$ such that if $a < b$ for all $a\in A$, then there exists some $c\in \mathbb{R}$ such that if $a\leq c$ for all $a\in A$, and $c\leq d$ where $d$ is any upper bound for $A$ (i.em $a\leq$ d for all $a\in A$).
+	- If there exists some $b\in \mathbb{R}$ such that if $b<a\ |\ \forall a\in A$, then there exists some $c\in \mathbb{R}$ such that if $c\leq a \ | \ \forall a\in A$, and 
