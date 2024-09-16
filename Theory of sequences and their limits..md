@@ -7,4 +7,5 @@
 > [!hint] Examples and exercises
 > - Examples:
 > 	- Sequence $(1- \frac{1}{n+1})_{n\in \mathbb{N}}$ has a limit $1$.
-> 	- Sequence $((-1)^{n} - \frac{1}{n+1})$
+> 	- Sequence $((-1)^{n} - \frac{1}{n+1})_{n\in\mathbb{N}}$ has no any limit.
+> -
