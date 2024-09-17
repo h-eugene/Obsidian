@@ -71828,6 +71828,7 @@ Fucntion
 Free
 Fact
 FALSE
+Files
 vectors
 vector
 variable
@@ -88637,6 +88638,7 @@ converge
 context
 closer
 calculus
+cfd
 Necessity
 Nikolay
 Natural
@@ -96873,6 +96875,7 @@ bijection
 bound
 becomes
 bounded
+bafe
 EXCALIDRAW
 Excalidraw
 Elements
@@ -99922,6 +99925,7 @@ Examples
 Equality
 Exists
 Every
+Embedded
 OPTIONS
 Operations
 Obtain

@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "028b99c30b9a6c3c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -201,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dot product and its properties..md"
+                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md"
               }
             }
           }
@@ -229,11 +240,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4a651e6957f24564",
+  "active": "028b99c30b9a6c3c",
   "lastOpenFiles": [
+    "The Dot product and its properties..md",
+    "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md",
     "Excalidraw/multiplication of matrices.md",
     "Home/The Beginning.md",
-    "The Dot product and its properties..md",
     "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
