@@ -11,9 +11,11 @@
             "id": "4a651e6957f24564",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md"
+                "file": "Home/The Beginning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
       {
         "id": "762a57a3118be348",
         "type": "tabs",
-        "dimension": 72.97619047619048,
+        "dimension": 72.97619047619047,
         "children": [
           {
             "id": "96807406faa38874",
@@ -131,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +192,7 @@
       {
         "id": "8230a8f50f8d4fd9",
         "type": "tabs",
-        "dimension": 27.023809523809526,
+        "dimension": 27.023809523809522,
         "children": [
           {
             "id": "e7a551ce9606235a",
@@ -198,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -228,6 +230,7 @@
   },
   "active": "4a651e6957f24564",
   "lastOpenFiles": [
+    "Excalidraw/multiplication of matrices.md",
     "The Dot product and its properties..md",
     "Home/The Beginning.md",
     "Vector Algebra.md",
@@ -239,7 +242,6 @@
     "Excalidraw/Drawing 2024-09-16 21.42.15.excalidraw.md",
     "Excalidraw/Drawing 2024-09-16 21.42.25.excalidraw.md",
     "Analytical Geometry and Linear Algebra I.md",
-    "Excalidraw/multiplication of matrices.md",
     "Theory of sequences and their limits..md",
     "Number Systems. Axiomatic approaches..md",
     "Introduction.md",
