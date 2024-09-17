@@ -11,9 +11,11 @@
             "id": "ab9cc282e7eb1f95",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Library/English/American_English_File_2_-_Student_39_s_Book.pdf"
+                "file": "The Dot product and its properties..md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +93,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "8e68b3348704f47e",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -131,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/English/American_English_File_2_-_Student_39_s_Book.pdf"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -228,6 +230,9 @@
   },
   "active": "ab9cc282e7eb1f95",
   "lastOpenFiles": [
+    "Vector Algebra.md",
+    "Introduction. Vector Spaces. Linear Independence. Basis..md",
+    "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "Excalidraw/Drawing 2024-09-16 10.41.08.excalidraw.md",
     "Excalidraw/Drawing 2024-09-16 10.39.17.excalidraw.md",
     "smart-chats/UNTITLED CHAT 2024-09-16 02 58 23.md",
@@ -235,8 +240,6 @@
     "The Dot product and its properties..md",
     "Excalidraw/Drawing 2024-09-16 21.42.25.excalidraw.md",
     "Home/The Beginning.md",
-    "Vector Algebra.md",
-    "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Analytical Geometry and Linear Algebra I.md",
     "Excalidraw/multiplication of matrices.md",
     "Theory of sequences and their limits..md",
@@ -254,7 +257,6 @@
     "The C language.md",
     "Introduction to Programming.md",
     "Logic and Discrete Mathematics.md",
-    "Codes.md",
     "Library/Programming/C Programming Language.pdf",
     "Library/Photos/Pasted image 20240903223757.png",
     "Library/Pasted image 20240914114030.png",
@@ -277,7 +279,6 @@
     "Library/illustration-city-anime-painting-wallpaper-thumb.jpg",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
     "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg",
-    "Library/Excalidraw",
-    "templates"
+    "Library/Excalidraw"
   ]
 }
