@@ -19696,6 +19696,7 @@ technique
 things
 textis
 texttt
+topic
 Course
 Curves
 Continuation
@@ -22508,6 +22509,7 @@ Cases
 Characteristics
 Codes
 Commutativity
+Could
 Sections
 Surfaces
 Spaces
@@ -30847,6 +30849,8 @@ assume
 agree
 assumption
 axiomatization
+assistant
+analysis
 Plane
 Problem
 Prove
@@ -38758,6 +38762,7 @@ BJo
 Binary
 Bootstrap
 Bound
+Based
 Material
 MORE
 Mathematical
@@ -45009,6 +45014,8 @@ presented
 possible
 people
 proved
+provided
+please
 Read
 Relations
 RY
@@ -65182,6 +65189,7 @@ diagonals
 dense
 denoted
 down
+details
 independency
 in
 info
@@ -68855,6 +68863,7 @@ infimum
 interval
 increasing
 indexing
+infinity
 For
 Functions
 Frolov
@@ -79865,6 +79874,7 @@ said
 sequence
 subsequence
 strictly
+specific
 exist
 excalidraw
 everything
@@ -88624,6 +88634,9 @@ counterexample
 converges
 converging
 converge
+context
+closer
+calculus
 Necessity
 Nikolay
 Natural
@@ -106337,6 +106350,7 @@ multiplicities
 meanings
 multiplicative
 monotone
+mathematics
 You
 YC
 YR
@@ -112165,6 +112179,8 @@ wkQWlHGA
 wrap
 whether
 works
+wrote
+written
 under
 up
 unclear
