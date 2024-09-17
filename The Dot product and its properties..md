@@ -11,7 +11,7 @@
   **A scalar:** $a_{b}=\|a\|\cos \theta$
 
 >[!abstract] Orthogonal projection of vector $a$ on vector $b$ 
-> **A vector:** $a_{b}= \hat{b}\|a\|\cos\theta$ 
+> **A vector:** $Proj_{b}a = \hat{b}\|a\|\cos\theta = \frac{\vec{b}}{\|b\|}\|a\|\cdot \frac{\vec{a}\vec{b}}{\|a\|\|b\|}$ 
   $\hat{b}$ is the *unit vector* in the direction on $b$
   >
   >**Explanation:**

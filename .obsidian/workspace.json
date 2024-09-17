@@ -14,23 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "The Dot product and its properties..md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "028b99c30b9a6c3c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -240,10 +229,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "028b99c30b9a6c3c",
+  "active": "4a651e6957f24564",
   "lastOpenFiles": [
-    "The Dot product and its properties..md",
     "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md",
+    "The Dot product and its properties..md",
     "Excalidraw/multiplication of matrices.md",
     "Home/The Beginning.md",
     "Vector Algebra.md",
