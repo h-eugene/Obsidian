@@ -42,5 +42,11 @@
       "None": {}
     }
   },
-  "smart_chats_folder": "smart-chats"
+  "smart_chats_folder": "smart-chats",
+  "muted_notices": {
+    "embedding_progress": true,
+    "embedding_complete": true,
+    "Notice muted": true
+  },
+  "free_chat_uses": 2
 }
