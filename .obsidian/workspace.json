@@ -11,9 +11,11 @@
             "id": "4a651e6957f24564",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md"
+                "file": "The Dot product and its properties..md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -229,8 +231,8 @@
   },
   "active": "4a651e6957f24564",
   "lastOpenFiles": [
-    "Home/The Beginning.md",
     "Excalidraw/multiplication of matrices.md",
+    "Home/The Beginning.md",
     "The Dot product and its properties..md",
     "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
