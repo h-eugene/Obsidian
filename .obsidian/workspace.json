@@ -11,12 +11,8 @@
             "id": "e965939f2702e8e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -82,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "8e68b3348704f47e",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,25 +161,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "9abb6fb01985d631",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "ab5ab5b61f2a13f4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8230a8f50f8d4fd9",
@@ -199,16 +175,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home/The Beginning.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,11 +197,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "obsidian-git:Open Git source control": true,
       "homepage:Open homepage": true,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "copilot:Copilot Chat": false
     }
   },
   "active": "e965939f2702e8e0",
   "lastOpenFiles": [
+    "Home/The Beginning.md",
     "smart-chats/UNTITLED CHAT 2024-09-20 07 08 32.md",
     "smart-chats/UNTITLED CHAT 2024-09-20 06 57 44.md",
     "Logic and Discrete Mathematics.md",
@@ -234,7 +211,6 @@
     "Introduction.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Innopolis University.md",
-    "Home/The Beginning.md",
     "Books and Courses.md",
     "C для начинающих (теория и задачи).md",
     "Precedence of operations.md",
