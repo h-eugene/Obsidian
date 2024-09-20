@@ -48,5 +48,8 @@
     "embedding_complete": true,
     "Notice muted": true
   },
-  "free_chat_uses": 2
+  "free_chat_uses": 2,
+  "openai": {
+    "api_key": "sk-abcdef1234567890abcdef1234567890abcdef12"
+  }
 }

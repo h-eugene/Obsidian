@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -126,7 +125,7 @@
       {
         "id": "762a57a3118be348",
         "type": "tabs",
-        "dimension": 57.16019417475729,
+        "dimension": 75.72815533980582,
         "children": [
           {
             "id": "58dfc85ffeb72816",
@@ -188,12 +187,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "8230a8f50f8d4fd9",
         "type": "tabs",
-        "dimension": 42.83980582524271,
+        "dimension": 24.271844660194176,
         "children": [
           {
             "id": "e7a551ce9606235a",
@@ -228,8 +227,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ab5ab5b61f2a13f4",
+  "active": "9abb6fb01985d631",
   "lastOpenFiles": [
+    "smart-chats/UNTITLED CHAT 2024-09-20 07 08 32.md",
     "smart-chats/UNTITLED CHAT 2024-09-20 06 57 44.md",
     "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
@@ -258,7 +258,6 @@
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Basics of naive Set Theory..md",
     "Mathematical Analysis I.md",
-    "The C language.md",
     "Library/Programming/C Programming Language.pdf",
     "Library/Photos/Pasted image 20240903223757.png",
     "Library/Pasted image 20240914114030.png",
