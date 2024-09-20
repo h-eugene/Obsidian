@@ -6,6 +6,12 @@
 > *List* $X = \{x_{1}, x_{2},..., x_{n}\}$
 > *Rule* $X = \{x\ |$ some condition on $x$ holds$\}$
 
+> [!abstract] Extension Principal (Leibniz)
+> Two sets equal if and only if they have the same elements.
+> $$A=B$$
+
+
+
 
 # Cartesian product:
 # Power Set:

@@ -5612,6 +5612,7 @@ Local
 Loops
 Leibnitz
 Laptop
+Leibniz
 Vladimir
 Vector
 VIEW
@@ -14408,6 +14409,7 @@ TRUE
 Trapeziod
 Tarski
 Ternary
+Two
 nomemm
 need
 necessary
@@ -22517,6 +22519,7 @@ Cast
 Comma
 Code
 Conflicts
+Cardinality
 Sections
 Surfaces
 Spaces
@@ -33438,6 +33441,7 @@ Precedence
 Permutable
 Prefix
 Please
+Principal
 Quadratic
 Qn
 QL
@@ -99984,6 +99988,7 @@ Equality
 Exists
 Every
 Embedded
+Extension
 OPTIONS
 Operations
 Obtain
