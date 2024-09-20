@@ -7,12 +7,9 @@
   "homepage",
   "templater-obsidian",
   "note-refactor-obsidian",
-  "obsidian42-brat",
   "obsidian-better-internal-link-inserter",
   "obsidian-minimal-settings",
   "calendar",
   "periodic-notes",
-  "dataview",
-  "obsidian-banners",
-  "smart-connections"
+  "dataview"
 ]
