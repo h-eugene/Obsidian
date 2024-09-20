@@ -5,5 +5,6 @@
 > Any other logic gate can be implemented through one of the universal logic gate:
 
 # Binary Functions Implemention:
-![|360](Pasted%20image%2020240920115858.png)
-![|240](Pasted%20image%2020240920115928.png)
+![|500](Pasted%20image%2020240920120026.png)
+![|200](Pasted%20image%2020240920120059.png)
+![|500](Pasted%20image%2020240920120137.png)
