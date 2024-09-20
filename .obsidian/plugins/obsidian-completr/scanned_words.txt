@@ -11785,6 +11785,7 @@ Interpretation
 Inequivalence
 Irreflexivity
 Indirection
+Instructions
 Telegram
 Theorem
 Text
@@ -19700,6 +19701,7 @@ textis
 texttt
 topic
 through
+text
 Course
 Curves
 Continuation
@@ -22517,6 +22519,7 @@ Compound
 Cast
 Comma
 Code
+Conflicts
 Sections
 Surfaces
 Spaces
@@ -25316,6 +25319,7 @@ Subsequence
 Suffix
 Structure
 Simple
+Source
 Algebra
 AGLA
 Assignments
@@ -28044,6 +28048,7 @@ Additive
 Array
 Address
 Alignment
+Additional
 and
 algebra
 any
@@ -30864,6 +30869,10 @@ assumption
 axiomatization
 assistant
 analysis
+automatically
+available
+ajson
+above
 Plane
 Problem
 Prove
@@ -33430,6 +33439,7 @@ Predicate
 Precedence
 Permutable
 Prefix
+Please
 Quadratic
 Qn
 QL
@@ -45033,6 +45043,7 @@ provided
 please
 postfix
 plus
+plugins
 Read
 Relations
 RY
@@ -50799,6 +50810,7 @@ operator
 optional
 occurrence
 overline
+obsidian
 lecture
 lineynaya
 linear
@@ -53458,6 +53470,8 @@ leak
 leave
 live
 limit
+list
+listed
 geometria
 gN
 gQ
@@ -65212,6 +65226,8 @@ decrement
 dereference
 division
 difference
+deleted
+desired
 independency
 in
 info
@@ -74510,6 +74526,7 @@ vDT
 valued
 vice
 versa
+viewing
 for
 file
 form
@@ -77084,6 +77101,7 @@ fromto
 follows
 fixed
 free
+followed
 scalars
 sufficient
 settings
@@ -79903,6 +79921,9 @@ specific
 subscripting
 subtraction
 shift
+scanned
+smart
+strongly
 exist
 excalidraw
 everything
@@ -82842,6 +82863,7 @@ existential
 extensions
 exact
 exclusive
+env
 have
 hQ
 hfRF
@@ -88668,6 +88690,11 @@ closer
 calculus
 cfd
 conditional
+commands
+community
+completr
+conflicted
+conflicts
 Necessity
 Nikolay
 Natural
@@ -96907,6 +96934,7 @@ becomes
 bounded
 bafe
 bitwise
+below
 EXCALIDRAW
 Excalidraw
 Elements
@@ -106387,6 +106415,7 @@ multiplicative
 monotone
 mathematics
 minus
+multi
 You
 YC
 YR
@@ -112217,6 +112246,7 @@ whether
 works
 wrote
 written
+workspace
 under
 up
 unclear
@@ -118033,6 +118063,9 @@ reaches
 requirement
 remainder
 relational
+resolve
+recommend
+replace
 Zorich
 ZM
 ZB
@@ -135719,6 +135752,7 @@ jccc
 jnK
 jta
 jYS
+json
 zM
 zd
 zH
@@ -141970,6 +142004,7 @@ kgl
 ksAZ
 kEL
 kinds
+kjdsflsdf
 yn
 yhR
 yg

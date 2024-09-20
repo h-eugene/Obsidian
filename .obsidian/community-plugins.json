@@ -11,5 +11,11 @@
   "obsidian-minimal-settings",
   "calendar",
   "periodic-notes",
+<<<<<<< HEAD
   "dataview"
+=======
+  "dataview",
+  "obsidian-banners",
+  "copilot"
+>>>>>>> origin/main
 ]
