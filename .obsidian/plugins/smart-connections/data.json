@@ -32,7 +32,8 @@
   "muted_notices": {
     "embedding_progress": true,
     "embedding_complete": true,
-    "Notice muted": true
+    "Notice muted": true,
+    "smart connect not found": true
   },
   "free_chat_uses": 2
 }

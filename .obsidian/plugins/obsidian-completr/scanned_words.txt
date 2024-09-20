@@ -11784,6 +11784,7 @@ Its
 Interpretation
 Inequivalence
 Irreflexivity
+Indirection
 Telegram
 Theorem
 Text
@@ -14404,6 +14405,7 @@ Therefore
 TRUE
 Trapeziod
 Tarski
+Ternary
 nomemm
 need
 necessary
@@ -19697,6 +19699,7 @@ things
 textis
 texttt
 topic
+through
 Course
 Curves
 Continuation
@@ -22510,6 +22513,9 @@ Characteristics
 Codes
 Commutativity
 Could
+Compound
+Cast
+Comma
 Sections
 Surfaces
 Spaces
@@ -25306,6 +25312,9 @@ Sequences
 Sequence
 Subsequences
 Subsequence
+Suffix
+Structure
+Simple
 Algebra
 AGLA
 Assignments
@@ -28031,6 +28040,9 @@ ABCD
 Alfred
 Associativity
 Additive
+Array
+Address
+Alignment
 and
 algebra
 any
@@ -33416,6 +33428,7 @@ Proposition
 Predicate
 Precedence
 Permutable
+Prefix
 Quadratic
 Qn
 QL
@@ -38763,6 +38776,7 @@ Binary
 Bootstrap
 Bound
 Based
+Bitwise
 Material
 MORE
 Mathematical
@@ -45016,6 +45030,8 @@ people
 proved
 provided
 please
+postfix
+plus
 Read
 Relations
 RY
@@ -59333,6 +59349,7 @@ UyH
 UWf
 Ujba
 Unw
+Unary
 Watch
 We
 What
@@ -65190,6 +65207,10 @@ dense
 denoted
 down
 details
+decrement
+dereference
+division
+difference
 independency
 in
 info
@@ -68864,6 +68885,8 @@ interval
 increasing
 indexing
 infinity
+increment
+inclusive
 For
 Functions
 Frolov
@@ -79876,6 +79899,9 @@ sequence
 subsequence
 strictly
 specific
+subscripting
+subtraction
+shift
 exist
 excalidraw
 everything
@@ -82814,6 +82840,7 @@ estimate
 existential
 extensions
 exact
+exclusive
 have
 hQ
 hfRF
@@ -88639,6 +88666,7 @@ context
 closer
 calculus
 cfd
+conditional
 Necessity
 Nikolay
 Natural
@@ -91231,6 +91259,7 @@ Note
 Nested
 Northbridge
 Notes
+NOT
 Given
 Graphs
 Gg
@@ -96876,6 +96905,7 @@ bound
 becomes
 bounded
 bafe
+bitwise
 EXCALIDRAW
 Excalidraw
 Elements
@@ -106355,6 +106385,7 @@ meanings
 multiplicative
 monotone
 mathematics
+minus
 You
 YC
 YR
@@ -117998,6 +118029,9 @@ range
 resampling
 reals
 reaches
+requirement
+remainder
+relational
 Zorich
 ZM
 ZB
@@ -127344,6 +127378,7 @@ qme
 quasi
 quantifiers
 quantifier
+quotient
 HB
 HE
 HK

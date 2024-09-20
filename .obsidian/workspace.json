@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
+                "file": "Introduction.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +126,17 @@
       {
         "id": "762a57a3118be348",
         "type": "tabs",
-        "dimension": 72.97619047619048,
+        "dimension": 57.16019417475729,
         "children": [
           {
-            "id": "96807406faa38874",
+            "id": "58dfc85ffeb72816",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Introduction.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -147,9 +147,9 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1,
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -157,7 +157,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224446,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -193,7 +193,7 @@
       {
         "id": "8230a8f50f8d4fd9",
         "type": "tabs",
-        "dimension": 27.023809523809526,
+        "dimension": 42.83980582524271,
         "children": [
           {
             "id": "e7a551ce9606235a",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -209,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,10 +230,15 @@
   },
   "active": "4c4b38a74ba637cf",
   "lastOpenFiles": [
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
+    "Books and Courses.md",
+    "C для начинающих (теория и задачи).md",
+    "Precedence of operations.md",
     "The Dot product and its properties..md",
     "Excalidraw/Drawing 2024-09-17 19.40.09.excalidraw.md",
     "Excalidraw/multiplication of matrices.md",
-    "Home/The Beginning.md",
     "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
@@ -251,11 +255,6 @@
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Basics of naive Set Theory..md",
     "Mathematical Analysis I.md",
-    "Innopolis 1st year - Fall Semester.md",
-    "Innopolis University.md",
-    "C для начинающих (теория и задачи).md",
-    "Precedence of operations.md",
-    "Books and Courses.md",
     "The C language.md",
     "Introduction to Programming.md",
     "Logic and Discrete Mathematics.md",
