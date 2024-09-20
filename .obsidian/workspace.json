@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Naive Set Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Naive Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Naive Set Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -133,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Naive Set Theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Naive Set Theory.md"
               }
             }
           }
@@ -211,18 +212,18 @@
   },
   "active": "c035b52fe757c611",
   "lastOpenFiles": [
-    "Relations, Functions, Operations.md",
-    "Naive Set Theory.md",
-    "Theory of sequences and their limits..md",
     "Basic of Logic.md",
-    "Predicates.md",
     "Logic and Discrete Mathematics.md",
-    "Excalidraw/Drawing 2024-09-20 11.45.41.excalidraw.md",
-    "Basic of Graphs.md",
-    "Logic Gates.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "Relations, Functions, Operations.md",
+    "Naive Set Theory.md",
+    "Theory of sequences and their limits..md",
+    "Predicates.md",
+    "Excalidraw/Drawing 2024-09-20 11.45.41.excalidraw.md",
+    "Basic of Graphs.md",
+    "Logic Gates.md",
     "Lecture 4.md",
     "Library/Pasted image 20240920121101.png",
     "Library/Pasted image 20240920121046.png",
