@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82df9910594e1d70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "189323812657dc8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic Gates.md",
+                "file": "Home/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic Gates.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic Gates.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Logic Gates.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic Gates.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -223,8 +210,8 @@
   },
   "active": "189323812657dc8a",
   "lastOpenFiles": [
-    "Lecture 4.md",
     "Logic Gates.md",
+    "Lecture 4.md",
     "Library/Pasted image 20240920121101.png",
     "Library/Pasted image 20240920121046.png",
     "Library/Pasted image 20240920120956.png",
