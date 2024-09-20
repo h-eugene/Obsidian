@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic of Graphs.md",
-                "mode": "preview",
+                "file": "Naive Set Theory.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic of Graphs.md",
+                "file": "Naive Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic of Graphs.md",
+                "file": "Naive Set Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -132,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Basic of Graphs.md",
+                "file": "Naive Set Theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic of Graphs.md"
+                "file": "Naive Set Theory.md"
               }
             }
           }
@@ -210,11 +211,14 @@
   },
   "active": "189323812657dc8a",
   "lastOpenFiles": [
+    "Naive Set Theory.md",
+    "Excalidraw/Drawing 2024-09-20 11.45.41.excalidraw.md",
+    "Basic of Graphs.md",
+    "Logic Gates.md",
     "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Logic Gates.md",
     "Lecture 4.md",
     "Library/Pasted image 20240920121101.png",
     "Library/Pasted image 20240920121046.png",
@@ -227,7 +231,6 @@
     "Library/Pasted image 20240920120647.png",
     "Library/Pasted image 20240920120137.png",
     "Excalidraw/Drawing 2024-09-20 11.52.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-20 11.45.41.excalidraw.md",
     "The fundamental principles for modern computer systems.md",
     "Lecture 3.md",
     "Fundamental Ideas of Computer Architecture.md",
@@ -241,12 +244,10 @@
     "Design patterns.md",
     "Computer instructions, their representations, and execution.md",
     "Differentiation, derivatives, and differential.md",
-    "Naive Set Theory.md",
     "smart-chats/UNTITLED CHAT 2024-09-20 07 08 32.md",
     "smart-chats/UNTITLED CHAT 2024-09-20 06 57 44.md",
     "Introduction.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
-    "Books and Courses.md",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "smart-chats",
     "Library/Programming/C Programming Language.pdf",
