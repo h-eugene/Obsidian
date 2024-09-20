@@ -1,21 +1,10 @@
 [
-  "obsidian-completr",
-  "quick-latex",
-  "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "obsidian-emoji-toolbar",
-  "homepage",
   "templater-obsidian",
-  "note-refactor-obsidian",
-  "obsidian-better-internal-link-inserter",
-  "obsidian-minimal-settings",
-  "calendar",
+  "quick-latex",
   "periodic-notes",
-<<<<<<< HEAD
-  "dataview"
-=======
-  "dataview",
-  "obsidian-banners",
-  "copilot"
->>>>>>> origin/main
+  "obsidian-better-internal-link-inserter",
+  "note-refactor-obsidian",
+  "obsidian-minimal-settings",
+  "homepage",
+  "obsidian-git"
 ]
