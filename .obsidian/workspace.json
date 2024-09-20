@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
-                "mode": "preview",
+                "file": "Basic of Logic.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Basic of Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Basic of Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction.md",
+                "file": "Basic of Logic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "8230a8f50f8d4fd9",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Basic of Logic.md"
               }
             }
           }
@@ -228,9 +228,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4c4b38a74ba637cf",
+  "active": "ab5ab5b61f2a13f4",
   "lastOpenFiles": [
+    "smart-chats/UNTITLED CHAT 2024-09-20 06 57 44.md",
+    "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
+    "Introduction.md",
+    "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Innopolis University.md",
     "Home/The Beginning.md",
     "Books and Courses.md",
@@ -250,20 +254,16 @@
     "Analytical Geometry and Linear Algebra I.md",
     "Theory of sequences and their limits..md",
     "Number Systems. Axiomatic approaches..md",
-    "Introduction.md",
     "smart-chats",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Basics of naive Set Theory..md",
     "Mathematical Analysis I.md",
     "The C language.md",
-    "Introduction to Programming.md",
-    "Logic and Discrete Mathematics.md",
     "Library/Programming/C Programming Language.pdf",
     "Library/Photos/Pasted image 20240903223757.png",
     "Library/Pasted image 20240914114030.png",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Library/Pasted image 20240913114341.png",
-    "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/Pasted image 20240910181529.png",
     "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
     "Без названия.canvas",
