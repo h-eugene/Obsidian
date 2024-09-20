@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
+                "file": "Basic of Graphs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Basic of Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Basic of Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Basic of Graphs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Basic of Graphs.md"
               }
             }
           }
@@ -210,6 +210,10 @@
   },
   "active": "189323812657dc8a",
   "lastOpenFiles": [
+    "Logic and Discrete Mathematics.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
     "Logic Gates.md",
     "Lecture 4.md",
     "Library/Pasted image 20240920121101.png",
@@ -228,7 +232,6 @@
     "Lecture 3.md",
     "Fundamental Ideas of Computer Architecture.md",
     "conflict-files-obsidian-git.md",
-    "Home/The Beginning.md",
     "Reading and writing fromto files. Loops and arrays exercises. String exercises. Pointer exercises.md",
     "Basic of Logic.md",
     "Fundamentals of Computer Architecture.md",
@@ -239,13 +242,10 @@
     "Computer instructions, their representations, and execution.md",
     "Differentiation, derivatives, and differential.md",
     "Naive Set Theory.md",
-    "Logic and Discrete Mathematics.md",
     "smart-chats/UNTITLED CHAT 2024-09-20 07 08 32.md",
     "smart-chats/UNTITLED CHAT 2024-09-20 06 57 44.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Introduction.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
-    "Innopolis University.md",
     "Books and Courses.md",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "smart-chats",
