@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The fundamental principles for modern computer systems.md",
+                "file": "Lecture 4.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "587c97743bb07957",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lecture 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -139,6 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lecture 4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lecture 4.md"
+              }
             }
           }
         ]
@@ -205,11 +202,16 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": true,
       "templates:Вставить шаблон": true,
-      "command-palette:Открыть палитру команд": true
+      "command-palette:Открыть палитру команд": true,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c763575cb748721e",
+  "active": "82df9910594e1d70",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-20 11.45.41.excalidraw.md",
     "Lecture 4.md",
     "The fundamental principles for modern computer systems.md",
     "Lecture 3.md",
@@ -236,7 +238,6 @@
     "Books and Courses.md",
     "C для начинающих (теория и задачи).md",
     "Precedence of operations.md",
-    "The Dot product and its properties..md",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "smart-chats",
     "Library/Programming/C Programming Language.pdf",

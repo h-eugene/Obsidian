@@ -28049,6 +28049,7 @@ Array
 Address
 Alignment
 Additional
+Architectures
 and
 algebra
 any
@@ -42215,6 +42216,7 @@ Meyers
 Membership
 Monotonicity
 Multiplicative
+Metrics
 pdf
 previous
 prove
@@ -91288,6 +91290,7 @@ Nested
 Northbridge
 Notes
 NOT
+Neumann
 Given
 Graphs
 Gg
@@ -94363,6 +94366,7 @@ GskH
 Getting
 Giuseppe
 Graphics
+Gates
 basis
 be
 bd
@@ -130024,6 +130028,7 @@ HZaL
 HXu
 Homepage
 However
+Harvard
 XKo
 Xg
 XWo
