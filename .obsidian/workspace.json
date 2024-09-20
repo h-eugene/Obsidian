@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "189323812657dc8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic Gates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 4.md",
+                "file": "Logic Gates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 4.md",
+                "file": "Logic Gates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -133,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture 4.md",
+                "file": "Logic Gates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 4.md"
+                "file": "Logic Gates.md"
               }
             }
           }
@@ -209,8 +221,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82df9910594e1d70",
+  "active": "189323812657dc8a",
   "lastOpenFiles": [
+    "Lecture 4.md",
+    "Logic Gates.md",
+    "Library/Pasted image 20240920121101.png",
+    "Library/Pasted image 20240920121046.png",
+    "Library/Pasted image 20240920120956.png",
     "Library/Pasted image 20240920120908.png",
     "Library/Pasted image 20240920120842.png",
     "Library/Pasted image 20240920120816.png",
@@ -218,12 +235,7 @@
     "Library/Pasted image 20240920120708.png",
     "Library/Pasted image 20240920120647.png",
     "Library/Pasted image 20240920120137.png",
-    "Library/Pasted image 20240920120059.png",
-    "Library/Pasted image 20240920120026.png",
-    "Library/Pasted image 20240920115928.png",
-    "Library/Pasted image 20240920115858.png",
     "Excalidraw/Drawing 2024-09-20 11.52.18.excalidraw.md",
-    "Lecture 4.md",
     "Excalidraw/Drawing 2024-09-20 11.45.41.excalidraw.md",
     "The fundamental principles for modern computer systems.md",
     "Lecture 3.md",
