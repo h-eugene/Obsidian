@@ -7,3 +7,4 @@ NAN
 nanW
 Nancy
 nanometer
+NAND
