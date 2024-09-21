@@ -106,9 +106,9 @@ Thus,
 $\displaylines{det(A)=a_{11}*a_{22}*...*a_{mn}+a_{21}*...*a_{1n} + ...+ a_{m1}*a_{12}*...\\ - a_{1n}*...*a_{m1}-a_{2n}*...*a_{11}+...+a_{mn}*...}$  
 $det(A^{\top}) = a_{11}*a_{22}*a_{mn}+...$
 
-We know that determinat
+We know that determinant is scalar for calculating matrix space, and since transposition doesn't change it, determinant stays constant. 
 
-## Task 2: $det(A)=det(A^\top)$
+## Task 2: $det(AB)=det(A)det(B)$
 By meaning of determinant, that it just scalar for calculating matrix space. Hence, we can just multiply them.
 
 
