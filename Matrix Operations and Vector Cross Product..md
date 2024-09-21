@@ -102,8 +102,11 @@ $A=\begin{bmatrix}a_{11}&a_{12}&...&a_{1n}\\a_{21}&a_{22}&...&a_{2n}\\...&...&..
 then 
 $A^{\top} = \begin{bmatrix}a_{11}&a_{21}&...&a_{m1}\\a_{12}&a_{22}&...&a_{m2}\\...&...&...&...\\ a_{1n}&a_{2n}&...&a_{mn}\end{bmatrix}$ 
 Thus,
-$\displaylines{det(A)=a_{11}*a_{22}*...*a_{mn}+a_{21}*...*a_{1n} + ...+ a_{m1}*a_{12}*...$
 
+$\displaylines{det(A)=a_{11}*a_{22}*...*a_{mn}+a_{21}*...*a_{1n} + ...+ a_{m1}*a_{12}*...\\ - a_{1n}*...*a_{m1}-a_{2n}*...*a_{11}+...+a_{mn}*...}$  
+$det(A^{\top}) = a_{11}*a_{22}*a_{mn}+...$
+
+Shortly, they are equal. Because determina
 
 
 
