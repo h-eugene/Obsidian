@@ -1,1 +1,0 @@
-Matrices. Vector Cross Product.
