@@ -29,7 +29,7 @@ a_{21}&a_{22}&a_{23}
   >$$\begin{bmatrix}
   >1&4 \\ 2&5 \\ 3&6\end{bmatrix}^\top = \begin{bmatrix} 1&2&3 \\ 4&5&6 \end{bmatrix}$$
   >$$\forall A, (A^\top)^\top = A$$
-  >$$(ABDC)^\top = D^\top C^\top B^\top A^\top$$
+
   
 # Vector Cross Product:
 
@@ -85,8 +85,17 @@ $-a\times b = b\times a$
   >  if you multiply $AB\ (m\times n)(k\times p)$, then check that $n=k$
   >- **Calculate the size** of the result:
   >  if you multiply $AB\ (m\times n)(k\times p)$, then the result is a $m\times p$ matrix.
-  
-  
+
+- **Order of operations after transposition:**
+  $(ABDC)^\top = D^\top C^\top B^\top A^\top$
+
+- **Matrix vector multiplication:**
+  $x$ is a **column** vector
+  $Ax = (m\times n)(n\times 1)\to (m\times 1)$ is a **column** vector
+  $x^{\top}A = (1\times m)(m\times n)\to (1\times n)$ is a **row** vector
+
+
+
 
 
 
