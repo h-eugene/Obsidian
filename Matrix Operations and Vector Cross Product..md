@@ -77,8 +77,13 @@ $-a\times b = b\times a$
   Then exists $C=AB$,
   $C$ must be $m\times p$ matrix
   $$\displaylines{c_{ij} = a_{i1}b_{1j} + a_{i2}b_{2j}+...+a_{in}b_{nj} = \sum_{k=1}^{n} a_{ik}b{kj},\\\texttt{for $i=1,..,m$ and $j=1,..,p$}}$$
+  >![multiplication of matrices](multiplication%20of%20matrices.md)
   >- Commit into your memory: **matrix multiplication is not commutative.**
   >  $$AB\neq BA$$
+  >- **Check sizes of the two matrices:**
+  >  if you multiply $AB\ (m\times n)(k\times p)$, then check that $n=k$
+  >- **Calculate the size** of the result:
+  >  if you multiply $AB\ (m\times n)(k\times p)$, then the result is a $m\times p$ matrix.
   
   
 

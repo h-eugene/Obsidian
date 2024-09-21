@@ -11,11 +11,9 @@
             "id": "b70077563367026d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/multiplication of matrices.md"
               }
             }
           }
@@ -82,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md",
+                "file": "Excalidraw/multiplication of matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md",
+                "file": "Excalidraw/multiplication of matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md",
+                "file": "Excalidraw/multiplication of matrices.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md"
+                "file": "Excalidraw/multiplication of matrices.md"
               }
             }
           }
@@ -212,13 +210,13 @@
   },
   "active": "b70077563367026d",
   "lastOpenFiles": [
+    "Matrix Operations and Vector Cross Product..md",
     "Library/Pasted image 20240921115853.png",
     "Library/Pasted image 20240921115532.png",
     "Library/Pasted image 20240921115510.png",
     "Library/Pasted image 20240921115145.png",
     "Library/Pasted image 20240921113341.png",
     "Home/The Beginning.md",
-    "Matrix Operations and Vector Cross Product..md",
     "right-hand rule.md",
     "Library/Pasted image 20240921105221.png",
     "Vector Algebra.md",
@@ -241,7 +239,6 @@
     "Library/Pasted image 20240920121046.png",
     "Library/Pasted image 20240920120956.png",
     "Library/Pasted image 20240920120908.png",
-    "Library/Pasted image 20240920120842.png",
     "Excalidraw/Drawing 2024-09-20 11.52.18.excalidraw.md",
     "The fundamental principles for modern computer systems.md",
     "Lecture 3.md",
