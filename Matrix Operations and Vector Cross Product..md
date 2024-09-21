@@ -51,6 +51,16 @@ $$a\times b= \hat{n}\|a\|\|b\|\sin\theta \ | \ a,b\in \mathbb{R}^3,\ \hat{n}\per
 $$\displaylines{a\begin{pmatrix}a_1\\ a_2\\ a_3 \end{pmatrix}\times b\begin{pmatrix}b_1\\ b_2\\ b_3 \end{pmatrix}=\\
 =(a_2b_3-a_3b_2)\hat{i}-(a_1b_3-a_3b_1)\hat{j}+(a_1b_2-a_2b_1)\hat{k}\\
 =(a_2b_3-a_3b_2)\hat{i}+(a_3b_1-a_1b_3)\hat{j}+(a_1b_2-a_2b_1)\hat{k}}$$
+There are more convenient ways to calculate vector cross products.
+
+**Interpretation:** 
+$-a\times b = b\times a$
+![|200](Pasted%20image%2020240921115145.png)
+
+
+
+
+
 
 
 
