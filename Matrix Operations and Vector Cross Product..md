@@ -67,9 +67,15 @@ $-a\times b = b\times a$
 >$$a\cdot(b\times c)=(a\times b)\cdot c$$
 >**Meaning:** $V=\|a\times b\|(\|c\||\cos(\phi)|)$ = Area of base * Height 
 
- # Matrix multiplication:
- 
+# Matrix multiplication:
+ ![](Pasted%20image%2020240921115853.png)
 
+- Let 
+  $A$ be $m\times n$ matrix;
+  $B$ be $n\times p$ matrix
+  Then exists $C=AB$,
+  $C$ must be $m\times p$ matrix
+  $$c_{ij} = a_{i1}b_{1j} + a_{i2}b_{2j}+...+a_{in}b_{nj} = \sum_{k=1}^{n} a_{ik}b{kj},$$
 
 
 
