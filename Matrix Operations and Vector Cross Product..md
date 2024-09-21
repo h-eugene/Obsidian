@@ -93,8 +93,12 @@ $-a\times b = b\times a$
   $x$ is a **column** vector
   $Ax = (m\times n)(n\times 1)\to (m\times 1)$ is a **column** vector
   $x^{\top}A = (1\times m)(m\times n)\to (1\times n)$ is a **row** vector
+# Homework:
 
+## Task 1: $det(A) = det(A^{\top})$
 
+Let $A=\begin{bmatrix}a_{11}&a_{12}&...&a_{1n}\\\end{bmatrix}$
+$$\displaylines{det(A)=}$$
 
 
 
