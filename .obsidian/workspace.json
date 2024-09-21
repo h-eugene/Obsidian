@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b70077563367026d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matrix Operations and Vector Cross Product..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "03760aaeb6b9f208",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Analysis I.md",
+                "file": "Theory of sequences and their limits..md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Analysis I.md",
+                "file": "Theory of sequences and their limits..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Analysis I.md",
+                "file": "Theory of sequences and their limits..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mathematical Analysis I.md",
+                "file": "Theory of sequences and their limits..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Analysis I.md"
+                "file": "Theory of sequences and their limits..md"
               }
             }
           }
@@ -225,11 +212,16 @@
   },
   "active": "03760aaeb6b9f208",
   "lastOpenFiles": [
+    "Introduction.md",
+    "Number Systems. Axiomatic approaches..md",
+    "Mathematical Analysis I.md",
+    "Differentiation, derivatives, and differential.md",
+    "Indefinite and definite integral.md",
+    "Excalidraw/multiplication of matrices.md",
+    "Matrix Operations and Vector Cross Product..md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Matrix Operations and Vector Cross Product..md",
-    "Excalidraw/multiplication of matrices.md",
     "Library/Pasted image 20240921115853.png",
     "Library/Pasted image 20240921115532.png",
     "Library/Pasted image 20240921115510.png",
@@ -256,11 +248,6 @@
     "Library/Pasted image 20240920120956.png",
     "Library/Pasted image 20240920120908.png",
     "Excalidraw/Drawing 2024-09-20 11.52.18.excalidraw.md",
-    "The fundamental principles for modern computer systems.md",
-    "Lecture 3.md",
-    "Fundamental Ideas of Computer Architecture.md",
-    "conflict-files-obsidian-git.md",
-    "Reading and writing fromto files. Loops and arrays exercises. String exercises. Pointer exercises.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "smart-chats",

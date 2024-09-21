@@ -14415,6 +14415,7 @@ Two
 Triangular
 Transpose
 Triple
+Thus
 nomemm
 need
 necessary
@@ -19707,6 +19708,7 @@ topic
 through
 text
 transpose
+transposition
 Course
 Curves
 Continuation
@@ -65257,6 +65259,7 @@ deleted
 desired
 determinants
 dimensional
+determinant
 independency
 in
 info
@@ -79954,6 +79957,8 @@ scanned
 smart
 strongly
 sizes
+since
+stays
 exist
 excalidraw
 everything
@@ -88730,6 +88735,8 @@ cross
 columns
 calculate
 commutative
+column
+calculating
 Necessity
 Nikolay
 Natural
@@ -106452,6 +106459,7 @@ minus
 multi
 matrices
 multiply
+meaning
 You
 YC
 YR
@@ -130065,6 +130073,8 @@ HXu
 Homepage
 However
 Harvard
+Homework
+Hence
 XKo
 Xg
 XWo
