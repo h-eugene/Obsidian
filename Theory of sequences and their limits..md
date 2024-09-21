@@ -40,6 +40,6 @@
   >- Let $(x_{n})_n\in\mathbb{N}$ be a sequence and $x$ be its limit.
   >- Let $m\in\mathbb{N}$ be a number such that for all $n\geq m$ holds $|x_{n}-x|\leq 1$.
   >- Let $c=max\{|x_{0}|,...|x_{m}|, |x-1|,|x+1|\}$.
-  >  
-  >- Then for all $n\in\mathbb{N}$ holds $-\$
+  >- Then for all $n\in\mathbb{N}$ holds $-c\leq x_{n}\leq +c,$ i.e., 
+  >  $(x_{n})_n\in\mathbb{N}$ is bounded. $\blacksquare$
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
