@@ -1,7 +1,7 @@
 # Bases, orientations. Matrices and determinants.
 
 - **Right hand rule for cross product:**
-  ![|360](Pasted%20image%2020240921105221.png)
+  ![|360](Pasted%20image%2020240921105221.png) ^3f1278
 ## Matrices:
 
 - Matrix $A$ is a rectangular table of numbers with $m$ rows and $n$ columns.
@@ -32,5 +32,12 @@ a_{21}&a_{22}&a_{23}
   
 # Vector Cross Product:
 
+>[!info] 
 $$a\times b= \hat{n}\|a\|\|b\|\sin\theta \ | \ a,b\in \mathbb{R}^3,\ \hat{n}\perp a,b$$
-$\hat{n}$ is picked by a [[rig]].
+>- A $\hat{n}$ is directed by a [right-hand rule](Matrix%20Operations%20and%20Vector%20Cross%20Product..md#^3f1278).
+>- Vector cross product defined only for 3-dimensional vectors!!!
+>**Geometric view:**
+>
+
+
+
