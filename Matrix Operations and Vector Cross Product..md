@@ -37,7 +37,15 @@ $$a\times b= \hat{n}\|a\|\|b\|\sin\theta \ | \ a,b\in \mathbb{R}^3,\ \hat{n}\per
 >- A $\hat{n}$ is directed by a [right-hand rule](Matrix%20Operations%20and%20Vector%20Cross%20Product..md#^3f1278).
 >- Vector cross product defined only for 3-dimensional vectors!!!
 >**Geometric view:**
->
+>![|300](Pasted%20image%2020240921113341.png)
+
+## Properties:
+
+- $a\times b = -b \times a$.
+- $a\times a = 0$.
+- $a\times b = 0 \Rightarrow a=\lambda b$ for some $\lambda\in\mathbb{R}$ (or $b=0$).
+- $a\times (\lambda b) = \lambda(a\times b)$.
+- $a\times (b+c)=a\times b + a\times c$.
 
 
 
