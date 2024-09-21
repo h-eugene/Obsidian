@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Theory of sequences and their limits..md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subset",
+                "query": "ineq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,6 +212,8 @@
   },
   "active": "03760aaeb6b9f208",
   "lastOpenFiles": [
+    "The Dot product and its properties..md",
+    "Theory of sequences and their limits..md",
     "Introduction.md",
     "Number Systems. Axiomatic approaches..md",
     "Mathematical Analysis I.md",
@@ -231,13 +233,11 @@
     "Library/Pasted image 20240921105221.png",
     "Vector Algebra.md",
     "Matrices. Vector Cross Product..md",
-    "The Dot product and its properties..md",
     "Analytical Geometry and Linear Algebra I.md",
     "Naive Set Theory.md",
     "Basic of Logic.md",
     "Logic and Discrete Mathematics.md",
     "Relations, Functions, Operations.md",
-    "Theory of sequences and their limits..md",
     "Predicates.md",
     "Excalidraw/Drawing 2024-09-20 11.45.41.excalidraw.md",
     "Basic of Graphs.md",

@@ -68,6 +68,8 @@
 > [!abstract] Triangle inequality
 > $\|x+y\|\leq\|x\|+\|y\|.$
 
+^73428c
+
 >[!check]- Proof
 >$$\|x+y\|^{2}= (x+y)\cdot(x+y)=\|x\|^{2}+2x\cdot y + \|y\|^{2}$$ $$\leq \|x\|^{2}+2\|x\|\|y\| + \|y\|^{2} = (\|x\|+\|y\|)^{2}$$ 
 

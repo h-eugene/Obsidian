@@ -19709,6 +19709,7 @@ through
 text
 transpose
 transposition
+theorem
 Course
 Curves
 Continuation
@@ -38807,6 +38808,7 @@ Bootstrap
 Bound
 Based
 Bitwise
+Bolzano
 Material
 MORE
 Mathematical
@@ -62285,6 +62287,7 @@ WKeC
 Wng
 WzID
 Where
+Weierstrass
 dependency
 dependent
 document
@@ -65260,6 +65263,7 @@ desired
 determinants
 dimensional
 determinant
+distance
 independency
 in
 info
@@ -88737,6 +88741,7 @@ calculate
 commutative
 column
 calculating
+convergence
 Necessity
 Nikolay
 Natural
@@ -96975,6 +96980,7 @@ bounded
 bafe
 bitwise
 below
+boundness
 EXCALIDRAW
 Excalidraw
 Elements
@@ -100026,6 +100032,7 @@ Exists
 Every
 Embedded
 Extension
+Each
 OPTIONS
 Operations
 Obtain
