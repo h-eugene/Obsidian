@@ -106,7 +106,7 @@ Thus,
 $\displaylines{det(A)=a_{11}*a_{22}*...*a_{mn}+a_{21}*...*a_{1n} + ...+ a_{m1}*a_{12}*...\\ - a_{1n}*...*a_{m1}-a_{2n}*...*a_{11}+...+a_{mn}*...}$  
 $det(A^{\top}) = a_{11}*a_{22}*a_{mn}+...$
 
-Shortly, they are equal. Because determina
+Shortly, they are equal. Because determinant is calculated by subtraction summation of all products of all elements that places parallel to main diagonal from summation of all products of all elements that places parallel to side diagonal if we use Salus' method, so transposing doesn't matter.
 
 
 
