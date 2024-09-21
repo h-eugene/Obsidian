@@ -98,9 +98,11 @@ $-a\times b = b\times a$
 ## Task 1: $det(A) = det(A^{\top})$
 
 Let 
-$A=\begin{bmatrix}a_{11}&a_{12}&...&a_{1n}\\a_{21}&a_{22}&...&a_{2n}\\...&...&...&...\\ a_{m1}&a_{m2}&...&a_{mn}\end{bmatrix},$ then 
-$A^{\top} = \begin{bmatrix}a_{11}&a_{21}&...&a_{m1}\\a_{12}&a_{22}&...&a_{m2}\\...\end{bmatrix}$ 
-$$\displaylines{det(A)=}$$
+$A=\begin{bmatrix}a_{11}&a_{12}&...&a_{1n}\\a_{21}&a_{22}&...&a_{2n}\\...&...&...&...\\ a_{m1}&a_{m2}&...&a_{mn}\end{bmatrix},$ 
+then 
+$A^{\top} = \begin{bmatrix}a_{11}&a_{21}&...&a_{m1}\\a_{12}&a_{22}&...&a_{m2}\\...&...&...&...\\ a_{1n}&a_{2n}&...&a_{mn}\end{bmatrix}$ 
+Thus,
+$\displaylines{det(A)=a_{11}*a_{22}*...*a_{mn}+a_{21}*...*a_{1n} + ...+ a_{m1}*a_{12}*...$
 
 
 
