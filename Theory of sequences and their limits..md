@@ -25,9 +25,9 @@
 
 # Main properties: convergence and boundness:
 
-- Each converging sequence (a) has unique limit and (b) is bounded.
+- Each converging sequence has unique limit and is bounded.
   
-  >[!check] Proof a
+  >[!check]- Proof for unique limit
   >- Let $y$ and $z$ be limits(s) of a sequence $(x_{n})_n\in\mathbb{N}$.
   >- Let $\epsilon>0$ be any positive real number and $m_{y}\in \mathbb{N}$ and $m_{z}\in \mathbb{N}$ be numbers such that
   >	- $|x_{n}-y|\leq \epsilon$ for all $n\geq m_{y}$,
@@ -35,5 +35,7 @@
   >	  and let $m=max\{m_{y},m_{z}\}$.
   >- Then $$\displaylines{|y-z|=|(y-x_{m})+(x_{m}-z)|\leq\\ |y-x_{m}|+|x_{m}-z|\leq 2\epsilon}.$$![Trianle inequality|200](The%20Dot%20product%20and%20its%20properties..md#^73428c)
   >- Hence $y=z$ because the distance between $y$ and $z$ is less than any positive number. $\blacksquare$
-  
+ 
+  >[!check] Proof for bounded
+  >
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
