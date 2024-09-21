@@ -6,5 +6,14 @@
 
 - Matrix $A$ is a rectangular table of numbers with $m$ rows and $n$ columns.
   $$A = \begin{bmatrix}
-a_{11} & a_{12} & a_{13}
-\end{bmatrix}$$
+a_{11} & a_{12} & a_{13} \\ 
+a_{21} & a_{22} & a_{23} \\
+a_{31} & a_{32} & a_{33}
+\end{bmatrix} \ \texttt{Example of a 3$\times$3 matrix}$$
+$$A = \begin{bmatrix}
+a_{11}&a_{12}&a_{13}\\
+a_{21}&a_{22}&a_{23}
+\end{bmatrix}\ \texttt{Example of a 2$\times$3 matrix}$$
+
+- Different kinds of matrices ($A$ is a $m\times n$):
+	- Square()
