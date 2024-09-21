@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dot product and its properties..md",
-                "mode": "preview",
+                "file": "Vector Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f26533cc9cc0f746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrices. Vector Cross Product..md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Vector Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Vector Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Dot product and its properties..md",
+                "file": "Vector Algebra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dot product and its properties..md"
+                "file": "Vector Algebra.md"
               }
             }
           }
@@ -212,7 +224,9 @@
   },
   "active": "e90e8a21c0dab27a",
   "lastOpenFiles": [
+    "Matrices. Vector Cross Product..md",
     "Vector Algebra.md",
+    "The Dot product and its properties..md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
@@ -246,8 +260,6 @@
     "Fundamentals of Computer Architecture.md",
     "Computer arithmetics.md",
     "Natural Numbers.md",
-    "Mathematical Analysis I.md",
-    "Design patterns.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "smart-chats",
