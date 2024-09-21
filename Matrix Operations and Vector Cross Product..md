@@ -32,4 +32,5 @@ a_{21}&a_{22}&a_{23}
   
 # Vector Cross Product:
 
-$$a\times b= \hat{n}\|a\|\|b\|\sin\theta \ | \ a,b\in R$$
+$$a\times b= \hat{n}\|a\|\|b\|\sin\theta \ | \ a,b\in \mathbb{R}^3,\ \hat{n}\perp a,b$$
+$\hat{n}$ is picked by a [[rig]].
