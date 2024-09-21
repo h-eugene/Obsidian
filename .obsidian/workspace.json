@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innopolis University.md",
-                "mode": "source",
+                "file": "The Dot product and its properties..md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "The Dot product and its properties..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "The Dot product and its properties..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "The Dot product and its properties..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis University.md"
+                "file": "The Dot product and its properties..md"
               }
             }
           }
@@ -212,12 +212,14 @@
   },
   "active": "e90e8a21c0dab27a",
   "lastOpenFiles": [
+    "Vector Algebra.md",
+    "Analytical Geometry and Linear Algebra I.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
     "Home/The Beginning.md",
     "Naive Set Theory.md",
     "Basic of Logic.md",
     "Logic and Discrete Mathematics.md",
-    "Innopolis 1st year - Fall Semester.md",
-    "Innopolis University.md",
     "Relations, Functions, Operations.md",
     "Theory of sequences and their limits..md",
     "Predicates.md",
@@ -246,8 +248,6 @@
     "Natural Numbers.md",
     "Mathematical Analysis I.md",
     "Design patterns.md",
-    "Computer instructions, their representations, and execution.md",
-    "Differentiation, derivatives, and differential.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "smart-chats",
