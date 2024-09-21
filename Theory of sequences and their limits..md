@@ -31,5 +31,10 @@
   >- Let $y$ and $z$ be limits(s) of a sequence $(x_{n})_n\in\mathbb{N}$.
   >- Let $\epsilon>0$ be any positive real number and $m_{y}\in \mathbb{N}$ and $m_{z}\in \mathbb{N}$ be numbers such that
   >	- $|x_{n}-y|\leq \epsilon$ for all $n\geq m_{z}$,
-  >	- $|$
+  >	- $|x_{n}-z|\leq \epsilon$ for all $n\geq m_{z}$,
+  >	  and let $m=max\{m_{y},m_{z}\}$.
+  >- Then 
+  >  $$\displaylines{|y-z|=|(y-x_{m})+(x_{m}-z)|\leq\\ |y-x_{m}|+|x_{m}-z|\leq 2\epsilon}.$$
+  >- Hence $y=z$ because the distance between $y$ and $z$ is less than any positive number. $\blacksquare$
+  
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
