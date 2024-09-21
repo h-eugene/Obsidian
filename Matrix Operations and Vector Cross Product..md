@@ -24,4 +24,10 @@ a_{21}&a_{22}&a_{23}
 	- Identity matrix ($IA=AI = A$) $I=\begin{bsmallmatrix}1&0&0\\0&1&0\\0&0&1\end{bsmallmatrix}$ or $I=\begin{bsmallmatrix}1&0\\0&1\end{bsmallmatrix}$
 	- Zero matrix ($0+A=A$)
 - Operations. Transpose a matrix:
-- 
+  >[!abstract] Transpose of matrix
+  >If $A$ is an $m\times n$ matrix, the transpose $A^{\top}$ is and $n\times m$ matrix defined by $(A^{\top})_{ij}=A_{ji}$.
+  >$$\begin{bmatrix}
+  >1&4 \\ 2&5 \\ 3&6\end{bmatrix}^\top = \begin{bmatrix} 1&2&3 \\ 4&5&6 \end{bmatrix}$$
+  >$$\forall A, (A^\top)^\top = A$$
+  
+  Vexot
