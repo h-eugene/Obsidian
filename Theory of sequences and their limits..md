@@ -33,8 +33,7 @@
   >	- $|x_{n}-y|\leq \epsilon$ for all $n\geq m_{y}$,
   >	- $|x_{n}-z|\leq \epsilon$ for all $n\geq m_{z}$,
   >	  and let $m=max\{m_{y},m_{z}\}$.
-  >- Then
-  >  $$\displaylines{|y-z|=|(y-x_{m})+(x_{m}-z)|\leq\\ |y-x_{m}|+|x_{m}-z|\leq 2\epsilon}.$$[[The Dot product and its properties..md^]]
+  >- Then $$\displaylines{|y-z|=|(y-x_{m})+(x_{m}-z)|\leq\\ |y-x_{m}|+|x_{m}-z|\leq 2\epsilon}.$$![Trianle inequality|200](The%20Dot%20product%20and%20its%20properties..md#^73428c)
   >- Hence $y=z$ because the distance between $y$ and $z$ is less than any positive number. $\blacksquare$
   
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
