@@ -47,5 +47,8 @@ $$a\times b= \hat{n}\|a\|\|b\|\sin\theta \ | \ a,b\in \mathbb{R}^3,\ \hat{n}\per
 - $a\times (\lambda b) = \lambda(a\times b)$.
 - $a\times (b+c)=a\times b + a\times c$.
 
+## Calculating:
+$$$$
+
 
 
