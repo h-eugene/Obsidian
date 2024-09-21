@@ -57,9 +57,18 @@ There are more convenient ways to calculate vector cross products.
 $-a\times b = b\times a$
 ![|200](Pasted%20image%2020240921115145.png)
 
+# Scalar Triple Product:
 
+![|500](Pasted%20image%2020240921115510.png)
+![|500](Pasted%20image%2020240921115532.png)
 
+>[!abstract] Scalar Triple Product.
+>$$a\cdot (b\times c)$$
+>$$a\cdot(b\times c)=(a\times b)\cdot c$$
+>**Meaning:** $V=\|a\times b\|(\|c\||\cos(\phi)|)$ = Area of base * Height 
 
+ # Matrix multiplication:
+ 
 
 
 
