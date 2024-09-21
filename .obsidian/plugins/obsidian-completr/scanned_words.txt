@@ -3089,6 +3089,8 @@ Dedekind
 Descriptions
 Desktop
 Distributivity
+Different
+Diagonal
 Lecturer
 Link
 Line
@@ -14410,6 +14412,8 @@ Trapeziod
 Tarski
 Ternary
 Two
+Triangular
+Transpose
 nomemm
 need
 necessary
@@ -19701,6 +19705,7 @@ texttt
 topic
 through
 text
+transpose
 Course
 Curves
 Continuation
@@ -25322,6 +25327,8 @@ Structure
 Simple
 Source
 Subset
+Square
+Symmetric
 Algebra
 AGLA
 Assignments
@@ -48102,6 +48109,7 @@ Remark
 Rule
 Restricted
 Real
+Rectangular
 of
 one
 others
@@ -50819,6 +50827,7 @@ optional
 occurrence
 overline
 obsidian
+orientations
 lecture
 lineynaya
 linear
@@ -59375,6 +59384,7 @@ Ujba
 Unw
 Unary
 Universal
+Upper
 Watch
 We
 What
@@ -65238,6 +65248,7 @@ division
 difference
 deleted
 desired
+determinants
 independency
 in
 info
@@ -85731,6 +85742,7 @@ hif
 helloworld
 hat
 hypothesis
+hand
 combination
 can
 command
@@ -88705,6 +88717,8 @@ community
 completr
 conflicted
 conflicts
+cross
+columns
 Necessity
 Nikolay
 Natural
@@ -106425,6 +106439,7 @@ monotone
 mathematics
 minus
 multi
+matrices
 You
 YC
 YR
@@ -118075,6 +118090,8 @@ relational
 resolve
 recommend
 replace
+rule
+rectangular
 Zorich
 ZM
 ZB
@@ -121361,6 +121378,7 @@ Zmc
 ZXjq
 Zqur
 Zvw
+Zero
 Kniga
 KP
 KMJ

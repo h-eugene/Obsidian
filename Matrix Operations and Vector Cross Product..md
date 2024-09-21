@@ -30,4 +30,6 @@ a_{21}&a_{22}&a_{23}
   >1&4 \\ 2&5 \\ 3&6\end{bmatrix}^\top = \begin{bmatrix} 1&2&3 \\ 4&5&6 \end{bmatrix}$$
   >$$\forall A, (A^\top)^\top = A$$
   
-  Vexot
+# Vector Cross Product:
+
+$$a\times b= \hat{n}\|a\|\|b\|\sin\theta \ | \ a,b\in R$$

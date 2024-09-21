@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7041fcb62eb334ee",
+        "id": "96f7a65fbe6e8f50",
         "type": "tabs",
         "children": [
           {
-            "id": "e92440101755f10b",
+            "id": "b70077563367026d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -210,17 +210,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e92440101755f10b",
+  "active": "b70077563367026d",
   "lastOpenFiles": [
+    "Home/The Beginning.md",
+    "Matrix Operations and Vector Cross Product..md",
     "Library/Pasted image 20240921105221.png",
     "Vector Algebra.md",
-    "Matrix Operations and Vector Cross Product..md",
     "Matrices. Vector Cross Product..md",
     "The Dot product and its properties..md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
-    "Home/The Beginning.md",
     "Naive Set Theory.md",
     "Basic of Logic.md",
     "Logic and Discrete Mathematics.md",
@@ -240,7 +240,6 @@
     "Library/Pasted image 20240920120734.png",
     "Library/Pasted image 20240920120708.png",
     "Library/Pasted image 20240920120647.png",
-    "Library/Pasted image 20240920120137.png",
     "Excalidraw/Drawing 2024-09-20 11.52.18.excalidraw.md",
     "The fundamental principles for modern computer systems.md",
     "Lecture 3.md",
