@@ -106,9 +106,9 @@ Thus,
 $\displaylines{det(A)=a_{11}*a_{22}*...*a_{mn}+a_{21}*...*a_{1n} + ...+ a_{m1}*a_{12}*...\\ - a_{1n}*...*a_{m1}-a_{2n}*...*a_{11}+...+a_{mn}*...}$  
 $det(A^{\top}) = a_{11}*a_{22}*a_{mn}+...$
 
-In short, they are equal. Since the determinant is calculated by subtracting the sum of all products of all elements parallel to the main diagonal from the sum of all products of all elements parallel to the side diagonal, if we use the Salus method, therefore the transposition does not matter.
+We know that determinat
 
 ## Task 2: $det(A)=det(A^\top)$
-By meaning of determinant, that it just 
+By meaning of determinant, that it just scalar for calculating matrix space. Hence, we can just multiply them.
 
 
