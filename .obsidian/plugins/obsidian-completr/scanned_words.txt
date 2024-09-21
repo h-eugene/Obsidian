@@ -14414,6 +14414,7 @@ Ternary
 Two
 Triangular
 Transpose
+Triple
 nomemm
 need
 necessary
@@ -22526,6 +22527,9 @@ Code
 Conflicts
 Cardinality
 Cross
+Calculating
+Commit
+Calculate
 Sections
 Surfaces
 Spaces
@@ -28059,6 +28063,7 @@ Address
 Alignment
 Additional
 Architectures
+Area
 and
 algebra
 any
@@ -42229,6 +42234,7 @@ Monotonicity
 Multiplicative
 Metrics
 Matrices
+Meaning
 pdf
 previous
 prove
@@ -65250,6 +65256,7 @@ difference
 deleted
 desired
 determinants
+dimensional
 independency
 in
 info
@@ -79946,6 +79953,7 @@ shift
 scanned
 smart
 strongly
+sizes
 exist
 excalidraw
 everything
@@ -88720,6 +88728,8 @@ conflicted
 conflicts
 cross
 columns
+calculate
+commutative
 Necessity
 Nikolay
 Natural
@@ -106441,6 +106451,7 @@ mathematics
 minus
 multi
 matrices
+multiply
 You
 YC
 YR
@@ -112272,6 +112283,7 @@ works
 wrote
 written
 workspace
+ways
 under
 up
 unclear

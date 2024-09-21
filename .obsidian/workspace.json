@@ -11,9 +11,11 @@
             "id": "b70077563367026d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md"
+                "file": "Matrix Operations and Vector Cross Product..md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "Matrix Operations and Vector Cross Product..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "Matrix Operations and Vector Cross Product..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md",
+                "file": "Matrix Operations and Vector Cross Product..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/multiplication of matrices.md"
+                "file": "Matrix Operations and Vector Cross Product..md"
               }
             }
           }
@@ -210,6 +212,7 @@
   },
   "active": "b70077563367026d",
   "lastOpenFiles": [
+    "Excalidraw/multiplication of matrices.md",
     "Matrix Operations and Vector Cross Product..md",
     "Library/Pasted image 20240921115853.png",
     "Library/Pasted image 20240921115532.png",

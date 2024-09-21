@@ -29,6 +29,7 @@ a_{21}&a_{22}&a_{23}
   >$$\begin{bmatrix}
   >1&4 \\ 2&5 \\ 3&6\end{bmatrix}^\top = \begin{bmatrix} 1&2&3 \\ 4&5&6 \end{bmatrix}$$
   >$$\forall A, (A^\top)^\top = A$$
+  >$$(ABDC)^\top = D^\top C^\top B^\top A^\top$$
   
 # Vector Cross Product:
 
@@ -77,7 +78,7 @@ $-a\times b = b\times a$
   Then exists $C=AB$,
   $C$ must be $m\times p$ matrix
   $$\displaylines{c_{ij} = a_{i1}b_{1j} + a_{i2}b_{2j}+...+a_{in}b_{nj} = \sum_{k=1}^{n} a_{ik}b{kj},\\\texttt{for $i=1,..,m$ and $j=1,..,p$}}$$
-  >![multiplication of matrices](multiplication%20of%20matrices.md)
+  >![multiplication of matrices|1000](multiplication%20of%20matrices.md)
   >- Commit into your memory: **matrix multiplication is not commutative.**
   >  $$AB\neq BA$$
   >- **Check sizes of the two matrices:**
