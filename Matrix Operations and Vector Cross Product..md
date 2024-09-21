@@ -20,4 +20,8 @@ a_{21}&a_{22}&a_{23}
 	- Rectangular ($m\neq n$)
 	- Symmetric matrix ($A^{\top} = A$)
 	- (Upper) Triangular matrix ($\forall i,j$ such that $i>j:a_{ij}=0$)
-	- Diagonal matrix ($\forall i,j$$ such that $$)
+	- Diagonal matrix ($\forall i,j$$\ such that $i\neq j: a_{ij} = 0$)
+	- Identity matrix ($IA=AI = A$) $I=\begin{bsmallmatrix}1&0&0\\0&1&0\\0&0&1\end{bsmallmatrix}$ or $I=\begin{bsmallmatrix}1&0\\0&1\end{bsmallmatrix}$
+	- Zero matrix ($0+A=A$)
+- Operations. Transpose a matrix:
+- 
