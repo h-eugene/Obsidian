@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "8e68b3348704f47e",
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -157,7 +156,7 @@
             }
           },
           {
-            "id": "b22baf0bd24c415d",
+            "id": "0cede449c1f20afe",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -202,8 +201,11 @@
   },
   "active": "6c0b25e32bffa039",
   "lastOpenFiles": [
-    "Excalidraw/multiplication of matrices.md",
+    "Pointers. Arrays..md",
+    "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
+    "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "Theory of sequences and their limits..md",
+    "Excalidraw/multiplication of matrices.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Basics of naive Set Theory..md",
     "Theory of limits and continuity.md",
@@ -234,8 +236,6 @@
     "Vector Algebra.md",
     "Matrices. Vector Cross Product..md",
     "Analytical Geometry and Linear Algebra I.md",
-    "Naive Set Theory.md",
-    "Basic of Logic.md",
     "Library/Pasted image 20240920121101.png",
     "Library/Pasted image 20240920121046.png",
     "Library/Pasted image 20240920120956.png",
@@ -251,7 +251,6 @@
     "Без названия 2.canvas",
     "Без названия 1.canvas",
     "Library/Не подтверждено 746170.~",
-    "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp",
-    "Library/Excalidraw"
+    "Library/149632-noch-anime-atmosfera-vselennaya-kosmos-3840x2160.jpg.~tmp"
   ]
 }

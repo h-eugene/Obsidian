@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "exca",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
@@ -17,6 +17,6 @@
   "repelStrength": 16.018711018711,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.16348370567220608,
+  "scale": 0.3213363860503625,
   "close": false
 }
