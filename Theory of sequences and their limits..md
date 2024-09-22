@@ -46,7 +46,10 @@
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
   
   > [!check]+ Proof
-  > - Let $[a_{0},b_{0}] :=$ an inverbal 
+  > - Let $[a_{0},b_{0}] :=$ an interval containing all terms in $(x_{n})_{n\in\mathbb{N}}$, $m:= 0$ and $y_{m}:=$the first term from $(x_{n})_{n\in\mathbb{N}}$ in $[a_{0},b_{0}]$;
+  > - Loop:
+  >   Let $[a_{m+1}, b_{m+1}]:=$ a half of the interval $[a_{m},b_{m}]$ that $(x_{n})_{n\in\mathbb{N}}$ hits infinitely often,
+  >   $y_{m+1}:=$ the first after $y_{m}$ term from $(x_{n})_{n\in\mathbb{N}}$ in $[a_{m+1},b]$
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
