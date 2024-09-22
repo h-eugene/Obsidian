@@ -44,6 +44,9 @@
   >  $(x_{n})_n\in\mathbb{N}$ is bounded. $\blacksquare$
   
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
+  
+  > [!check]+ Proof
+  > - Let $[a_{0},b_{0}] :=$ an inverbal 
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
