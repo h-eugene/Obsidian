@@ -2,9 +2,9 @@
 
 - A (real) sequences is a total function $(x_{n})_{n\in N}:\ \mathbb{N}\rightarrow\mathbb{R}$ usually presented as $x_{0}, x_{1},x_{2},...$
 - A real number $x\in \mathbb{R}$ is said to be a limit of a sequences $(x_{n})_{n\in N}$, (notation $\displaystyle x=\lim_{x\to\infty} x_{n}$) if
-	- for each (any) real $\epsilon>0$ 
+	- for each (any) real $\varepsilon>0$ 
 		- for some (i.e., there exists) $m\in \mathbb{N}$ such that 
-			- for all $n\geq m$ holds $|x_{m}-x_{n}|\leq \epsilon$.
+			- for all $n\geq m$ holds $|x_{m}-x_{n}|\leq \varepsilon$.
 
 > [!hint] Examples and exercises
 > - Examples:
@@ -32,11 +32,11 @@
    
   >[!check]- Proof for unique limit
   >- Let $y$ and $z$ be limits(s) of a sequence $(x_{n})_n\in\mathbb{N}$.
-  >- Let $\epsilon>0$ be any positive real number and $m_{y}\in \mathbb{N}$ and $m_{z}\in \mathbb{N}$ be numbers such that
-  >	- $|x_{n}-y|\leq \epsilon$ for all $n\geq m_{y}$,
-  >	- $|x_{n}-z|\leq \epsilon$ for all $n\geq m_{z}$,
+  >- Let $\varepsilon>0$ be any positive real number and $m_{y}\in \mathbb{N}$ and $m_{z}\in \mathbb{N}$ be numbers such that
+  >	- $|x_{n}-y|\leq \varepsilon$ for all $n\geq m_{y}$,
+  >	- $|x_{n}-z|\leq \varepsilon$ for all $n\geq m_{z}$,
   >	  and let $m=max\{m_{y},m_{z}\}$.   [^1].
-  >- Then $$\displaylines{|y-z|=|(y-x_{m})+(x_{m}-z)|\leq\\ |y-x_{m}|+|x_{m}-z|\leq 2\epsilon}.$$![Trianle inequality|200](The%20Dot%20product%20and%20its%20properties..md#^73428c)
+  >- Then $$\displaylines{|y-z|=|(y-x_{m})+(x_{m}-z)|\leq\\ |y-x_{m}|+|x_{m}-z|\leq 2\varepsilon}.$$![Trianle inequality|200](The%20Dot%20product%20and%20its%20properties..md#^73428c)
   >- Hence $y=z$ because the distance between $y$ and $z$ is less than any positive number.
   >$\blacksquare$
  
@@ -63,8 +63,8 @@
   >	- and $|a_{m},b_{m}|= \frac{|a_{0},b_{0}|}{2^{m}}$.
   ><br>
   >- Let $\{y\} := {\bigcap}_{m\in\mathbb{N}} [a_{m},b_{m}]$ [^3]
-  >- Let $\epsilon>0$ be any positive real and $m\in\mathbb{N}$ be the first natural number such that $|a_{m},b_{m}|\leq \epsilon$'
-  >- By construction, for all $n\geq m$ holds $y_{n}\in [a_{m},b_{m}]$ and hence $|y_{n}-y|\leq \epsilon$.
+  >- Let $\varepsilon>0$ be any positive real and $m\in\mathbb{N}$ be the first natural number such that $|a_{m},b_{m}|\leq \varepsilon$'
+  >- By construction, for all $n\geq m$ holds $y_{n}\in [a_{m},b_{m}]$ and hence $|y_{n}-y|\leq \varepsilon$.
   >- It proves that $y = \displaystyle{\lim_{n\to\infty}} y_{n}.$
   >$\blacksquare$
 
@@ -75,17 +75,17 @@
 	   > [!check] Proof
 	   > - Let us assume that $x\neq 0$.
 	   > - Since $y = \displaystyle \lim_{n\to\infty} y_{n}\neq 0$, there exists some $\Delta >0$ such that for some $m_{\Delta}\in \mathbb{N}$ and all $n>m_{\Delta}$ holds $|y_{n}|\geq \Delta$.
-	   > - Let $\epsilon > 0$ be any positive real;
-	   > 	- since $\displaystyle x = \lim_{n\to \infty} x_{n}$, there exists some $m_{x}\in \mathbb{N}$ such that for all $n\geq m_{x}$ holds $|x_{n}-x \leq \frac{\epsilon\Delta}{2}$;
-	   > 	- since $y=\displaystyle \lim_{n\to\infty}y_{n}\neq 0$, there exists some $m_{y}\in \mathbb{N}$ such that for all $n\geq m_{y}$ holds $|y_{n}-y|\leq \frac{\epsilon|y|\Delta}{2|x|}$;
+	   > - Let $\varepsilon > 0$ be any positive real;
+	   > 	- since $\displaystyle x = \lim_{n\to \infty} x_{n}$, there exists some $m_{x}\in \mathbb{N}$ such that for all $n\geq m_{x}$ holds $|x_{n}-x \leq \frac{\varepsilon\Delta}{2}$;
+	   > 	- since $y=\displaystyle \lim_{n\to\infty}y_{n}\neq 0$, there exists some $m_{y}\in \mathbb{N}$ such that for all $n\geq m_{y}$ holds $|y_{n}-y|\leq \frac{\varepsilon|y|\Delta}{2|x|}$;
 	   > <br>
 	   > - Let $m:=max\{m_{\Delta}, m_{x}, m_{y}\}$ and $n\geq m$ be any natural number;
 	   > - $$\displaylines{ \displaystyle |\frac{x_{n}}{y_{n}} - \frac{x}{y}| = | \frac{x_{n}y-xy_{n}}{yy_{n}}|= \\  | \frac{(x_{n}-x)y+x(y-y_{n})}{yy_{n}}| \leq \\ | \frac{x_{n}-x}{y_{n}}| + | \frac{x}{y}|\times | \frac{y-y_{n}}{y_{n}}| }$$
 	   >   ![](The%20Dot%20product%20and%20its%20properties..md#^73428c)
 	   >   $$\displaylines{| \frac{x_{n}-x}{y_{n}}| + | \frac{x}{y}|\times | \frac{y-y_{n}}{y_{n}}|\\
 	   >   \leq \frac{|x_n-x|}{\Delta} + | \frac{x}{y}| \times \frac{|y-y_{n}|}{\Delta}\\
-	   >   \leq \frac{\epsilon\Delta}{2\Delta}+| \frac{x}{y}| \times \frac{\epsilon|y|\Delta}{2|x|\Delta} \\ = \frac{\epsilon}{2} + \frac{\epsilon}{2} = \epsilon}.$$
-	   >   
+	   >   \leq \frac{\varepsilon\Delta}{2\Delta}+| \frac{x}{y}| \times \frac{\varepsilon|y|\Delta}{2|x|\Delta} \\ = \frac{\varepsilon}{2} + \frac{\varepsilon}{2} = \varepsilon}.$$
+	   > - 
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values

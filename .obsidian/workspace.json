@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55d7f102593aa56b",
+        "id": "01f96257694eb988",
         "type": "tabs",
         "children": [
           {
-            "id": "364ed6d7b65d37c1",
+            "id": "71a5a36f44d63ae7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Theory of sequences and their limits..md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -209,11 +209,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "364ed6d7b65d37c1",
+  "active": "71a5a36f44d63ae7",
   "lastOpenFiles": [
+    "Theory of sequences and their limits..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Basics of naive Set Theory..md",
-    "Theory of sequences and their limits..md",
     "Theory of limits and continuity.md",
     "Library/Pasted image 20240922172854.png",
     "Fundamental Ideas of Computer Architecture.md",
