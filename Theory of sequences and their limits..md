@@ -69,11 +69,10 @@
   >$\blacksquare$
 
 - For any converging sequences $(x_{n})_{n\in\mathbb{N}}$ and $(y_{n})_{n\in\mathbb{N}}$ if $x=\displaystyle{\lim_{n\to\infty} x_{n}}$ and $y=\displaystyle{\lim_{n\to\infty} y_{n}}$ then:
-  <br>
-	- sequences $(x_{n}+y_{n})_{n\in\mathbb{N}},\ (x_{n}- y_{n})_{n\in\mathbb{N}},$ and $(x_{n}\times y_{n})_{n\in\mathbb{N}}$ are converging and $\displaystyle{\lim_{n\to\infty}(x_{n}+y_{n})=(x+y),\ \lim_{x_{n}-y_{n}}=(x-y)}$, and $\displaystyle{\lim_{n\to\infty} x_{n}\times y_{n}=(x\times y)}$.   
-	<br>
-	- If for all $n\in\mathbb{N}$ holds $y_{n}\neq 0$, and $y\neq 0$, then sequence $(\frac{x_{n}}{y_{n}})_{n\in\mathbb{N}}$ is converging and $\displaystyle{\lim_{n\to\infty}(\frac{x_{n}}{y_{n}})=\frac{x}{y}}$.
-
+	1. sequences $(x_{n}+y_{n})_{n\in\mathbb{N}},\ (x_{n}- y_{n})_{n\in\mathbb{N}},$ and $(x_{n}\times y_{n})_{n\in\mathbb{N}}$ are converging and $\displaystyle{\lim_{n\to\infty}(x_{n}+y_{n})=(x+y),\ \lim_{x_{n}-y_{n}}=(x-y)}$, and $\displaystyle{\lim_{n\to\infty} x_{n}\times y_{n}=(x\times y)}$.   
+	  <br>
+	2. If for all $n\in\mathbb{N}$ holds $y_{n}\neq 0$, and $y\neq 0$, then sequence $(\frac{x_{n}}{y_{n}})_{n\in\mathbb{N}}$ is converging and $\displaystyle{\lim_{n\to\infty}(\frac{x_{n}}{y_{n}})=\frac{x}{y}}$.
+  fdsfsdf
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
