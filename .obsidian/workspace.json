@@ -11,8 +11,12 @@
             "id": "6c0b25e32bffa039",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Innopolis 1st year - Fall Semester.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -78,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Innopolis 1st year - Fall Semester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Innopolis 1st year - Fall Semester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Innopolis 1st year - Fall Semester.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Innopolis 1st year - Fall Semester.md"
+              }
             }
           }
         ]
@@ -201,11 +210,15 @@
   },
   "active": "6c0b25e32bffa039",
   "lastOpenFiles": [
+    "Introduction to Programming.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
+    "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "The Dot product and its properties..md",
     "Library/Pasted image 20240923001659.png",
-    "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "Library/Pasted image 20240923001610.png",
-    "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "Library/Pasted image 20240923001539.png",
     "Library/Pasted image 20240922235922.png",
     "Excalidraw/multiplication of matrices.md",
@@ -226,9 +239,6 @@
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Mathematical Analysis I.md",
     "Introduction.md",
-    "Innopolis 1st year - Fall Semester.md",
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Number Systems. Axiomatic approaches..md",
     "Differentiation, derivatives, and differential.md",
     "Indefinite and definite integral.md",
