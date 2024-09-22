@@ -29,7 +29,7 @@
 
 - Each converging sequence has unique limit and is bounded.
    
-  >[!check]+ Proof for unique limit
+  >[!check]- Proof for unique limit
   >- Let $y$ and $z$ be limits(s) of a sequence $(x_{n})_n\in\mathbb{N}$.
   >- Let $\epsilon>0$ be any positive real number and $m_{y}\in \mathbb{N}$ and $m_{z}\in \mathbb{N}$ be numbers such that
   >	- $|x_{n}-y|\leq \epsilon$ for all $n\geq m_{y}$,
@@ -39,7 +39,7 @@
   >- Hence $y=z$ because the distance between $y$ and $z$ is less than any positive number.
   >$\blacksquare$
  
-  >[!check]+ Proof for bounded
+  >[!check]- Proof for bounded
   >- Let $(x_{n})_n\in\mathbb{N}$ be a sequence and $x$ be its limit.
   >- Let $m\in\mathbb{N}$ be a number such that for all $n\geq m$ holds $|x_{n}-x|\leq 1$.
   >- Let $c=max\{|x_{0}|,...|x_{m}|, |x-1|,|x+1|\}$.     [^2].
@@ -70,4 +70,4 @@
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
-[^3]: The intersections of all subintervals of $[a_{0},b_{0}]$ 
+[^3]: The intersection of all subintervals of $[a_{0},b_{0}]$ 
