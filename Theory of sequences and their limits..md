@@ -56,7 +56,8 @@
   >	- $(x_{n})_{n\in\mathbb{N}}$ hits $[a_{m},b_{m}]$ infinitely often,
   >	- $y_{0}...y_{m}$ is subsequence of a prefix of $(x_{n})_{n\in\mathbb{N}}$,
   >	- and $|a_{m},b_{m}|= \frac{|a_{0},b_{0}|}{2^{m}}$.
-  >- Let $\{y\} := \un$ 
+  >- Let $\{y\} := {\bigcap}_{m\in\mathbb{N}}[a_{m},b_{m}]$
+  >- Let $\epsilon>0$ be any positive real and $m\in\mathbb{N}$ be the first natural number such that $|a_{m},n$
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
