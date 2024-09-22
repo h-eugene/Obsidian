@@ -34,14 +34,16 @@
   >	- $|x_{n}-z|\leq \epsilon$ for all $n\geq m_{z}$,
   >	  and let $m=max\{m_{y},m_{z}\}$.   [^1].
   >- Then $$\displaylines{|y-z|=|(y-x_{m})+(x_{m}-z)|\leq\\ |y-x_{m}|+|x_{m}-z|\leq 2\epsilon}.$$![Trianle inequality|200](The%20Dot%20product%20and%20its%20properties..md#^73428c)
-  >- Hence $y=z$ because the distance between $y$ and $z$ is less than any positive number. $\blacksquare$
+  >- Hence $y=z$ because the distance between $y$ and $z$ is less than any positive number.
+  >$\blacksquare$
  
   >[!check]+ Proof for bounded
   >- Let $(x_{n})_n\in\mathbb{N}$ be a sequence and $x$ be its limit.
   >- Let $m\in\mathbb{N}$ be a number such that for all $n\geq m$ holds $|x_{n}-x|\leq 1$.
   >- Let $c=max\{|x_{0}|,...|x_{m}|, |x-1|,|x+1|\}$.     [^2].
   >- Then for all $n\in\mathbb{N}$ holds $-c\leq x_{n}\leq +c,$ i.e., 
-  >  $(x_{n})_n\in\mathbb{N}$ is bounded. $\blacksquare$
+  >  $(x_{n})_n\in\mathbb{N}$ is bounded.
+  >$\blacksquare$
   
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
   
@@ -59,7 +61,8 @@
   >- Let $\{y\} := {\bigcap}_{m\in\mathbb{N}}[a_{m},b_{m}]$
   >- Let $\epsilon>0$ be any positive real and $m\in\mathbb{N}$ be the first natural number such that $|a_{m},b_{m}|\leq \epsilon$'
   >- By construction, for all $n\geq m$ holds $y_{n}\in [a_{m},b_{m}]$ and hence $|y_{n}-y\leq \epsilon$.
-  >- It proves that $y = \displaystyle{\lim_{n\to\infty}} y_{n}.\ \blacksquare$ 
+  >- It proves that $y = \displaystyle{\lim_{n\to\infty}} y_{n}.$
+  >$\blacksquare$
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
