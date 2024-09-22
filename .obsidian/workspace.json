@@ -11,10 +11,8 @@
             "id": "6c0b25e32bffa039",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -80,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -209,8 +202,12 @@
   "active": "6c0b25e32bffa039",
   "lastOpenFiles": [
     "The Dot product and its properties..md",
-    "Library/Pasted image 20240922235922.png",
+    "Library/Pasted image 20240923001659.png",
     "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
+    "Library/Pasted image 20240923001610.png",
+    "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
+    "Library/Pasted image 20240923001539.png",
+    "Library/Pasted image 20240922235922.png",
     "Excalidraw/multiplication of matrices.md",
     "Matrix Operations and Vector Cross Product..md",
     "Library/Pasted image 20240922235833.png",
@@ -232,7 +229,6 @@
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "Number Systems. Axiomatic approaches..md",
     "Differentiation, derivatives, and differential.md",
     "Indefinite and definite integral.md",
@@ -240,11 +236,8 @@
     "Library/Pasted image 20240921115532.png",
     "Library/Pasted image 20240921115510.png",
     "Library/Pasted image 20240921115145.png",
-    "Library/Pasted image 20240921113341.png",
     "right-hand rule.md",
-    "Library/Pasted image 20240921105221.png",
     "Vector Algebra.md",
-    "Library/Pasted image 20240920121101.png",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "smart-chats",
     "Library/Programming/C Programming Language.pdf",

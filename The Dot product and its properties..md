@@ -43,7 +43,7 @@
 >$u\cdot v = \sum^{n}_{i=1}u_{i}v_{i} = \|u\|\|v\|\cos\theta$
 
 >[!check]- Proof
->![Drawing 2024-09-14 11.42.14.excalidraw](Drawing%202024-09-14%2011.42.14.excalidraw.md)
+>![](Pasted%20image%2020240923001610.png)
 >$$\displaylines{\texttt{By cosines' theorem: }\\\| V_{2}-V_{1}\|^{2} = \|V_{1}\|^{2} +\|V_{2}\|^{2}-2\| V_{1}\|\|V_{2}\| = \\(a_{1}^{2}+b_{1}^{2})+(a_{2}^{2}+b_{2}^{2})-2\|V_{1}\|\|V_{2}\|\cos\theta\\\texttt{On the other hand, by default way: } \\
 >\| V_{2}-V_{1}\|^{2}=(a_{2}-a_{1})^{2}+(b_{2}-b_{1})^{2}=\\
 >a_{2}^{2}-2a_{2}a_{1}+a_{1}^{2}+b_{2}^{2}-2b_{2}b_{1}+b_{1}^{2}\\
@@ -94,7 +94,8 @@
    \overline{BF}\cdot\overline{CF}=-1}$$
    Find $\overline{BE}\cdot \overline{CE}$. 
    **Solution:**
-	   ![Drawing 2024-09-09 23.41.39.excalidraw](Drawing%202024-09-09%2023.41.39.excalidraw.md)
+	   ![](Pasted%20image%2020240923001659.png)
+	   
 $$\displaylines{\overline{AD} = \frac{1}{2}\cdot (\overline{AC}+\overline{AB})\\
 \overline{AF} = \frac{2}{3}\overline{AD} = \frac{1}{3}(\overline{AC}+\overline{AB})}$$
 $$\displaylines{
