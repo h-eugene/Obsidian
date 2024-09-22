@@ -8,9 +8,10 @@
   "homepage",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-emoji-toolbar",
-  "dataview",
-  "obsidian-completr",
+  "obsidian-functionplot",
+  "better-fn",
   "calendar",
-  "better-fn"
+  "obsidian-completr",
+  "dataview",
+  "obsidian-emoji-toolbar"
 ]
