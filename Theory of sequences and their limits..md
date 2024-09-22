@@ -20,7 +20,9 @@
 # Subsequences:
 
 - A sequence $(y_{n})_{n\in \mathbb{N}}$ is said to be a subsequence of a sequence $(x_{n})_{x\in \mathbb{N}}$, if there exists a strictly monotone (strictly increasing / growing) total ("sub-indexing") function $m: \mathbb{N}\to\mathbb{N}$ such that for all $n\in\mathbb{N}$ holds $y_{n}=x_{m(n)}$.
+<br>
 - Example: Sequence $0,2,4,...$ of even numbers is a subsequence of all natural numbers $0,1,2,...$ but not vice-versa, a sub-indexing function is $m=\lambda m \in \mathbb{N}.(2n)$.
+<br>
 - Subsequence of a converging sequence does converge to the same limit as the sequence itself.
 
 # Main properties: convergence and boundness:
@@ -49,15 +51,16 @@
   
   > [!check]+ Proof
   > - Let $[a_{0},b_{0}] :=$ an interval containing all terms in $(x_{n})_{n\in\mathbb{N}}$, $m:= 0$ and $y_{m}:=$the first term from $(x_{n})_{n\in\mathbb{N}}$ in $[a_{0},b_{0}]$;
-  >   
+  >   <br>
   > - Loop:
   >   Let $[a_{m+1}, b_{m+1}]:=$ a half of the interval $[a_{m},b_{m}]$ that $(x_{n})_{n\in\mathbb{N}}$ hits infinitely often,
   >   $y_{m+1}:=$ the first after $y_{m}$ term from $(x_{n})_{n\in\mathbb{N}}$ in $[a_{m+1},b_{m+1}]$, and $m:=m+1$
-  >   
+  >   <br>
   >- Loop invariant (inductive statement):
   >	- $(x_{n})_{n\in\mathbb{N}}$ hits $[a_{m},b_{m}]$ infinitely often,
   >	- $y_{0}...y_{m}$ is subsequence of a prefix of $(x_{n})_{n\in\mathbb{N}}$,
   >	- and $|a_{m},b_{m}|= \frac{|a_{0},b_{0}|}{2^{m}}$.
+  ><br>
   >- Let $\{y\} := {\bigcap}_{m\in\mathbb{N}}[a_{m},b_{m}]$
   >- Let $\epsilon>0$ be any positive real and $m\in\mathbb{N}$ be the first natural number such that $|a_{m},b_{m}|\leq \epsilon$'
   >- By construction, for all $n\geq m$ holds $y_{n}\in [a_{m},b_{m}]$ and hence $|y_{n}-y\leq \epsilon$.
