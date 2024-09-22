@@ -61,7 +61,7 @@
   >	- $y_{0}...y_{m}$ is subsequence of a prefix of $(x_{n})_{n\in\mathbb{N}}$,
   >	- and $|a_{m},b_{m}|= \frac{|a_{0},b_{0}|}{2^{m}}$.
   ><br>
-  >- Let $\{y\} := {\bigcap}_{m\in\mathbb{N}} [^3][a_{m},b_{m}]$
+  >- Let $\{y\} := {\bigcap}_{m\in\mathbb{N}} [a_{m},b_{m}]$ [^3]
   >- Let $\epsilon>0$ be any positive real and $m\in\mathbb{N}$ be the first natural number such that $|a_{m},b_{m}|\leq \epsilon$'
   >- By construction, for all $n\geq m$ holds $y_{n}\in [a_{m},b_{m}]$ and hence $|y_{n}-y|\leq \epsilon$.
   >- It proves that $y = \displaystyle{\lim_{n\to\infty}} y_{n}.$
@@ -70,4 +70,4 @@
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
-[^3]: Intersections of all sub
+[^3]: The intersections of all subintervals of $[a_{0},b_{0}]$ 
