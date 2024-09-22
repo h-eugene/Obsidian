@@ -47,9 +47,16 @@
   
   > [!check]+ Proof
   > - Let $[a_{0},b_{0}] :=$ an interval containing all terms in $(x_{n})_{n\in\mathbb{N}}$, $m:= 0$ and $y_{m}:=$the first term from $(x_{n})_{n\in\mathbb{N}}$ in $[a_{0},b_{0}]$;
+  >   
   > - Loop:
   >   Let $[a_{m+1}, b_{m+1}]:=$ a half of the interval $[a_{m},b_{m}]$ that $(x_{n})_{n\in\mathbb{N}}$ hits infinitely often,
-  >   $y_{m+1}:=$ the first after $y_{m}$ term from $(x_{n})_{n\in\mathbb{N}}$ in $[a_{m+1},b]$
+  >   $y_{m+1}:=$ the first after $y_{m}$ term from $(x_{n})_{n\in\mathbb{N}}$ in $[a_{m+1},b_{m+1}]$, and $m:=m+1$
+  >   
+  >- Loop invariant (inductive statement):
+  >	- $(x_{n})_{n\in\mathbb{N}}$ hits $[a_{m},b_{m}]$ infinitely often,
+  >	- $y_{0}...y_{m}$ is subsequence of a prefix of $(x_{n})_{n\in\mathbb{N}}$,
+  >	- and $|a_{m},b_{m}|= \frac{|a_{0},b_{0}|}{2^{m}}$.
+  >- Let $\{y\} := \un$ 
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
