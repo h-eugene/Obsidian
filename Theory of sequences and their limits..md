@@ -44,3 +44,5 @@
   >  $(x_{n})_n\in\mathbb{N}$ is bounded. $\blacksquare$
   
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
+^[!Note]
+
