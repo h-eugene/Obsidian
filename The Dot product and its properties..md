@@ -65,6 +65,9 @@
 > (x\cdot y)^{2}\leq \|x\|^{2}\|y\|^{2}\\
 > |x\cdot y|\leq\|x\|\|y\|}$$
 # Triangle Inequality:
+
+^352286
+
 > [!abstract] Triangle inequality
 > $\|x+y\|\leq\|x\|+\|y\|.$
 
