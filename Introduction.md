@@ -10,7 +10,6 @@
 - [Natural Numbers](Natural%20Numbers.md)
 - [Relations, Functions, Operations](Relations,%20Functions,%20Operations.md)
 - [Number Systems. Axiomatic approaches.](Number%20Systems.%20Axiomatic%20approaches..md)
-- [Theory of sequences and their limits.](Theory%20of%20sequences%20and%20their%20limits..md)
 
 **Some notes:**
 
