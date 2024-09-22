@@ -83,7 +83,8 @@
 	   > - $$\displaylines{ \displaystyle |\frac{x_{n}}{y_{n}} - \frac{x}{y}| = | \frac{x_{n}y-xy_{n}}{yy_{n}}|= \\  | \frac{(x_{n}-x)y+x(y-y_{n})}{yy_{n}}| \leq \\ | \frac{x_{n}-x}{y_{n}}| + | \frac{x}{y}|\times | \frac{y-y_{n}}{y_{n}}| }$$
 	   >   ![](The%20Dot%20product%20and%20its%20properties..md#^73428c)
 	   >   $$\displaylines{| \frac{x_{n}-x}{y_{n}}| + | \frac{x}{y}|\times | \frac{y-y_{n}}{y_{n}}|\\
-	   >   \geq \frac{|x_n-x|}{\Delta} + | \frac{x}{y}| \times \frac{|y-y_{n}|}{\Delta}}$$
+	   >   \leq \frac{|x_n-x|}{\Delta} + | \frac{x}{y}| \times \frac{|y-y_{n}|}{\Delta}\\
+	   >   \leq \frac{\epsilon\Delta}{2\Delta}+| \frac{x}{y}| \times \frac{\epsilon|y|\Delta}{2|x|\Delta} \\ = \frac{\epsilon}{2} + \frac{\epsilon}{2} = \epsilon}.$$
 	   >   
 
 
