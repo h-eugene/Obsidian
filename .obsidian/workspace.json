@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Innopolis University.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Innopolis University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Innopolis University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Innopolis University.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md"
+                "file": "Innopolis University.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "6c0b25e32bffa039",
   "lastOpenFiles": [
-    "Introduction to Programming.md",
     "Innopolis 1st year - Fall Semester.md",
+    "Introduction to Programming.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
     "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
