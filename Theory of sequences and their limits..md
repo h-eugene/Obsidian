@@ -48,4 +48,5 @@
 ^[inline footnote]
 
 [^note]
-	[^note] slfjsdflj
+	[^note]:slfjsdflj
+![|200000](Pasted%20image%2020240922172854.png)
