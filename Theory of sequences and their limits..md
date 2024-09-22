@@ -69,7 +69,8 @@
   >$\blacksquare$
 
 - For any converging sequences $(x_{n})_{n\in\mathbb{N}}$ and $(y_{n})_{n\in\mathbb{N}}$ if $x=\displaystyle{\lim_{n\to\infty} x_{n}}$ and $y=\displaystyle{\lim_{n\to\infty} y_{n}}$ then:
-	- sequences $(x_{n}+y_{n})_{n\in\mathbb{N}},\ (x_{n}- y_{n})_{n\in\mathbb{N}}$
+	- sequences $(x_{n}+y_{n})_{n\in\mathbb{N}},\ (x_{n}- y_{n})_{n\in\mathbb{N}},$ and $(x_{n}\times y_{n})_{n\in\mathbb{N}}$ are converging and $\displaystyle{\lim_{n\to\infty}(x_{n}+y_{n})=(x+y),\ \lim_{x_{n}-y_{n}}=(x-y)}$, and $\displaystyle{\lim_{n\to\infty} x_{n}\times y_{n}=(x\times y)}$.
+- If for all $n\in\mathbb{N}$ holds $y_{n}\neq 0$, and $y\neq 0$, then sequence $(\frac{x_{n}}{y_{n}})_{n\in\mathbb{N}}$
 
 
 
