@@ -1,4 +1,5 @@
 # Sequences and their limits:
+
 - A (real) sequences is a total function $(x_{n})_{n\in N}:\ \mathbb{N}\rightarrow\mathbb{R}$ usually presented as $x_{0}, x_{1},x_{2},...$
 - A real number $x\in \mathbb{R}$ is said to be a limit of a sequences $(x_{n})_{n\in N}$, (notation $x=\lim_{x\to\infty} x_{n}$) if
 	- for each (any) real $\epsilon>0$ 
@@ -49,7 +50,7 @@
   
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
   
-  > [!check]+ Proof
+  > [!check]- Proof
   > - Let $[a_{0},b_{0}] :=$ an interval containing all terms in $(x_{n})_{n\in\mathbb{N}}$, $m:= 0$ and $y_{m}:=$the first term from $(x_{n})_{n\in\mathbb{N}}$ in $[a_{0},b_{0}]$;
   >   <br>
   > - Loop:
@@ -66,6 +67,10 @@
   >- By construction, for all $n\geq m$ holds $y_{n}\in [a_{m},b_{m}]$ and hence $|y_{n}-y|\leq \epsilon$.
   >- It proves that $y = \displaystyle{\lim_{n\to\infty}} y_{n}.$
   >$\blacksquare$
+
+- For any converging sequences $(x_{n})_{n\in\mathbb{N}}$ and $(y_{n})_{n\in\mathbb{N}}$ if $x=\displaystyle{\lim_{n\to\infty} x_{n}}$ and $y=\displaystyle{\lim_{n\to\infty} y_{n}}$ then:
+	- sequences $(x_{n}+y_{n})_{n\in\mathbb{N}},\ (x_{n}- y_{n})_{n\in\mathbb{N}}$
+
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
