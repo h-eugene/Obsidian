@@ -85,7 +85,7 @@
 	   >   $$\displaylines{| \frac{x_{n}-x}{y_{n}}| + | \frac{x}{y}|\times | \frac{y-y_{n}}{y_{n}}|\\
 	   >   \leq \frac{|x_n-x|}{\Delta} + | \frac{x}{y}| \times \frac{|y-y_{n}|}{\Delta}\\
 	   >   \leq \frac{\varepsilon\Delta}{2\Delta}+| \frac{x}{y}| \times \frac{\varepsilon|y|\Delta}{2|x|\Delta} \\ = \frac{\varepsilon}{2} + \frac{\varepsilon}{2} = \varepsilon}.$$
-	   > - 
+	   > -  It proves that $\displaystyle \lim_{n\to\infty}\left( \frac{x_{n}}{y_{n}}\right)= \frac{x}{y}$.
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
