@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3237e5a2cd281213",
+        "id": "32fcd951bbc10bae",
         "type": "tabs",
         "children": [
           {
-            "id": "6c0b25e32bffa039",
+            "id": "85f87be1f7700308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Home/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis 1st year - Fall Semester.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -208,10 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c0b25e32bffa039",
+  "active": "85f87be1f7700308",
   "lastOpenFiles": [
-    "Innopolis University.md",
     "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
     "Introduction to Programming.md",
     "Home/The Beginning.md",
     "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
