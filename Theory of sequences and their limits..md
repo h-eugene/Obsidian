@@ -39,13 +39,12 @@
   >[!check]+ Proof for bounded
   >- Let $(x_{n})_n\in\mathbb{N}$ be a sequence and $x$ be its limit.
   >- Let $m\in\mathbb{N}$ be a number such that for all $n\geq m$ holds $|x_{n}-x|\leq 1$.
-  >- Let $c=max\{|x_{0}|,...|x_{m}|, |x-1|,|x+1|\}$.     [^2].
+  >- Let $c=max\{|x_{0}|,...|x_{m}|, |x-1|,|x+1|\}$.     /[^2].
   >- Then for all $n\in\mathbb{N}$ holds $-c\leq x_{n}\leq +c,$ i.e., 
   >  $(x_{n})_n\in\mathbb{N}$ is bounded. $\blacksquare$
   
-- (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)[^3]
+- (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
-[^3]: 
