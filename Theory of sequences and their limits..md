@@ -47,4 +47,4 @@
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
-[^2] 
+[^2]: c is a value that is larger or equal to the max element of sequence.  
