@@ -32,18 +32,19 @@
   >- Let $\epsilon>0$ be any positive real number and $m_{y}\in \mathbb{N}$ and $m_{z}\in \mathbb{N}$ be numbers such that
   >	- $|x_{n}-y|\leq \epsilon$ for all $n\geq m_{y}$,
   >	- $|x_{n}-z|\leq \epsilon$ for all $n\geq m_{z}$,
-  >	  and let $m=max\{m_{y},m_{z}\}$[^Explanation].
+  >	  and let $m=max\{m_{y},m_{z}\}$[^1].
   >- Then $$\displaylines{|y-z|=|(y-x_{m})+(x_{m}-z)|\leq\\ |y-x_{m}|+|x_{m}-z|\leq 2\epsilon}.$$![Trianle inequality|200](The%20Dot%20product%20and%20its%20properties..md#^73428c)
   >- Hence $y=z$ because the distance between $y$ and $z$ is less than any positive number. $\blacksquare$
  
   >[!check]+ Proof for bounded
   >- Let $(x_{n})_n\in\mathbb{N}$ be a sequence and $x$ be its limit.
   >- Let $m\in\mathbb{N}$ be a number such that for all $n\geq m$ holds $|x_{n}-x|\leq 1$.
-  >- Let $c=max\{|x_{0}|,...|x_{m}|, |x-1|,|x+1|\}$.
+  >- Let $c=max\{|x_{0}|,...|x_{m}|, |x-1|,|x+1|\}$.[^2]
   >- Then for all $n\in\mathbb{N}$ holds $-c\leq x_{n}\leq +c,$ i.e., 
   >  $(x_{n})_n\in\mathbb{N}$ is bounded. $\blacksquare$
   
 - (Bolzano – Weierstrass theorem) Each bounded sequence has a converging subsequence (but not vice versa)
 
----
-[^Explanation]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
+
+[^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
+[^2] 
