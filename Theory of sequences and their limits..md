@@ -1,22 +1,22 @@
 # Sequences and their limits:
 
 - A (real) sequences is a total function $(x_{n})_{n\in N}:\ \mathbb{N}\rightarrow\mathbb{R}$ usually presented as $x_{0}, x_{1},x_{2},...$
-- A real number $x\in \mathbb{R}$ is said to be a limit of a sequences $(x_{n})_{n\in N}$, (notation $x=\lim_{x\to\infty} x_{n}$) if
+- A real number $x\in \mathbb{R}$ is said to be a limit of a sequences $(x_{n})_{n\in N}$, (notation $\displaystyle x=\lim_{x\to\infty} x_{n}$) if
 	- for each (any) real $\epsilon>0$ 
 		- for some (i.e., there exists) $m\in \mathbb{N}$ such that 
 			- for all $n\geq m$ holds $|x_{m}-x_{n}|\leq \epsilon$.
 
 > [!hint] Examples and exercises
 > - Examples:
-> 	- Sequence $(1- \frac{1}{n+1})_{n\in \mathbb{N}}$ has a limit $1$.
-> 	- Sequence $((-1)^{n} - \frac{1}{n+1})_{n\in\mathbb{N}}$ has no any limit.
+> 	- Sequence $\displaystyle (1- \frac{1}{n+1})_{n\in \mathbb{N}}$ has a limit $1$.
+> 	- Sequence $\displaystyle ((-1)^{n} - \frac{1}{n+1})_{n\in\mathbb{N}}$ has no any limit.
 
 - A sequence converges to a real number $x\in \mathbb{R}$, if the sequences has $x$ as a limit.
 - A sequences converges (or has a limit), if it has a limit (i.e, there exists $x$ such that ..).
 - A sequences $(x_{n})_{x\in \mathbb{N}}$ is bounded, if for some interval $[a,b]\subseteq\mathbb{R}$ and each (all) $n \in \mathbb{N}$ holds $x_{n}\in [a,b]$. 
 
 >[!hint] Examples and exercises
->- Sequences $(1- \frac{1}{n+1})_{n\in\mathbb{N}}$ and $((-1)^{n} - \frac{1}{n+1})$ are bounded.
+>- Sequences $\displaystyle (1- \frac{1}{n+1})_{n\in\mathbb{N}}$ and $\displaystyle ((-1)^{n} - \frac{1}{n+1})$ are bounded.
 
 # Subsequences:
 
@@ -69,10 +69,12 @@
   >$\blacksquare$
 
 - For any converging sequences $(x_{n})_{n\in\mathbb{N}}$ and $(y_{n})_{n\in\mathbb{N}}$ if $x=\displaystyle{\lim_{n\to\infty} x_{n}}$ and $y=\displaystyle{\lim_{n\to\infty} y_{n}}$ then:
-	1. sequences $(x_{n}+y_{n})_{n\in\mathbb{N}},\ (x_{n}- y_{n})_{n\in\mathbb{N}},$ and $(x_{n}\times y_{n})_{n\in\mathbb{N}}$ are converging and $\displaystyle{\lim_{n\to\infty}(x_{n}+y_{n})=(x+y),\ \lim_{x_{n}-y_{n}}=(x-y)}$, and $\displaystyle{\lim_{n\to\infty} x_{n}\times y_{n}=(x\times y)}$.   
+	1. sequences $(x_{n}+y_{n})_{n\in\mathbb{N}},\ (x_{n}- y_{n})_{n\in\mathbb{N}},$ and $(x_{n}\times y_{n})_{n\in\mathbb{N}}$ are converging and $\displaystyle{\lim_{n\to\infty}(x_{n}+y_{n})=(x+y),\ \lim_{n\to\infty}=(x-y)}$, and $\displaystyle{\lim_{n\to\infty} x_{n}\times y_{n}=(x\times y)}$.   
 	  <br>
-	2. If for all $n\in\mathbb{N}$ holds $y_{n}\neq 0$, and $y\neq 0$, then sequence $(\frac{x_{n}}{y_{n}})_{n\in\mathbb{N}}$ is converging and $\displaystyle{\lim_{n\to\infty}(\frac{x_{n}}{y_{n}})=\frac{x}{y}}$.
-  fdsfsdf
+	2. If for all $n\in\mathbb{N}$ holds $y_{n}\neq 0$, and $y\neq 0$, then sequence $\displaystyle(\frac{x_{n}}{y_{n}})_{n\in\mathbb{N}}$ is converging and $\displaystyle{\lim_{n\to\infty}(\frac{x_{n}}{y_{n}})=\frac{x}{y}}$.
+	   > [!check] Proof
+	   > - Let us assume that $x\neq 0$.
+	   > - Since $y = \displaystyle \lim_{n\to\infty}$
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
