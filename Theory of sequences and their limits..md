@@ -74,7 +74,10 @@
 	2. If for all $n\in\mathbb{N}$ holds $y_{n}\neq 0$, and $y\neq 0$, then sequence $\displaystyle(\frac{x_{n}}{y_{n}})_{n\in\mathbb{N}}$ is converging and $\displaystyle{\lim_{n\to\infty}(\frac{x_{n}}{y_{n}})=\frac{x}{y}}$.
 	   > [!check] Proof
 	   > - Let us assume that $x\neq 0$.
-	   > - Since $y = \displaystyle \lim_{n\to\infty}$
+	   > - Since $y = \displaystyle \lim_{n\to\infty} y_{n}\neq 0$, there exists some $\Delta >0$ such that for some $m_{\Delta}\in \mathbb{N}$ and all $n>m_{\Delta}$ holds $|y_{n}|\geq \Delta$.
+	   > - Let $\epsilon > 0$ be any positive real;
+	   > 	- since $\displaystyle x = \lim_{n\to \infty} x_{n}$, there exists some $m_{x}\in \mathbb{N}$ such that for all $n\geq m_{x}$ holds $|x_{n}-x \leq \frac{\epsilon\Delta}{2}$;
+	   > 	- since $y=\displaystyle \lim_{n\to\infty}y_{n}\neq 0$, there exists some $m_{y}\in \mathbb{N}$ such that for all $n\geq m_{y}$ holds $|y_{n}-y|\leq \epsilon$
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
