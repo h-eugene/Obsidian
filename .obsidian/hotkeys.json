@@ -139,5 +139,21 @@
       ],
       "key": "6"
     }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
+    }
   ]
 }
