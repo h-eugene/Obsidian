@@ -1,17 +1,17 @@
 [
   "templater-obsidian",
   "quick-latex",
-  "periodic-notes",
   "obsidian-better-internal-link-inserter",
   "note-refactor-obsidian",
   "obsidian-minimal-settings",
   "homepage",
   "obsidian-git",
-  "obsidian-excalidraw-plugin",
-  "calendar",
   "obsidian-completr",
   "dataview",
   "obsidian-emoji-toolbar",
   "better-fn",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "obsidian-excalidraw-plugin",
+  "periodic-notes",
+  "calendar"
 ]
