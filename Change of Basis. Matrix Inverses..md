@@ -1,6 +1,7 @@
 # Material: 
 
-- 
+- [2024_AGLA1_Lecture_4](2024_AGLA1_Lecture_4.pdf)
+
 # Change of basis and coordinates:
 
 - $(O, \overline{e}_{1},\overline{e}_{2},\overline{e}_{3})$ – is coordinates system ($\overline{e}_{1},\overline{e}_{2},\overline{e}_{3}$ - basis).
@@ -54,3 +55,9 @@ x \\ y
 x \\ y
 \end{bmatrix}
 }$$
+# Matrix Inverses:
+
+> [!abstract] Definition
+> Matrix $B$ is called inverse of a square matrix $A$ if
+> $$AB = BA = I$$
+> **Notation:** $B=A^{-1}$
