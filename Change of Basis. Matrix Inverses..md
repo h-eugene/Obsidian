@@ -98,6 +98,11 @@ x \\ y
 > 	- **Minor** is the determinant of the smaller matrix you get by deleting the row and column of that element.
 > 	- For each element of the matrix, you find a **minor** and write it to another matrix in the appropriate position. 
 > 3. Find cofactors:
->	- For each element of the obtained matrix we  
+>	- For each element of the obtained matrix we apply a sign pattern: $(-1)^{i+j}$, where $i$ and $j$ are the row and column numbers of the element.
+>	- This gives you the cofactor matrix.
+>4. Transpose[^2] the cofactor matrix.
+>5. Find the inverse:
+>	- $A^{-1} = \frac{1}{det(A)}\times \texttt{(Transposed cofactor matrix)}$.
 
 [^1]: Matrix that converts coordinates from one basis to another
+[^2]: Transpose is flipping rows and columns.
