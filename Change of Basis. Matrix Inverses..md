@@ -95,7 +95,9 @@ x \\ y
 > [!example]  Minor Method (using cofactors)
 > 1. Find the determinant of matrix $A$.
 > 2. Find the minors:
-> 	- For each element of the matrix, you find a minor and write it to another matrix in the appropriate position.
-> 	- 
+> 	- **Minor** is the determinant of the smaller matrix you get by deleting the row and column of that element.
+> 	- For each element of the matrix, you find a **minor** and write it to another matrix in the appropriate position. 
+> 3. Find cofactors:
+>	- For each element of the obtained matrix we  
 
 [^1]: Matrix that converts coordinates from one basis to another
