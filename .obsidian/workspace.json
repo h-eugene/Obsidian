@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "mode": "preview",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Change of Basis. Matrix Inverses..md"
               }
             }
           }
@@ -211,18 +211,18 @@
   },
   "active": "b378b8aac2c94362",
   "lastOpenFiles": [
-    "Change of Basis. Matrix Inverses..md",
     "Vector Algebra.md",
+    "Analytical Geometry and Linear Algebra I.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
+    "Change of Basis. Matrix Inverses..md",
     "Library/Pasted image 20240923105422.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/Pasted image 20240923102734.png",
     "Library/Pasted image 20240923102640.png",
     "Library/Pasted image 20240923093732.png",
-    "Analytical Geometry and Linear Algebra I.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Introduction to Programming.md",
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "The Dot product and its properties..md",
