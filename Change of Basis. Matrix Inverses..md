@@ -87,4 +87,7 @@ x \\ y
 >Consider an $m\times n$ matrix $A$ and $n\times m$ matrix $C$.
 >If $AC = I$, then we say $C$ is the **right inverse** of $A$.
 
+- If $A$ has an inverse, then $A$ is **invertible** (== no.
+
+
 [^1]: Matrix that converts coordinates from one basis to another
