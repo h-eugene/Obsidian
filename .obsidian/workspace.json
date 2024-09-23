@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Changing of basis and coordinates. Matrix inverse..md",
-                "mode": "preview",
+                "file": "Change of Basis. Matrix Inverses..md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Changing of basis and coordinates. Matrix inverse..md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Changing of basis and coordinates. Matrix inverse..md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Changing of basis and coordinates. Matrix inverse..md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Changing of basis and coordinates. Matrix inverse..md"
+                "file": "Change of Basis. Matrix Inverses..md"
               }
             }
           }
@@ -211,8 +211,9 @@
   },
   "active": "734a00e6e0f9c1a4",
   "lastOpenFiles": [
+    "Library/2024_AGLA1_Lecture_4.pdf",
     "Vector Algebra.md",
-    "Changing of basis and coordinates. Matrix inverse..md",
+    "Change of Basis. Matrix Inverses..md",
     "Library/Pasted image 20240923102734.png",
     "Library/Pasted image 20240923102640.png",
     "Library/Pasted image 20240923093732.png",
