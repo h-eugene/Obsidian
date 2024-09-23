@@ -87,7 +87,8 @@ x \\ y
 >Consider an $m\times n$ matrix $A$ and $n\times m$ matrix $C$.
 >If $AC = I$, then we say $C$ is the **right inverse** of $A$.
 
-> If $A$ has an inverse, then $A$ is **invertible** (== nonsingular).
- 
+- If $A$ has an inverse, then $A$ is **invertible** (== nonsingular).
+- If $A$ and $B$ are invertible and $AB$ is invertible, then
+  $$(AB)^{-1}=B^{-1}A^{-1}$$
 
 [^1]: Matrix that converts coordinates from one basis to another
