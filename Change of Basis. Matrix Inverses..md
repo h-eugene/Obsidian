@@ -92,6 +92,9 @@ x \\ y
   $$(AB)^{-1}=B^{-1}A^{-1}$$
 ## Ways to find the inverse matrix:
 
-> [!example]  
+> [!example]  Minor Method (using cofactors)
+> 1. Find the determinant of matrix $A$.
+> 2. Find the minors:
+> 	- For each element of the matrix, you find the minor, and write it in another 
 
 [^1]: Matrix that converts coordinates from one basis to another
