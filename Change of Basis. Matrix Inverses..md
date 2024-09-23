@@ -108,11 +108,13 @@ x \\ y
 > 1. Set up an augmented matrix.
 > 	- You take your matrix $A$ and put it next to identity matrix[^3] $I$. $$[A|I]$$ 
 > 2. Perform row operations:
-> 	- The goal is to use elementary row operations[^4] 
+> 	- The goal is to use elementary row operations[^4] to turn the left side (matrix $A$) into the identity matrix.
+> 3. Get the inverse:
+> 	- When the left side becomes the identity matrix, the right side will have turned into the inverse of matrix $A$
 
 
 
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
 [^3]: Matrix which has 1's on the diagonal and 0's everywhere else. For example, $\begin{bsmallmatrix}1&0\\0&1\end{bsmallmatrix}$ 
-[^4]: swapping rows, multiplying r
+[^4]: swapping rows, multiplying a row by a non-zero element, adding/subtracting one row to/from another row 
