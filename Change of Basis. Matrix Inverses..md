@@ -8,13 +8,17 @@
 - $(O, \overline{e}_{1},\overline{e}_{2},\overline{e}_{3})$ – is coordinates system ($\overline{e}_{1},\overline{e}_{2},\overline{e}_{3}$ - basis).
 - $\overline{v} = x_{1}\overline{e}_{1}+x_{2}\overline{e}_{2}+x_{3}\overline{e}_{3} = \begin{bsmallmatrix}x_{1}\\ x_{2}\\ x_{3}\end{bsmallmatrix}$
 ---
-Let $(O, \overline{e}_{1},\overline{e}_{2},\overline{e}_{3})$ is old coordinates system, and $(O', \overline{e'}_{1},\overline{e'}_{2},\overline{e'}_{3})$ 
+Let $(O, \overline{e}_{1},\overline{e}_{2},\overline{e}_{3})$ is old coordinates system, and $(O', \overline{e'}_{1},\overline{e'}_{2},\overline{e'}_{3})$ is new coordinates system.
+N – is arbitrary point in space.
+Then,
+
 ![|600](Pasted%20image%2020240923093732.png)
 $$\displaylines{ON = OO'+O'N \\
 ON = x_{1}e_{1}+x_{2}e_{2}+x_{3}e_{3}\\
 O'N = x_{1}'e_{1}'+x_{2}'e_{2}'+x_{3}'e_{3}'\\
 OO' = b_{1}e_{1}+b_{2}e_{2}+b_{3}e_{3}
 }$$
+We can express the new basis through the old one.
 $$\displaylines{
 e_{1}' = \alpha_{11}e_{1} + \alpha_{21}e_{2}+\alpha_{31}e_{3}\\
 e_{1}' = \alpha_{12}e_{1} + \alpha_{22}e_{2}+\alpha_{32}e_{3}\\
