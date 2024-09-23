@@ -23,7 +23,7 @@ $$\displaylines{
 e_{1}' = \alpha_{11}e_{1} + \alpha_{21}e_{2}+\alpha_{31}e_{3}\\
 e_{1}' = \alpha_{12}e_{1} + \alpha_{22}e_{2}+\alpha_{32}e_{3}\\
 e_{1}' = \alpha_{13}e_{1} + \alpha_{23}e_{2}+\alpha_{33}e_{3}}$$
-Hence, we will get the transition matrix
+Hence, we will get the transition matrix [^1]
 $$A=\begin{bmatrix}
 \alpha_{11}&\alpha_{12}&\alpha_{13}\\ \alpha_{21}&\alpha_{22}&\alpha_{23}\\ 
 \alpha_{31}&\alpha_{32}&\alpha_{33}\\
@@ -81,3 +81,5 @@ x \\ y
 >[!abstract] Right inverse 
 >Consider an $m\times n$ matrix $A$ and $n\times m$ matrix $C$.
 >If $AC = I$, then we say $C$ is the **right inverse** of $A$.
+
+[^1]: Matrix that converts coordinates from one basis to another
