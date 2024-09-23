@@ -96,7 +96,11 @@ x \\ y
 >	- $A$ is invertible
 >	- The determinant of matrix $A$ is nonzero $det(A)\neq 0$
 >	- The columns of matrix $A$ form a basis for $\mathbb{R}^{n}$
->	- The rank of the matrix $A$ is n
+>	- The rank of the matrix $A$ is $n$
+>	- $A^{\top}$ is invertible
+>	- The rows of matrix $A$ form a basis for $\mathbb{R}^{n}$
+>	- $Ax=b$ has exactly one solution $(x=A^{-1}b)$
+>	- $Ax=0$ has only a *trivial* solution ($x=0,$ zero vector)
 
 ## Ways to find the inverse matrix:
 
@@ -124,6 +128,9 @@ x \\ y
 >- Orthogonal matrix - square matrix whose columns and rows are orthonormal vectors[^5].
 >- $A^{-1} = A^{\top}$
 >- $AA^{\top}=A^{\top}A=I$
+
+# Matrix rank:
+
 
 
 [^1]: Matrix that converts coordinates from one basis to another
