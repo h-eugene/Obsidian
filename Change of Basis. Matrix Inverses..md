@@ -147,8 +147,11 @@ x \\ y
 >- $rank(AB)\leq min(rank(A),rank(B))$
 >- $rank(A)=rank(AA^{\top})=rank(A^{\top}A) = rank(A^\top)$
 
-Graphs and Matric
+# Graphs and Matrices:
 
+- Given a graph you can define its adjacency matrix, $A$
+![](Pasted%20image%2020240923232547.png)
+- Given an adjacency matrix, $A$ you can find its power ($A^{2}=AA$)
 
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
