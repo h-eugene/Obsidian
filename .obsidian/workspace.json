@@ -11,8 +11,12 @@
             "id": "5643c837689d56ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Change of Basis. Matrix Inverses..md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -78,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Change of Basis. Matrix Inverses..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Change of Basis. Matrix Inverses..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Change of Basis. Matrix Inverses..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Change of Basis. Matrix Inverses..md"
+              }
             }
           }
         ]
@@ -202,12 +211,12 @@
   },
   "active": "5643c837689d56ac",
   "lastOpenFiles": [
-    "Change of Basis. Matrix Inverses..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "Change of Basis. Matrix Inverses..md",
     "Library/Pasted image 20240923105422.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/Pasted image 20240923102734.png",

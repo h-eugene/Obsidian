@@ -90,5 +90,8 @@ x \\ y
 - If $A$ has an inverse, then $A$ is **invertible** (== nonsingular).
 - If $A$ and $B$ are invertible and $AB$ is invertible, then
   $$(AB)^{-1}=B^{-1}A^{-1}$$
+## Ways to find the inverse matrix:
+
+> [!example]  
 
 [^1]: Matrix that converts coordinates from one basis to another
