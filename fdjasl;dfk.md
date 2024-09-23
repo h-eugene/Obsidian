@@ -10,5 +10,11 @@ O'N = x_{1}'e_{1}'+x_{2}'e_{2}'+x_{3}'e_{3}'\\
 OO' = b_{1}e_{1}+b_{2}e_{2}+b_{3}e_{3}
 }$$
 $$\displaylines{
-e_{1}' = \alpha_{11}e_{1}
-}$$
+e_{1}' = \alpha_{11}e_{1} + \alpha_{21}e_{2}+\alpha_{31}e_{3}\\
+e_{1}' = \alpha_{12}e_{1} + \alpha_{22}e_{2}+\alpha_{32}e_{3}\\
+e_{1}' = \alpha_{13}e_{1} + \alpha_{23}e_{2}+\alpha_{33}e_{3}\\ \\
+A=\begin{bmatrix}
+\alpha_{11}&\alpha_{12}&\alpha_{13}\\ \alpha_{21}&\alpha_{22}&\alpha_{23}\\ 
+\alpha_{31}&\alpha_{32}&\alpha_{33}\\
+\end{bmatrix}
+-\texttt{the transition matrix}} $$
