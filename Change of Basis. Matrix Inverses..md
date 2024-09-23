@@ -96,7 +96,7 @@ x \\ y
 >	- $A$ is invertible
 >	- The determinant of matrix $A$ is nonzero $det(A)\neq 0$
 >	- The columns of matrix $A$ form a basis for $\mathbb{R}^{n}$
->	- The rank of the matrix $A$ is $n$
+>	- The [rank](Change%20of%20Basis.%20Matrix%20Inverses..md#^4c6197) of the matrix $A$ is $n$
 >	- $A^{\top}$ is invertible
 >	- The rows of matrix $A$ form a basis for $\mathbb{R}^{n}$
 >	- $Ax=b$ has exactly one solution $(x=A^{-1}b)$
@@ -131,10 +131,14 @@ x \\ y
 
 # Matrix rank:
 
+^4c6197
+
 - ***The Column rank*** of a matrix is the largest number of linearly independent columns.  
 - ***The Row rank*** of a matrix is the largest number of linearly independent rows.
 
-
+>[!abstract] Theorem
+>For ANY $m\times n$ matrix the column rank equals to row rank
+>So, there is only **one** matrix rank. $rank(A)=rank(A^{\top})$
 
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
