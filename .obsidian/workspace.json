@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -201,6 +202,7 @@
   },
   "active": "5643c837689d56ac",
   "lastOpenFiles": [
+    "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Change of Basis. Matrix Inverses..md",
     "Library/Pasted image 20240923234045.png",
     "Library/Pasted image 20240923233543.png",
@@ -229,7 +231,6 @@
     "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "Theory of sequences and their limits..md",
-    "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Basics of naive Set Theory..md",
     "Theory of limits and continuity.md",
     "Fundamental Ideas of Computer Architecture.md",
