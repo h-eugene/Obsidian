@@ -110,7 +110,7 @@ x \\ y
 > 2. Perform row operations:
 > 	- The goal is to use elementary row operations[^4] to turn the left side (matrix $A$) into the identity matrix.
 > 3. Get the inverse:
-> 	- When the left side becomes the identity matrix, the right side will have turned into the inverse of matrix $A$
+> 	- When the left side becomes the identity matrix, the right side will have turned into the inverse of matrix $A$. $$[I|A^{-1}]$$
 
 
 
