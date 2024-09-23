@@ -60,4 +60,14 @@ x \\ y
 > [!abstract] Definition
 > Matrix $B$ is called inverse of a square matrix $A$ if
 > $$AB = BA = I$$
-> **Notation:** $B=A^{-1}$
+> **Notation:** 
+> - $B=A^{-1}$
+> - $AA^{-1}= A^{-1}A = I$
+> **Example:**
+> ![](Pasted%20image%2020240923105422.png)
+
+> [!abstract] Left inverse
+> Consider an $m\times n$ matrix $A$ and $n\times m$ matrix $B$. 
+> If $BA = I$, then we say $B$ is the **left inverse** of $A$.
+
+>[!abstract] Rigth 
