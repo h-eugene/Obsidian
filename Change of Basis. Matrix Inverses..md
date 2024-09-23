@@ -88,9 +88,16 @@ x \\ y
 >If $AC = I$, then we say $C$ is the **right inverse** of $A$.
 
 >[!abstract] Invertabilty
-- If $A$ has an inverse, then $A$ is **invertible** (== nonsingular).
-- If $A$ and $B$ are invertible and $AB$ is invertible, then
-  $$(AB)^{-1}=B^{-1}A^{-1}$$
+>- If $A$ has an inverse, then $A$ is **invertible** (== nonsingular).
+>- If $A$ and $B$ are invertible and $AB$ is invertible, then
+>  $$(AB)^{-1}=B^{-1}A^{-1}$$
+>
+>- For an $n\times n$ matrix $A$ the following statements are equivalent:
+>	- $A$ is invertible
+>	- The determinant of matrix $A$ is nonzero $det(A)\neq 0$
+>	- The columns of matrix $A$ form a basis for $\mathbb{R}^{n}$
+>	- The rank of the matrix $A$ is n
+
 ## Ways to find the inverse matrix:
 
 > [!example]  Minor Method (using cofactors)
