@@ -51,8 +51,12 @@ x_{1}' \\ x_{2}' \\ x_{3}'
 }$$
 # Matrix rotating:
 
-Let $v$ b
+- Let $v$ be a vector with coordinates $\begin{bmatrix}x\\y\end{bmatrix}$.
+- Let $v'$ be the vector with new coordinates $\begin{bmatrix}x'\\y'\end{bmatrix}$ obtained by rotating $v$ by angle an $\theta$.
+
 ![|400](Pasted%20image%2020240923102734.png)
+
+-  The new coordinates $\begin{bmatrix}x'\\y'\end{bmatrix}$ can be found using the following matrix:
 $$\displaylines{
 \begin{bmatrix}
 x' \\ y'
