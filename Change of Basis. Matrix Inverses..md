@@ -112,9 +112,12 @@ x \\ y
 > 3. Get the inverse:
 > 	- When the left side becomes the identity matrix, the right side will have turned into the inverse of matrix $A$. $$[I|A^{-1}]$$
 
+>[!example] Important case: Orthogonal matrix
+>- Orthogonal matrix - square matrix whose columns and rows are orthonormal vectors[^5].
 
 
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
 [^3]: Matrix which has 1's on the diagonal and 0's everywhere else. For example, $\begin{bsmallmatrix}1&0\\0&1\end{bsmallmatrix}$ 
 [^4]: swapping rows, multiplying a row by a non-zero element, adding/subtracting one row to/from another row 
+[^5]: Vectors that r
