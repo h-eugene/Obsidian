@@ -145,7 +145,10 @@ x \\ y
 >  so $rank(A)\leq min(m,n)$ If matrix has a maximum possible rank, it is called a **full rank matrix**.
 >- $rank(A+B)\leq rank(A) + rank(B)$
 >- $rank(AB)\leq min(rank(A),rank(B))$
->- $rank(A)=rank(AA^{\top})=rank(A^t)$
+>- $rank(A)=rank(AA^{\top})=rank(A^{\top}A) = rank(A^\top)$
+
+Graphs and Matric
+
 
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
