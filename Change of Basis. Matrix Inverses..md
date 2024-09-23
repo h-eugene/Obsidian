@@ -87,6 +87,7 @@ x \\ y
 >Consider an $m\times n$ matrix $A$ and $n\times m$ matrix $C$.
 >If $AC = I$, then we say $C$ is the **right inverse** of $A$.
 
+>[!abstract] Invertabilty
 - If $A$ has an inverse, then $A$ is **invertible** (== nonsingular).
 - If $A$ and $B$ are invertible and $AB$ is invertible, then
   $$(AB)^{-1}=B^{-1}A^{-1}$$
@@ -114,10 +115,12 @@ x \\ y
 
 >[!example] Important case: Orthogonal matrix
 >- Orthogonal matrix - square matrix whose columns and rows are orthonormal vectors[^5].
+>- $A^{-1} = A^{\top}$
+>- $AA^{\top}=A^{\top}A=I$
 
 
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
 [^3]: Matrix which has 1's on the diagonal and 0's everywhere else. For example, $\begin{bsmallmatrix}1&0\\0&1\end{bsmallmatrix}$ 
 [^4]: swapping rows, multiplying a row by a non-zero element, adding/subtracting one row to/from another row 
-[^5]: Vectors that r
+[^5]: Vectors that are perpendicular to each other and have length of 1.
