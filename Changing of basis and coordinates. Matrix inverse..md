@@ -40,4 +40,14 @@ x_{1}' \\ x_{2}' \\ x_{3}'
 # Matrix rotating:
 
 ![|400](Pasted%20image%2020240923102734.png)
-$$$$
+$$\displaylines{
+\begin{bmatrix}
+x' \\ y'
+\end{bmatrix} = R(\theta)\begin{bmatrix}
+x \\ y
+\end{bmatrix} = \begin{bmatrix}
+\cos\theta & -\sin\theta \\ \sin\theta & \cos\theta 
+\end{bmatrix}\begin{bmatrix}
+x \\ y
+\end{bmatrix}
+}$$

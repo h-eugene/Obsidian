@@ -22535,6 +22535,7 @@ Cross
 Calculating
 Commit
 Calculate
+Change
 Sections
 Surfaces
 Spaces
@@ -118145,6 +118146,7 @@ recommend
 replace
 rule
 rectangular
+rotating
 Zorich
 ZM
 ZB
