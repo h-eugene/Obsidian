@@ -152,6 +152,7 @@ x \\ y
 - Given a graph you can define its adjacency matrix, $A$
 ![](Pasted%20image%2020240923232547.png)
 - Given an adjacency matrix, $A$ you can find its power ($A^{2}=AA$)
+  ![](Pasted%20image%2020240923233257.png)
 
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
