@@ -131,6 +131,9 @@ x \\ y
 
 # Matrix rank:
 
+- ***The Column rank*** of a matrix is the largest number of linearly independent columns.  
+- ***The Row rank*** of a matrix is the largest number of linearly independent rows.
+
 
 
 [^1]: Matrix that converts coordinates from one basis to another
