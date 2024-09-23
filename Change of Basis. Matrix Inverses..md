@@ -150,9 +150,12 @@ x \\ y
 # Graphs and Matrices:
 
 - Given a graph you can define its adjacency matrix, $A$
-![](Pasted%20image%2020240923232547.png)
+  ![](Pasted%20image%2020240923232547.png)
+  *Matrix represents paths of length 1 (e.g. one 'hops' between 4 and 1)*
 - Given an adjacency matrix, $A$ you can find its power ($A^{2}=AA$)
-  ![](Pasted%20image%2020240923233257.png)
+  ![](Pasted%20image%2020240923233543.png)
+  
+  *Matrix represents paths of length 2 (e.g. two 'hops' to reach 5 from 1)*
 
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
