@@ -24,8 +24,7 @@ x_{3}'(\alpha_{13}e_{1} + \alpha_{23}e_{2}+\alpha_{33}e_{3}) =\\
 (b_{1}+ x_{1}' \alpha_{11}+x_{2}'\alpha_{12}+x_{3}'\alpha_{13})e_{1}+\\
 (b_{2}+ x_{1}' \alpha_{21}+x_{2}'\alpha_{22}+x_{3}'\alpha_{23})e_{2}+\\
 (b_{3}+ x_{1}' \alpha_{31}+x_{2}'\alpha_{32}+x_{3}'\alpha_{33})e_{3}
-}$$
-
+}$$<br>
 $$\displaylines{
 \begin{bmatrix}
 x_{1} \\ x_{2} \\ x_{3}
@@ -38,3 +37,5 @@ b_{1} \\ b_{2}\\b_{3}
 x_{1}' \\ x_{2}' \\ x_{3}'
 \end{bmatrix} \\ x = b + Ax'
 }$$
+# Matrix rotating:
+
