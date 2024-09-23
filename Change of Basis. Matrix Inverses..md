@@ -157,6 +157,9 @@ x \\ y
   
   *Matrix represents paths of length 2 (e.g. two 'hops' to reach 5 from 1)*
 
+# Neural Networks and Matrices:
+![](Pasted%20image%2020240923234045.png)
+
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
 [^3]: Matrix which has 1's on the diagonal and 0's everywhere else. For example, $\begin{bsmallmatrix}1&0\\0&1\end{bsmallmatrix}$ 

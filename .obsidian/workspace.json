@@ -11,12 +11,8 @@
             "id": "5643c837689d56ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -82,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -134,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Change of Basis. Matrix Inverses..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -211,6 +201,8 @@
   },
   "active": "5643c837689d56ac",
   "lastOpenFiles": [
+    "Change of Basis. Matrix Inverses..md",
+    "Library/Pasted image 20240923234045.png",
     "Library/Pasted image 20240923233543.png",
     "Library/Pasted image 20240923233257.png",
     "Library/Pasted image 20240923232547.png",
@@ -219,7 +211,6 @@
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Change of Basis. Matrix Inverses..md",
     "Library/Pasted image 20240923105422.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/Pasted image 20240923102734.png",
@@ -231,8 +222,6 @@
     "The Dot product and its properties..md",
     "Library/Pasted image 20240923001659.png",
     "Library/Pasted image 20240923001610.png",
-    "Library/Pasted image 20240923001539.png",
-    "Library/Pasted image 20240922235922.png",
     "Excalidraw/multiplication of matrices.md",
     "Matrix Operations and Vector Cross Product..md",
     "Pointers. Arrays..md",
