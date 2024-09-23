@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d0cba34b93501c0",
+        "id": "98afb964820a5f95",
         "type": "tabs",
         "children": [
           {
-            "id": "5520907c592c409f",
+            "id": "2042b05c561569ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,7 +208,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5520907c592c409f",
+  "active": "2042b05c561569ae",
   "lastOpenFiles": [
     "Innopolis University.md",
     "Home/The Beginning.md",
