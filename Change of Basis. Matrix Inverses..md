@@ -104,5 +104,12 @@ x \\ y
 >5. Find the inverse:
 >	- $A^{-1} = \frac{1}{det(A)}\times \texttt{(Transposed cofactor matrix)}$.
 
+> [!example] Gauss-Jordan Method
+> 1. Set up an augmented matrix.
+> 	- You take your matrix $A$ and put it next to identity matrix[^3] $I$
+
+
+
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
+[^3]: Matrix which has 1's on the diagonal and 0's everywhere else $\begin{bsmallmatrix}1&0\\\end{bsmallmatrix}$ 
