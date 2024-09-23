@@ -70,4 +70,6 @@ x \\ y
 > Consider an $m\times n$ matrix $A$ and $n\times m$ matrix $B$. 
 > If $BA = I$, then we say $B$ is the **left inverse** of $A$.
 
->[!abstract] Rigth 
+>[!abstract] Right inverse 
+>Consider an $m\times n$ matrix $A$ and $n\times m$ matrix $C$.
+>If $AC = I$, then we say $C$ is the **right inverse** of $A$.
