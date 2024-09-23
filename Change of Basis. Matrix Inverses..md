@@ -140,6 +140,13 @@ x \\ y
 >For ANY $m\times n$ matrix the column rank equals to row rank
 >So, there is only **one** matrix rank. $rank(A)=rank(A^{\top})$
 
+>[!example] Import properties of rank
+>- **maximum** possible rank of $A$ equals $min(m,n)$.
+>  so $rank(A)\leq min(m,n)$ If matrix has a maximum possible rank, it is called a **full rank matrix**.
+>- $rank(A+B)\leq rank(A) + rank(B)$
+>- $rank(AB)\leq min(rank(A),rank(B))$
+>- $rank(A)=rank(AA^{\top})=rank(A^t)$
+
 [^1]: Matrix that converts coordinates from one basis to another
 [^2]: Transpose is flipping rows and columns.
 [^3]: Matrix which has 1's on the diagonal and 0's everywhere else. For example, $\begin{bsmallmatrix}1&0\\0&1\end{bsmallmatrix}$ 
