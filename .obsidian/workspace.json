@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "01389769e1f43e34",
+        "id": "38c7305ee8e9947c",
         "type": "tabs",
         "children": [
           {
-            "id": "b378b8aac2c94362",
+            "id": "5643c837689d56ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -82,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +128,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Change of Basis. Matrix Inverses..md"
-              }
+              "state": {}
             }
           }
         ]
@@ -209,14 +200,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b378b8aac2c94362",
+  "active": "5643c837689d56ac",
   "lastOpenFiles": [
+    "Change of Basis. Matrix Inverses..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Change of Basis. Matrix Inverses..md",
     "Library/Pasted image 20240923105422.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/Pasted image 20240923102734.png",
