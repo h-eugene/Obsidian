@@ -1,4 +1,5 @@
 **Subjects:**
+
 - [Analytical Geometry and Linear Algebra I](Analytical%20Geometry%20and%20Linear%20Algebra%20I.md)
 - [Fundamentals of Computer Architecture](Fundamentals%20of%20Computer%20Architecture.md)
 - [Introduction to Programming](Introduction%20to%20Programming.md) 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Programming.md",
-                "mode": "preview",
+                "file": "fdjasl;dfk.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Programming.md",
+                "file": "fdjasl;dfk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Programming.md",
+                "file": "fdjasl;dfk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -133,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction to Programming.md",
+                "file": "fdjasl;dfk.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Programming.md"
+                "file": "fdjasl;dfk.md"
               }
             }
           }
@@ -210,13 +211,13 @@
   },
   "active": "734a00e6e0f9c1a4",
   "lastOpenFiles": [
+    "Vector Algebra.md",
+    "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
+    "Introduction to Programming.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
     "fdjasl;dfk.md",
-    "Vector Algebra.md",
-    "Analytical Geometry and Linear Algebra I.md",
-    "Introduction to Programming.md",
     "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "The Dot product and its properties..md",
