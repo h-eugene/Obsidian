@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Codes.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Codes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis University.md"
+                "file": "Codes.md"
               }
             }
           }
@@ -201,6 +201,10 @@
   },
   "active": "fb49a1ccc9f0da81",
   "lastOpenFiles": [
+    "The C language.md",
+    "Introduction to Programming.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
     "Home/The Beginning.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Change of Basis. Matrix Inverses..md",
@@ -210,14 +214,11 @@
     "Library/Pasted image 20240923232547.png",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
-    "Innopolis 1st year - Fall Semester.md",
-    "Innopolis University.md",
     "Library/Pasted image 20240923105422.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/Pasted image 20240923102734.png",
     "Library/Pasted image 20240923102640.png",
     "Library/Pasted image 20240923093732.png",
-    "Introduction to Programming.md",
     "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "The Dot product and its properties..md",
