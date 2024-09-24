@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "38c7305ee8e9947c",
+        "id": "1be0682713a28186",
         "type": "tabs",
         "children": [
           {
-            "id": "5643c837689d56ac",
+            "id": "7357d217d35a6916",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home/The Beginning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -78,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +93,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "8e68b3348704f47e",
@@ -101,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -128,6 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,14 +160,6 @@
                 }
               }
             }
-          },
-          {
-            "id": "0cede449c1f20afe",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       },
@@ -176,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home/The Beginning.md"
+              }
             }
           }
         ]
@@ -196,11 +195,10 @@
       "command-palette:Открыть палитру команд": true,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5643c837689d56ac",
+  "active": "7357d217d35a6916",
   "lastOpenFiles": [
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Change of Basis. Matrix Inverses..md",

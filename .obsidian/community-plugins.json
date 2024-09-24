@@ -1,6 +1,5 @@
 [
   "better-fn",
-  "calendar",
   "obsidian-completr",
   "dataview",
   "obsidian-emoji-toolbar",
@@ -10,7 +9,6 @@
   "obsidian-minimal-settings",
   "note-refactor-obsidian",
   "obsidian-better-internal-link-inserter",
-  "periodic-notes",
   "quick-latex",
   "templater-obsidian"
 ]
