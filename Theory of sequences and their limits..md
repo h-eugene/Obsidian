@@ -71,7 +71,8 @@
 - For any converging sequences $(x_{n})_{n\in\mathbb{N}}$ and $(y_{n})_{n\in\mathbb{N}}$ if $x=\displaystyle{\lim_{n\to\infty} x_{n}}$ and $y=\displaystyle{\lim_{n\to\infty} y_{n}}$ then:
 	1. sequences $(x_{n}+y_{n})_{n\in\mathbb{N}},\ (x_{n}- y_{n})_{n\in\mathbb{N}},$ and $(x_{n}\times y_{n})_{n\in\mathbb{N}}$ are converging and $\displaystyle{\lim_{n\to\infty}(x_{n}+y_{n})=(x+y),\ \lim_{n\to\infty}=(x-y)}$, and $\displaystyle{\lim_{n\to\infty} x_{n}\times y_{n}=(x\times y)}$.   
 	   >[!check] Proof
-	   >Since $x=\lim_{n\to\infty}x_{n}$, there exists some $\Delta>0$
+	   >- Let $\varepsilon > 0$ be any positive real;
+	   >	- since $x=lim_{n\to\infty} x_{n}$, there exists some $m_{x}\in \mathbb{N}$ such that for all $n\geq m$ holds $|x_{n}-x|\leq \vare$
 	   
 	   
 	  <br>
