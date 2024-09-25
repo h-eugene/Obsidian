@@ -76,7 +76,7 @@
 	   > - Let us assume that $x\neq 0$.
 	   > - Since $y = \displaystyle \lim_{n\to\infty} y_{n}\neq 0$, there exists some $\Delta >0$ such that for some $m_{\Delta}\in \mathbb{N}$ and all $n>m_{\Delta}$ holds $|y_{n}|\geq \Delta$.
 	   > - Let $\varepsilon > 0$ be any positive real;
-	   > 	- since $\displaystyle x = \lim_{n\to \infty} x_{n}$, there exists some $m_{x}\in \mathbb{N}$ such that for all $n\geq m_{x}$ holds $|x_{n}-x \leq \frac{\varepsilon\Delta}{2}$;
+	   > 	- since $\displaystyle x = \lim_{n\to \infty} x_{n}$, there exists some $m_{x}\in \mathbb{N}$ such that for all $n\geq m_{x}$ holds $|x_{n}-x| \leq \frac{\varepsilon\Delta}{2}$;
 	   > 	- since $y=\displaystyle \lim_{n\to\infty}y_{n}\neq 0$, there exists some $m_{y}\in \mathbb{N}$ such that for all $n\geq m_{y}$ holds $|y_{n}-y|\leq \frac{\varepsilon|y|\Delta}{2|x|}$;
 	   > <br>
 	   > - Let $m:=max\{m_{\Delta}, m_{x}, m_{y}\}$ and $n\geq m$ be any natural number;

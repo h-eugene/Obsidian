@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Theory of sequences and their limits..md",
                 "mode": "preview",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Theory of sequences and their limits..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Theory of sequences and their limits..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Theory of sequences and their limits..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Theory of sequences and their limits..md"
               }
             }
           }
@@ -201,12 +201,15 @@
   },
   "active": "792a60e311076222",
   "lastOpenFiles": [
-    "Snippets.md",
-    "The C language.md",
-    "Introduction to Programming.md",
+    "Theory of limits and continuity.md",
+    "Mathematical Analysis I.md",
+    "Introduction.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "Snippets.md",
+    "The C language.md",
+    "Introduction to Programming.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Change of Basis. Matrix Inverses..md",
     "Library/Pasted image 20240923234045.png",
@@ -233,13 +236,10 @@
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "Theory of sequences and their limits..md",
     "Basics of naive Set Theory..md",
-    "Theory of limits and continuity.md",
     "Fundamental Ideas of Computer Architecture.md",
     "C для начинающих (теория и задачи).md",
     "Precedence of operations.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
-    "Mathematical Analysis I.md",
-    "Introduction.md",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "smart-chats",
     "Library/Programming/C Programming Language.pdf",
