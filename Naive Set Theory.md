@@ -44,8 +44,18 @@
 # Cartesian product:
 
 >[!abstract] Definition 
->For any sets $A_{1}$ and $A_{2}$, the Cartesian product of $A_{1}$ and $A_{2}$ is the set $A_{1} \times A_{2} = \{(x,y)\ | \ x\in A_{1}\wedge y\in A_{2}\}$
----
-# Power Set:
---- 
-# Cardinality:
+>For any sets $A_{1}$ and $A_{2}$, the Cartesian product of $A_{1}$ and $A_{2}$ is the set $A_{1} \times A_{2} = \{(x,y)\ | \ x\in A_{1}\wedge y\in A_{2}\}$, 
+>where $(x,y)$ is an ordered pair.
+
+>[!abstract] Non-idempotent 
+>$A\times A \neq A$
+
+>[!abstract] Non-commutative
+>$A\times B \neq B\times A$
+
+>[!abstract] Null 
+>$A \times \emptyset = \emptyset \times A = \emptyset$
+
+>[!abstract] Associative
+>$A\times (B\times C) = (A\times B) \times C$
+>*$(x,(y,z)) = ((x,y),z) = (x,y,z)$
