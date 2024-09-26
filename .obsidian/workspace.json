@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f295639a94d9b497",
+        "id": "81f9274c0a01dcf1",
         "type": "tabs",
         "children": [
           {
-            "id": "833708bcf098fd63",
+            "id": "7d8d447e7c64a4e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home/The Beginning.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -78,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home/The Beginning.md"
+              }
             }
           }
         ]
@@ -191,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "833708bcf098fd63",
+  "active": "7d8d447e7c64a4e7",
   "lastOpenFiles": [
     "Home/The Beginning.md",
     "Books and Courses.md",
