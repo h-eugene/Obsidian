@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Books and Courses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "613ee0f54b31f756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Меню от ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Меню от ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Меню от ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Меню от ChatGPT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Меню от ChatGPT.md"
               }
             }
           }
@@ -200,14 +213,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "833708bcf098fd63",
+  "active": "613ee0f54b31f756",
   "lastOpenFiles": [
+    "Books and Courses.md",
+    "Меню от ChatGPT.md",
+    "Тренировка от ChatGPT.md",
+    "English от ChatGPT.md",
+    "C для начинающих (теория и задачи).md",
+    "Home/The Beginning.md",
+    "Innopolis University.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Theory of sequences and their limits..md",
     "Theory of limits and continuity.md",
     "Mathematical Analysis I.md",
@@ -234,12 +252,7 @@
     "Matrix Operations and Vector Cross Product..md",
     "Pointers. Arrays..md",
     "Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
-    "Library/Pointers. Arrays. 2024-09-10 12.55.29.excalidraw.md",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
-    "Basics of naive Set Theory..md",
-    "Fundamental Ideas of Computer Architecture.md",
-    "C для начинающих (теория и задачи).md",
-    "Precedence of operations.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "smart-chats",

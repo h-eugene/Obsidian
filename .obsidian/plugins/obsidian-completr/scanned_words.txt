@@ -5617,6 +5617,7 @@ Leibnitz
 Laptop
 Leibniz
 Loop
+Learning
 Vladimir
 Vector
 VIEW
@@ -22541,6 +22542,11 @@ Commit
 Calculate
 Change
 Consider
+ChatGPT
+Continuous
+Conditional
+Council
+Cambridge
 Sections
 Surfaces
 Spaces
@@ -28076,6 +28082,7 @@ Alignment
 Additional
 Architectures
 Area
+Anki
 and
 algebra
 any
@@ -33470,6 +33477,9 @@ Prefix
 Please
 Principal
 Product
+Present
+Past
+Perfect
 Quadratic
 Qn
 QL
@@ -36177,6 +36187,7 @@ QaERTL
 QJEe
 QmXS
 Quantifiers
+Quizlet
 Basis
 Body
 Basic
@@ -38819,6 +38830,7 @@ Bound
 Based
 Bitwise
 Bolzano
+British
 Material
 MORE
 Mathematical
@@ -91372,6 +91384,7 @@ Notes
 NOT
 Neumann
 Notations
+NPR
 Given
 Graphs
 Gg
@@ -100074,6 +100087,7 @@ Every
 Embedded
 Extension
 Each
+English
 OPTIONS
 Operations
 Obtain
