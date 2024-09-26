@@ -11,12 +11,8 @@
             "id": "833708bcf098fd63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English от ChatGPT.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -82,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English от ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English от ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +128,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "English от ChatGPT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English от ChatGPT.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -202,12 +193,12 @@
   },
   "active": "833708bcf098fd63",
   "lastOpenFiles": [
+    "Home/The Beginning.md",
     "Books and Courses.md",
+    "English от ChatGPT.md",
     "Меню от ChatGPT.md",
     "Тренировка от ChatGPT.md",
-    "English от ChatGPT.md",
     "C для начинающих (теория и задачи).md",
-    "Home/The Beginning.md",
     "Innopolis University.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Vector Algebra.md",
