@@ -19,10 +19,10 @@
 >The empty set is the empty list $$\emptyset = \{\}$$
 
 >[!abstract] Universal set
->The universal set **U** is a fixed set such that all considered sets of  given problem are its subsets.
+>The universal set $\mathbb{U}$ is a fixed set such that all considered sets of  given problem are its subsets.
 
 >[!abstract] Complement
->For any set $A$, the complement of $A$
+>For any set $A$, the **complement** of $A$ is the set $$\overline{A} = \{x\ |\ x\in \mathbb{U} \wedge x\not\in A\}$$
 # Cartesian product:
 # Power Set:
 # Cardinality:
