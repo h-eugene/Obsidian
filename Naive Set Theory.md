@@ -23,6 +23,10 @@
 
 >[!abstract] Complement
 >For any set $A$, the **complement** of $A$ is the set $$\overline{A} = \{x\ |\ x\in \mathbb{U} \wedge x\not\in A\}$$
+>![|400](Pasted%20image%2020240926220649.png)
+
+>[!abstract] Intersection 
+>For any sets $A_{1}$ and $A_{2}$, the intersection of $A_{1}$ and $A_{2}$ is the set $$x\in A_{1} \vee A_{2} \text{ iff } (x\in A_{1})\wedge (x\in A_{2})$$
 # Cartesian product:
 # Power Set:
 # Cardinality:

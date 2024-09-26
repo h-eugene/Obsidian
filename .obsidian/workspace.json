@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81f9274c0a01dcf1",
+        "id": "1fbe52348a506c92",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8d447e7c64a4e7",
+            "id": "9f2af12073f5300c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,8 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d8d447e7c64a4e7",
+  "active": "9f2af12073f5300c",
   "lastOpenFiles": [
+    "Naive Set Theory.md",
+    "Library/Pasted image 20240926220649.png",
     "Basic of Logic.md",
     "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
@@ -236,9 +238,7 @@
     "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "The Dot product and its properties..md",
     "Library/Pasted image 20240923001659.png",
-    "Library/Pasted image 20240923001610.png",
     "Excalidraw/multiplication of matrices.md",
-    "Matrix Operations and Vector Cross Product..md",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
