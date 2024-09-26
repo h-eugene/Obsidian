@@ -43,9 +43,10 @@
 ---
 ## Properties:
 
-The naive set theory | Logic 
-
-
+| The naive set theory                                                                          | Logic                                                                                       |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| $A\wedge A = A$                $A\vee A = A$<br>$A \wedge B = B\wedge A$   $A\vee B= B\vee A$ | $a\wedge a=a$               $a\vee a = a$<br>$a\wedge b = b\wedge a$    $a\vee b = b\vee a$ |
+| $A\wedge (B\wedge C) = (A\wedge B) \wedge C$ <br>$A\vee (B\vee C) = (A\vee B) \vee C$         | $A\wedge (B\wedge C) = (A\wedge B) \wedge C$ <br>$A\vee (B\vee C) = (A\vee B) \vee C$       |
 
 ---
 # Cartesian product:
