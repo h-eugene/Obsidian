@@ -66,4 +66,7 @@
 
 >[!abstract] $\wedge$-properties
 >$$(A\wedge B)\times C = (A\times C)\wedge (B\times C)$$
->$$A\times (B\wedge C) = (A\times B)\wedge (A\times )$$
+>$$A\times (B\wedge C) = (A\times B)\wedge (A\times C)$$
+
+>[!abstract] Extended $\wedge$-property
+>$$(A\wedge B)\times (X\wedge Y) = (A\times X) \wedge (B\times Y)$$
