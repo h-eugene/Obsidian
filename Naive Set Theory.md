@@ -41,15 +41,10 @@
 >![|400](Pasted%20image%2020240926221720.png)
 
 ---
-## Properties:
-
-| The naive set theory                                                                          | Logic                                                                                       |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| $A\wedge A = A$                $A\vee A = A$<br>$A \wedge B = B\wedge A$   $A\vee B= B\vee A$ | $a\wedge a=a$               $a\vee a = a$<br>$a\wedge b = b\wedge a$    $a\vee b = b\vee a$ |
-| $A\wedge (B\wedge C) = (A\wedge B) \wedge C$ <br>$A\vee (B\vee C) = (A\vee B) \vee C$         | $A\wedge (B\wedge C) = (A\wedge B) \wedge C$ <br>$A\vee (B\vee C) = (A\vee B) \vee C$       |
-
----
 # Cartesian product:
+
+>[!abstract] Definition 
+>For any sets $A_{1}$ and $A_{2}$, the Cartesian product of $A_{1}$ and $A_{2}$ is the set $A_{1} \times A_{2} = \{(x,y)\ | \ x\in A_{1}\wedge y\in A_{2}\}$
 ---
 # Power Set:
 --- 
