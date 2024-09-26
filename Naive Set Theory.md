@@ -70,3 +70,11 @@
 
 >[!abstract] Extended $\wedge$-property
 >$$(A\wedge B)\times (X\wedge Y) = (A\times X) \wedge (B\times Y)$$
+
+---
+
+# Power Set:
+
+>[!abstract] Definition 
+>For a set $A$, the **Power Set** of $A$ is the set 
+>$$2^{A} = \Rho$$ 
