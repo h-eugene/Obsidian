@@ -77,4 +77,4 @@
 
 >[!abstract] Definition 
 >For a set $A$, the **Power Set** of $A$ is the set 
->$$2^{A} = \Rho$$ 
+>$$2^{A} = \mathcal{P}(A) = \{B \ | \ B\subseteq A\}$$ 
