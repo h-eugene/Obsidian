@@ -36,7 +36,20 @@
 
 >[!abstract] Difference 
 >For any sets $A_{1}$ and $A_{2}$ the difference of $A_{1}$ and $A_{2}$ is the set 
->$$x\in A_{1} \text{ \\ } A_{2} \text{ iff } (x\in A_{1}) \wedge () $$
+>$$x\in A_{1} \text{ \\ } A_{2} \text{ iff } (x\in A_{1}) \wedge (x\not \in A_{2}) $$
+>$$x\in A_{1} \text{ \\ } A_{2} = A_{1}\wedge \overline{A_{2}}$$
+>![|400](Pasted%20image%2020240926221720.png)
+
+---
+## Properties:
+
+The naive set theory | Logic 
+
+
+
+---
 # Cartesian product:
+---
 # Power Set:
+--- 
 # Cardinality:
