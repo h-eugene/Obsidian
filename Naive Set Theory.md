@@ -59,3 +59,11 @@
 >[!abstract] Associative
 >$A\times (B\times C) = (A\times B) \times C$
 >*$(x,(y,z)) = ((x,y),z) = (x,y,z)$
+
+>[!abstract] $\vee$-properties
+>$$(A\vee B)\times C = (A\times C)\vee (B\times C)$$
+>$$A\times (B\vee C) = (A\times B) \vee (A\times C)$$
+
+>[!abstract] $\wedge$-properties
+>$$(A\wedge B)\times C = (A\times C)\wedge (B\times C)$$
+>$$A\times (B\wedge C) = (A\times B)\wedge (A\times )$$
