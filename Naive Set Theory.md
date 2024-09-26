@@ -27,6 +27,16 @@
 
 >[!abstract] Intersection 
 >For any sets $A_{1}$ and $A_{2}$, the intersection of $A_{1}$ and $A_{2}$ is the set $$x\in A_{1} \vee A_{2} \text{ iff } (x\in A_{1})\wedge (x\in A_{2})$$
+>![|400](Pasted%20image%2020240926221207.png)
+
+>[!abstract] Union
+>For any sets $A_{1}$ and $A_{2}$, the union of $A_{1}$ and $A_{2}$ is the set
+>$$x\in A_{1}\vee A_{2} \text{ iff } (x\in A_{1})\vee (x\in A_{2})$$
+>![|400](Pasted%20image%2020240926221413.png)
+
+>[!abstract] Difference 
+>For any sets $A_{1}$ and $A_{2}$ the difference of $A_{1}$ and $A_{2}$ is the set 
+>$$x\in A_{1} \text{ \\ } A_{2} \text{ iff } (x\in A_{1}) \wedge () $$
 # Cartesian product:
 # Power Set:
 # Cardinality:
