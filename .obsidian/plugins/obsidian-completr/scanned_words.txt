@@ -118178,6 +118178,7 @@ replace
 rule
 rectangular
 rotating
+resourse
 Zorich
 ZM
 ZB

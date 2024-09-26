@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books and Courses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "613ee0f54b31f756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Меню от ChatGPT.md",
+                "file": "English от ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Меню от ChatGPT.md",
+                "file": "English от ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Меню от ChatGPT.md",
+                "file": "English от ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Меню от ChatGPT.md",
+                "file": "English от ChatGPT.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Меню от ChatGPT.md"
+                "file": "English от ChatGPT.md"
               }
             }
           }
@@ -213,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "613ee0f54b31f756",
+  "active": "833708bcf098fd63",
   "lastOpenFiles": [
     "Books and Courses.md",
     "Меню от ChatGPT.md",
