@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naive Set Theory.md",
+                "file": "Basic of Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naive Set Theory.md",
+                "file": "Basic of Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naive Set Theory.md",
+                "file": "Basic of Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Naive Set Theory.md",
+                "file": "Basic of Logic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naive Set Theory.md"
+                "file": "Basic of Logic.md"
               }
             }
           }
@@ -202,12 +202,13 @@
   },
   "active": "516819ffc435613d",
   "lastOpenFiles": [
+    "Naive Set Theory.md",
+    "Library/Pasted image 20240927111043.png",
     "Basic of Logic.md",
     "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Naive Set Theory.md",
     "Library/Pasted image 20240926221720.png",
     "Library/Pasted image 20240926221413.png",
     "Library/Pasted image 20240926221207.png",
@@ -234,7 +235,6 @@
     "Library/Pasted image 20240923232547.png",
     "Library/Pasted image 20240923105422.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
-    "Library/Pasted image 20240923102734.png",
     "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
     "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "The Dot product and its properties..md",

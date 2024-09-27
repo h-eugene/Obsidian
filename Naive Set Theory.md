@@ -106,4 +106,6 @@
 
 >[!abstract] Properties 
 >$$|A\vee B | = |A| + |B| - |A\wedge B|$$
->$$|A\vee B| = | A$$
+>![|400](Pasted%20image%2020240927111043.png)
+>$$|A\vee B| = | A| + |B|, \text{ if $A\wedge B = \emptyset$}$$
+>$$|A\times B| = |A| \cdot |B|$$
