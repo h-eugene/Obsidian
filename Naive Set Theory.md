@@ -96,4 +96,7 @@
 >[!abstract] Integer Number 
 >$$Z = \{..., -3,-2. -1 ,0 , 1, 2, 3...\}$$
 >$|\mathbb{Z}| = \omega$
->
+
+>[!abstract] Rational numbers 
+>$$\mathbb{Q} = \{(n,m) \in \mathbb{Z} \ | \ m\neq 0 \wedge \frac{n}{m} \text{is irreducible}\}$$
+>$$|\mathbb{Q}|=\omega$$ 
