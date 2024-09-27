@@ -100,3 +100,10 @@
 >[!abstract] Rational numbers 
 >$$\mathbb{Q} = \{(n,m) \in \mathbb{Z} \ | \ m\neq 0 \wedge \frac{n}{m} \text{is irreducible}\}$$
 >$$|\mathbb{Q}|=\omega$$ 
+
+>[!abstract] Real numbers
+>$$|\mathbb{R} |= 2^{\omega}$$
+
+>[!abstract] Properties 
+>$$|A\vee B | = |A| + |B| - |A\wedge B|$$
+>$$|A\vee B| = | A$$
