@@ -89,7 +89,7 @@
 	   > <br>
 	   > - Let $m:=max\{m_{\Delta}, m_{x}, m_{y}\}$ and $n\geq m$ be any natural number;
 	   > - $$\displaylines{ \displaystyle |\frac{x_{n}}{y_{n}} - \frac{x}{y}| = | \frac{x_{n}y-xy_{n}}{yy_{n}}|= \\  | \frac{(x_{n}-x)y+x(y-y_{n})}{yy_{n}}|\leq \\ | \frac{x_{n}-x}{y_{n}}| + | \frac{x}{y}|\times | \frac{y-y_{n}}{y_{n}}|\leq\\ \frac{|x_n-x|}{\Delta} + | \frac{x}{y}| \times \frac{|y-y_{n}|}{\Delta}\\
-	   >   \leq \frac{\varepsilon\Delta}{2\Delta}+| \frac{x}{y}| \times \frac{\varepsilon|y|\Delta}{2|x|\Delta} \\ = \frac{\varepsilon}{2} + \frac{\varepsilon}{2} = \varepsilon .}$$
+	   >   \leq \frac{\varepsilon\Delta}{2\Delta}+| \frac{x}{y}| \times \frac{\varepsilon|y|\Delta}{2|x|\Delta} \\ = \frac{\varepsilon}{2} + \frac{\varepsilon}{2} = \varepsilon .}\\$$
 	   > -  It proves that $\displaystyle \lim_{n\to\infty}\left( \frac{x_{n}}{y_{n}}\right)= \frac{x}{y}$.
 	   >   $\blacksquare$
 

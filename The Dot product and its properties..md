@@ -42,6 +42,8 @@
 >[!Note] Equality
 >$u\cdot v = \sum^{n}_{i=1}u_{i}v_{i} = \|u\|\|v\|\cos\theta$
 
+^8f6f4b
+
 >[!check]- Proof
 >![](Pasted%20image%2020240923001610.png)
 >$$\displaylines{\texttt{By cosines' theorem: }\\\| V_{2}-V_{1}\|^{2} = \|V_{1}\|^{2} +\|V_{2}\|^{2}-2\| V_{1}\|\|V_{2}\| = \\(a_{1}^{2}+b_{1}^{2})+(a_{2}^{2}+b_{2}^{2})-2\|V_{1}\|\|V_{2}\|\cos\theta\\\texttt{On the other hand, by default way: } \\
