@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
+                "file": "Mathematical Analysis I.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Mathematical Analysis I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Mathematical Analysis I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Mathematical Analysis I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Mathematical Analysis I.md"
               }
             }
           }
@@ -202,21 +202,21 @@
   },
   "active": "379e352914adfcb0",
   "lastOpenFiles": [
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
+    "Books and Courses.md",
     "Theory of sequences and their limits..md",
     "Theory of limits and continuity.md",
     "Mathematical Analysis I.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Logic and Discrete Mathematics.md",
     "Basic of Logic.md",
     "Naive Set Theory.md",
     "Library/Pasted image 20240927111043.png",
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Library/Pasted image 20240926221720.png",
     "Library/Pasted image 20240926221413.png",
     "Library/Pasted image 20240926221207.png",
     "Library/Pasted image 20240926220649.png",
-    "Books and Courses.md",
     "English от ChatGPT.md",
     "Меню от ChatGPT.md",
     "Тренировка от ChatGPT.md",
