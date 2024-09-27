@@ -90,4 +90,5 @@
 >To use $|\cdot|$, we need a standard (etalon)! This etalon is empty set $\emptyset$, because it's unique.
 
 >[!abstract] Natural numbers
->Since all natural numbers $0,1,2,3...$ are defined, define the set $\mathbb{N} = \{k\ |$ is a natural number $\} = \{0,1,2,3...\}$
+>Since all natural numbers $0,1,2,3...$ are defined, define the set $\mathbb{N} = \{k\ |$ is a natural number$\} = \{0,1,2,3...\}$
+>$\mathbb{N} = \omega$ or $\aleph_{0}$, i.e., $\mathbb{N}$ is countable.
