@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Naive Set Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Naive Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Naive Set Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Naive Set Theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Naive Set Theory.md"
               }
             }
           }
@@ -202,16 +202,16 @@
   },
   "active": "516819ffc435613d",
   "lastOpenFiles": [
-    "Naive Set Theory.md",
-    "Library/Pasted image 20240926221720.png",
-    "Library/Pasted image 20240926221413.png",
-    "Library/Pasted image 20240926221207.png",
-    "Library/Pasted image 20240926220649.png",
     "Basic of Logic.md",
     "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "Naive Set Theory.md",
+    "Library/Pasted image 20240926221720.png",
+    "Library/Pasted image 20240926221413.png",
+    "Library/Pasted image 20240926221207.png",
+    "Library/Pasted image 20240926220649.png",
     "Books and Courses.md",
     "English от ChatGPT.md",
     "Меню от ChatGPT.md",

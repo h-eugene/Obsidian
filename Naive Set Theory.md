@@ -78,3 +78,13 @@
 >[!abstract] Definition 
 >For a set $A$, the **Power Set** of $A$ is the set 
 >$$2^{A} = \mathcal{P}(A) = \{B \ | \ B\subseteq A\}$$ 
+
+---
+
+# Cardinality:
+
+>[!abstract] Definition
+>Intuitively, the cardinality of a set $A$, denotes by $|A|$, is the number of elements of $A$
+
+>[!abstract] Standard
+>To use $|\cdot|$, we need a standard (etalon)!
