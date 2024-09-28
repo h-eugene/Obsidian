@@ -14,5 +14,6 @@
 ![](Pasted%20image%2020240928231940.png)
 
 >[!abstract] Argument
->A list (series) of sentences (statements) which give reasons for one's conclusion
+>A list (series) of sentences (statements) which give reasons for one's conclusion via explanation.
+>$\psi $
 
