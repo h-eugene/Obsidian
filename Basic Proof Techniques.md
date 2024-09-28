@@ -15,5 +15,8 @@
 
 >[!abstract] Argument
 >A list (series) of sentences (statements) which give reasons for one's conclusion via explanation.
->$\psi $
+>**Denotions:**
+>$$\frac{\phi_{1}, \phi_{2},...,\phi_{n}}{\psi}$$
+>$$\phi_{1}, \phi_{2},..., \phi_{n} \models \psi$$
+>$\phi_{1},\phi_{2},...$
 
