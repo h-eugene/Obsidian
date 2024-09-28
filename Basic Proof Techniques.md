@@ -41,6 +41,20 @@
 >---
 >- $Q$
 
+> [!abstract] Contrapositive 
+> $\neg Q \to \neg P$
+> - - -
+> $P\to Q$
 
+>[!abstract] Hypothetical Syllogism
+>$P\to Q$
+>$Q \to R$
+>---
+>$P\to R$
 
-
+>[!abstract] $\forall$ and $\exists$-rules
+>$\forall x P(x)$ – $\forall$-rule of instantiation
+>- --
+>$P(c)$ for any $c$
+>
+>$P(c)$ for any $c$ $$
