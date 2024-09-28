@@ -22,7 +22,8 @@
 >$\psi$ is called a *conclusion*.
 
 >[!abstract] Direct proof
->Given propositions $P_{1}, P_{2}, ..., P_{n}$
+>Given propositions $P_{1}, P_{2}, ..., P_{n}$ we prove $P_{0}$.
+>- $P_{1}$  - Premise
 
 
 
