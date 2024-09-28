@@ -30,7 +30,17 @@
 >- $P_{n+2}$ (it logically follows from $P_{i_{2}}$ and
 >- $P_{j_{2}}$) – **Some method**
 >$...$
+>---
 >- $P_{0}$ (it logically follows from $P_{i_{k}}$ and $P_{j_k}$) – **Conclusion**
+
+**Rules of Inference:**
+
+>[!abstract] Rules Ponens (Law of Detachment)
+>- $P\to Q$
+>- $P$
+>---
+>- $Q$
+
 
 
 
