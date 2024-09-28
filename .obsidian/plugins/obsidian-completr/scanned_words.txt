@@ -3093,6 +3093,9 @@ Different
 Diagonal
 DlAEmvdJ
 Difference
+Direct
+Denotions
+Detachment
 Lecturer
 Link
 Line
@@ -11796,6 +11799,8 @@ Instructions
 Implemention
 Inverses
 Intersection
+Inference
+Initial
 Telegram
 Theorem
 Text
@@ -14423,6 +14428,7 @@ Transpose
 Triple
 Thus
 Techniques
+Theorems
 nomemm
 need
 necessary
@@ -19720,6 +19726,7 @@ transpose
 transposition
 theorem
 transition
+techniques
 Course
 Curves
 Continuation
@@ -22551,6 +22558,8 @@ Conditional
 Council
 Cambridge
 Complement
+Conclusion
+Contrapositive
 Sections
 Surfaces
 Spaces
@@ -25355,6 +25364,7 @@ Subset
 Square
 Symmetric
 Since
+Syllogism
 Algebra
 AGLA
 Assignments
@@ -28087,6 +28097,7 @@ Additional
 Architectures
 Area
 Anki
+Argument
 and
 algebra
 any
@@ -33484,6 +33495,8 @@ Product
 Present
 Past
 Perfect
+Premise
+Ponens
 Quadratic
 Qn
 QL
@@ -45103,6 +45116,8 @@ picked
 prefix
 proves
 pair
+premises
+propositions
 Read
 Relations
 RY
@@ -56373,6 +56388,8 @@ given
 grouping
 growing
 gate
+give
+generalization
 Umnov
 Uniqueness
 Uf
@@ -68986,6 +69003,8 @@ inductive
 invertible
 infty
 idempotent
+instantiation
+instantiantion
 For
 Functions
 Frolov
@@ -80014,6 +80033,8 @@ stays
 subintervals
 square
 substitute
+sentences
+statements
 exist
 excalidraw
 everything
@@ -82957,6 +82978,7 @@ env
 equalities
 ekLh
 express
+explanation
 have
 hQ
 hfRF
@@ -88801,6 +88823,7 @@ convergence
 construction
 converts
 complement
+conclusion
 Necessity
 Nikolay
 Natural
@@ -118189,6 +118212,7 @@ rule
 rectangular
 rotating
 resourse
+reasons
 Zorich
 ZM
 ZB
@@ -130151,6 +130175,7 @@ However
 Harvard
 Homework
 Hence
+Hypothetical
 XKo
 Xg
 XWo

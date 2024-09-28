@@ -82,6 +82,16 @@ $$\frac{(P\wedge \neg Q) \to (X), (P\wedge \neg Q) \to \neg X}{P\to Q}$$
 - --
 # Induction:
 
-- 
+- *Induction Basis / Initial step* $n=n_{0}$
+  Prove $P(n_{0})$
+  <br>
+- *Induction / Inductive Hypothesis*
+  Suppose that $P(k)$, $k>n_{0}$
+  <br>
+- *Induction / Inductive step*
+  Prove $P(k+1)$
+  <br>
+- *Conclusion*
+  Therefore, by the Principle of Mathematical Induction 
 
 
