@@ -18,5 +18,11 @@
 >**Denotions:**
 >$$\frac{\phi_{1}, \phi_{2},...,\phi_{n}}{\psi}$$
 >$$\phi_{1}, \phi_{2},..., \phi_{n} \models \psi$$
->$\phi_{1},\phi_{2},...$
+>$\phi_{1},\phi_{2},...,\phi_{n}$ are called *premises*.
+>$\psi$ is called a *conclusion*.
+
+>[!abstract] Direct proof
+>Given propositions $P_{1}, P_{2}, ..., P_{n}$
+
+
 
