@@ -79,6 +79,9 @@
 # Contradiction:
 
 $$\frac{(P\wedge \neg Q) \to (X), (P\wedge \neg Q) \to \neg X}{P\to Q}$$
+- --
+# Induction:
 
+- 
 
 
