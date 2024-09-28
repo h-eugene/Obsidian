@@ -92,6 +92,8 @@ $$\frac{(P\wedge \neg Q) \to (X), (P\wedge \neg Q) \to \neg X}{P\to Q}$$
   Prove $P(k+1)$
   <br>
 - *Conclusion*
-  Therefore, by the Principle of Mathematical Induction 
+  Therefore, by the Principle of Mathematical Induction, 
+  $P(n)$ holds for any $n\geq n_{0}$
+$$\frac{P(n_{0}); k\geq n_{0}\ [P(k) \to P(k+1)]{\forall n \geq n_{0}\ P(n)}$$
 
 
