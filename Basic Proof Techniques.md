@@ -3,3 +3,5 @@
 >$A$ is called a *sufficient condition* for $B$,
 >$B$ is called a *necessary condition* for $A$.
 
+>[!abstract] Theorem $A\$
+
