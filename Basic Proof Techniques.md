@@ -23,7 +23,14 @@
 
 >[!abstract] Direct proof
 >Given propositions $P_{1}, P_{2}, ..., P_{n}$ we prove $P_{0}$.
->- $P_{1}$  - Premise
+>- $P_{1}$  – **Premise**
+>$...$
+>- $P_{n}$ – **Premise**
+>- $P_{n+1}$ (it logically follows from $P_{i_{1}}$ and $P_{j_{1}}$) – **Some method**
+>- $P_{n+2}$ (it logically follows from $P_{i_{2}}$ and
+>- $P_{j_{2}}$) – **Some method**
+>$...$
+>- $P_{0}$ (it logically follows from $P_{i_{k}}$ and $P_{j_k}$) – **Conclusion**
 
 
 
