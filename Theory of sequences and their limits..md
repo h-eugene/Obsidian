@@ -85,7 +85,7 @@
 	   >- Hence, sequence $(x_{n}-y_{n})_{n\in \mathbb{N}}$ converges to $(x-y)$ 
 	   >- - -
 	   >- $$\displaylines{\displaystyle 
-	   >  |x_{n}y_{n} - }$$
+	   >  |x_{n}\times y_{n} - x\times y| }$$
 	   
 	   
 	  <br>
