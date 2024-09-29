@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "triangle",
+                "query": "tarski",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Number Systems. Axiomatic approaches..md"
               }
             }
           }
@@ -202,9 +202,9 @@
   },
   "active": "4f00416b0192f812",
   "lastOpenFiles": [
-    "Basics of naive Set Theory..md",
-    "Introduction.md",
     "Mathematical Analysis I.md",
+    "Introduction.md",
+    "Basics of naive Set Theory..md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
