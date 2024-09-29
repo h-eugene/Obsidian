@@ -74,7 +74,7 @@
 	   >- Let $\varepsilon > 0$ be any positive real;
 	   >	- since $\displaystyle x=\lim_{n\to\infty}x_{n}$, there exists some $m_{x}\in \mathbb{N}$ such that for all $n\geq m$ holds $|x_{n}-x|\leq \varepsilon$
 	   >	- since $\displaystyle y=\lim_{n\to\infty}y_{n}$, there exists some $m_{y}\in \mathbb{N}$ such that for all $n\geq m$ holds $|y_{n}-y|\leq \varepsilon$
-	   >- $$\displaylines{\displaystyle |(x_{n}+y_{n})-(x+y) | = \\|(x_{n}+y_{n})+(x+y) |\leq \\ |x_{n}+y_{n}|-|x+y|}$$
+	   >- $$\displaylines{\displaystyle |(x_{n}+y_{n})-(x+y) | = \\|(x_{n}-x)+(y_{n}-y) |\leq \\ |x_{n}-x|-|y_{n}+y|}$$
 	   
 	   
 	  <br>
