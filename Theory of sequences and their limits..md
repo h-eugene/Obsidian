@@ -96,7 +96,10 @@
 	   >   $\blacksquare$
 	   
 
-- Any bounded *monotone* (i.e., non-decreasing) sequences
+---
+# Some Theory: 
+- Any bounded *monotone* (i.e., non-decreasing) sequence converges to its supremum (i.e., the least upper bound).
+- A
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
