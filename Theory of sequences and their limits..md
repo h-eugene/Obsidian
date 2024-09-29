@@ -112,10 +112,6 @@
 ---
 # Some Theory: 
 - Any bounded *monotone* (i.e., non-decreasing) sequence converges to its supremum (i.e., the least upper bound).
-	- Monotone means the sequence is either constantly increasing or remains at the same level (i.e $x_{n}\leq x_{n+1}$)
-	- Bounded means there exists some upper bound 
-	  (For example, $x_{n}\leq M\ | \ \forall n$)
-	- Supremum
 - Any bounded *antimonotone* (i.e., non-increasing) sequence converges to its infimum (i.e, the greatest lower bound)
 - For any real converging sequences $(x_{n})_{n\in \mathbb{N}}$ and $(y_{n})_{n\in \mathbb{N}}$, if for all $n\in \mathbb{N}$ holds $x_{n}\leq y_{n}$, then $\displaystyle \lim_{n\to \infty}x_{n}\leq \lim_{n\to \infty}y_{n}$
 
