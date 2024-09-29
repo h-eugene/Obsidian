@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md",
+                "file": "Theory of sequences and their limits..md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tarski",
+                "query": "limit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md",
+                "file": "Theory of sequences and their limits..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md",
+                "file": "Theory of sequences and their limits..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md",
+                "file": "Theory of sequences and their limits..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Number Systems. Axiomatic approaches..md"
+                "file": "Theory of sequences and their limits..md"
               }
             }
           }
@@ -202,14 +201,15 @@
   },
   "active": "4f00416b0192f812",
   "lastOpenFiles": [
+    "Theory of limits and continuity.md",
     "Mathematical Analysis I.md",
+    "Number Systems. Axiomatic approaches..md",
     "Introduction.md",
     "Basics of naive Set Theory..md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
     "Theory of sequences and their limits..md",
-    "Theory of limits and continuity.md",
     "Basic of Logic.md",
     "Basic Proof Techniques.md",
     "Library/Pasted image 20240928231940.png",
@@ -238,7 +238,6 @@
     "Library/Pasted image 20240923233257.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Excalidraw/Drawing 2024-09-14 11.42.14.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-09 23.41.39.excalidraw.md",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
