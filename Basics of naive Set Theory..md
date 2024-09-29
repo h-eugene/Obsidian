@@ -16,7 +16,7 @@
 	- with each element $A$ contains a two-element set $\{A, \{A\}\}$: for any $A$, if $A \in \omega$, then $\{A, \{A\}\} \in \omega$.  
 # Set Union, Power-set and Specified subset:
 - **Definition:** For any set of $A$ there the union ($\cup_{B\in A} B$) is a set which consists of all "elements of elements" in $A$: $C \in (\cup_{B\in A} B)$ if $C \in B$ for some $B \in A$.
-  **Explanation:** It's get all unique element from A and if there are nested sets then it discloses them but only first level nested sets.
+  **Explanation:** It gets all unique elements from $A$ and if there are nested sets then it discloses them but only first level nested sets.
   **Example:** $A = \{\{1,2\},2,\{3,4\},\{\{2\}\}\}$, then $\cup_{B\in A}B = \{1,2,3,4,\{2\}\}$.     
   
 - **Definition:** For any set $A$ the power-set of all his subsets (designation $2^{A}$, $P(A) \ or \ \{B:\ B\subseteq A\}$) is a set.
