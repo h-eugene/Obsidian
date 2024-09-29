@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Theory of sequences and their limits..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Theory of sequences and their limits..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Theory of sequences and their limits..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Theory of sequences and their limits..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Theory of sequences and their limits..md"
               }
             }
           }
@@ -202,17 +202,17 @@
   },
   "active": "7136613449f3128a",
   "lastOpenFiles": [
+    "Theory of limits and continuity.md",
+    "Mathematical Analysis I.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
     "Basic of Logic.md",
     "Basic Proof Techniques.md",
     "Library/Pasted image 20240928231940.png",
     "Library/Pasted image 20240928231921.png",
     "Logic and Discrete Mathematics.md",
-    "Innopolis 1st year - Fall Semester.md",
-    "Mathematical Analysis I.md",
-    "Theory of limits and continuity.md",
     "Theory of sequences and their limits..md",
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Books and Courses.md",
     "Naive Set Theory.md",
     "Library/Pasted image 20240927111043.png",
