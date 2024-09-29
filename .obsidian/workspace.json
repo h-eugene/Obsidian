@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "356085a9569398eb",
+        "id": "4667f6b1aad60658",
         "type": "tabs",
         "children": [
           {
-            "id": "379e352914adfcb0",
+            "id": "9ed72f12f1e0a08b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic of Logic.md",
+                "file": "Home/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic of Logic.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic of Logic.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Basic of Logic.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic of Logic.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -200,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "379e352914adfcb0",
+  "active": "9ed72f12f1e0a08b",
   "lastOpenFiles": [
-    "Basic Proof Techniques.md",
     "Basic of Logic.md",
+    "Basic Proof Techniques.md",
     "Library/Pasted image 20240928231940.png",
     "Library/Pasted image 20240928231921.png",
     "Logic and Discrete Mathematics.md",
