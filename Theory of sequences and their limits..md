@@ -74,13 +74,18 @@
 	   >- Let $\varepsilon > 0$ be any positive real;
 	   >	- since $\displaystyle x=\lim_{n\to\infty}x_{n}$, there exists some $m_{x}\in \mathbb{N}$ such that for all $n\geq m$ holds $|x_{n}-x|\leq \varepsilon$
 	   >	- since $\displaystyle y=\lim_{n\to\infty}y_{n}$, there exists some $m_{y}\in \mathbb{N}$ such that for all $n\geq m$ holds $|y_{n}-y|\leq \varepsilon$
+	   >![](The%20Dot%20product%20and%20its%20properties..md#^73428c)
 	   >- - - 
 	   >- $$\displaylines{\displaystyle |(x_{n}+y_{n})-(x+y) | = \\|(x_{n}-x)+(y_{n}-y) |\leq \\ |x_{n}-x|+|y_{n}+y| \leq \\ \varepsilon + \varepsilon \leq 2\varepsilon}$$
 	   >- Hence, sequence $(x_{n}+y_{n})_{n\in \mathbb{N}}$ converges to $(x+y)$ 
 	   >- - -
 	   >- $$\displaylines{\displaystyle 
-	   >  |(x_{n}-y_{n}) - (x-y)| = |(x_{n}-x)-(y_{n}-y)| \leq \\
+	   >  |(x_{n}-y_{n}) - (x-y)| = |(x_{n}-x)-(y_{n}-y)| = \\ |(x_{n}-x)+(y-y_{n})| \leq \\ |x_{n}-x|+|y-y_{n}| \leq |x_{n}-x| + |y_{n}-y| \leq 2\varepsilon
 	   >  }$$
+	   >- Hence, sequence $(x_{n}-y_{n})_{n\in \mathbb{N}}$ converges to $(x-y)$ 
+	   >- - -
+	   >- $$\displaylines{\displaystyle 
+	   >  |x_{n}y_{n} - }$$
 	   
 	   
 	  <br>
