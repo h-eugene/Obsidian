@@ -85,7 +85,9 @@
 	   >- Hence, sequence $(x_{n}-y_{n})_{n\in \mathbb{N}}$ converges to $(x-y)$ 
 	   >- - -
 	   >- $$\displaylines{\displaystyle 
-	   >  |x_{n}\times y_{n} - x\times y|  = \\ |x_{n}\times y_{n}-x\times y_{n}+x\times y_{n} - x\times y|} \leq \\ |x_{n}\times y_{n} -$$
+	   >  |x_{n}\times y_{n} - x\times y|  = \\ |x_{n}\times y_{n}-x\times y_{n}+x\times y_{n} - x\times y| \leq \\ |x_{n}\times y_{n} - x\times y_{n}| + |x\times y_{n}-x\times y| \leq \\ |y_{n}\varepsilon|+|x \varepsilon|
+	   >  }$$
+	   >- Hence, sequence $(x_{n}\times y_{n})_{n\in \mathbb{N}}$ converges to $(x\times y)$
 	   
 	   
 	  <br>
@@ -110,7 +112,7 @@
 ---
 # Some Theory: 
 - Any bounded *monotone* (i.e., non-decreasing) sequence converges to its supremum (i.e., the least upper bound).
-- A
+- Any bounded antimonotone (i.e., non-increasing) sequence converges to its infimum (i.e, the greatest lower b)
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
