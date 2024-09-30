@@ -11801,6 +11801,7 @@ Inverses
 Intersection
 Inference
 Initial
+Infinities
 Telegram
 Theorem
 Text
@@ -17148,6 +17149,8 @@ nameless
 notes
 new
 nonsingular
+neighborhood
+neighborhoods
 to
 the
 topics
@@ -19727,6 +19730,7 @@ transposition
 theorem
 transition
 techniques
+test
 Course
 Curves
 Continuation
@@ -25365,6 +25369,8 @@ Square
 Symmetric
 Since
 Syllogism
+Squeezing
+Statement
 Algebra
 AGLA
 Assignments
@@ -30924,6 +30930,8 @@ ajson
 above
 arbitrary
 antimonotone
+artificial
+applies
 Plane
 Problem
 Prove
@@ -50890,6 +50898,7 @@ obsidian
 orientations
 obtained
 ordered
+open
 lecture
 lineynaya
 linear
@@ -65325,6 +65334,8 @@ dsalkfjsdfl
 dfk
 displaystyle
 decreasing
+denote
+depict
 independency
 in
 info
@@ -69009,6 +69020,9 @@ infty
 idempotent
 instantiation
 instantiantion
+inverval
+infinities
+inftinies
 For
 Functions
 Frolov
@@ -82983,6 +82997,9 @@ equalities
 ekLh
 express
 explanation
+expand
+extended
+endpoints
 have
 hQ
 hfRF
@@ -88828,6 +88845,7 @@ construction
 converts
 complement
 conclusion
+close
 Necessity
 Nikolay
 Natural
@@ -91421,6 +91439,7 @@ Neumann
 Notations
 NPR
 Null
+Neighborhoods
 Given
 Graphs
 Gg
@@ -106561,6 +106580,7 @@ matrices
 multiply
 meaning
 maximum
+meets
 You
 YC
 YR
@@ -130180,6 +130200,7 @@ Harvard
 Homework
 Hence
 Hypothetical
+How
 XKo
 Xg
 XWo
@@ -135909,6 +135930,7 @@ jnK
 jta
 jYS
 json
+joint
 zM
 zd
 zH

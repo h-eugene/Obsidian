@@ -188,7 +188,9 @@
 
 # Sequence limit in infinities: from $V\&m$ to neighborhoods:
 
-> 
+> "The sequence limit is infinities" via $V\&m$
+> -$\pm \infty$ is a limit of real sequence $(x_{n})_{n\in \mathbb{N}}$
+> if for any $v\in \mathbb{R}$ there exists $m\in \mathbb{N}$ that for all $n \geq m$ holds $\displaystyle x\ \frac{>}{<}\ v$ respectively. 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
