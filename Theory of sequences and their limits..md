@@ -152,9 +152,13 @@
 **How to depict extended reals:**
 ![](Pasted%20image%2020240930111530.png)
 
-- In the left part, the inftinies are the extreme points of the number line. 
-- In the right part, the infinities are the special plint 
+- In the left diagram, the inftinies are the endpoints of the number line. 
+- In the right diagram, the infinities are the special points that are greater than or less than any point of the number line.  
 
+---
+# Infinities and their neighborhoods:
+
+- A neighborhoods 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
