@@ -115,6 +115,10 @@
 - Any bounded *antimonotone* (i.e., non-increasing) sequence converges to its infimum (i.e, the greatest lower bound)
 - For any real converging sequences $(x_{n})_{n\in \mathbb{N}}$ and $(y_{n})_{n\in \mathbb{N}}$, if for all $n\in \mathbb{N}$ holds $x_{n}\leq y_{n}$, then $\displaystyle \lim_{n\to \infty}x_{n}\leq \lim_{n\to \infty}y_{n}$
 
+>[!abstract] Squeezing Lemma
+>- Statement: For any real sequences $(x_{n})_{n\in \mathbb{N}},(y_{n})_{n\in \mathbb{N}},$ and $(z_{n})_{n\in \mathbb{N}},$
+>	- if $(x_{n})_{n\in \mathbb{N}},$ and $(z_{n})_{n\in \mathbb{N}}$ converge and have joint limit 
+
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
 [^3]: The intersection of all subintervals of $[a_{0},b_{0}]$ 
