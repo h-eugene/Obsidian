@@ -124,6 +124,11 @@
 ---
 # Real number $e$:
 - $\displaystyle e = ((1+ \frac{1}{n+1})^{n+1})_{n\in\mathbb{N}}$
+---
+# Cauchy sequences convergence test:
+
+- A real sequence $(x_{n})_{n\in \mathbb{N}}$ meets Cauchy sequence convergence test if for any real $\varepsilon > 0$ for some (i.e., there exists) $m\in \mathbb{N}$ such that for all $n_{1},n_{2}\geq m$ holds $|x_{n_{1}}-x_{n_{2}} |\leq \varepsilon$ 
+- A real sequence meets Cauchy sequence convergence test iff it does converge.
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
