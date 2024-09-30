@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "29e4511216b86518",
+        "id": "4ebba1005dd19b82",
         "type": "tabs",
         "children": [
           {
-            "id": "4f00416b0192f812",
+            "id": "a30add97fa945771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of sequences and their limits..md",
-                "mode": "preview",
+                "file": "Home/The Beginning.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory of sequences and their limits..md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory of sequences and their limits..md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -133,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theory of sequences and their limits..md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory of sequences and their limits..md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -199,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f00416b0192f812",
+  "active": "a30add97fa945771",
   "lastOpenFiles": [
+    "Theory of sequences and their limits..md",
     "Theory of limits and continuity.md",
     "Mathematical Analysis I.md",
     "Number Systems. Axiomatic approaches..md",
@@ -209,7 +211,6 @@
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Theory of sequences and their limits..md",
     "Basic of Logic.md",
     "Basic Proof Techniques.md",
     "Library/Pasted image 20240928231940.png",
