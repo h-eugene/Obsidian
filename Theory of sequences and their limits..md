@@ -188,13 +188,18 @@
 
 # Sequence limit in infinities: from $V\&m$ to neighborhoods:
 
-> [!abstract] "The sequence limit is infinities" via $V\&m$
+> [!abstract] The sequence limit at infinities via $V\&m$
 > - $\pm \infty$ is a limit of real sequence $(x_{n})_{n\in \mathbb{N}}$
 > if for any $v\in \mathbb{R}$ there exists $m\in \mathbb{N}$ that for all $n \geq m$ holds $\displaystyle x\ \frac{>}{<}\ v$ respectively. 
 
->[!abstract] "The sequence limit is infinities" via neighborhoods
+>[!abstract] The sequence limit at infinity via neighborhoods
 >- $\pm \infty$ is a limit of a real sequence $(x_{n})_{n\in \mathbb{N}}$ 
 >if for any neighborhood $V$ of $\pm \infty$ for some neighborhood $U$ of $+\infty$ holds $(x_n)_{n\in \mathbb{N}}(U)\subseteq V$.
+>**Note:** $(x_n)_{n\in \mathbb{N}}(U)$ means the term $x_{n}$, where $n$ is taken from the set $U$.
+
+# Sequences and their limits in $\mathbb{R}_{\pm \infty}$:
+
+- A point $x$ of the extended set $R_$
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
