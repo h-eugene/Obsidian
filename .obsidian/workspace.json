@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "226bd9495a350889",
+            "id": "e65414ad5d3affe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory of limits and continuity.md",
+                "file": "Real functions and their limits at a point..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory of limits and continuity.md",
+                "file": "Real functions and their limits at a point..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory of limits and continuity.md",
+                "file": "Real functions and their limits at a point..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theory of limits and continuity.md",
+                "file": "Real functions and their limits at a point..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory of limits and continuity.md"
+                "file": "Real functions and their limits at a point..md"
               }
             }
           }
@@ -200,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "226bd9495a350889",
+  "active": "e65414ad5d3affe6",
   "lastOpenFiles": [
-    "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Theory of limits and continuity.md",
+    "Real functions and their limits at a point..md",
+    "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
