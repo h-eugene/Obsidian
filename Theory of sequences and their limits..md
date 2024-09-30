@@ -122,7 +122,7 @@
 >- then $(y_{n})_{n\in \mathbb{N}}$ converges to the same limit as both $(x_{n})_{n\in \mathbb{N}},$ and $(z_{n})_{n\in \mathbb{N}}$.
 
 ---
-# Real number $e$:
+# Real number $\exp$:
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
