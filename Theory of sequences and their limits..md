@@ -181,8 +181,8 @@
 
 >[!abstract] The sequence limit via neighborhoods
 >A real number $x\in \mathbb{R}$ is a limit of a real sequence $(x_{n})_{n\in\mathbb{N}}$
->If for any neighborhood $V$ of $x$ for some neighborhood $U$ of $+\infty$ $(x_n)_{n\in \mathbb{N}} \subseteq V$.
->**Note:** The neighborhood $U$ of $+\infty$ applies to $n$; it's equivalent to $n \geq m$, where $m$ is some natural number.  
+>If for any neighborhood $V$ of $x$ for some neighborhood $U$ of $+\infty$ $(x_n)_{n\in \mathbb{N}}(U) \subseteq V$.
+>**Note:** $(x_n)_{n\in \mathbb{N}}(U)$ means the term $x_{n}$, where $n$ is taken from the set $U$.
 
 ---
 
@@ -194,7 +194,7 @@
 
 >[!abstract] "The sequence limit is infinities" via neighborhoods
 >$\pm \infty$ is a linit of a real sequence $(x_{n})_{n\in \mathbb{N}}$ 
->if for any neighborhood $V$ of $\pm \infty$ for some neighborhood $U$ of $+\infty$ holds $(x_n)_{n\in \mathbb{N}}(U)$
+>if for any neighborhood $V$ of $\pm \infty$ for some neighborhood $U$ of $+\infty$ holds $(x_n)_{n\in \mathbb{N}}(U)\subseteq V$.
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
