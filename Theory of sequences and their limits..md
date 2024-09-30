@@ -181,8 +181,7 @@
 
 >[!abstract] The sequence limit via neighborhoods
 >A real number $x\in \mathbb{R}$ is a limit of a real sequence $(x_{n})_{n\in\mathbb{N}}$
->If for any neighborhood $V$ of $x$ for some neighborhood $U$ of $+\infty$ $(x_n)_{n\in \mathbb{N}}(U) \subseteq V$.
->**Note:** $(x_n)_{n\in \mathbb{N}}(U)$ means the term $x_{n}$, where $n$ is taken from the set $U$.
+>If for any neighborhood $V$ of $x$ for some neighborhood $U$ of $+\infty$ $(x_n)_{n\in \mathbb{N}}(U) \subseteq V$[^4].
 
 ---
 
@@ -194,14 +193,14 @@
 
 >[!abstract] The sequence limit at infinity via neighborhoods
 >- $\pm \infty$ is a limit of a real sequence $(x_{n})_{n\in \mathbb{N}}$ 
->if for any neighborhood $V$ of $\pm \infty$ for some neighborhood $U$ of $+\infty$ holds $(x_n)_{n\in \mathbb{N}}(U)\subseteq V$.
->**Note:** $(x_n)_{n\in \mathbb{N}}(U)$ means the term $x_{n}$, where $n$ is taken from the set $U$.
+>if for any neighborhood $V$ of $\pm \infty$ for some neighborhood $U$ of $+\infty$ holds $(x_n)_{n\in \mathbb{N}}(U)\subseteq V$[^4].
 
 # Sequences and their limits in $\mathbb{R}_{\pm \infty}$:
 
-- A point $x$ of the extended set $\mathbb{R}_{\pm \infty}$ is a limit of real sequence $(x_{n})_{n\in m}$
+- A point $x$ of the extended set $\mathbb{R}_{\pm \infty}$ is a limit of real sequence $(x_{n})_{n\in \mathbb{N}}$,
+  if for any neighborhood $V$ of $x$ for some neighborhood $U$ of $+\infty$ holds $(x_{n})_{n\in \mathbb{N}}(U)\subseteq V$.
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
 [^3]: The intersection of all subintervals of $[a_{0},b_{0}]$ 
-
+[^4]:The $(x_n)_{n\in \mathbb{N}}(U)$ means the terms $x_{n}$, where $n$ is taken from the set $U$.
