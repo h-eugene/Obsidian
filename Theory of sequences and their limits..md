@@ -141,7 +141,11 @@
 ---
 # Infinities:
 
-- Let us "expand" the set of reals $\mathbb{R}$ by two artificial elements $-\infty$ and $+\infty$ with the following axio
+- Let us "expand" the set of reals $\mathbb{R}$ by two artificial elements $-\infty$ and $+\infty$ with the following axiomatization: for all $x\in \mathbb{R}$ hold:
+	- $-\infty <x < +\infty$
+	- $(\pm\infty) + x = x + (\pm \infty) = \pm \infty$
+	- If $x>0$, then $(\pm\infty)\cdot x = x\cdot (\pm \infty) = \pm \infty$
+	- If $x<0$, then $(\pm \infty)\cdot x = x \cdot (\pm \infty) = \mp \infty$
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
