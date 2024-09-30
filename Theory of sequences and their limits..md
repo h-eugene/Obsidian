@@ -123,7 +123,7 @@
 
 ---
 # Real number $e$:
-
+- $\displaystyle e = ((1+ \frac{1}{n+1})^{n+1})_{n\in\mathbb{N}}$
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
