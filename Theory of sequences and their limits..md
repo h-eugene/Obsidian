@@ -165,6 +165,10 @@
 	- $]x,+\infty[$ is a neighborhood for all 
 	  its real points and for $+\infty$,
 	- $]-\infty, x[$ is a neighborhood for $-\infty$, and for all its points but the end point $x$.
+- - -
+# Infinities as limits of real sequences:
+- Let $(x_{n})_{n\in\mathbb{N}}:\mathbb{N}\to \mathbb{R}$ be real sequence:
+	- $+\infty$ is said to be a limit of $(x_{n})_{n\in\mathbb{N}}$
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
