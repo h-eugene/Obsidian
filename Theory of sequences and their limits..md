@@ -175,11 +175,13 @@
 ---
 # Sequence limit in reals: from $\varepsilon \& m$ to neighborhoods and back:
 
->[!abstract] The sequence limit via $\varepsilon$:
+>[!abstract] The sequence limit via $\varepsilon\&m$:
 >A real number $x\in \mathbb{R}$ is a limit of a real sequence $(x_{n})_{n\in \mathbb{N}}$ 
 >If for any $\varepsilon > 0$ for some $m\in \mathbb{N}$ such that for all $n\geq m$ holds $|x-x_{n}|\leq \varepsilon$.
 
->[!abstract] The sequence limit via 
+>[!abstract] The sequence limit via neighborhoods
+>A real number $x\in \mathbb{R}$ is a limit of a real sequence $(x_{n})_{n\in\mathbb{N}}$
+>If for any neighborhood $V$ of $x$ for some neighborhood $U$ of $+\infty$ $(x_n)_{n\in \mathbb{N}} \subseteq V$. 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
