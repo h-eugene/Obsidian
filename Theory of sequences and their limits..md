@@ -158,7 +158,13 @@
 ---
 # Infinities and their neighborhoods:
 
-- A neighborhoods 
+- A neighborhood $V\subseteq \mathbb{R}$ for/of an "infinity point" $\pm\infty$ is defined as follows:
+	- $V\subseteq \mathbb{R}$ is a neighborhood of $+\infty$, if for some $v\in \mathbb{R}$ holds $]v,+\infty[\ \subseteq V$;
+	- $V\subseteq \mathbb{R}$ is a neighborhood of $-\infty$, if for some $v\in \mathbb{R}$ holds $]-\infty,v[\ \subseteq V$;
+- Examples: For any real $x$:
+	- $]x,+\infty[$ is a neighborhood for all 
+	  its real points and for $+\infty$,
+	- $]-\infty, x[$ is a neighborhood for $-\infty$, and for all its points but the end point $x$.
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
