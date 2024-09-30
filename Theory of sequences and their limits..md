@@ -184,6 +184,12 @@
 >If for any neighborhood $V$ of $x$ for some neighborhood $U$ of $+\infty$ $(x_n)_{n\in \mathbb{N}} \subseteq V$.
 >**Note:** The neighborhood $U$ of $+\infty$ applies to $n$; it's equivalent to $n \geq m$, where $m$ is some natural number.  
 
+---
+
+# Sequence limit in infinities: from $V\&m$ to neighborhoods:
+
+> 
+
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
 [^3]: The intersection of all subintervals of $[a_{0},b_{0}]$ 
