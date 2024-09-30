@@ -189,11 +189,11 @@
 # Sequence limit in infinities: from $V\&m$ to neighborhoods:
 
 > [!abstract] "The sequence limit is infinities" via $V\&m$
-> -$\pm \infty$ is a limit of real sequence $(x_{n})_{n\in \mathbb{N}}$
+> - $\pm \infty$ is a limit of real sequence $(x_{n})_{n\in \mathbb{N}}$
 > if for any $v\in \mathbb{R}$ there exists $m\in \mathbb{N}$ that for all $n \geq m$ holds $\displaystyle x\ \frac{>}{<}\ v$ respectively. 
 
 >[!abstract] "The sequence limit is infinities" via neighborhoods
->$\pm \infty$ is a linit of a real sequence $(x_{n})_{n\in \mathbb{N}}$ 
+>- $\pm \infty$ is a limit of a real sequence $(x_{n})_{n\in \mathbb{N}}$ 
 >if for any neighborhood $V$ of $\pm \infty$ for some neighborhood $U$ of $+\infty$ holds $(x_n)_{n\in \mathbb{N}}(U)\subseteq V$.
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
