@@ -172,6 +172,14 @@
 	  (notation $\displaystyle \lim_{n\to \infty}x_{n}=+\infty$), if for any $v\in \mathbb{R}$ there exists $m\in \mathbb{N}$ that for all $n\geq m$ holds $x_{n}>v$.
 	- $-\infty$ is said to be a limit of $(x_{n})_{n\in\mathbb{N}}$, 
 	  (notation $\displaystyle \lim_{n\to \infty} x_{n}= -\infty$), if for any $v\in \mathbb{R}$ there exists $m\in \mathbb{N}$ that for all $n\geq m$ holds $x_{n}<v$.
+---
+# Sequence limit in reals: from $\varepsilon \& m$ to neighborhoods and back:
+
+>[!abstract] The sequence limit via $\varepsilon$:
+>A real number $x\in \mathbb{R}$ is a limit of a real sequence $(x_{n})_{n\in \mathbb{N}}$ 
+>If for any $\varepsilon > 0$ for some $m\in \mathbb{N}$ such that for all $n\geq m$ holds $|x-x_{n}|\leq \varepsilon$.
+
+>[!abstract] The sequence limit via 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
