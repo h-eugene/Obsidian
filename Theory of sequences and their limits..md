@@ -130,9 +130,14 @@
 - A real sequence $(x_{n})_{n\in \mathbb{N}}$ meets Cauchy sequence convergence test if for any real $\varepsilon > 0$ for some (i.e., there exists) $m\in \mathbb{N}$ such that for all $n_{1},n_{2}\geq m$ holds $|x_{n_{1}}-x_{n_{2}} |\leq \varepsilon$ 
 - A real sequence meets Cauchy sequence convergence test iff it does converge.
 ---
-# Neighborhoods of real points:
+# Neighborhoods of real points (окрестность):
 
 - A neighborhood for/of a real "point" $x\in\mathbb{R}$ is any set $V\subseteq \mathbb{R}$ such that for some real $v>0$ holds $]x-v,x+v[ \ \subseteq V$.
+- Examples:
+	- $\mathbb{R}$ is a neighborhood for any real point, but any finite set of reals (including $\varnothing$) is not a neighborhood for any real point.
+	- For any reals $x$ and $v>0$
+		- an open inverval $]x-v,x+v[$ is a neighborhood for all its points,
+		- a close interval $[x-v,x+v]$ is a neighborhood of all its points but its end points $(x-v)$ and $(x+v)$.
 
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
