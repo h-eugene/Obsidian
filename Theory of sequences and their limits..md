@@ -146,6 +146,11 @@
 	- $(\pm\infty) + x = x + (\pm \infty) = \pm \infty$
 	- If $x>0$, then $(\pm\infty)\cdot x = x\cdot (\pm \infty) = \pm \infty$
 	- If $x<0$, then $(\pm \infty)\cdot x = x \cdot (\pm \infty) = \mp \infty$
+	- $\frac{x}{\pm\infty} = 0$
+- Let us use $\mathbb{R}_{-\infty} = \mathbb{R} \cup \{-\infty\}, \mathbb{R}_{+\infty}= R\cup \{+\infty\},$ and $\mathbb{R}_{\infty} = \mathbb{R}_{\pm\infty} = \mathbb{R} \cup \{-\infty, +\infty\}$ to denote reals extended by infinities.
+
+**How to depict extended reals:**
+![](Pasted%20image%2020240930111530.png)
 
 [^1]: m is a number at which both of the above equalities work. The equalities will work if we take their intersection, in this case it is the maximum of these values
 [^2]: c is a value that is larger or equal to the max element of sequence.  
