@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
+                "file": "Change of Basis. Matrix Inverses..md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Change of Basis. Matrix Inverses..md"
               }
             }
           }
@@ -202,12 +202,14 @@
   },
   "active": "efe4ed18ad49336e",
   "lastOpenFiles": [
-    "Real functions and their limits at a point..md",
-    "Theory of limits and continuity.md",
-    "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
+    "Vector Algebra.md",
+    "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "Real functions and their limits at a point..md",
+    "Theory of limits and continuity.md",
+    "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Books and Courses.md",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "Theory of sequences and their limits..md",
@@ -234,8 +236,6 @@
     "Тренировка от ChatGPT.md",
     "C для начинающих (теория и задачи).md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "Vector Algebra.md",
-    "Analytical Geometry and Linear Algebra I.md",
     "Snippets.md",
     "The C language.md",
     "Introduction to Programming.md",

@@ -11802,6 +11802,9 @@ Intersection
 Inference
 Initial
 Infinities
+Invertabilty
+Important
+Import
 Telegram
 Theorem
 Text
@@ -17151,6 +17154,8 @@ new
 nonsingular
 neighborhood
 neighborhoods
+nonzero
+next
 to
 the
 topics
@@ -19733,6 +19738,8 @@ techniques
 test
 taken
 tending
+turn
+turned
 Course
 Curves
 Continuation
@@ -22566,6 +22573,7 @@ Cambridge
 Complement
 Conclusion
 Contrapositive
+Column
 Sections
 Surfaces
 Spaces
@@ -30934,6 +30942,10 @@ arbitrary
 antimonotone
 artificial
 applies
+appropriate
+augmented
+adjacency
+adding
 Plane
 Problem
 Prove
@@ -33508,6 +33520,7 @@ Past
 Perfect
 Premise
 Ponens
+Perform
 Quadratic
 Qn
 QL
@@ -42293,6 +42306,8 @@ MyProgrammingSvgrepoCom
 MyProgramming
 MyProgrammingCodeApplicationDevelopmentComputerSvgrepoCom
 MyBash
+Minor
+Method
 pdf
 previous
 prove
@@ -45129,6 +45144,9 @@ proves
 pair
 premises
 propositions
+position
+paths
+perpendicular
 Read
 Relations
 RY
@@ -50901,6 +50919,7 @@ orientations
 obtained
 ordered
 open
+orthonormal
 lecture
 lineynaya
 linear
@@ -53565,6 +53584,7 @@ listed
 larger
 lim
 lower
+largest
 geometria
 gN
 gQ
@@ -62356,6 +62376,8 @@ Wng
 WzID
 Where
 Weierstrass
+Ways
+When
 dependency
 dependent
 document
@@ -65338,6 +65360,8 @@ displaystyle
 decreasing
 denote
 depict
+deleting
+diagonal
 independency
 in
 info
@@ -77226,6 +77250,8 @@ fixed
 free
 followed
 fdjasl
+find
+flipping
 scalars
 sufficient
 settings
@@ -80056,6 +80082,10 @@ square
 substitute
 sentences
 statements
+smaller
+sign
+swapping
+subtracting
 exist
 excalidraw
 everything
@@ -83003,6 +83033,8 @@ explanation
 expand
 extended
 endpoints
+elementary
+everywhere
 have
 hQ
 hfRF
@@ -85863,6 +85895,7 @@ hypothesis
 hand
 hits
 hence
+hops
 combination
 can
 command
@@ -88849,6 +88882,8 @@ converts
 complement
 conclusion
 close
+cofactors
+cofactor
 Necessity
 Nikolay
 Natural
@@ -91443,6 +91478,8 @@ Notations
 NPR
 Null
 Neighborhoods
+Neural
+Networks
 Given
 Graphs
 Gg
@@ -94519,6 +94556,7 @@ Getting
 Giuseppe
 Graphics
 Gates
+Gauss
 basis
 be
 bd
@@ -106584,6 +106622,9 @@ multiply
 meaning
 maximum
 meets
+minors
+minor
+multiplying
 You
 YC
 YR
@@ -112416,6 +112457,7 @@ wrote
 written
 workspace
 ways
+whose
 under
 up
 unclear
@@ -118240,6 +118282,9 @@ rectangular
 rotating
 resourse
 reasons
+rank
+represents
+reach
 Zorich
 ZM
 ZB
@@ -150483,6 +150528,7 @@ JyU
 JYM
 Jfz
 Just
+Jordan
 öz
 ös
 öf
