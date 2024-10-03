@@ -44,7 +44,7 @@
 	- $a\vee (b \vee c) \equiv (a \vee b) \vee c$
 - Distributive Laws:
 	- $a \wedge (b\vee c) \equiv (a\wedge b)\vee (a \wedge c)$
-	- $a \vee (a \wedge b) \equiv (a\vee b) \wedge (a\vee c)$
+	- $a \vee (c \wedge b) \equiv (a\vee b) \wedge (a\vee c)$
 - De Morgan's Laws:
 	- $\neg (a \wedge b) \equiv \neg a \vee \neg b$
 	- $\neg(a\vee b)\equiv \neg a \wedge \neg b$

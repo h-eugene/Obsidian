@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
+                "file": "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md"
               }
             }
           }
@@ -202,12 +202,17 @@
   },
   "active": "75de492c305e78a4",
   "lastOpenFiles": [
-    "Change of Basis. Matrix Inverses..md",
-    "Vector Algebra.md",
-    "Analytical Geometry and Linear Algebra I.md",
+    "Basic of Logic.md",
+    "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
+    "Naive Set Theory.md",
+    "Basic Proof Techniques.md",
+    "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "Change of Basis. Matrix Inverses..md",
+    "Vector Algebra.md",
+    "Analytical Geometry and Linear Algebra I.md",
     "Real functions and their limits at a point..md",
     "Theory of limits and continuity.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
@@ -221,12 +226,8 @@
     "Number Systems. Axiomatic approaches..md",
     "Introduction.md",
     "Basics of naive Set Theory..md",
-    "Basic of Logic.md",
-    "Basic Proof Techniques.md",
     "Library/Pasted image 20240928231940.png",
     "Library/Pasted image 20240928231921.png",
-    "Logic and Discrete Mathematics.md",
-    "Naive Set Theory.md",
     "Library/Pasted image 20240927111043.png",
     "Library/Pasted image 20240926221720.png",
     "Library/Pasted image 20240926221413.png",
@@ -239,7 +240,6 @@
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Snippets.md",
     "The C language.md",
-    "Introduction to Programming.md",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "smart-chats",
