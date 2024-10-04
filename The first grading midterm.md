@@ -137,4 +137,15 @@ We can define each natural number $n$ as:
 $$n=\{n-1,\{n-1\}\}$$
 where $n-1$ is the previous number.
 
-Let's construct the first fw
+Let's construct the first few natural numbers using this method:
+1. $0$ (the vase case):
+   $$0=\emptyset$$
+2. $1$:
+   $$1=\{0,\{0\}\} = \{\emptyset , \{\emptyset\}\}$$
+3. $2$:
+   $$2 = \{1,\{1\}\} = \{\{\emptyset , \{\emptyset\}\},\{\{\emptyset , \{\emptyset\}\}\}\}$$
+4. 3:
+   $$3 = \{2,\{2\}\} = \{\{1,\{1\}\},\{\{1,\{1\}\}\}\}$$
+### Prove These Representations Are Sets:
+
+According to naive set theory, any collection of sets is itlesf 
