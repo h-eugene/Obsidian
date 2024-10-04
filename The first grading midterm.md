@@ -324,4 +324,7 @@ To satisfy Cauchy's test, we want $|a_{n_1}-a_{n_{2}}|<\varepsilon$ for $n_{1},n
 To formalize this:
 
 - Let $\varepsilon>0$.
-- Choose $m$ such that 
+- Choose $m$ such that $m$ is sufficiently large.
+- Then for all $n_{2},n_{1} >m$:
+  $$|a_{n_{1}}-a_{n_{2}}| < |n_{1}-n_{2}| +34 \cdot \frac{|n_{1}-n_{2}|}{(n_{2}+1)(n_{1}+1)}$$
+  
