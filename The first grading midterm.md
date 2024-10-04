@@ -85,6 +85,8 @@ Let’s consider the following:
    $$R=\{X\ | \ X\not \in X\}$$
    This means that $R$ contains all sets $x$ such that $x$ is **not a member of itself**.
 2. Now, the paradoxical question is: **Is $R$ a member of itself?**
-   - If $R\in R$, then 
+   - If $R\in R$, then by definition of $R$, it should not contain itself. So, $R\not \in R$.
+   - But if $R \not \in R$, then by the same definition, it must contain itself, meaning $R\in R$.
 
-This creates a **contradiction**: both possibilities lead to a contradiction, meaning R∈RR \in RR∈R and R∉RR \notin RR∈/R are both false and true at the same time, which is logically impossible.
+This creates a **contradiction:** both possibilities lead to a contradiction, meaning $R\in R$ and $R\not \in R$ are both false and true at the same time, which is logically impossible.
+
