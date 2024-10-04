@@ -282,6 +282,11 @@ $$|a_n -2 | = |2+ \frac{(-1)^n M}{\sqrt{n+1}}-2| = |\frac{(-1)^n M}{\sqrt{n+1}}|
 We know that:
 $$\frac{(-1)^n M}{\sqrt{n+1}} = \frac{M}{\sqrt{n+1}} = \frac{34}{\sqrt{n+1}}$$
 As $n\to \infty$, $\frac{34}{\sqrt{n+1}}\to 0$, so for any $\varepsilon>0$, we need to find $m$ such that:
-$$\frac{34}{n+1}<\varepsilon$$
+$$\frac{34}{n+1}< \varepsilon$$
 This is equivalent to:
-$\sqrt$
+$$\sqrt{n+1}> \frac{34}{\varepsilon}$$
+Squaring both sides:
+$$n+1 > \frac{1156}{\varepsilon^{2}}$$
+Thus, we need:
+$$n> \frac{1156}{\varepsilon^{2}} - 1$$
+Let $m = $
