@@ -101,4 +101,12 @@ Let's prove that the **union** and **intersection** of three sets is still a set
 	Since each of the sets $A,B$ and $C$ is a set, their union is   also a set according to the union postulate in Naive Set Theory.
 
 **Intersection:**
-	Similarly, the intersection of three sets $A,B$ and $C$ is the set of elements that belong to all t
+	Similarly, the intersection of three sets $A,B$ and $C$ is the set of elements that belong to all three sets:
+	$$A\cap B \cap C = \{x\ |\ x\in A \wedge x\in B \wedge x \in C\}$$
+	The result is also a set, as intersection preserves the "setness" of the elements involved.
+
+**Cartesian Product of two sets is a set:**
+The Cartesian Product of two sets $A$ and $B$ is the set of all ordered pairs $(a,b)$, where $a \in A$ and $b\in B$. We need to show that this Cartesian Product is also a set.
+
+Formally, the Cartesian product is defined as:
+$$A\times B = \{(a,b) \ | \ a\in A,\ b\in B\}$$
