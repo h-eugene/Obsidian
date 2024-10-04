@@ -335,4 +335,15 @@ Thus, by Cauchy's test, the sequence $a_{n}$ converges.
 ## Step 3: Limit Calculation
 
 Now we calculate the limit directly.
-$$$$
+$$a_{n} = n - \frac{34}{n+1}$$
+As $n\to \infty$:
+1. $n$ grows large.
+2. $\frac{34}{n+1}$ approaches $0$.
+
+So, 
+$$\lim_{n \to \infty}a_n = \lim_{n\to \infty} (n - \frac{34}{n+1}) = \lim_{n \to \infty} n - 0 = \infty$$
+---
+## Step 4: Using the Definition of a limit:
+
+The definition of a limit states that a sequence $a_{n}$ converges to a limit $L$ if for every $\varepsilon >0$, there exists an $m\in \mathbb{N}$ such that for all $n>m$:
+$|a_{n}- L| <$
