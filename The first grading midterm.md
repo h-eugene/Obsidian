@@ -312,4 +312,10 @@ $$\displaylines{|a_{n_{1}} - a_{n_{2}}| = |(n_{1}- \frac{34}{n_{1}+1})-( n_{2} -
 We can rewrite the second term:
 $$\displaylines{\frac{34}{n_{2}+1}- \frac{34}{n_{1}+1} = 34(\frac{n_{1}+1-n_{2}-1}{(n_{2}+1)(n_{1}+1)})=\\34(\frac{n_{1}-n_{2}}{(n_{2}+1)(n_{1}+1)})}$$
 Combining the two parts:
-$$|a_{n_{1}}-a_{n_{2}} = |n_{1}-n_{2}| + 34|\frac{n_{1}-n_{2}}{(n_{2}+1)(n_{1}+1)}| = |n_{1}-n_{2}|(1+ \frac{34}{(n_{2}+1)(n_{1}+1)})$$
+$$\displaylines{|a_{n_{1}}-a_{n_{2}} |= |n_{1}-n_{2}| + 34|\frac{n_{1}-n_{2}}{(n_{2}+1)(n_{1}+1)}| =\\ |n_{1}-n_{2}|(1+ \frac{34}{(n_{2}+1)(n_{1}+1)})}$$
+---
+## Step 2: Show Convergence
+
+To satisfy Cauchy's test, we want $|a_{n_1}-a_{n_{2}}<\varepsilon$ for $n_{1},n_{2}>m$.
+
+1. First term $|n_{1}-$
