@@ -195,5 +195,12 @@ So, we are looking for the largest $m\in \mathbb{N}$ such that $m\leq 58$ and $\
 ---
 ## Step 2: Identify Perfect Squares Less Than or Equal to $58$:
 
-To determine which numbers have irrational square root, we first  
+To determine which numbers have irrational square root, we first list the perfect squares less than or equal to $58$. The perfect squares are:
+$$1^2 = 1,\ 2^2 = 4,\ 3^2 = 9,\ 4^2 = 16,\ 5^2 = 25,\ 6^2 = 36, \ 7^2 = 49$$
+These numbers have rational square roots because the square root of a perfect square is always a natural number.
 
+---
+## Step 3: Find the Largest Non-Perfect Square $m\leq 58$
+
+Now, we search for the largest $m$ such that $\sqrt{m}$ is irrational. Irrational square roots occur whem $m$ is not a perfect square. The perfect squares less than or equal to $58$ are:
+$$1,\ 4,\ 9,\ 16,\ 25,\ 36,\ $$
