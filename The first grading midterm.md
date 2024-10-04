@@ -61,7 +61,12 @@ Now, about the **theory of limits** — this is something that's definitely usef
 **Naïve set theory** is a simple, intuitive way to think about sets — collections of objects, like numbers or other elements. It doesn’t involve the more complex and abstract formalizations you’ll find in advanced set theory, making it easier for beginners to grasp. In mathematical analysis, **sets** are fundamental because they help define almost everything: functions, sequences, numbers, and more. By understanding how sets work, you can better understand more advanced topics like limits, continuity, and convergence.
 
 ---
-
 #### 2-3 Postulates of Naive Set Theory:
 
-1) Existence of Set
+1) **Existence of Sets:**
+   - Any collection of distinct objects can form a set. For example, the set of natural numbers $\{1,2,3,4,...\}$ is a collection of numbers.
+2) **Extensionality:**
+   - Two sets are equal iff they have the same elements. For example, $\{1,2,3\}$ is the same as $\{3,2,1\}$ because they contain the same elements.
+3) **Union and Intersection:**
+   - The **union** of two or more sets is a set that contains all elements from those sets.
+   - The **intersection** of two or more sets is a set that contains only the elements that are in all of the sets.
