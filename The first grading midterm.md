@@ -301,7 +301,8 @@ converges to $2$.
 ---
 # 8) Does $\displaystyle(n- \frac{M}{n+1})_{n\in \mathbb{N}}$ has a real limit? – Prove your answer using Cauchy's test. Does the sequence have a limit? – Prove your answer using the appropriate definition.
 ---
-## Step 1: Cauchy's Test
+## Proof via Cauchy's Test:
+### Step 1: Cauchy's Test
 
 Cauchy's test states that a sequence $(a_{n})$ converges if, for every $\varepsilon>0$, there exists an $m \in \mathbb{N}$ such that for all $n_{1},n_{2}>m$:
 $$|a_{n_1}-a_{n_2}|<\varepsilon$$
@@ -314,7 +315,7 @@ $$\displaylines{\frac{34}{n_{2}+1}- \frac{34}{n_{1}+1} = 34(\frac{n_{1}+1-n_{2}-
 Combining the two parts:
 $$\displaylines{|a_{n_{1}}-a_{n_{2}} |= |n_{1}-n_{2}| + 34|\frac{n_{1}-n_{2}}{(n_{2}+1)(n_{1}+1)}| =\\ |n_{1}-n_{2}|(1+ \frac{34}{(n_{2}+1)(n_{1}+1)})}$$
 ---
-## Step 2: Show Convergence
+### Step 2: Show Convergence
 
 To satisfy Cauchy's test, we want $|a_{n_1}-a_{n_{2}}|<\varepsilon$ for $n_{1},n_{2}>m$.
 
@@ -332,4 +333,8 @@ Since both terms can be made small, we conclude that for sufficiently large $n_{
 Thus, by Cauchy's test, the sequence $a_{n}$ converges.
 
 ---
+## Proof via appropriate definition
 
+### Step 1: Definition of Divergence to Infinity
+
+According to the definition, a sequence $a_{n} =n - \frac{M}{n+1}$ diverges 
