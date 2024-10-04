@@ -215,4 +215,12 @@ To prove that $\sqrt{58}$ us irrational, we use a common method: the **contradic
 
 1. Assume that $\sqrt{58}$ is rational. By definition, this means we can write:
    $$\sqrt{58} = \frac{p}{q}$$
-   where $p$ and $q$ are coprime integers 
+   where $p$ and $q$ are coprime integers (i.e., their greatest common divisor is 1), and $q\neq 0$.
+   ---
+2. Squaring both sides gives:
+   $$58 = \frac{p^2}{q^2}$$
+   Multiplying both sides by $q^{2}$ gives:
+   $$58q^2 =p^2 $$
+   This equation states that $p^{2}$ is divisible by $58$. Therefore, $p$ must also be divisible by $58$ (because if a prime number divides $p^{2}$, it must divide $p$).
+   ---
+3. Let $p = 58k$ for some integer $k$. Substituting this 
