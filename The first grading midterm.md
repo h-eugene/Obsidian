@@ -129,3 +129,4 @@ Naive set theory provides a simple framework to understand collections of object
 
 ---
 
+### 4) Construct the set representation for natural numbers $0,1,2,3$ and prove by construction that these representations are sets indeed. What is cardinality of $S$? What is cardinality of $2^S$?
