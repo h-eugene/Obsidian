@@ -167,6 +167,11 @@ This means that $34$ is a set containing two elements: the set representation of
 ---
 ## Cardinality of $S$
 
-The cardinality of a set is the number of elements it contains. Since every number $n$ in this construction has exactly two elements – its predecessor[^{1] and the set containing}
+The cardinality of a set is the number of elements it contains. Since every number $n$ in this construction has exactly two elements – its predecessor (previous element) and the set containing its predecessir – the cardinality of $S$, where $S = 34$, is $2$.
 
-[^1]: Previous element.
+---
+## Cardinality of $2^S$ (Power Set of $S$)
+
+The power set $2^{S}$ is the set of all subset of $S$. If a set has $n$ elements, its power set contains $2^{S}$ subsets.
+
+Since $S = 34$ has $2$ elements, the p
