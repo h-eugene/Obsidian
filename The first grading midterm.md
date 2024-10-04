@@ -53,4 +53,4 @@ Now, about the **theory of limits** — this is something that's definitely usef
 - **Studying second-order theory** is only useful if you're planning to get into really complex fields like program correctness proofs or advanced mathematical modeling.
 - **Studying limits** is important for everyone because it applies to a lot of IT fields, especially in tasks involving calculations and analyzing algorithms.
 ### 3) What is naïve set theory and why we need to learn it in Mathematical Analysis? Could you please present 2-3 its postulates and explain? Is any collection a set (according to the naïve set theory)? Prove that union and intersection of any three sets is a set again. Can you prove that Cartesian product of any two sets is a set too? – If you cannot, then try to prove that Cartesian product of any two finite sets is a set.
-4)
+---
