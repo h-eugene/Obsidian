@@ -244,7 +244,7 @@ The largest number $m \leq 58$ such that $\sqrt{m}$ is irrational is $58$.
 I didn't get this question.
 
 ---
-# 7) Does $\displaystyle (2+ \frac{(-1)^{n}M}{\sqrt{n+1}})_{n\in \mathbb{N}}$ has a limit? Prove your answer using the definition of the sequence' limit.
+# 7) Does $\displaystyle (2+ \frac{(-1)^{n}M}{\sqrt{n+1}})_{n\in \mathbb{N}}$ has a limit? Prove your answer using the definition of the sequence's limit.
 ---
 ## Step 1: Analyze the General Behavior of the Sequence 
 
@@ -267,4 +267,10 @@ Now, using the above analysis, we can conclude the following:
 - As $n\to \infty$, the term $\frac{(-1)^{n}M}{\sqrt{n+1}}$ approaches $0$.
 - The constant $2$ remains unaffected by $n$.
 
-Thus, the sequence behaves like $2+0 = 2$ as $n \to \infty$
+Thus, the sequence behaves like $2+0 = 2$ as $n \to \infty$.
+
+---
+## Step 3: Prove using the definition of a sequence's limit
+
+The definition of the limit of a sequence says that a sequence $a_{n}$ converges to a limit $L$ if, for every $\varepsilon>0$, there exists an $m\in \mathbb{N}$ such that for all $n \geq m$, we have:
+$$|a_n - L| <$$
