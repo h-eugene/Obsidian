@@ -346,4 +346,5 @@ $$\lim_{n \to \infty}a_n = \lim_{n\to \infty} (n - \frac{34}{n+1}) = \lim_{n \to
 ## Step 4: Using the Definition of a limit:
 
 The definition of a limit states that a sequence $a_{n}$ converges to a limit $L$ if for every $\varepsilon >0$, there exists an $m\in \mathbb{N}$ such that for all $n>m$:
-$|a_{n}- L| <$
+$$|a_{n}- L| < \varepsilon$$
+In out case, we conclude that $a_{n}$ diverges to $\infty$. For any $L\in \mathbb{R}$ and any finite $\varepsilon>0$
