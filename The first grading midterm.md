@@ -157,6 +157,16 @@ By **induction**:
 
 Thus, each natural number $n$ constructed in this way is indeed a set.
 
+---
 ## Set-Theoretical Representation of $M$
 
-In my case, $M$ is equal to $24 + 10 =34$.
+In my case, $M$ is equal to $24 + 10 =34$. So, according to the given method, $M=34$ is built recursively from $33$ down to $0$.
+$$34 = \{33,\{33\}\}$$
+This means that $34$ is a set containing two elements: the set representation of $33$, and the set that contains $33$.
+
+---
+## Cardinality of $S$
+
+The cardinality of a set is the number of elements it contains. Since every number $n$ in this construction has exactly two elements – its predecessor[^{1] and the set containing}
+
+[^1]: Previous element.
