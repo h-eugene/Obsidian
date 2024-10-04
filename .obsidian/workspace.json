@@ -26,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "The first grading midterm.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics of naive Set Theory..md",
+                "file": "The first grading midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basics of naive Set Theory..md",
+                "file": "The first grading midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -145,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Basics of naive Set Theory..md",
+                "file": "The first grading midterm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basics of naive Set Theory..md"
+                "file": "The first grading midterm.md"
               }
             }
           }
@@ -211,14 +213,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "782a3d4bc4034719",
+  "active": "15d5cae1904b9a1f",
   "lastOpenFiles": [
+    "Basics of naive Set Theory..md",
     "Mathematical Analysis I.md",
     "The first grading midterm.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Basics of naive Set Theory..md",
     "Introduction.md",
     "Number Systems. Axiomatic approaches..md",
     "Theory of limits and continuity.md",
