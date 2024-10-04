@@ -190,5 +190,10 @@ We can represented natural numbers as sets with exactly two elements, providing 
 
 Given that $M=34$, we calculate:
 $$M+24 = 34 + 24 = 58$$
-So, we are looking for the largest $m\in \mathbb{N}$ such that $m\leq 58$ and $\sqrt{m}$ 
+So, we are looking for the largest $m\in \mathbb{N}$ such that $m\leq 58$ and $\sqrt{m}$ is irrational.
+
+---
+## Step 2: Identify Perfect Squares Less Than or Equal to $58$:
+
+To determine which numbers have irrational square root, we first  
 
