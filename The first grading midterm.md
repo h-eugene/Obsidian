@@ -278,4 +278,10 @@ We claim that the sequence $a_{n}$ converges to $2$, so we will use $L = 2$.
 
 We need to show that for every $\varepsilon>0$, there exists an $m$ such that for all $n \geq m$, the difference berween $a_{n}$ and $2$ is 
 less than $\varepsilon$:
-$$|a_n -2 | = |2+ \frac{(-1)^n M}{}$$
+$$|a_n -2 | = |2+ \frac{(-1)^n M}{\sqrt{n+1}}-2| = |\frac{(-1)^n M}{\sqrt{n+1}}|$$
+We know that:
+$$\frac{(-1)^n M}{\sqrt{n+1}} = \frac{M}{\sqrt{n+1}} = \frac{34}{\sqrt{n+1}}$$
+As $n\to \infty$, $\frac{34}{\sqrt{n+1}}\to 0$, so for any $\varepsilon>0$, we need to find $m$ such that:
+$$\frac{34}{n+1}<\varepsilon$$
+This is equivalent to:
+$\sqrt$
