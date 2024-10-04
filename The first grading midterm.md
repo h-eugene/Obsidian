@@ -117,3 +117,11 @@ Since both $A$ and $B$ are sets, and each pair $(a,b)$ is defined by elements of
 
 If $A$ and $B$ are finite sets, their Cartesian product is even easier to prove as a set because there is a finite number of ordered pairs, and a finite collection of things can always be considered a set in Naive Set Theory.
 
+For example, if $A = \{1,2\}$ and $B=\{a,b\}$, the Cartesian product is:
+$$A\times B = \{(1,a),(1,b),(2,a),(2,b)\}$$
+This is clearly a finite set with four elements, which is always a set in naive set theory.
+
+---
+
+
+
