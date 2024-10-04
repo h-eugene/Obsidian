@@ -231,4 +231,13 @@ To prove that $\sqrt{58}$ us irrational, we use a common method: the **contradic
    ---
 4. But if both $p$ and $q$ are divisible by $58$, this contradicts out assumption that $p$ and $q$ are copime (i.e., their greatest common divisor is $1$).
 
-Thus, our original assumption that $\sqrt{58}$ is rational must be false
+Thus, our original assumption that $\sqrt{58}$ is rational must be false. Therefore, $\sqrt{58}$ is irrational.
+
+---
+## Final Answer:
+
+The largest number $m \leq 58$ such that $\sqrt{m}$ is irrational is $58$.
+
+---
+# 6) Using Tarski axiomatization for reals, find the first 5 digits in binary representation of a rational number corresponding to ratio $\displaystyle \frac{M}{46}$. (Explain your answer!)
+---
