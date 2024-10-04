@@ -90,3 +90,10 @@ Let’s consider the following:
 
 This creates a **contradiction:** both possibilities lead to a contradiction, meaning $R\in R$ and $R\not \in R$ are both false and true at the same time, which is logically impossible.
 
+---
+#### Proof: Union and Intersection of Three Sets is a Set
+
+Let's prove that the **union** and **intersection** of three sets is still a set.
+
+**Union:**
+	Given three sets $A,$
