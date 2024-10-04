@@ -246,4 +246,15 @@ I didn't get this question.
 ---
 # 7) Does $\displaystyle (2+ \frac{(-1)^{n}M}{\sqrt{n+1}})_{n\in \mathbb{N}}$ has a limit? Prove your answer using the definition of the sequence' limit.
 ---
-## Step 1
+## Step 1: Analyze the General Behavior of the Sequence 
+
+The sequence has two main parts:
+
+1. The constant $2$.
+2. The term $\frac{(-1)^{n}M}{\sqrt{n+1}}$
+
+Let's break down the second term $\frac{(-1)^{n}M}{\sqrt{n+1}}$:
+- $(-1)^{n}$ alternates between $1$ and $-1$, depending on whether $n$ is even or odd.
+- $\frac{M}{\sqrt{n+1}}$ is a fraction where the numerator is the constant $M=34$ and the denominator $\sqrt{n+1}$ grows larger as $n$ increases.
+
+As $n\to \infty$, $\sqrt{n+1}\to \infty$, so $\frac{M}{\sqrt{n+1}}\to 0$. This means that the magnitude of the term $\frac{(-1)^{n}M}{\sqrt{n+1}} $ 
