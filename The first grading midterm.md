@@ -105,8 +105,15 @@ Let's prove that the **union** and **intersection** of three sets is still a set
 	$$A\cap B \cap C = \{x\ |\ x\in A \wedge x\in B \wedge x \in C\}$$
 	The result is also a set, as intersection preserves the "setness" of the elements involved.
 
-**Cartesian Product of two sets is a set:**
+#### Cartesian Product of two sets is a set:
+
 The Cartesian Product of two sets $A$ and $B$ is the set of all ordered pairs $(a,b)$, where $a \in A$ and $b\in B$. We need to show that this Cartesian Product is also a set.
 
 Formally, the Cartesian product is defined as:
 $$A\times B = \{(a,b) \ | \ a\in A,\ b\in B\}$$
+Since both $A$ and $B$ are sets, and each pair $(a,b)$ is defined by elements of $A$ and $B$, the Cartesian product is a well-defined collection of these pairs, and according to naive set theory, it is also a set.
+
+#### Cartesian Product of Finite Sets
+
+If $A$ and $B$ 
+
