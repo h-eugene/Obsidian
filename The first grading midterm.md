@@ -129,7 +129,7 @@ Naive set theory provides a simple framework to understand collections of object
 
 ---
 
-# 4) Construct the set representation for natural numbers $0,1,2,3$ and prove by construction that these representations are sets indeed. What is cardinality of $S$? What is cardinality of $2^S$?
+# 4) Construct the set representation for natural numbers $0,1,2,3$ and prove by construction that these representations are sets indeed. Prove that set-theoretic repre What is cardinality of $S$? What is cardinality of $2^S$?
 ---
 ## Set-Theoretic Representation of Natural Numbers
 
@@ -148,4 +148,12 @@ Let's construct the first few natural numbers using this method:
    $$3 = \{2,\{2\}\} = \{\{1,\{1\}\},\{\{1,\{1\}\}\}\}$$
 ### Prove These Representations Are Sets:
 
-According to naive set theory, any collection of sets is itlesf 
+According to naive set theory, any collection of sets is itself a set. We know that the empty set $\emptyset$ is a valid set. Since each subsequent number is built from previously defined sets, each natural number is indeed a set.
+
+By **induction**:
+- Base case: $0=\emptyset$ is a set by definition.
+- Inductive step: If $n-1$ is a set, then $n=\{n-1,\{n-1\}\}$ is also a set, because it's the union of two sets (the previous number and a set containing the previous number).
+
+Thus, each natural number $n$ constructed in this way is indeed a set.
+
+## 
