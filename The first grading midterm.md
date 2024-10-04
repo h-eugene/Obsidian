@@ -301,4 +301,9 @@ converges to $2$.
 ---
 # 8) Does $\displaystyle(n- \frac{M}{n+1})_{n\in \mathbb{N}}$ has a real limit? – Prove your answer using Cauchy's test. Does the sequence have a limit? – Prove your answer using the appropriate definition.
 ---
-Step 1: Cauchy
+## Step 1: Cauchy's Test
+
+Cauchy's test states that a sequence $(a_{n})$ converges if, for every $\varepsilon>0$, there exists an $m \in \mathbb{N}$ such that for all $n_{1},n_{2}>m$:
+$$|a_{n_1}-a_{n_2}|<\varepsilon$$
+Let's calculate $|a_{n_1}-a_{n_2}|$:
+$\a_{n_{1}}=n_{1} - \frac{34}{n+1} \text{and} a$ 
