@@ -24,7 +24,7 @@ In short, algebra helps solve equations, whereas analysis helps understand how t
     - This is first-order because it quantifies over individual real numbers.
 2. **Second-order Statement**:
     
-    - "Every non-empty set of real numbers that is bounded above has a least upper bound."
+    - $\forall A\subseteq \mathbb{R},\ (\emptyset \neq A \wedge \exists M\in \mathbb{R},\ \forall a\in A,\ (a\leq M)) \Rightarrow$$\exists \sup A\in \mathbb{R},\ \forall u\in A,\ (u\leq \sup A)$
     - This is a second-order statement since it talks about properties of sets of real numbers, not just individual elements.
 3. **Third-order Statement** (optional):
     
