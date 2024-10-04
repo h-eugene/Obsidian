@@ -174,4 +174,11 @@ The cardinality of a set is the number of elements it contains. Since every numb
 
 The power set $2^{S}$ is the set of all subset of $S$. If a set has $n$ elements, its power set contains $2^{S}$ subsets.
 
-Since $S = 34$ has $2$ elements, the p
+Since $S = 34$ has $2$ elements, the power set $2^S$ has:
+$$|2^S | = 2^2 = 4$$
+Thus, the cardinality of $2^S$ is $4$.
+
+---
+## Conclusion:
+
+Using this alternative 
