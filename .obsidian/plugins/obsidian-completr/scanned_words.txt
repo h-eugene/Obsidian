@@ -14436,6 +14436,7 @@ Triple
 Thus
 Techniques
 Theorems
+Tests
 nomemm
 need
 necessary
@@ -56430,6 +56431,7 @@ gate
 give
 generalization
 greatest
+grading
 Umnov
 Uniqueness
 Uf
@@ -100196,6 +100198,7 @@ Extension
 Each
 English
 Extended
+Exams
 OPTIONS
 Operations
 Obtain
@@ -106636,6 +106639,7 @@ meets
 minors
 minor
 multiplying
+midterm
 You
 YC
 YR
