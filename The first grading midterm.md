@@ -75,7 +75,7 @@ Now, about the **theory of limits** — this is something that's definitely usef
 
 In **naïve set theory**, we typically assume that any collection of objects can be considered a set. However, this assumption leads to certain paradoxes, like Russell's Paradox, where a set can end up "containing itself."
 
-##### The Rassel's Paradox:
+##### The Rassell's Paradox:
 
 In naïve set theory, we assume that **any collection of objects can be a set**. Russell’s paradox arises when we try to define a set in a way that leads to a contradiction.
 
