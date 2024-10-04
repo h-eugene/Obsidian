@@ -98,4 +98,7 @@ Let's prove that the **union** and **intersection** of three sets is still a set
 **Union:**
 	Given three sets $A,B$ and $C$, the union is the set of elements that belongs to at least one of the sets:
 	$$A\cup B\cup C = \{x\ | \ x\in A \vee x\in B\vee x\in C\}$$
-	Since each of the sets $A,B$ and $C$ is a set, their union is also a set according to the union postulate in Naive Set Theory.
+	Since each of the sets $A,B$ and $C$ is a set, their union is   also a set according to the union postulate in Naive Set Theory.
+
+**Intersection:**
+	Similarly, the intersection of three sets $A,B$ and $C$ is the set of elements that belong to all t
