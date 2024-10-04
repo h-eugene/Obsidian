@@ -181,4 +181,7 @@ Thus, the cardinality of $2^S$ is $4$.
 ---
 ## Conclusion:
 
-Using this alternative 
+We can represented natural numbers as sets with exactly two elements, providing that these representations are indeed sets. The set $S =34$ has a cardinality of $2$, and its power set $2^{S}$ has a cardinality of $4$.
+
+---
+# Find the largest number $m\in \mathbb{N}$ that is not greater than $(M+24)$ such that $\sqrt{m}$ is irrational (and prove the irrationality).
