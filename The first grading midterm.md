@@ -289,4 +289,4 @@ Squaring both sides:
 $$n+1 > \frac{1156}{\varepsilon^{2}}$$
 Thus, we need:
 $$n> \frac{1156}{\varepsilon^{2}} - 1$$
-Let $m = $
+Let $m = \lceil \frac{1156}{\varepsilon^{2}}\rceil-1$.
