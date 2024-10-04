@@ -29,5 +29,5 @@ In short, algebra helps solve equations, whereas analysis helps understand how t
 3. **Third-order Statement** (optional):
     
     - Third-order logic would involve quantifying over sets of sets or similar more complex constructions, but in mathematical analysis, such constructs are rarely used directly. An example could be:
-    - $\exists A, A\subseteq \math$
+    - $\exists A,\ A\subseteq \mathcal{P},\ \exists S \in A,\ (\exists a \in S,\ \exists n \in \mathbb{N},\ (a>n))$
     - Such statements are more abstract and less common, but they push the idea of quantification even further.
