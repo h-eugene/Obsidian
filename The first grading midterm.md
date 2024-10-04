@@ -31,5 +31,7 @@ In short, algebra helps solve equations, whereas analysis helps understand how t
     - Third-order logic would involve quantifying over sets of sets or similar more complex constructions, but in mathematical analysis, such constructs are rarely used directly. An example could be:
     - $\exists A,\ A\subseteq \mathcal{P},\ \exists S \in A,\ (\exists a \in S,\ \exists n \in \mathbb{N},\ (a>n))$
     - Such statements are more abstract and less common, but they push the idea of quantification even further.
+
+### 2) Write your own opinion why you as a student of IT-University should/shouldn’t learn/study the second order theory of real numbers? What do you think about a need of theory of limits in IT, Software Engineering, Computer Science, Robotics, and/or Data Science? – Proof a need by example(s) but refute a need with a comprehensive proof.
 ---
-2) 
+
