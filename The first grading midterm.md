@@ -20,7 +20,7 @@ In short, algebra helps solve equations, whereas analysis helps understand how t
 
 1. **First-order Statement**:
     
-    - "For every real number `x`, there exists a real number `y` such that `y > x`."
+    - $\forall x\in \mathbb{R},\ \exists y\in \mathbb{R}: y>x$
     - This is first-order because it quantifies over individual real numbers.
 2. **Second-order Statement**:
     
