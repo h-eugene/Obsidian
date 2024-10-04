@@ -320,7 +320,7 @@ $$\displaylines{|a_{n_{1}}-a_{n_{2}} |= |n_{1}-n_{2}| + 34|\frac{n_{1}-n_{2}}{(n
 To satisfy Cauchy's test, we want $|a_{n_1}-a_{n_{2}}|<\varepsilon$ for $n_{1},n_{2}>m$.
 
 1. First term $|n_{1}-n_{2}|$: As $n_{1}$ and $n_{2}$ grow large, the difference $|n_{1}-n_{2}|$ can be made small if we restrict $n_{1}$ and $n_{2}$ to be close together, i.e., let $n_{2} = n_{1} + k$ for some small integer $k$.
-2. Second term: As $n_{1}$ and $n_{2}$ increase, $(n_{2}+1)(n_{1}+1)$ also increases, which means $\frac{34}{(n_{2}+1)(n_{1}+1)}$ approaches $0$. Thus, for sufficiently large $m$, we can make term $34|\frac{34}{(n_{2}+1)(n_{1}+1)}|$ small as well.
+2. Second term: As $n_{1}$ and $n_{2}$ increase, $(n_{2}+1)(n_{1}+1)$ also increases, which means $\frac{34}{(n_{2}+1)(n_{1}+1)}$ approaches $0$. Thus, for sufficiently large $m$, we can make term $34|\frac{n_{1}-n_{2}}{(n_{2}+1)(n_{1}+1)}|$ small as well.
 
 To formalize this:
 
