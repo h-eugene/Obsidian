@@ -306,4 +306,6 @@ converges to $2$.
 Cauchy's test states that a sequence $(a_{n})$ converges if, for every $\varepsilon>0$, there exists an $m \in \mathbb{N}$ such that for all $n_{1},n_{2}>m$:
 $$|a_{n_1}-a_{n_2}|<\varepsilon$$
 Let's calculate $|a_{n_1}-a_{n_2}|$:
-$\a_{n_{1}}=n_{1} - \frac{34}{n+1} \text{and} a$ 
+$$a_{n_{1}}=n_{1} - \frac{34}{n_{1}+1} \text{ and } a_{n_{2}}= n_{2}- \frac{34}{n_{2}+1}$$
+Thus, 
+$$\displaylines{|a_{n_{1}} - a_{n_{2}}| = |(n_{1}- \frac{34}{n_{1}+1})-( n_{2} - \frac{34}{n_{2}+1})| = \\|(n_{1}-n_{2}) + (\frac{34}{n_{2}+1}- \frac{34}{n_{1}+1})|}$$
