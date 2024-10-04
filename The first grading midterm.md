@@ -34,4 +34,23 @@ In short, algebra helps solve equations, whereas analysis helps understand how t
 
 ### 2) Write your own opinion why you as a student of IT-University should/shouldn’t learn/study the second order theory of real numbers? What do you think about a need of theory of limits in IT, Software Engineering, Computer Science, Robotics, and/or Data Science? – Proof a need by example(s) but refute a need with a comprehensive proof.
 ---
+Studying the **second-order theory of real numbers** might seem very complicated and distant from what you usually do in IT, especially in your first year. For most programming or IT tasks, you probably won't need to understand this theory. It's more about **really advanced math** or situations where you need to **prove that a program is 100% correct**, which is not something you often do in regular programming.
 
+However, if you're interested in areas like **robotics** or **machine learning**, where precise calculations and system control are important, these concepts can be useful. In those fields, understanding more abstract ideas helps to figure out how and why certain systems work mathematically.
+
+---
+
+Now, about the **theory of limits** — this is something that's definitely useful in many areas of IT:
+
+1. In **programming** and **algorithms**, you often need to understand how a program behaves when it processes more and more data. Limits help you figure out how fast the program will run as it scales up.
+
+2. In **machine learning**, limits help you understand how algorithms learn from data — they show when the learning process "finishes" and you get the best possible result.
+
+3. In **robotics**, limits are used to calculate how robots move and make sure their movements are stable.
+---
+**My conclusion:**
+
+- **Studying second-order theory** is only useful if you're planning to get into really complex fields like program correctness proofs or advanced mathematical modeling.
+- **Studying limits** is important for everyone because it applies to a lot of IT fields, especially in tasks involving calculations and analyzing algorithms.
+### 3) What is naïve set theory and why we need to learn it in Mathematical Analysis? Could you please present 2-3 its postulates and explain? Is any collection a set (according to the naïve set theory)? Prove that union and intersection of any three sets is a set again. Can you prove that Cartesian product of any two sets is a set too? – If you cannot, then try to prove that Cartesian product of any two finite sets is a set.
+4)
