@@ -257,4 +257,14 @@ Let's break down the second term $\frac{(-1)^{n}M}{\sqrt{n+1}}$:
 - $(-1)^{n}$ alternates between $1$ and $-1$, depending on whether $n$ is even or odd.
 - $\frac{M}{\sqrt{n+1}}$ is a fraction where the numerator is the constant $M=34$ and the denominator $\sqrt{n+1}$ grows larger as $n$ increases.
 
-As $n\to \infty$, $\sqrt{n+1}\to \infty$, so $\frac{M}{\sqrt{n+1}}\to 0$. This means that the magnitude of the term $\frac{(-1)^{n}M}{\sqrt{n+1}} $ 
+As $n\to \infty$, $\sqrt{n+1}\to \infty$, so $\frac{M}{\sqrt{n+1}}\to 0$. This means that the magnitude of the term $\frac{(-1)^{n}M}{\sqrt{n+1}}$ gets smaller and smaller as $n$ increases, approaching $0$, but the sign alternates.
+
+---
+## Step 2: Determine the Limit
+
+Now, using the above analysis, we can conclude the following:
+
+- As $n\to \infty$, the term $\frac{(-1)^{n}M}{\sqrt{n+1}}$ approaches $0$.
+- The constant $2$ remains unaffected by $n$.
+
+Thus, the sequence behaves like $2+0 = 2$ as $n \to \infty$
