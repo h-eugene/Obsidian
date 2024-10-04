@@ -203,4 +203,16 @@ These numbers have rational square roots because the square root of a perfect sq
 ## Step 3: Find the Largest Non-Perfect Square $m\leq 58$
 
 Now, we search for the largest $m$ such that $\sqrt{m}$ is irrational. Irrational square roots occur whem $m$ is not a perfect square. The perfect squares less than or equal to $58$ are:
-$$1,\ 4,\ 9,\ 16,\ 25,\ 36,\ $$
+$$1,\ 4,\ 9,\ 16,\ 25,\ 36,\ 49$$
+The largest number less than or equal to 58 that is not a perfect square is:
+$$m = 58$$
+---
+## Step 4: Prove the Irrationality of $\sqrt{58}$
+
+To prove that $\sqrt{58}$ us irrational, we use a common method: the **contradiction approach**.
+
+### Proof by Contradiction:
+
+1. Assume that $\sqrt{58}$ is rational. By definition, this means we can write:
+   $$\sqrt{58} = \frac{p}{q}$$
+   where $p$ and $q$ are coprime integers 
