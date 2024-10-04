@@ -289,4 +289,13 @@ Squaring both sides:
 $$n+1 > \frac{1156}{\varepsilon^{2}}$$
 Thus, we need:
 $$n> \frac{1156}{\varepsilon^{2}} - 1$$
-Let $m = \lceil \frac{1156}{\varepsilon^{2}}\rceil-1$.
+Let $m = \lceil \frac{1156}{\varepsilon^{2}}\rceil-1\ (\lceil\rceil$ – ceiling$)$. Then, for all $n \geq m$, we have:
+$$|a_{n}-2| < \varepsilon$$
+---
+## Conclusion
+
+By the definition of the limit of a sequence, we have shown that $\displaystyle \lim_{n\to \infty}a_{n}=2$. Therefore, the sequence
+$$a_{n} = 2 + \frac{(-1)^{n}M}{\sqrt{n+1}}$$
+converges to $2$.
+
+---
