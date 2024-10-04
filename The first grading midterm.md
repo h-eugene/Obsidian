@@ -32,6 +32,7 @@ In short, algebra helps solve equations, whereas analysis helps understand how t
     - $\exists A,\ A\subseteq \mathcal{P},\ \exists S \in A,\ (\exists a \in S,\ \exists n \in \mathbb{N},\ (a>n))$
     - Such statements are more abstract and less common, but they push the idea of quantification even further.
 
+---
 ### 2) Write your own opinion why you as a student of IT-University should/shouldn’t learn/study the second order theory of real numbers? What do you think about a need of theory of limits in IT, Software Engineering, Computer Science, Robotics, and/or Data Science? – Proof a need by example(s) but refute a need with a comprehensive proof.
 ---
 Studying the **second-order theory of real numbers** might seem very complicated and distant from what you usually do in IT, especially in your first year. For most programming or IT tasks, you probably won't need to understand this theory. It's more about **really advanced math** or situations where you need to **prove that a program is 100% correct**, which is not something you often do in regular programming.
@@ -52,5 +53,15 @@ Now, about the **theory of limits** — this is something that's definitely usef
 
 - **Studying second-order theory** is only useful if you're planning to get into really complex fields like program correctness proofs or advanced mathematical modeling.
 - **Studying limits** is important for everyone because it applies to a lot of IT fields, especially in tasks involving calculations and analyzing algorithms.
+---
 ### 3) What is naïve set theory and why we need to learn it in Mathematical Analysis? Could you please present 2-3 its postulates and explain? Is any collection a set (according to the naïve set theory)? Prove that union and intersection of any three sets is a set again. Can you prove that Cartesian product of any two sets is a set too? – If you cannot, then try to prove that Cartesian product of any two finite sets is a set.
 ---
+#### What is Naive Set Theory and Why do we need to learn it in Mathematical Analysis?
+
+**Naïve set theory** is a simple, intuitive way to think about sets — collections of objects, like numbers or other elements. It doesn’t involve the more complex and abstract formalizations you’ll find in advanced set theory, making it easier for beginners to grasp. In mathematical analysis, **sets** are fundamental because they help define almost everything: functions, sequences, numbers, and more. By understanding how sets work, you can better understand more advanced topics like limits, continuity, and convergence.
+
+---
+
+#### 2-3 Postulates of Naive Set Theory:
+
+1) Existence of Set
