@@ -273,4 +273,9 @@ Thus, the sequence behaves like $2+0 = 2$ as $n \to \infty$.
 ## Step 3: Prove using the definition of a sequence's limit
 
 The definition of the limit of a sequence says that a sequence $a_{n}$ converges to a limit $L$ if, for every $\varepsilon>0$, there exists an $m\in \mathbb{N}$ such that for all $n \geq m$, we have:
-$$|a_n - L| <$$
+$$|a_n - L| < \varepsilon$$
+We claim that the sequence $a_{n}$ converges to $2$, so we will use $L = 2$.
+
+We need to show that for every $\varepsilon>0$, there exists an $m$ such that for all $n \geq m$, the difference berween $a_{n}$ and $2$ is 
+less than $\varepsilon$:
+$$|a_n -2 | = |2+ \frac{(-1)^n M}{}$$
