@@ -75,20 +75,16 @@ Now, about the **theory of limits** — this is something that's definitely usef
 
 In **naïve set theory**, we typically assume that any collection of objects can be considered a set. However, this assumption leads to certain paradoxes, like Russell's Paradox, where a set can end up "containing itself."
 
-The Rass
+##### The Rassel's Paradox:
+
 In naïve set theory, we assume that **any collection of objects can be a set**. Russell’s paradox arises when we try to define a set in a way that leads to a contradiction.
 
 Let’s consider the following:
 
 1. Suppose there is a set **R** that contains all sets that **do not contain themselves**. In symbols:
-    
-    R={x∣x∉x}R = \{x \mid x \notin x\}R={x∣x∈/x}
-    
-    This means that RRR contains all sets xxx such that xxx is **not a member of itself**.
-    
-2. Now, the paradoxical question is: **Is RRR a member of itself**?
-    
-    - If R∈RR \in RR∈R, then by definition of RRR, it should **not** contain itself. So, R∉RR \notin RR∈/R.
-    - But if R∉RR \notin RR∈/R, then by the same definition, it **must** contain itself, meaning R∈RR \in RR∈R.
+   $$R=\{X\ | \ X\not \in X\}$$
+   This means that $R$ contains all sets $x$ such that $x$ is **not a member of itself**.
+2. Now, the paradoxical question is: **Is $R$ a member of itself?**
+   - If $R\in R$, then 
 
 This creates a **contradiction**: both possibilities lead to a contradiction, meaning R∈RR \in RR∈R and R∉RR \notin RR∈/R are both false and true at the same time, which is logically impossible.
