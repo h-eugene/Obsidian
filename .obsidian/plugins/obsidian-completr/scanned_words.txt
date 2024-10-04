@@ -45166,6 +45166,7 @@ polynomials
 problems
 part
 processes
+pairs
 Read
 Relations
 RY
@@ -74707,6 +74708,7 @@ vice
 versa
 viewing
 varepsilon
+vee
 for
 file
 form
@@ -106694,6 +106696,7 @@ multiplying
 midterm
 manipulating
 mathematical
+mathcal
 You
 YC
 YR
