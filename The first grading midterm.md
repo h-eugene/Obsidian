@@ -1,6 +1,6 @@
-### 1) What does Mathematical Analysis study? (Compare with high school algebra.) How do you understand terms “first-order theory” and “second-order theory”? Give examples of the first-, second- and (optionally) third-order statements in Mathematical Analysis.
+# 1) What does Mathematical Analysis study? (Compare with high school algebra.) How do you understand terms “first-order theory” and “second-order theory”? Give examples of the first-, second- and (optionally) third-order statements in Mathematical Analysis.
 ---
-#### Mathematical Analysis vs. High School Algebra:
+## Mathematical Analysis vs. High School Algebra:
 
 _Mathematical Analysis_ is a branch of mathematics that deals with limits, derivatives, integrals, sequences, and functions. It focuses on understanding the properties of real and complex numbers, exploring how these numbers behave when undergoing operations such as differentiation or integration. Analysis also includes concepts of continuity, convergence, and infinite series. It's essentially the rigorous framework behind calculus, providing the theoretical foundation to explain why various calculus techniques work.
 
@@ -9,7 +9,7 @@ _High School Algebra_, on the other hand, deals with manipulating algebraic expr
 In short, algebra helps solve equations, whereas analysis helps understand how those solutions behave as part of a broader system, often dealing with infinite processes.
 
 ---
-#### First-order and Second-order Theory:
+## First-order and Second-order Theory:
 
 - A **_first-order theory_** deals with quantifying over elements of a set. In first-order logic, you use quantifiers like "for all" (∀) and "there exists" (∃) to refer to specific elements within a domain. In Mathematical Analysis, first-order theories can be used to describe properties of numbers, sequences, and functions without referring to sets of sets or functions of functions.
 ---
@@ -33,7 +33,7 @@ In short, algebra helps solve equations, whereas analysis helps understand how t
     - Such statements are more abstract and less common, but they push the idea of quantification even further.
 
 ---
-### 2) Write your own opinion why you as a student of IT-University should/shouldn’t learn/study the second order theory of real numbers? What do you think about a need of theory of limits in IT, Software Engineering, Computer Science, Robotics, and/or Data Science? – Proof a need by example(s) but refute a need with a comprehensive proof.
+# 2) Write your own opinion why you as a student of IT-University should/shouldn’t learn/study the second order theory of real numbers? What do you think about a need of theory of limits in IT, Software Engineering, Computer Science, Robotics, and/or Data Science? – Proof a need by example(s) but refute a need with a comprehensive proof.
 ---
 Studying the **second-order theory of real numbers** might seem very complicated and distant from what you usually do in IT, especially in your first year. For most programming or IT tasks, you probably won't need to understand this theory. It's more about **really advanced math** or situations where you need to **prove that a program is 100% correct**, which is not something you often do in regular programming.
 
@@ -54,14 +54,14 @@ Now, about the **theory of limits** — this is something that's definitely usef
 - **Studying second-order theory** is only useful if you're planning to get into really complex fields like program correctness proofs or advanced mathematical modeling.
 - **Studying limits** is important for everyone because it applies to a lot of IT fields, especially in tasks involving calculations and analyzing algorithms.
 ---
-### 3) What is naïve set theory and why we need to learn it in Mathematical Analysis? Could you please present 2-3 its postulates and explain? Is any collection a set (according to the naïve set theory)? Prove that union and intersection of any three sets is a set again. Can you prove that Cartesian product of any two sets is a set too? – If you cannot, then try to prove that Cartesian product of any two finite sets is a set.
+# 3) What is naïve set theory and why we need to learn it in Mathematical Analysis? Could you please present 2-3 its postulates and explain? Is any collection a set (according to the naïve set theory)? Prove that union and intersection of any three sets is a set again. Can you prove that Cartesian product of any two sets is a set too? – If you cannot, then try to prove that Cartesian product of any two finite sets is a set.
 ---
-#### What is Naive Set Theory and Why do we need to learn it in Mathematical Analysis?
+## What is Naive Set Theory and Why do we need to learn it in Mathematical Analysis?
 
 **Naïve set theory** is a simple, intuitive way to think about sets — collections of objects, like numbers or other elements. It doesn’t involve the more complex and abstract formalizations you’ll find in advanced set theory, making it easier for beginners to grasp. In mathematical analysis, **sets** are fundamental because they help define almost everything: functions, sequences, numbers, and more. By understanding how sets work, you can better understand more advanced topics like limits, continuity, and convergence.
 
 ---
-#### 2-3 Postulates of Naive Set Theory:
+## 2-3 Postulates of Naive Set Theory:
 
 1) **Existence of Sets:**
    - Any collection of distinct objects can form a set. For example, the set of natural numbers $\{1,2,3,4,...\}$ is a collection of numbers.
@@ -71,11 +71,11 @@ Now, about the **theory of limits** — this is something that's definitely usef
    - The **union** of two or more sets is a set that contains all elements from those sets.
    - The **intersection** of two or more sets is a set that contains only the elements that are in all of the sets.
 ---
-#### Is any collection a set in Naive Set Theory?
+## Is any collection a set in Naive Set Theory?
 
 In **naïve set theory**, we typically assume that any collection of objects can be considered a set. However, this assumption leads to certain paradoxes, like Russell's Paradox, where a set can end up "containing itself."
 
-##### The Rassell's Paradox:
+### The Rassell's Paradox:
 
 In naïve set theory, we assume that **any collection of objects can be a set**. Russell’s paradox arises when we try to define a set in a way that leads to a contradiction.
 
@@ -91,7 +91,7 @@ Let’s consider the following:
 This creates a **contradiction:** both possibilities lead to a contradiction, meaning $R\in R$ and $R\not \in R$ are both false and true at the same time, which is logically impossible.
 
 ---
-#### Proof: Union and Intersection of Three Sets is a Set
+## Proof: Union and Intersection of Three Sets is a Set
 
 Let's prove that the **union** and **intersection** of three sets is still a set.
 
@@ -106,7 +106,7 @@ Let's prove that the **union** and **intersection** of three sets is still a set
 	The result is also a set, as intersection preserves the "setness" of the elements involved.
 
 ---
-#### Cartesian Product of two sets is a set:
+## Cartesian Product of two sets is a set:
 
 The Cartesian Product of two sets $A$ and $B$ is the set of all ordered pairs $(a,b)$, where $a \in A$ and $b\in B$. We need to show that this Cartesian Product is also a set.
 
@@ -114,7 +114,7 @@ Formally, the Cartesian product is defined as:
 $$A\times B = \{(a,b) \ | \ a\in A,\ b\in B\}$$
 Since both $A$ and $B$ are sets, and each pair $(a,b)$ is defined by elements of $A$ and $B$, the Cartesian product is a well-defined collection of these pairs, and according to naive set theory, it is also a set.
 
-#### Cartesian Product of Finite Sets
+## Cartesian Product of Finite Sets
 
 If $A$ and $B$ are finite sets, their Cartesian product is even easier to prove as a set because there is a finite number of ordered pairs, and a finite collection of things can always be considered a set in Naive Set Theory.
 
@@ -123,10 +123,18 @@ $$A\times B = \{(1,a),(1,b),(2,a),(2,b)\}$$
 This is clearly a finite set with four elements, which is always a set in naive set theory.
 
 ---
-#### Conclusion:
+## Conclusion:
 
 Naive set theory provides a simple framework to understand collections of objects and how they interact. While it's not free of logical issues (like Russell's Paradox), it's still an essential tool in mathematical analysis. The union, intersection, and Cartesian products of sets are all basic operations that are key to defining more complex mathematical structures in fields like IT, computer science, and robotics.
 
 ---
 
-### 4) Construct the set representation for natural numbers $0,1,2,3$ and prove by construction that these representations are sets indeed. What is cardinality of $S$? What is cardinality of $2^S$?
+# 4) Construct the set representation for natural numbers $0,1,2,3$ and prove by construction that these representations are sets indeed. What is cardinality of $S$? What is cardinality of $2^S$?
+---
+## Set-Theoretic Representation of Natural Numbers
+
+We can define each natural number $n$ as:
+$$n=\{n-1,\{n-1\}\}$$
+where $n-1$ is the previous number.
+
+Let's construct the first fw
