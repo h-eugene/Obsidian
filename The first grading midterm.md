@@ -241,3 +241,6 @@ The largest number $m \leq 58$ such that $\sqrt{m}$ is irrational is $58$.
 ---
 # 6) Using Tarski axiomatization for reals, find the first 5 digits in binary representation of a rational number corresponding to ratio $\displaystyle \frac{M}{46}$. (Explain your answer!)
 ---
+I didn't get this question.
+
+# 7) Does $\displaystyle (2+ \frac{(-1)^{n}M}{\sqrt{n+1}})$ 
