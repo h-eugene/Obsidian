@@ -1,3 +1,4 @@
+$M$ – is a individual number that is equal to sum of the number of your birth day and number of your birth month (i.e., "day" + "month").
 # 1) What does Mathematical Analysis study? (Compare with high school algebra.) How do you understand terms “first-order theory” and “second-order theory”? Give examples of the first-, second- and (optionally) third-order statements in Mathematical Analysis.
 ---
 ## Mathematical Analysis vs. High School Algebra:
@@ -129,7 +130,7 @@ Naive set theory provides a simple framework to understand collections of object
 
 ---
 
-# 4) Construct the set representation for natural numbers $0,1,2,3$ and prove by construction that these representations are sets indeed. Prove that set-theoretic repre What is cardinality of $S$? What is cardinality of $2^S$?
+# 4) Construct the set representation for natural numbers $0,1,2,3$ and prove by construction that these representations are sets indeed. Prove that set-theoretic representation $S$ of your individual number $M$ is a set indeed. What is cardinality of $S$? What is cardinality of $2^S$?
 ---
 ## Set-Theoretic Representation of Natural Numbers
 
@@ -156,4 +157,6 @@ By **induction**:
 
 Thus, each natural number $n$ constructed in this way is indeed a set.
 
-## 
+## Set-Theoretical Representation of $M$
+
+In my case, $M$ is equal to $24 + 10 =34$.
