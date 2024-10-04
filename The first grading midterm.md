@@ -105,6 +105,7 @@ Let's prove that the **union** and **intersection** of three sets is still a set
 	$$A\cap B \cap C = \{x\ |\ x\in A \wedge x\in B \wedge x \in C\}$$
 	The result is also a set, as intersection preserves the "setness" of the elements involved.
 
+---
 #### Cartesian Product of two sets is a set:
 
 The Cartesian Product of two sets $A$ and $B$ is the set of all ordered pairs $(a,b)$, where $a \in A$ and $b\in B$. We need to show that this Cartesian Product is also a set.
@@ -121,7 +122,7 @@ For example, if $A = \{1,2\}$ and $B=\{a,b\}$, the Cartesian product is:
 $$A\times B = \{(1,a),(1,b),(2,a),(2,b)\}$$
 This is clearly a finite set with four elements, which is always a set in naive set theory.
 
-----
+---
 #### Conclusion:
 
 Naive set theory provides a simple framework to understand collections of objects and how they interact. While it's not free of logical issues (like Russell's Paradox), it's still an essential tool in mathematical analysis. The union, intersection, and Cartesian products of sets are all basic operations that are key to defining more complex mathematical structures in fields like IT, computer science, and robotics.
