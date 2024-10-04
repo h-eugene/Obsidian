@@ -53611,6 +53611,7 @@ larger
 lim
 lower
 largest
+lceil
 geometria
 gN
 gQ
@@ -80142,6 +80143,7 @@ solutions
 short
 structures
 science
+sqrt
 exist
 excalidraw
 everything
@@ -97210,6 +97212,7 @@ behave
 basic
 behaviors
 broader
+birth
 EXCALIDRAW
 Excalidraw
 Elements
@@ -106709,6 +106712,7 @@ midterm
 manipulating
 mathematical
 mathcal
+month
 You
 YC
 YR
@@ -118384,6 +118388,7 @@ referring
 relations
 rarely
 robotics
+rceil
 Zorich
 ZM
 ZB

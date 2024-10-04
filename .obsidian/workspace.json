@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dede",
+                "query": "cauch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,8 +202,9 @@
   },
   "active": "15d5cae1904b9a1f",
   "lastOpenFiles": [
-    "Number Systems. Axiomatic approaches..md",
+    "Theory of sequences and their limits..md",
     "The first grading midterm.md",
+    "Number Systems. Axiomatic approaches..md",
     "Mathematical Analysis I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
@@ -211,7 +212,6 @@
     "Basics of naive Set Theory..md",
     "Introduction.md",
     "Theory of limits and continuity.md",
-    "Theory of sequences and their limits..md",
     "Logic and Discrete Mathematics.md",
     "Basic of Logic.md",
     "Basic Proof Techniques.md",

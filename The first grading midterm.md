@@ -299,3 +299,6 @@ $$a_{n} = 2 + \frac{(-1)^{n}M}{\sqrt{n+1}}$$
 converges to $2$.
 
 ---
+# 8) Does $\displaystyle(n- \frac{M}{n+1})_{n\in \mathbb{N}}$ has a real limit? – Prove your answer using Cauchy's test. Does the sequence have a limit? – Prove your answer using the appropriate definition.
+---
+Step 1: Cauchy
