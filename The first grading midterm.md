@@ -342,7 +342,7 @@ $$
 |a_n - L| < \epsilon.
 $$
 
-In our case, we want to show that the sequence $ a_n = n - \frac{34}{n+1} $ does **not** converge to any real number $ K $.
+In our case, we want to show that the sequence $a_n = n - \frac{34}{n+1}$ does **not** converge to any real number $K$.
 
 ---
 
