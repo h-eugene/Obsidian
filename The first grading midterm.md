@@ -301,5 +301,55 @@ converges to $2$.
 ---
 # 8) Does $\displaystyle(n- \frac{M}{n+1})_{n\in \mathbb{N}}$ has a real limit? – Prove your answer using Cauchy's test. Does the sequence have a limit? – Prove your answer using the appropriate definition.
 ---
-Let’s consider the sequence \( a_n = n - \frac{M}{n+1} \), where \( M = 34 \). 
-### Step 1: Prove using Cauchy's test To apply **Cauchy's criterion**, we need to check if, for any \( \epsilon > 0 \), there exists \( N \in \mathbb{N} \) such that for all \( n, m > N \), the following holds: \[ |a_n - a_m| < \epsilon. \] Let’s calculate the difference between two terms of the sequence \( a_n \) and \( a_m \): \[ |a_n - a_m| = \left| \left( n - \frac{34}{n+1} \right) - \left( m - \frac{34}{m+1} \right) \right|. \] As \( n \) and \( m \to \infty \), the terms \( \frac{34}{n+1} \) and \( \frac{34}{m+1} \) approach 0, so for large \( n \) and \( m \), this difference simplifies to: \[ |a_n - a_m| \approx |n - m|. \] Clearly, \( |n - m| \) can grow large as \( n \) and \( m \) increase. Therefore, the sequence **fails Cauchy's criterion** because the difference between terms does **not** become arbitrarily small. ### Conclusion (Cauchy's Test): The sequence **does not satisfy Cauchy's criterion**, so it does not converge. --- ### Step 2: Prove using the definition of the sequence's limit To check whether the sequence has a limit, let’s analyze the expression for large \( n \). We have: \[ a_n = n - \frac{34}{n+1}. \] As \( n \to \infty \), \( \frac{34}{n+1} \) approaches 0. Therefore, for large \( n \), the sequence behaves like: \[ a_n \approx n. \] Clearly, the sequence \( a_n \to \infty \) as \( n \to \infty \), meaning that it **diverges**. ### Conclusion (Definition of Limit): The sequence **does not have a real limit** because it diverges to infinity. --- ### Final Answer: The sequence \( \left( n - \frac{M}{n+1} \right) \) **does not have a real limit**, as shown by both Cauchy's test and direct analysis of its behavior for large \( n \).
+Let’s consider the sequence $a_n = n - \frac{M}{n+1}$, where $M = 34$.
+
+### Step 1: Prove using Cauchy's test
+
+To apply **Cauchy's criterion**, we need to check if, for any $\epsilon > 0$, there exists $N \in \mathbb{N}$ such that for all $n, m > N$, the following holds:
+
+$$
+|a_n - a_m| < \epsilon.
+$$
+
+Let’s calculate the difference between two terms of the sequence $a_n$ and $a_m$:
+
+$$
+|a_n - a_m| = \left| \left( n - \frac{34}{n+1} \right) - \left( m - \frac{34}{m+1} \right) \right|.
+$$
+
+As $n$ and $m \to \infty$, the terms $\frac{34}{n+1}$ and $\frac{34}{m+1}$ approach 0, so for large $n$ and $m$, this difference simplifies to:
+
+$$
+|a_n - a_m| \approx |n - m|.
+$$
+
+Clearly, $|n - m|$ can grow large as $n$ and $m$ increase. Therefore, the sequence **fails Cauchy's criterion** because the difference between terms does **not** become arbitrarily small.
+
+### Conclusion (Cauchy's Test):
+The sequence **does not satisfy Cauchy's criterion**, so it does not converge.
+
+---
+
+### Step 2: Prove using the definition of the sequence's limit
+
+To check whether the sequence has a limit, let’s analyze the expression for large $n$. We have:
+
+$$
+a_n = n - \frac{34}{n+1}.
+$$
+
+As $n \to \infty$, $\frac{34}{n+1}$ approaches 0. Therefore, for large $n$, the sequence behaves like:
+
+$$
+a_n \approx n.
+$$
+
+Clearly, the sequence $a_n \to \infty$ as $n \to \infty$, meaning that it **diverges**.
+
+### Conclusion (Definition of Limit):
+The sequence **does not have a real limit** because it diverges to infinity.
+
+---
+
+### Final Answer:
+The sequence $\left( n - \frac{M}{n+1} \right)$ **does not have a real limit**, as shown by both Cauchy's test and direct analysis of its behavior for large $n$.
