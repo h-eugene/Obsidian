@@ -393,4 +393,5 @@ Since for any $K \in \mathbb{R}$, we can find a large enough $n$ such that $|a_n
 Therefore, the sequence **does not have a real limit** and diverges to infinity.
 
 ---
-# 9) Given any real sequence $(a_{n})_{n\in \mathbb{N}}$, we knowing that $\displaystyle \lim_{n\to \infty} \frac{a_{n}-M}{a_{n}+M}=0$, prove or disprove convergence of the sequence (and find $$)
+# 9) Given any real sequence $(a_{n})_{n\in \mathbb{N}}$, we knowing that $\displaystyle \lim_{n\to \infty} \frac{a_{n}-M}{a_{n}+M}=0$, prove or disprove convergence of the sequence (and find $\displaystyle \lim_{n\to \infty}a_{n}$ in case of convergence).
+---
