@@ -395,13 +395,6 @@ Therefore, the sequence **does not have a real limit** and diverges to infinity.
 ---
 # 9) Given any real sequence $(a_{n})_{n\in \mathbb{N}}$, we knowing that $\displaystyle \lim_{n\to \infty} \frac{a_{n}-M}{a_{n}+M}=0$, prove or disprove convergence of the sequence (and find $\displaystyle \lim_{n\to \infty}a_{n}$ in case of convergence).
 ---
-## Theorem
-Let $(a_n)_{n \in \mathbb{N}}$ be a sequence such that 
-$$
-\lim_{n \to \infty} \frac{a_n - M}{a_n + M} = 0.
-$$
-Then $\lim_{n \to \infty} a_n = M$.
-
 ## Proof
 1. **From the condition:** Since 
 $$
@@ -435,4 +428,3 @@ $$
 $$
 
 6. **Final remark:** Therefore, we have proven that the sequence $(a_n)_{n \in \mathbb{N}}$ converges to $M$.
-
