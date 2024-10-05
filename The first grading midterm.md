@@ -303,7 +303,7 @@ converges to $2$.
 ---
 Let’s consider the sequence $a_n = n - \frac{M}{n+1}$, where $M = 34$.
 
-### Step 1: Prove using Cauchy's test
+## Prove using Cauchy's test
 
 To apply **Cauchy's criterion**, we need to check if, for any $\epsilon > 0$, there exists $N \in \mathbb{N}$ such that for all $n, m > N$, the following holds:
 
@@ -330,26 +330,65 @@ The sequence **does not satisfy Cauchy's criterion**, so it does not converge.
 
 ---
 
-### Step 2: Prove using the definition of the sequence's limit
+## Prove using the definition of the sequence's limit
 
-To check whether the sequence has a limit, let’s analyze the expression for large $n$. We have:
+Let’s consider the sequence $a_n = n - \frac{M}{n+1}$, where $M = 34$.
+
+### Formal Definition of a Limit
+
+A sequence $(a_n)$ converges to a real number $L$ if, for every $\epsilon > 0$, there exists an $N \in \mathbb{N}$ such that for all $n > N$, the following holds:
 
 $$
-a_n = n - \frac{34}{n+1}.
+|a_n - L| < \epsilon.
 $$
 
-As $n \to \infty$, $\frac{34}{n+1}$ approaches 0. Therefore, for large $n$, the sequence behaves like:
+In our case, we want to show that the sequence $ a_n = n - \frac{34}{n+1} $ does **not** converge to any real number $ K $.
+
+---
+
+### Step 1: Assume the sequence converges to a limit $K$
+
+Suppose that the sequence $\left( n - \frac{34}{n+1} \right)$ converges to some real number $K$. This means that for every $\epsilon > 0$, there exists $N \in \mathbb{N}$ such that for all $n > N$, we have:
+
+$$
+\left| n - \frac{34}{n+1} - K \right| < \epsilon.
+$$
+
+---
+
+### Step 2: Analyze the behavior of $a_n$
+
+Let’s rewrite the sequence $a_n = n - \frac{34}{n+1}$ in a simplified form for large $n$. As $n \to \infty$, $\frac{34}{n+1} \to 0$, so for large $n$, the sequence behaves like:
 
 $$
 a_n \approx n.
 $$
 
-Clearly, the sequence $a_n \to \infty$ as $n \to \infty$, meaning that it **diverges**.
-
-### Conclusion (Definition of Limit):
-The sequence **does not have a real limit** because it diverges to infinity.
+This implies that for large $n$, the sequence grows without bound.
 
 ---
 
-### Final Answer:
-The sequence $\left( n - \frac{M}{n+1} \right)$ **does not have a real limit**, as shown by both Cauchy's test and direct analysis of its behavior for large $n$.
+### Step 3: Proof by contradiction
+
+Since the sequence behaves like $n$ for large $n$, we can make the difference $|a_n - K|$ arbitrarily large by choosing sufficiently large $n$. Specifically, for any $K$, we can choose $n$ such that:
+
+$$
+\left| n - K \right| > \epsilon.
+$$
+
+Thus, for any $K \in \mathbb{R}$ and for any fixed $\epsilon > 0$, there exists an $n$ such that:
+
+$$
+|a_n - K| = \left| n - \frac{34}{n+1} - K \right| \geq |n - K| > \epsilon.
+$$
+
+This violates the formal definition of convergence, which requires $|a_n - K| < \epsilon$ for all $n > N$ and some $N \in \mathbb{N}$.
+
+---
+
+### Conclusion
+
+Since for any $K \in \mathbb{R}$, we can find a large enough $n$ such that $|a_n - K|$ exceeds $\epsilon$, the sequence $\left( n - \frac{M}{n+1} \right)$ does **not** converge to any real number $K$.
+
+Therefore, the sequence **does not have a real limit** and diverges to infinity.
+
