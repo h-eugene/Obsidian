@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "416d6e057f943d65",
+        "id": "038fd19f5967de9e",
         "type": "tabs",
         "children": [
           {
-            "id": "325d23c43728df9c",
+            "id": "5926972a5b43d792",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "325d23c43728df9c",
+  "active": "5926972a5b43d792",
   "lastOpenFiles": [
     "The first grading midterm.md",
     "Theory of sequences and their limits..md",
