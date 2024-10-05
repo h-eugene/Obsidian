@@ -428,3 +428,6 @@ $$
 $$
 
 6. **Final remark:** Therefore, we have proven that the sequence $(a_n)_{n \in \mathbb{N}}$ converges to $M$.
+---
+# 10) Let $a_{0}=1,\ a_{1}= 2$ and $a_{n+2} = \frac{a_{n}+(M-1)\times a_{n+1}}{M}$ for all natural $n$. Is this sequence monotone, antimonotone, converging? Prove your answer using any theory covered in the lectures.
+---
