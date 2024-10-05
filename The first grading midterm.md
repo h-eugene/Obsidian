@@ -395,75 +395,44 @@ Therefore, the sequence **does not have a real limit** and diverges to infinity.
 ---
 # 9) Given any real sequence $(a_{n})_{n\in \mathbb{N}}$, we knowing that $\displaystyle \lim_{n\to \infty} \frac{a_{n}-M}{a_{n}+M}=0$, prove or disprove convergence of the sequence (and find $\displaystyle \lim_{n\to \infty}a_{n}$ in case of convergence).
 ---
-## Proof of Convergence Using the Squeeze Theorem
+## Theorem
+Let $(a_n)_{n \in \mathbb{N}}$ be a sequence such that 
+$$
+\lim_{n \to \infty} \frac{a_n - M}{a_n + M} = 0.
+$$
+Then $\lim_{n \to \infty} a_n = M$.
 
-Given that 
-
+## Proof
+1. **From the condition:** Since 
 $$
 \lim_{n \to \infty} \frac{a_n - M}{a_n + M} = 0,
+$$ 
+it means that for any $\epsilon > 0$, there exists an $N \in \mathbb{N}$ such that for all $n > N$ we have 
+$$
+\left| \frac{a_n - M}{a_n + M} \right| < \epsilon.
 $$
 
-we want to show that the sequence $(a_n)_{n \in \mathbb{N}}$ converges to $M$.
-
-### Step 1: Understanding the Limit Condition
-
-The limit condition implies that for any $\epsilon > 0$, there exists an $N$ such that for all $n > N$:
-
+2. **Expand the modulus:** From the above inequality, we get 
 $$
--\epsilon < \frac{a_n - M}{a_n + M} < \epsilon.
+|a_n - M| < \epsilon |a_n + M|.
+$$ 
+This inequality indicates that the numerator $a_n - M$ approaches zero faster than the denominator $a_n + M$ increases.
+
+3. **Denominator is not zero:** We know that for sufficiently large $n$, the value $a_n + M$ is not equal to zero, since the limit condition implies that $a_n + M$ remains positive (or negative) and cannot approach zero. This means there exists a constant $c > 0$ such that for all $n > N$: 
 $$
-
-### Step 2: Rearranging the Inequalities
-
-From the inequality, we can multiply through by $a_n + M$ (which will be positive for sufficiently large $n$ if $a_n$ is bounded away from $-M$):
-
-1. **Upper Bound**:
-   $$ a_n - M < \epsilon (a_n + M). $$
-   This simplifies to:
-   $$ a_n < M + \epsilon (a_n + M). $$
-
-2. **Lower Bound**:
-   $$ a_n - M > -\epsilon (a_n + M). $$
-   This simplifies to:
-   $$ a_n > M - \epsilon (a_n + M). $$
-
-### Step 3: Squeezing the Sequence
-
-To show convergence, we need to express $a_n$ in terms of $M$ and a bounding sequence. Rewriting both bounds gives us:
-
-For sufficiently large $n$, we can see that:
-
-1. **Upper Bound**:
-   $$ a_n < M + C $$ 
-   for some constant $C > 0$ (e.g., $\epsilon |M|$).
-
-2. **Lower Bound**:
-   $$ a_n > M - C. $$
-
-Since we can establish that both bounds approach $M$ as $n$ goes to infinity, we can conclude that:
-
-$$
-M - C < a_n < M + C
+|a_n + M| > c.
 $$
 
-for sufficiently large $n$.
+4. **Upper bound for the numerator:** Thus, from the previous inequality, we can write:
+$$
+|a_n - M| < \epsilon |a_n + M| < \epsilon c,
+$$
+where $c$ is a positive constant and $\epsilon$ is any positive number.
 
-### Step 4: Convergence and Boundedness
-
-By the Squeeze Theorem, since $a_n$ is squeezed between two sequences that both converge to $M$, it follows that:
-
+5. **Conclusion:** Since $\epsilon$ can be made arbitrarily small, this implies that $|a_n - M|$ approaches zero, or:
 $$
 \lim_{n \to \infty} a_n = M.
 $$
 
-### Step 5: Boundedness of the Sequence
+6. **Final remark:** Therefore, we have proven that the sequence $(a_n)_{n \in \mathbb{N}}$ converges to $M$.
 
-Additionally, since the sequence $(a_n)$ converges to $M$, it is bounded. Specifically, for any convergent sequence, there exists an upper and lower bound. In this case, for large $n$, we can conclude that:
-
-$$
-|a_n| \text{ is bounded for all } n \in \mathbb{N}.
-$$
-
-### Conclusion
-
-Thus, we have shown that the sequence $(a_n)_{n \in \mathbb{N}}$ converges to $M$ using the Squeeze Theorem and also noted that any converging sequence is bounded.
