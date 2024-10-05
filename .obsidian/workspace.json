@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "The first grading midterm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b4431a47a2c89a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory of sequences and their limits..md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory of sequences and their limits..md",
+                "file": "The first grading midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory of sequences and their limits..md",
+                "file": "The first grading midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -146,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theory of sequences and their limits..md",
+                "file": "The first grading midterm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory of sequences and their limits..md"
+                "file": "The first grading midterm.md"
               }
             }
           }
@@ -212,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b4431a47a2c89a6",
+  "active": "2905d0fb4df39b5e",
   "lastOpenFiles": [
+    "Theory of sequences and their limits..md",
     "The first grading midterm.md",
     "Mathematical Analysis I.md",
     "Theory of limits and continuity.md",
@@ -221,7 +210,6 @@
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Theory of sequences and their limits..md",
     "Number Systems. Axiomatic approaches..md",
     "Basics of naive Set Theory..md",
     "Introduction.md",
