@@ -572,3 +572,5 @@ Combining both parts, the final set is $(-2M, -2M + 1] \cup [-1, 0)$.
 a. $\displaystyle ((1+ \frac{1}{n/M})^n)_{n\in \mathbb{N}, n>0}$
 b. $\displaystyle ((1+ \frac{1}{n})^{n/M})_{n\in \mathbb{N}, n>0}$
 c. $\displaystyle ((1+ \frac{1}{Mn})^{n^2})_{n\in \mathbb{N}, n>0}$
+
+---
