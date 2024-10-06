@@ -431,3 +431,52 @@ $$
 ---
 # 10) Let $a_{0}=1,\ a_{1}= 2$ and $a_{n+2} = \frac{a_{n}+(M-1)\times a_{n+1}}{M}$ for all natural $n$. Is this sequence monotone, antimonotone, converging? Prove your answer using any theory covered in the lectures.
 ---
+### Proof Using Cauchy Criterion
+
+To use the Cauchy criterion, we need to show that for any $\varepsilon > 0$ there exists $N \in \mathbb{N}$ such that for all $m, n > N$ the following holds:
+$$
+|a_m - a_n| < \varepsilon.
+$$
+
+Consider the sequence $a_n$, defined by the recurrence relation:
+$$
+a_{n+2} = \frac{a_n + (M - 1)a_{n+1}}{M}.
+$$
+First, let's find an expression for the difference between arbitrary terms of the sequence. If we use the differences $a_n - a_{n+k}$, we can show that they tend to zero for large $n$.
+
+#### Step 1: Find the Expression for $a_{n+k}$
+
+For an arbitrary $k$, we can write:
+$$
+a_{n+k} = \frac{a_{n+k-2} + (M - 1)a_{n+k-1}}{M}.
+$$
+
+We can use the previous expression to express $a_{n+k}$ in terms of $a_n$ and $a_{n+1}$.
+
+#### Step 2: Define the Difference
+
+Now let's consider the difference:
+$$
+d_n = a_n - a_{n+k}.
+$$
+
+We can express $d_n$ as:
+$$
+d_n = a_n - a_{n+1} + a_{n+1} - a_{n+2} + \ldots + a_{n+k-1} - a_{n+k}.
+$$
+
+As $n$ approaches infinity, each of these terms should approach some limit, which we can show using the recurrence relation.
+
+#### Step 3: Using the Cauchy Criterion
+
+Now, if we show that:
+$$
+|a_n - a_{n+k}| < \varepsilon,
+$$
+for sufficiently large $n$, we can apply the Cauchy criterion. To do this, we can use the previous expressions for the differences.
+
+#### Conclusion
+
+Thus, if you can express the difference $d_n$ in terms of $a_n$ and other terms, showing that they converge, you will be able to use the Cauchy criterion to prove the convergence of the entire sequence.
+
+This idea of using arbitrary terms of the sequence makes your proof more general and intuitive. You can formally write out all the steps following this approach to arrive at a complete proof.
