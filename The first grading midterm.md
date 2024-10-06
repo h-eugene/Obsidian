@@ -516,7 +516,7 @@ This represents the open interval $(-M - 2, - M + 2)$, where all points within t
 ![](Pasted%20image%2020241006115845.png)
 
 **Classification**:  
-- This set is **open** because for any point $x \in (M - 2, M + 2)$, we can find a small neighborhood around $x$ that still lies within the interval. By definition, open intervals are open sets.
+- This set is **open** because for any point $x \in (-M - 2, -M + 2)$, we can find a small neighborhood around $x$ that still lies within the interval. By definition, open intervals are open sets.
 
 ---
 
