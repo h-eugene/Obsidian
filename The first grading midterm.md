@@ -574,71 +574,108 @@ b. $\displaystyle ((1+ \frac{1}{n})^{n/M})_{n\in \mathbb{N}, n>0}$
 c. $\displaystyle ((1+ \frac{1}{Mn})^{n^2})_{n\in \mathbb{N}, n>0}$
 
 ---
-#### a. $((1 + \frac{1}{\frac{n}{M}})^{n})_{n \in \mathbb{N}, n > 0}$
+### a. $((1 + \frac{1}{\frac{n}{M}})^{n})_{n \in \mathbb{N}, n > 0}$
 
-We can rewrite the sequence as:
+We can start by rewriting the sequence as:
 
 $$
-(1+ \frac{1}{n/M})^n = ((1+ \frac{1}{n/M})^{n/M})^M = e^M
+(1 + \frac{1}{n/M})^n.
+$$ 
+
+Now, we can express this as:
+
+$$
+\left(1 + \frac{1}{n/M}\right)^n = \left[\left(1 + \frac{1}{n/M}\right)^{n/M}\right]^M.
+$$ 
+
+As \(n\) approaches infinity, the inner expression approaches the well-known limit:
+
+$$
+\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^{n} = e.
+$$ 
+
+Thus, we conclude that:
+
+$$
+\lim_{n \to \infty} \left(1 + \frac{1}{n/M}\right)^{n} = e^M.
 $$
 
-**Limit**: $e^{M}$
+**Limit**: $e^{M}$.
 
 ---
-#### b. $((1 + \frac{1}{n})^{\frac{n}{M}})_{n \in \mathbb{N}, n > 0}$
 
-This sequence can be analyzed as follows:
+### b. $((1 + \frac{1}{n})^{\frac{n}{M}})_{n \in \mathbb{N}, n > 0}$
 
-$$
-\left(1 + \frac{1}{n}\right)^{\frac{n}{M}} = \left[\left(1 + \frac{1}{n}\right)^{n}\right]^{\frac{1}{M}}
-$$
-
-As $(n \to \infty)$:
+Next, we analyze the sequence:
 
 $$
-\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^{n} = e
-$$
+\left(1 + \frac{1}{n}\right)^{\frac{n}{M}}.
+$$ 
 
-Thus, we have:
-
-$$
-\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^{\frac{n}{M}} = e^{\frac{1}{M}}
-$$
-
-**Limit**: $e^{\frac{1}{M}}$
-
-#### c. $((1 + \frac{1}{Mn})^{n^2})_{n \in \mathbb{N}, n > 0}$
-
-Rewriting this sequence gives:
+This can be rewritten as:
 
 $$
-\left(1 + \frac{1}{Mn}\right)^{n^2} = \left[\left(1 + \frac{1}{Mn}\right)^{Mn}\right]^{\frac{n^2}{Mn}}
-$$
+\left[\left(1 + \frac{1}{n}\right)^{n}\right]^{\frac{1}{M}}.
+$$ 
 
-As $(n \to \infty)$:
-
-$$
-\lim_{n \to \infty} \left(1 + \frac{1}{Mn}\right)^{Mn} = e
-$$
-
-Now, the exponent simplifies to:
+Again, as \(n\) approaches infinity, we recognize:
 
 $$
-\frac{n^2}{Mn} = \frac{n}{M}
+\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^{n} = e.
+$$ 
+
+This leads us to:
+
 $$
+\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^{\frac{n}{M}} = e^{\frac{1}{M}}.
+$$ 
 
-As $(n \to \infty)$, this goes to:
+We see that the limit here is dependent on \(M\), illustrating how the exponent influences the convergence.
+
+**Limit**: $e^{\frac{1}{M}}$.
+
+---
+
+### c. $((1 + \frac{1}{Mn})^{n^2})_{n \in \mathbb{N}, n > 0}$
+
+Finally, we examine the sequence:
 
 $$
-\lim_{n \to \infty} e^{\frac{n}{M}} \to \infty
+\left(1 + \frac{1}{Mn}\right)^{n^2}. 
+$$ 
+
+We can rewrite it as:
+
 $$
+\left[\left(1 + \frac{1}{Mn}\right)^{Mn}\right]^{\frac{n^2}{Mn}}.
+$$ 
 
-Thus, this sequence diverges:
+As \(n\) approaches infinity, we utilize the limit:
 
-**Limit**: $\infty$
+$$
+\lim_{n \to \infty} \left(1 + \frac{1}{Mn}\right)^{Mn} = e.
+$$ 
+
+However, we must also consider the exponent:
+
+$$
+\frac{n^2}{Mn} = \frac{n}{M}.
+$$ 
+
+As \(n\) grows large, this exponent tends to infinity:
+
+$$
+\lim_{n \to \infty} e^{\frac{n}{M}} \to \infty.
+$$ 
+
+Thus, this sequence diverges.
+
+**Limit**: $\infty$.
+
+---
 
 ### Summary of Convergence and Limits
 
-- **Sequence a**: Converges to $e^{M}$.
-- **Sequence b**: Converges to $e^{\frac{1}{M}}$.
-- **Sequence c**: Diverges to $\infty$.
+- **Sequence a**: Converges to \(e^{M}\).
+- **Sequence b**: Converges to \(e^{\frac{1}{M}}\).
+- **Sequence c**: Diverges to \(\infty\).
