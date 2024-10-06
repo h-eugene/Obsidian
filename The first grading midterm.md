@@ -505,3 +505,73 @@ Therefore, by the Cauchy criterion, the sequence $(a_n)$ is convergent.
 ---
 # 11) An open set of reals is any set that contains a neighborhood of each of its points. A closed set is the set-theoretic complement in $\mathbb{R}$ of an open set. Draw (sketch) on the real axis the following sets: a) $|x-M| <2$ b) $|2x-2|\geq M$ c) $M-1 \leq |x+M| < M$. Which of these sets are open, close or are neither open nor closes? Prove your answer.
 ---
+1. **a) $|x - M| < 2$**
+
+This inequality can be rewritten as:
+
+$$M - 2 < x < M + 2$$
+
+This represents the open interval $(M - 2, M + 2)$, where all points within this interval are less than 2 units away from $M$.
+
+**Sketch**:  
+- The interval is an open interval, so we draw it as a segment on the real axis from $M - 2$ to $M + 2$, with open circles at the endpoints to indicate that $M - 2$ and $M + 2$ are **not** included.
+
+**Classification**:  
+- This set is **open** because for any point $x \in (M - 2, M + 2)$, we can find a small neighborhood around $x$ that still lies within the interval. By definition, open intervals are open sets.
+
+---
+
+2. **b) $|2x - 2| \geq M$**
+
+Rewriting this inequality gives:
+
+$$|2(x - 1)| \geq M \quad \Rightarrow \quad |x - 1| \geq \frac{M}{2}$$
+
+This means $x$ is at least $\frac{M}{2}$ units away from $1$, leading to two cases:
+
+$$x \leq 1 - \frac{M}{2} \quad \text{or} \quad x \geq 1 + \frac{M}{2}$$
+
+This represents the union of two **closed** intervals: $(-\infty, 1 - \frac{M}{2}] \cup [1 + \frac{M}{2}, \infty)$.
+
+**Sketch**:  
+- We draw two rays extending from $1 - \frac{M}{2}$ (inclusive, indicated by a closed circle) to the left, and from $1 + \frac{M}{2}$ (inclusive) to the right, extending infinitely in both directions.
+
+**Classification**:  
+- This set is **closed** because both intervals $(-\infty, 1 - \frac{M}{2}]$ and $[1 + \frac{M}{2}, \infty)$ are closed, and the union of closed sets is also closed.
+
+---
+
+3. **c) $M - 1 \leq |x + M| < M$**
+
+This inequality can be split into two parts:
+
+$$M - 1 \leq |x + M| < M$$
+
+We can interpret the bounds $M - 1 \leq |x + M|$ and $|x + M| < M$. These lead to two intervals, since $|x + M|$ defines two cases for positive and negative values of $x + M$.
+
+1. $-(M - 1) \leq x + M \leq M - 1$ (for the first part of the inequality).
+2. $-(M) \leq x + M < M$ (for the second part).
+
+Now, solving for $x$, we get:
+
+- From $-(M - 1) \leq x + M \leq M - 1$, we get:
+  $$-M - (M - 1) \leq x \leq M - 1 - M \quad \Rightarrow \quad -(2M - 1) \leq x \leq -1$$
+
+- From $-(M) \leq x + M < M$, we get:
+  $$-2M \leq x < 0$$
+
+The resulting set is the interval $[-(2M - 1), -1]$ combined with $[-2M, 0)$, meaning the set includes part of a closed interval and part of an open interval.
+
+**Sketch**:  
+- The real axis has a segment from $-(2M - 1)$ to $-1$ (closed) and another segment from $-2M$ to $0$ (open at $0$).
+
+**Classification**:  
+- This set is **neither open nor closed** because it includes part of a closed interval and part of an open interval, which means it doesn't fully satisfy the conditions for being open or closed.
+
+---
+
+**Summary of Results**:
+
+1. **a) $|x - M| < 2$**: **Open** set.
+2. **b) $|2x - 2| \geq M$**: **Closed** set.
+3. **c) $M - 1 \leq |x + M| < M$**: **Neither open nor closed**.
