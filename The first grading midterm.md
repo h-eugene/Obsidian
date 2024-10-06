@@ -553,7 +553,7 @@ This inequality can be broken into two parts:
      This gives the interval $(-2M, 0)$.
 
 Combining both parts, the final set is $(-2M, -2M + 1] \cup [-1, 0)$.
-
+![](Pasted%20image%2020241006123050.png)
 
 **Classification**:  
 - This set is **neither open nor closed** because it includes a combination of open and closed intervals. Specifically, $(-2M, -2M + 1]$ is closed at one end and open at the other, while $[-1, 0)$ is similarly a mix of open and closed.
@@ -565,3 +565,10 @@ Combining both parts, the final set is $(-2M, -2M + 1] \cup [-1, 0)$.
 1. **a) $|x - M| < 2$**: **Open** set.
 2. **b) $|2x - 2| \geq M$**: **Closed** set.
 3. **c) $M - 1 \leq |x + M| < M$**: **Neither open nor closed**.
+
+---
+# 12) Indicate which of the following sequence does converge and what is the limit in this case? Prove your answer for these sequences using any theory covered in the lectures.
+---
+a. $\displaystyle ((1+ \frac{1}{n/M})^n)_{n\in \mathbb{N}, n>0}$
+b. $\displaystyle ((1+ \frac{1}{n})^{n/M})_{n\in \mathbb{N}, n>0}$
+c. $\displaystyle ((1+ \frac{1}{Mn})^{n^2})_{n\in \mathbb{N}, n>0}$
