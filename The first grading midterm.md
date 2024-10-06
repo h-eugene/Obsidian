@@ -581,13 +581,19 @@ c. $\displaystyle ((1+ \frac{1}{Mn})^{n^2})_{n\in \mathbb{N}, n>0}$
 This sequence can be rewritten as:
 
 $$
-\left(1 + \frac{1}{n/M}\right)^{n/M}^
+\left(1 + \frac{1}{n/m}\right)^{n}
 $$
 
-As $n \to \infty$, we can apply the limit definition of $e$:
+Now, we raise it to the power of $M$:
 
 $$
-\lim_{n \to \infty} \left(1 + \frac{M}{n}\right)^{n} = e^{M}
+\left(\left(1 + \frac{1}{n/m}\right)^{\frac{n}{M}}\right)^{M}
+$$
+
+As $n \to \infty$, we know from the limit definition of $e$ that:
+
+$$
+\lim_{n \to \infty} \left(1 + \frac{1}{n/M}\right)^{n/M} = e^{M}
 $$
 
 Thus, the sequence converges to:
