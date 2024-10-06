@@ -574,3 +574,82 @@ b. $\displaystyle ((1+ \frac{1}{n})^{n/M})_{n\in \mathbb{N}, n>0}$
 c. $\displaystyle ((1+ \frac{1}{Mn})^{n^2})_{n\in \mathbb{N}, n>0}$
 
 ---
+### Indicate which of the following sequence does converge and what is the limit in this case? Prove your answer for these sequences using any theory covered in the lectures.
+
+#### a. $((1 + \frac{1}{\frac{n}{M}})^{n})_{n \in \mathbb{N}, n > 0}$
+
+This sequence can be rewritten as:
+
+$$
+\left(1 + \frac{1}{n/M}\right)^{n/M}^
+$$
+
+As $n \to \infty$, we can apply the limit definition of $e$:
+
+$$
+\lim_{n \to \infty} \left(1 + \frac{M}{n}\right)^{n} = e^{M}
+$$
+
+Thus, the sequence converges to:
+
+**Limit**: $e^{M}$
+
+#### b. $((1 + \frac{1}{n})^{\frac{n}{M}})_{n \in \mathbb{N}, n > 0}$
+
+We can analyze this sequence by rewriting it:
+
+$$
+\left(1 + \frac{1}{n}\right)^{\frac{n}{M}} = \left(\left(1 + \frac{1}{n}\right)^{n}\right)^{\frac{1}{M}}
+$$
+
+From the known limit:
+
+$$
+\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^{n} = e
+$$
+
+Thus, we have:
+
+$$
+\lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^{\frac{n}{M}} = e^{\frac{1}{M}}
+$$
+
+So this sequence converges to:
+
+**Limit**: $e^{\frac{1}{M}}$
+
+#### c. $((1 + \frac{1}{Mn})^{n^2})_{n \in \mathbb{N}, n > 0}$
+
+This sequence can be transformed as follows:
+
+$$
+\left(1 + \frac{1}{Mn}\right)^{n^2} = \left[\left(1 + \frac{1}{Mn}\right)^{Mn}\right]^{\frac{n^2}{Mn}}
+$$
+
+As $n \to \infty$:
+
+$$
+\lim_{n \to \infty} \left(1 + \frac{1}{Mn}\right)^{Mn} = e
+$$
+
+Thus, we need to analyze the exponent:
+
+$$
+\frac{n^2}{Mn} = \frac{n}{M}
+$$
+
+As $n \to \infty$:
+
+$$
+\lim_{n \to \infty} \left(1 + \frac{1}{Mn}\right)^{n^2} = e^{\frac{n}{M}} \to \infty
+$$
+
+Thus, this sequence diverges:
+
+**Limit**: $\infty$
+
+### Summary of Convergence and Limits
+
+- **Sequence a**: Converges to $e^{M}$.
+- **Sequence b**: Converges to $e^{\frac{1}{M}}$.
+- **Sequence c**: Diverges to $\infty$.
