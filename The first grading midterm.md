@@ -503,18 +503,17 @@ $$
 Therefore, by the Cauchy criterion, the sequence $(a_n)$ is convergent.
 
 ---
-# 11) An open set of reals is any set that contains a neighborhood of each of its points. A closed set is the set-theoretic complement in $\mathbb{R}$ of an open set. Draw (sketch) on the real axis the following sets: a) $|x-M| <2$ b) $|2x-2|\geq M$ c) $M-1 \leq |x+M| < M$. Which of these sets are open, close or are neither open nor closes? Prove your answer.
+# 11) An open set of reals is any set that contains a neighborhood of each of its points. A closed set is the set-theoretic complement in $\mathbb{R}$ of an open set. Draw (sketch) on the real axis the following sets: a) $|x+M| <2$ b) $|2x-2|\geq M$ c) $M-1 \leq |x+M| < M$. Which of these sets are open, close or are neither open nor closes? Prove your answer.
 ---
-1. **a) $|x - M| < 2$**
+1. **a) $|x + M| < 2$**
 
 This inequality can be rewritten as:
 
-$$M - 2 < x < M + 2$$
+$$-M - 2 < x < 2-M$$
 
-This represents the open interval $(M - 2, M + 2)$, where all points within this interval are less than 2 units away from $M$.
+This represents the open interval $(-M - 2, - M + 2)$, where all points within this interval are less than 2 units away from $M$.
 
-**Sketch**:  
-- The interval is an open interval, so we draw it as a segment on the real axis from $M - 2$ to $M + 2$, with open circles at the endpoints to indicate that $M - 2$ and $M + 2$ are **not** included.
+![](Pasted%20image%2020241006115845.png)
 
 **Classification**:  
 - This set is **open** because for any point $x \in (M - 2, M + 2)$, we can find a small neighborhood around $x$ that still lies within the interval. By definition, open intervals are open sets.
