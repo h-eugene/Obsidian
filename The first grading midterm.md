@@ -581,19 +581,13 @@ c. $\displaystyle ((1+ \frac{1}{Mn})^{n^2})_{n\in \mathbb{N}, n>0}$
 This sequence can be rewritten as:
 
 $$
-\left(1 + \frac{1}{n/m}\right)^{n}
+\left(1 + \frac{M}{n}\right)^{n} = \left(1 + \frac{M}{n}\right)^{\frac{n}{M} \cdot M}
 $$
 
-Now, we raise it to the power of $M$:
+Using the limit definition of \( e \):
 
 $$
-\left(\left(1 + \frac{1}{n/m}\right)^{\frac{n}{M}}\right)^{M}
-$$
-
-As $n \to \infty$, we know from the limit definition of $e$ that:
-
-$$
-\lim_{n \to \infty} \left(1 + \frac{1}{n/M}\right)^{n/M} = e^{M}
+\lim_{n \to \infty} \left(1 + \frac{M}{n}\right)^{n} = e^{M}
 $$
 
 Thus, the sequence converges to:
@@ -632,7 +626,7 @@ $$
 \left(1 + \frac{1}{Mn}\right)^{n^2} = \left[\left(1 + \frac{1}{Mn}\right)^{Mn}\right]^{\frac{n^2}{Mn}}
 $$
 
-As $n \to \infty$:
+As \( n \to \infty \):
 
 $$
 \lim_{n \to \infty} \left(1 + \frac{1}{Mn}\right)^{Mn} = e
@@ -644,7 +638,7 @@ $$
 \frac{n^2}{Mn} = \frac{n}{M}
 $$
 
-As $n \to \infty$:
+As \( n \to \infty \):
 
 $$
 \lim_{n \to \infty} \left(1 + \frac{1}{Mn}\right)^{n^2} = e^{\frac{n}{M}} \to \infty
