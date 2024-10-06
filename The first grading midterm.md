@@ -540,30 +540,23 @@ This represents the union of two **closed** intervals: $(-\infty, 1 - \frac{M}{2
 
 3. **c) $M - 1 \leq |x + M| < M$**
 
-This inequality can be split into two parts:
+This inequality can be broken into two parts:
 
-$$M - 1 \leq |x + M| < M$$
+1. $M - 1 \leq |x + M|$ gives two cases:
+   - $x + M \geq M - 1$ or $x + M \leq -(M - 1)$, which simplifies to:
+     $$x \geq -1 \quad \text{or} \quad x \leq -2M + 1$$
+     This gives the set $(-\infty, -2M + 1] \cup [-1, \infty)$.
+   
+2. $|x + M| < M$ also gives two cases:
+   - $-M < x + M < M$, which simplifies to:
+     $$-2M < x < 0$$
+     This gives the interval $(-2M, 0)$.
 
-We can interpret the bounds $M - 1 \leq |x + M|$ and $|x + M| < M$. These lead to two intervals, since $|x + M|$ defines two cases for positive and negative values of $x + M$.
+Combining both parts, the final set is $(-2M, -2M + 1] \cup [-1, 0)$.
 
-1. $-(M - 1) \leq x + M \leq M - 1$ (for the first part of the inequality).
-2. $-(M) \leq x + M < M$ (for the second part).
-
-Now, solving for $x$, we get:
-
-- From $-(M - 1) \leq x + M \leq M - 1$, we get:
-  $$-M - (M - 1) \leq x \leq M - 1 - M \quad \Rightarrow \quad -(2M - 1) \leq x \leq -1$$
-
-- From $-(M) \leq x + M < M$, we get:
-  $$-2M \leq x < 0$$
-
-The resulting set is the interval $[-(2M - 1), -1]$ combined with $[-2M, 0)$, meaning the set includes part of a closed interval and part of an open interval.
-
-**Sketch**:  
-- The real axis has a segment from $-(2M - 1)$ to $-1$ (closed) and another segment from $-2M$ to $0$ (open at $0$).
 
 **Classification**:  
-- This set is **neither open nor closed** because it includes part of a closed interval and part of an open interval, which means it doesn't fully satisfy the conditions for being open or closed.
+- This set is **neither open nor closed** because it includes a combination of open and closed intervals. Specifically, $(-2M, -2M + 1]$ is closed at one end and open at the other, while $[-1, 0)$ is similarly a mix of open and closed.
 
 ---
 
