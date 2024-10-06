@@ -574,36 +574,17 @@ b. $\displaystyle ((1+ \frac{1}{n})^{n/M})_{n\in \mathbb{N}, n>0}$
 c. $\displaystyle ((1+ \frac{1}{Mn})^{n^2})_{n\in \mathbb{N}, n>0}$
 
 ---
-### Indicate which of the following sequence does converge and what is the limit in this case? Prove your answer for these sequences using any theory covered in the lectures.
-
 #### a. $((1 + \frac{1}{\frac{n}{M}})^{n})_{n \in \mathbb{N}, n > 0}$
 
 We can rewrite the sequence as:
 
 $$
-(1+ \frac{1}{n/M})^n = ((1+ \frac{1}{n/M})^{n/M})^M = 
-$$
-
-Now, set \(k = \frac{n}{M}\), so as \(n \to \infty\), \(k \to \infty\). We can rewrite this as:
-
-$$
-\left(1 + \frac{1}{k}\right)^{Mk}
-$$
-
-Using the known limit:
-
-$$
-\lim_{k \to \infty} \left(1 + \frac{1}{k}\right)^{k} = e
-$$
-
-Then, we can express the limit as:
-
-$$
-\lim_{n \to \infty} \left(1 + \frac{M}{n}\right)^{n} = e^{M}
+(1+ \frac{1}{n/M})^n = ((1+ \frac{1}{n/M})^{n/M})^M = e^M
 $$
 
 **Limit**: $e^{M}$
 
+---
 #### b. $((1 + \frac{1}{n})^{\frac{n}{M}})_{n \in \mathbb{N}, n > 0}$
 
 This sequence can be analyzed as follows:
@@ -612,7 +593,7 @@ $$
 \left(1 + \frac{1}{n}\right)^{\frac{n}{M}} = \left[\left(1 + \frac{1}{n}\right)^{n}\right]^{\frac{1}{M}}
 $$
 
-As \(n \to \infty\):
+As $(n \to \infty)$:
 
 $$
 \lim_{n \to \infty} \left(1 + \frac{1}{n}\right)^{n} = e
@@ -634,7 +615,7 @@ $$
 \left(1 + \frac{1}{Mn}\right)^{n^2} = \left[\left(1 + \frac{1}{Mn}\right)^{Mn}\right]^{\frac{n^2}{Mn}}
 $$
 
-As \(n \to \infty\):
+As $(n \to \infty)$:
 
 $$
 \lim_{n \to \infty} \left(1 + \frac{1}{Mn}\right)^{Mn} = e
@@ -646,7 +627,7 @@ $$
 \frac{n^2}{Mn} = \frac{n}{M}
 $$
 
-As \(n \to \infty\), this goes to:
+As $(n \to \infty)$, this goes to:
 
 $$
 \lim_{n \to \infty} e^{\frac{n}{M}} \to \infty
