@@ -501,3 +501,7 @@ $$
 $$
 
 Therefore, by the Cauchy criterion, the sequence $(a_n)$ is convergent.
+
+---
+# 11) An open set of reals is any set that contains a neighborhood of each of its points. A closed set is the set-theoretic complement in $\mathbb{R}$ of an open set. Draw (sketch) on the real axis the following sets: a) $|x-M| <2$ b) $|2x-2|\geq M$ c) $M-1 \leq |x+M| < M$.
+---
