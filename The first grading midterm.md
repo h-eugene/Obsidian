@@ -532,11 +532,11 @@ $$x \leq 1 - \frac{M}{2} \quad \text{or} \quad x \geq 1 + \frac{M}{2}$$
 
 This represents the union of two **closed** intervals: $(-\infty, 1 - \frac{M}{2}] \cup [1 + \frac{M}{2}, \infty)$.
 
-**Sketch**:  
-- We draw two rays extending from $1 - \frac{M}{2}$ (inclusive, indicated by a closed circle) to the left, and from $1 + \frac{M}{2}$ (inclusive) to the right, extending infinitely in both directions.
+![](Pasted%20image%2020241006120618.png)
 
 **Classification**:  
-- This set is **closed** because both intervals $(-\infty, 1 - \frac{M}{2}]$ and $[1 + \frac{M}{2}, \infty)$ are closed, and the union of closed sets is also closed.
+- This set is **closed** because it is the complement of an open set. The inequality $|2x - 2| \geq M$ describes points outside the interval $1 - \frac{M}{2} < x < 1 + \frac{M}{2}$, which is an open interval. Since the complement of an open set is closed, the given set is closed.
+
 
 ---
 
