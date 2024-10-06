@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "monoton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Number Systems. Axiomatic approaches..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The first grading midterm.md"
+                "file": "Number Systems. Axiomatic approaches..md"
               }
             }
           }
@@ -202,8 +201,8 @@
   },
   "active": "2905d0fb4df39b5e",
   "lastOpenFiles": [
-    "Theory of sequences and their limits..md",
     "The first grading midterm.md",
+    "Theory of sequences and their limits..md",
     "Mathematical Analysis I.md",
     "Theory of limits and continuity.md",
     "Real functions and their limits at a point..md",
