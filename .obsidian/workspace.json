@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7108dc1de8872fbf",
+        "id": "7d28678cb04f970e",
         "type": "tabs",
         "children": [
           {
-            "id": "2905d0fb4df39b5e",
+            "id": "ed3608d7cdde1f6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The first grading midterm.md",
-                "mode": "preview",
+                "file": "Home/The Beginning.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The first grading midterm.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -200,13 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2905d0fb4df39b5e",
+  "active": "ed3608d7cdde1f6a",
   "lastOpenFiles": [
+    "The first grading midterm.md",
     "Library/Pasted image 20241006123050.png",
     "Library/Pasted image 20241006120618.png",
     "Library/Pasted image 20241006115845.png",
     "Theory of sequences and their limits..md",
-    "The first grading midterm.md",
     "Number Systems. Axiomatic approaches..md",
     "Mathematical Analysis I.md",
     "Theory of limits and continuity.md",
@@ -234,7 +234,6 @@
     "Library/Pasted image 20240928231921.png",
     "Library/Pasted image 20240927111043.png",
     "Library/Pasted image 20240926221720.png",
-    "Library/Pasted image 20240926221413.png",
     "English от ChatGPT.md",
     "Меню от ChatGPT.md",
     "Тренировка от ChatGPT.md",

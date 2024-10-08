@@ -3096,6 +3096,7 @@ Difference
 Direct
 Denotions
 Detachment
+Diverges
 Lecturer
 Link
 Line
@@ -5622,6 +5623,8 @@ Laptop
 Leibniz
 Loop
 Learning
+Limit
+Limits
 Vladimir
 Vector
 VIEW
@@ -11808,6 +11811,7 @@ Import
 Inductive
 Intuitively
 Integer
+Indicate
 Telegram
 Theorem
 Text
@@ -19750,6 +19754,7 @@ those
 theories
 talks
 tool
+tends
 Course
 Curves
 Continuation
@@ -22585,6 +22590,10 @@ Conclusion
 Contrapositive
 Column
 Compare
+Combining
+Closed
+Convergence
+Converges
 Sections
 Surfaces
 Spaces
@@ -25395,6 +25404,8 @@ Statement
 Standard
 School
 Such
+Specifically
+Summary
 Algebra
 AGLA
 Assignments
@@ -28128,6 +28139,7 @@ Architectures
 Area
 Anki
 Argument
+Again
 and
 algebra
 any
@@ -30961,6 +30973,7 @@ augmented
 adjacency
 adding
 approx
+analyze
 Plane
 Problem
 Prove
@@ -48224,6 +48237,7 @@ Real
 Rectangular
 Rational
 Russell
+Results
 of
 one
 others
@@ -53614,6 +53628,9 @@ lower
 largest
 lceil
 lectures
+ldots
+large
+leads
 geometria
 gN
 gQ
@@ -56455,6 +56472,7 @@ generalization
 greatest
 grading
 goes
+grows
 Umnov
 Uniqueness
 Uf
@@ -69094,6 +69112,10 @@ individual
 involve
 interact
 issues
+intervals
+inner
+illustrating
+influences
 For
 Functions
 Frolov
@@ -72060,6 +72082,7 @@ Fact
 FALSE
 Files
 From
+Finally
 vectors
 vector
 variable
@@ -77305,6 +77328,7 @@ formally
 forall
 further
 fields
+final
 scalars
 sufficient
 settings
@@ -80147,6 +80171,9 @@ short
 structures
 science
 sqrt
+sufficiently
+simplifies
+similarly
 exist
 excalidraw
 everything
@@ -83105,6 +83132,8 @@ expressions
 equations
 expressive
 epsilon
+exponent
+examine
 have
 hQ
 hfRF
@@ -85967,6 +85996,7 @@ hits
 hence
 hops
 helps
+here
 combination
 can
 command
@@ -88964,6 +88994,8 @@ constructions
 clearly
 collections
 covered
+closed
+conclude
 Necessity
 Nikolay
 Natural
@@ -91560,6 +91592,7 @@ Null
 Neighborhoods
 Neural
 Networks
+Neither
 Given
 Graphs
 Gg
@@ -97218,6 +97251,7 @@ basic
 behaviors
 broader
 birth
+broken
 EXCALIDRAW
 Excalidraw
 Elements
@@ -115569,6 +115603,7 @@ understanding
 undergoing
 underlying
 underpinnings
+utilize
 represented
 ru
 rows
@@ -118394,6 +118429,10 @@ relations
 rarely
 robotics
 rceil
+rewriting
+rewritten
+recognize
+rewrite
 Zorich
 ZM
 ZB
@@ -127746,6 +127785,7 @@ quadratic
 quantifying
 quantification
 quantifies
+quad
 HB
 HE
 HK
