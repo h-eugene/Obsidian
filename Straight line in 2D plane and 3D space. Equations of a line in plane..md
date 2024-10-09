@@ -29,3 +29,11 @@
 
 $$r - r_{0} = [x-x_{0}, y-y_{0}, z-z_{0}]^\top$$
 $$q = [q_{x},q_{y},q_{z}]^\top$$
+---
+## Canonical equation of a line:
+
+Eliminating $t$ from the system:
+$\begin{cases} x = x_{0} + q_{x}t\\ y = y_{0} + q_{y}t \\ z = z_{0} + q_{z}t\end{cases}$
+
+>[!note] we get the *Canonical equation*
+>$$\frac{x-x_{0}}{q_{x}}$$
