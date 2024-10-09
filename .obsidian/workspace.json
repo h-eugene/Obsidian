@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7d28678cb04f970e",
+        "id": "80d7417b2a9044ef",
         "type": "tabs",
         "children": [
           {
-            "id": "ed3608d7cdde1f6a",
+            "id": "4363fedaa809631c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed3608d7cdde1f6a",
+  "active": "4363fedaa809631c",
   "lastOpenFiles": [
     "The first grading midterm.md",
     "Library/Pasted image 20241006123050.png",
