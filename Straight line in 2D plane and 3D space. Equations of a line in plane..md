@@ -11,5 +11,18 @@
 ---
 # Straight line in plane:
 ---
+## Parametric Vector Equation:
 
+![](Pasted%20image%2020241009095851.png)
 
+**Equation:** $r - r_{0} = tq$, where $t$ is a parameter.
+
+---
+## Parametric Equation in 3D:
+
+>[!note] In **rectangular Cartesian coordinate system**
+>$$\text{Equation of a line: }\begin{cases} 
+ x = x_{0} + q_{x}t \\
+ y= y_{0} + q_{y}t  \\
+ z = z 
+\end{cases}$$
