@@ -24,5 +24,8 @@
 >$$\text{Equation of a line: }\begin{cases} 
  x = x_{0} + q_{x}t \\
  y= y_{0} + q_{y}t  \\
- z = z 
+ z = z_{0} + q_{z}t 
 \end{cases}$$
+
+$$r - r_{0} = [x-x_{0}, y-y_{0}, z-z_{0}]^\top$$
+$$q = [q_{x},q_{y},q_{z}]^\top$$
