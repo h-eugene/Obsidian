@@ -36,4 +36,8 @@ Eliminating $t$ from the system:
 $\begin{cases} x = x_{0} + q_{x}t\\ y = y_{0} + q_{y}t \\ z = z_{0} + q_{z}t\end{cases}$
 
 >[!note] we get the *Canonical equation*
->$$\frac{x-x_{0}}{q_{x}}$$
+>$$\frac{x-x_{0}}{q_{x}} = \frac{y-y_{0}}{q_{y}} = \frac{z-z_{0}}{q_{z}}$$
+
+>[!note] Given two points: $M_{0}$ and $M_{1}$:
+>$$\frac{x-x_{0}}{x_{1}-x_{0}} = \frac{y-y_{0}}{y_{1}-y_{0}} = \frac{z-z_{0}}{z_{1}-z_{0}}$$
+
