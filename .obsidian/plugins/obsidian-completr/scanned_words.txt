@@ -25406,6 +25406,7 @@ School
 Such
 Specifically
 Summary
+Straight
 Algebra
 AGLA
 Assignments
@@ -100307,6 +100308,7 @@ Each
 English
 Extended
 Exams
+Equations
 OPTIONS
 Operations
 Obtain
