@@ -38,41 +38,25 @@
 >[!abstract] Rules Ponens (Law of Detachment)
 >- $P\to Q$
 >- $P$
->---
 >- $Q$
 
 > [!abstract] Contrapositive 
 > $\neg Q \to \neg P$
-> - - -
 > $P\to Q$
 
 >[!abstract] Hypothetical Syllogism
 >$P\to Q$
 >$Q \to R$
->---
 >$P\to R$
 
 >[!abstract] $\forall$ and $\exists$-rules
 >$\forall x P(x)$ – *$\forall$-rule of instantiation*
->- --
 >$P(c)$ for any $c$
-> -- - 
-> - - -
-> - --
 >$P(c)$ for any $c$ – *$\forall$ of generalization*
->- - -
 >$\forall x P(x)$
->- - -
->- - - 
->- --
 >$\exists xP(x)$ – *$\exists$-rule of instantiantion*
->- - -
 >$P(c)$ for some $c$
->- - - 
->-  --
->- --
 >$P(c)$ for some $c$ – $\exists$-rule of generalization
->- - -
 >$\exists xP(x)$
 
 ---
