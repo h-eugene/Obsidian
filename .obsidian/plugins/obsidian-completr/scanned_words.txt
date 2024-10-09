@@ -5625,6 +5625,7 @@ Loop
 Learning
 Limit
 Limits
+Locus
 Vladimir
 Vector
 VIEW
@@ -19755,6 +19756,7 @@ theories
 talks
 tool
 tends
+traced
 Course
 Curves
 Continuation
@@ -22594,6 +22596,7 @@ Combining
 Closed
 Convergence
 Converges
+Canonical
 Sections
 Surfaces
 Spaces
@@ -33552,6 +33555,7 @@ Ponens
 Perform
 Principle
 Paradox
+Parametric
 Quadratic
 Qn
 QL
@@ -45185,6 +45189,7 @@ part
 processes
 pairs
 provides
+path
 Read
 Relations
 RY
@@ -48239,6 +48244,7 @@ Rectangular
 Rational
 Russell
 Results
+Review
 of
 one
 others
@@ -53632,6 +53638,8 @@ lectures
 ldots
 large
 leads
+locus
+lengths
 geometria
 gN
 gQ
@@ -56474,6 +56482,7 @@ greatest
 grading
 goes
 grows
+geometrical
 Umnov
 Uniqueness
 Uf
@@ -65420,6 +65429,7 @@ describe
 directly
 defining
 diverges
+distances
 independency
 in
 info
@@ -83135,6 +83145,7 @@ expressive
 epsilon
 exponent
 examine
+equation
 have
 hQ
 hfRF
@@ -88997,6 +89008,8 @@ collections
 covered
 closed
 conclude
+conditions
+coordinate
 Necessity
 Nikolay
 Natural
@@ -100309,6 +100322,8 @@ English
 Extended
 Exams
 Equations
+Equation
+Eliminating
 OPTIONS
 Operations
 Obtain
@@ -106754,6 +106769,7 @@ manipulating
 mathematical
 mathcal
 month
+moves
 You
 YC
 YR
