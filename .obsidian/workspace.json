@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic of Logic.md",
-                "mode": "preview",
+                "file": "Basic Proof Techniques.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic of Logic.md",
+                "file": "Basic Proof Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic of Logic.md",
+                "file": "Basic Proof Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Basic of Logic.md",
+                "file": "Basic Proof Techniques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic of Logic.md"
+                "file": "Basic Proof Techniques.md"
               }
             }
           }
@@ -202,8 +202,8 @@
   },
   "active": "8ed5aacfbecd66de",
   "lastOpenFiles": [
-    "Naive Set Theory.md",
     "Basic of Logic.md",
+    "Naive Set Theory.md",
     "Basic Proof Techniques.md",
     "Logic and Discrete Mathematics.md",
     "Innopolis 1st year - Fall Semester.md",
