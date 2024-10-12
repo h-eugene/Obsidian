@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ca75e1e303203f",
+        "id": "e5a5c46541e8a082",
         "type": "tabs",
         "children": [
           {
-            "id": "03940ffaebd46330",
+            "id": "6c7b0249dfbaf0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The first grading midterm.md",
-                "mode": "preview",
+                "file": "Home/The Beginning.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The first grading midterm.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The first grading midterm.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -200,8 +200,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03940ffaebd46330",
+  "active": "6c7b0249dfbaf0e6",
   "lastOpenFiles": [
+    "The first grading midterm.md",
     "Mathematical Analysis I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
@@ -216,7 +217,6 @@
     "Analytical Geometry and Linear Algebra I.md",
     "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "The first grading midterm.md",
     "Library/Pasted image 20241006123050.png",
     "Library/Pasted image 20241006120618.png",
     "Library/Pasted image 20241006115845.png",
