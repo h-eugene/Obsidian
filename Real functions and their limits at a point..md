@@ -22,5 +22,13 @@
 
 ---
 # Function limit in reals at infinities: from neighborhoods to $\varepsilon \& u$ and back:
-
-- A point $y$ in $\mathbb{R}$ is a limit of a real function 
+---
+- A point $y$ in $\mathbb{R}$ is a limit of a real function $f: D \to \mathbb{R}$ when $x$ tending to $\pm \infty$, if 
+	- for any $\varepsilon >0$ 
+		- for some $u>0$ 
+			- for every $x$ in support of $f$ 
+				- if $x \frac{\geq}{\leq}\pm u$ then 
+				  - $|f(x)-y|\leq \varepsilon$.
+---
+- A point $y$ of $\mathbb{R}_{\pm \infty}$ is a limit of a real function $f:D \to \mathbb{R}$ when $x$ tending to $d \in \mathbb{R}_{\pm \infty}$,
+  
