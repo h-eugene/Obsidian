@@ -51,7 +51,9 @@ Let $f: D \to \mathbb{R}$.
 			- for every $x$ in support of $f$
 				- if $x \frac{\geq}{\leq}\pm u$ then $f(x) \leq v$.
 ---
-- A point $y$ of $\mathbb{R}_{\pm \infty}$ is a limit of a real function $f: D \to \mathbb{R}$ when $x$ tending to $d \in \mathbb{R}_{\pm \infty}$, 
-	- if for any neighborhood $V$ of $y$
+- $\pm \infty$ is a limit of a real function $f: D \to \mathbb{R}$ when $x$ tending to $d \in \mathbb{R}_{\pm \infty}$, 
+	- if for any neighborhood $V$ of $\pm \infty$
 		-  for some neighborhood $U$ of $d$
 			- holds $f(U) \subseteq V$.
+----
+Right-side limit in reals at real points: from neighborhood to $\varepsilon \& \delta$ and back
