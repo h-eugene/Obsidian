@@ -68,4 +68,4 @@ Let $f: D \to \mathbb{R}$.
 ---
 # Cardinal sine function $\text{sinc}(x)$:  
 ---
-- Remark that function $\lambda x \in \mathbb{R}.$ $$
+- Remark that function $\lambda x \in \mathbb{R}.$ $\displaystyle \left( \frac{\sin(x)}{x}\right)$ has a punctured point $x = 0$ where the function is not defined (out of its support)
