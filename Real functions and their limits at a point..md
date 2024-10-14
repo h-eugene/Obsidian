@@ -65,3 +65,5 @@ Let $f: D \to \mathbb{R}$.
 				- if $d<x \leq d + \delta$
 					- then $|f(x) - y| \leq \varepsilon$.
 	- function $f$ with a restricted domain $D\ \cap \ ]d, +\infty[$ has $y$ as a limit when $x$ tending to $d$.
+---
+Cardinal sine function $sinc$: 
