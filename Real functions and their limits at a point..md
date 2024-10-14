@@ -35,7 +35,9 @@
 	- if for any neighborhood $V$ of $y$ 
 		- for some neighborhood $U$ of $d$ 
 			- holds $f(U) \subseteq V$.
-- If $f(d) = y$ and y is a limit of functions
+- $f(d) = y$  –  Notion.
 ---
-
-  
+# Function limits in infinities at infinities: from neighborhood to $\displaystyle v \& u$ and back:
+---
+Let $f: D \to \mathbb{R}$.
+- $\displaystyle -\infty = \lim_{x\to \pm \infty}f(x),$
