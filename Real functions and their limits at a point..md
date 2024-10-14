@@ -66,4 +66,6 @@ Let $f: D \to \mathbb{R}$.
 					- then $|f(x) - y| \leq \varepsilon$.
 	- function $f$ with a restricted domain $D\ \cap \ ]d, +\infty[$ has $y$ as a limit when $x$ tending to $d$.
 ---
-Cardinal sine function $sinc$: 
+# Cardinal sine function $\text{sinc}(x)$:  
+---
+- Remark that function $\lambda x \in \mathbb{R}.$ $$
