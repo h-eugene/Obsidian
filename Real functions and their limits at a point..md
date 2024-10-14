@@ -19,4 +19,8 @@
 >A point $y$ in $\mathbb{R}$ is a limit of a real function $f:D\to \mathbb{R}$ when $x$ tending to $d\in \mathbb{R}$, 
 >if for any $\varepsilon>0$ for some $\delta>0$ for every $x$ in support of $f$ 
 >	if $|x-d|\leq \delta$ then $|f(x)-y|\leq \varepsilon$. 
- 
+
+---
+# Function limit in reals at infinities: from neighborhoods to $\varepsilon \& u$ and back:
+
+- A point $y$ in $\mathbb{R}$ is a limit of a real function 

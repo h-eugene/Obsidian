@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Real functions and their limits at a point..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Real functions and their limits at a point..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Real functions and their limits at a point..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Real functions and their limits at a point..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Real functions and their limits at a point..md"
               }
             }
           }
@@ -202,11 +202,12 @@
   },
   "active": "851c77474b63c260",
   "lastOpenFiles": [
-    "The first grading midterm.md",
+    "Theory of limits and continuity.md",
     "Mathematical Analysis I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "The first grading midterm.md",
     "Basic Proof Techniques.md",
     "Basic of Logic.md",
     "Naive Set Theory.md",
@@ -222,7 +223,6 @@
     "Library/Pasted image 20241006115845.png",
     "Theory of sequences and their limits..md",
     "Number Systems. Axiomatic approaches..md",
-    "Theory of limits and continuity.md",
     "Real functions and their limits at a point..md",
     "Basics of naive Set Theory..md",
     "Introduction.md",
