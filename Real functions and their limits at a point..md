@@ -56,4 +56,12 @@ Let $f: D \to \mathbb{R}$.
 		-  for some neighborhood $U$ of $d$
 			- holds $f(U) \subseteq V$.
 ----
-Right-side limit in reals at real points: from neighborhood to $\varepsilon \& \delta$ and back
+# Right-side limit in reals at real points: from neighborhood to $\varepsilon \& \delta$ and back:
+---
+- A point $y$ in $R$ is a right-side limit of a real function $f: D \to \mathbb{R}$ when $x$ tending (from right) to $d \in \mathbb{R}$ (notation $\displaystyle y = \lim_{x \to d+0}f(x)$) if:
+	- for any $\varepsilon>0$
+		- for some $\delta>0$
+			- for every $x$ in support of $f$
+				- if $d<x \leq d + \delta$
+					- then $|f(x) - y| \leq \varepsilon$.
+	- function $f$ with a restricted domain $D\ \cap \ ]d, +\infty[$ has $y$ as a limit when $x$ tending to $d$
