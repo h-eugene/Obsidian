@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef8ef0f5d957e6b7",
+        "id": "363633a0b6502fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "7cba10bc82027f6a",
+            "id": "6761dddc47a09419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Real functions and their limits at a point..md",
+                "file": "Innopolis University.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Real functions and their limits at a point..md",
+                "file": "Innopolis University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Real functions and their limits at a point..md",
+                "file": "Innopolis University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Real functions and their limits at a point..md",
+                "file": "Innopolis University.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Real functions and their limits at a point..md"
+                "file": "Innopolis University.md"
               }
             }
           }
@@ -200,14 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cba10bc82027f6a",
+  "active": "6761dddc47a09419",
   "lastOpenFiles": [
+    "Home/The Beginning.md",
     "Real functions and their limits at a point..md",
     "Theory of limits and continuity.md",
     "Mathematical Analysis I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
-    "Home/The Beginning.md",
     "The first grading midterm.md",
     "Basic Proof Techniques.md",
     "Basic of Logic.md",
