@@ -29,6 +29,7 @@
 			- for every $x$ in support of $f$ 
 				- if $x \frac{\geq}{\leq}\pm u$ then 
 				    - $|f(x)-y|\leq \varepsilon$.
+- It means that if $f(x)$ approaches to $y$, when $x$ tends to $+\infty$ or $-\infty$, then for any small $\varepsilon$ there exists the pretty  
 ---
 - A point $y$ of $\mathbb{R}_{\pm \infty}$ is a limit of a real function $f:D \to \mathbb{R}$ when $x$ tending to $d \in \mathbb{R}_{\pm \infty}$,
 	- if 

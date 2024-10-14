@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Real functions and their limits at a point..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Real functions and their limits at a point..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Real functions and their limits at a point..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Innopolis University.md",
+                "file": "Real functions and their limits at a point..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Innopolis University.md"
+                "file": "Real functions and their limits at a point..md"
               }
             }
           }
@@ -202,12 +202,12 @@
   },
   "active": "6761dddc47a09419",
   "lastOpenFiles": [
-    "Home/The Beginning.md",
-    "Real functions and their limits at a point..md",
     "Theory of limits and continuity.md",
     "Mathematical Analysis I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
+    "Home/The Beginning.md",
+    "Real functions and their limits at a point..md",
     "The first grading midterm.md",
     "Basic Proof Techniques.md",
     "Basic of Logic.md",
