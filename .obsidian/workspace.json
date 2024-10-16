@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Math/Konev eng.pdf",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Math/Konev eng.pdf",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Library/Math/Konev eng.pdf",
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Math/Konev eng.pdf"
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md"
               }
             }
           }
@@ -222,15 +223,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80607d978acbb61c",
+  "active": "fb66767c8474a6ca",
   "lastOpenFiles": [
+    "Library/Math/Konev eng.pdf",
     "Midterm 1 - AGLA.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Analytical Geometry and Linear Algebra I.md",
     "Midterm 1 - MathAn.md",
     "Mathematical Analysis I.md",
     "Innopolis 1st year - Fall Semester.md",
-    "Library/Math/Konev eng.pdf",
     "Library/Math/Linear Algebra and Applications.pdf",
     "Library/Math/Analytical Geometry_ 2D and 3D - P. R. Vittal.pdf",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
@@ -265,7 +266,6 @@
     "Library/Pasted image 20240928231921.png",
     "Library/Pasted image 20240927111043.png",
     "English от ChatGPT.md",
-    "Меню от ChatGPT.md",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "smart-chats",
