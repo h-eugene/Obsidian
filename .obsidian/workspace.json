@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
-                "mode": "source",
+                "file": "Change of Basis. Matrix Inverses..md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Change of Basis. Matrix Inverses..md"
               }
             }
           }
@@ -202,22 +202,23 @@
   },
   "active": "80607d978acbb61c",
   "lastOpenFiles": [
-    "Real functions and their limits at a point..md",
-    "Theory of limits and continuity.md",
-    "Mathematical Analysis I.md",
+    "Vector Algebra.md",
+    "Analytical Geometry and Linear Algebra I.md",
+    "Line and Plane.md",
+    "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
+    "Change of Basis. Matrix Inverses..md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
+    "Real functions and their limits at a point..md",
+    "Theory of limits and continuity.md",
+    "Mathematical Analysis I.md",
     "The first grading midterm.md",
     "Basic Proof Techniques.md",
     "Basic of Logic.md",
     "Naive Set Theory.md",
     "Logic and Discrete Mathematics.md",
-    "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
     "Library/Pasted image 20241009095851.png",
-    "Line and Plane.md",
-    "Analytical Geometry and Linear Algebra I.md",
-    "Vector Algebra.md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Library/Pasted image 20241006123050.png",
     "Library/Pasted image 20241006120618.png",
@@ -227,7 +228,6 @@
     "Basics of naive Set Theory..md",
     "Introduction.md",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
-    "Change of Basis. Matrix Inverses..md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Books and Courses.md",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
