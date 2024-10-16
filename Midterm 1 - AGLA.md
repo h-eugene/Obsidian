@@ -6,13 +6,21 @@
 2. Condition of coplanarity of three vectors:
    Three vectors are complanar if their scalar triple product is equal to $0$:
    $$\displaylines{a \cdot (b \times c) = 0}$$
-3. Trace of Matrix is the sum of all elements on the main diagonal:
+3. Trace of a matrix is the sum of all elements on the main diagonal:
    $$Tr(A) = \sum^{m}_{i=1}a_{ii}$$
-   Trace is linearity if it satisfies the folloing property:
-	   - **Additivity:** $Tr(A + B) = Tr(A) + Tr(A)$
-	   - **Homogeneity:** $Tr(c\cdot A) = c\cdot Tr(A)$
+   
+   Trace is linear if it satisfies the following properties:
+   
+   - **Additivity:** $Tr(A + B) = Tr(A) + Tr(B)$
+   - **Homogeneity:** $Tr(c \cdot A) = c \cdot Tr(A)$
 
    **Additivity:**
-   $Tr(A+B) = \sum^{m}_{i=1}(a_{ii} + b_{ii}) = \sum^{m}_{i=1}a_{ii} + \sum^{m}_{i=1}b_{ii} = Tr(A) + Tr(B)$
+   $$Tr(A+B) = \sum^{m}_{i=1}(a_{ii} + b_{ii}) = \sum^{m}_{i=1}a_{ii} + \sum^{m}_{i=1}b_{ii} = Tr(A) + Tr(B)$$
+   
    **Homogeneity:**
-   $$Tr(c\cdot A) = \sum^{m}_{i=1}(c)$$
+   $$Tr(c \cdot A) = \sum^{m}_{i=1}(c \cdot a_{ii}) = c \cdot \sum^{m}_{i=1}a_{ii} = c \cdot Tr(A)$$$$Tr(c\cdot A) = \sum^{m}_{i=1}(c \cdot a_{ii}) = c \cdot \sum^{m}_{i=1}a_{ii}$$
+
+
+## Practice:
+
+1. Vector operations / Matrices
