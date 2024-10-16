@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Library/Math/Linear Algebra and Applications.pdf"
+                "file": "Library/Math/Konev eng.pdf"
               }
             }
           }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Math/Linear Algebra and Applications.pdf",
+                "file": "Library/Math/Konev eng.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Math/Linear Algebra and Applications.pdf",
+                "file": "Library/Math/Konev eng.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Library/Math/Linear Algebra and Applications.pdf",
+                "file": "Library/Math/Konev eng.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Math/Linear Algebra and Applications.pdf"
+                "file": "Library/Math/Konev eng.pdf"
               }
             }
           }
@@ -199,10 +199,10 @@
   },
   "active": "80607d978acbb61c",
   "lastOpenFiles": [
+    "Library/Math/Linear Algebra and Applications.pdf",
     "Library/Math/Analytical Geometry_ 2D and 3D - P. R. Vittal.pdf",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Library/Math/Konev eng.pdf",
-    "Library/Math/Linear Algebra and Applications.pdf",
     "Change of Basis. Matrix Inverses..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
