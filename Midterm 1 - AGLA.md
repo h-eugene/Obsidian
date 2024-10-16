@@ -100,5 +100,11 @@ i&j&k \\ 6&7&1 \\ 4&2&1
 \end{bmatrix} = 5i -2j -16k\\ \overline{n} = \begin{bmatrix}
 5 \\ -2 \\ -16
 \end{bmatrix}}$$
-4. Equation of the plane:
+4. **Equation of the plane:**
+   Finally, we can use the normal vector $\overline{n} = (5,-2,-16)$ and the point $P_{1}(-1,2,0)$ to write the equation of the plane. The equation of the plane is:
+   $$n_{x}(x-x_{0})+n_{y}(y-y_{0})+n_{z}(z-z_{0}) = 0$$
+   Substituting the values:
+   $$5(x+1) - 2(y-2) - 16(z-0) = 0$$
+   Simplifying:
+   $$5x-2y-16z+9=0$$
    
