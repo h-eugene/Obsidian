@@ -9,5 +9,10 @@
 3. Trace of Matrix is the sum of all elements on the main diagonal:
    $$Tr(A) = \sum^{m}_{i=1}a_{ii}$$
    Trace is linearity if it satisfies the folloing property:
-   - Additivity
-   - 
+	   - **Additivity:** $Tr(A + B) = Tr(A) + Tr(A)$
+	   - **Homogeneity:** $Tr(c\cdot A) = c\cdot Tr(A)$
+
+   **Additivity:**
+   $Tr(A+B) = \sum^{m}_{i=1}(a_{ii} + b_{ii}) = \sum^{m}_{i=1}a_{ii} + \sum^{m}_{i=1}b_{ii} = Tr(A) + Tr(B)$
+   **Homogeneity:**
+   $$Tr(c\cdot A) = \sum^{m}_{i=1}(c)$$
