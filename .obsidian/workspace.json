@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Midterm 1 - AGLA.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trace",
+                "query": "lineari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Midterm 1 - AGLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Midterm 1 - AGLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Midterm 1 - AGLA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Midterm 1 - AGLA.md"
               }
             }
           }
@@ -200,26 +199,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb66767c8474a6ca",
+  "active": "d0989b295985b2c1",
   "lastOpenFiles": [
+    "Analytical Geometry and Linear Algebra I.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
     "Change of Basis. Matrix Inverses..md",
     "Midterm 1 - AGLA.md",
     "Library/Math/Konev eng.pdf",
     "Matrix Operations and Vector Cross Product..md",
     "The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "Analytical Geometry and Linear Algebra I.md",
     "Midterm 1 - MathAn.md",
     "Mathematical Analysis I.md",
-    "Innopolis 1st year - Fall Semester.md",
     "Library/Math/Linear Algebra and Applications.pdf",
     "Library/Math/Analytical Geometry_ 2D and 3D - P. R. Vittal.pdf",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Vector Algebra.md",
     "Line and Plane.md",
     "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Real functions and their limits at a point..md",
     "Theory of limits and continuity.md",
     "Basic Proof Techniques.md",
