@@ -72,11 +72,4 @@ $$cos \theta = \frac{\overline{n}_{1} \cdot \overline{n}_{2}}{|\overline{n}_{1}|
 
 #### What is the general equation of the plane which contains the following two parallel lines: $\frac{x+1}{6} = \frac{y-2}{7} =z$ and $\frac{x-3}{6} = \frac{y-4}{7} = z-1$:
 
-$$\begin{cases}
-7x+7 = 6y-12 \\
-y - 2 = 7z
-\end{cases} \Rightarrow 7x-5y -7z+10=0$$
-$$\begin{cases}
-7x - 21 = 6y - 24 \\
-y-4 = 7z -7
-\end{cases} \Rightarrow 7x-5y-7z+6 = 0$$
+To find the equation of a plane that contains two parallel lines, we need to determine the **normal vector** to the plane. This vector will be **perpendicular** to both parallel vectors. To find this normal veco
