@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf"
+                "file": "Library/Math/Linear Algebra and Applications.pdf"
               }
             }
           }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
+                "file": "Library/Math/Linear Algebra and Applications.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
+                "file": "Library/Math/Linear Algebra and Applications.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -131,7 +130,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
+                "file": "Library/Math/Linear Algebra and Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf"
+                "file": "Library/Math/Linear Algebra and Applications.pdf"
               }
             }
           }
@@ -199,9 +198,9 @@
   },
   "active": "80607d978acbb61c",
   "lastOpenFiles": [
-    "Library/Math/Konev eng.pdf",
-    "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Library/Math/Analytical Geometry_ 2D and 3D - P. R. Vittal.pdf",
+    "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
+    "Library/Math/Konev eng.pdf",
     "Library/Math/Linear Algebra and Applications.pdf",
     "Change of Basis. Matrix Inverses..md",
     "Vector Algebra.md",
