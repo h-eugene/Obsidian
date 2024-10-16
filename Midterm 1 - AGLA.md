@@ -69,3 +69,5 @@ Each plane can be written in the general form $Ax+By+Cz =D$, where the coefficie
 ![](Pasted%20image%2020241016210817.png)
 In the diagram, the angle between these planes is represented by the angle between their normal vectors. Using the dot product of the normal vectors, we can calculate this angle:
 $$cos \theta = \frac{\overline{n}_{1} \cdot \overline{n}_{2}}{|\overline{n}_{1}||\overline{n}_{2}|} = \frac{3}{\sqrt{6}\sqrt{6}} = \frac{1}{2} \Rightarrow \theta = 60^\circ$$
+
+#### What is the general equation of the plane which contains the following two parallel lines: $\frac{x+1}{6} = \frac{y-2}{7} =z$ and $\frac{x-3}{6} = \frac{y-4}{7} = z-1$:
