@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "Matrix Operations and Vector Cross Product..md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "Matrix Operations and Vector Cross Product..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "Matrix Operations and Vector Cross Product..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "file": "Matrix Operations and Vector Cross Product..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md"
+                "file": "Matrix Operations and Vector Cross Product..md"
               }
             }
           }
@@ -225,9 +225,11 @@
   },
   "active": "fb66767c8474a6ca",
   "lastOpenFiles": [
-    "Library/Math/Konev eng.pdf",
     "Midterm 1 - AGLA.md",
+    "Matrix Operations and Vector Cross Product..md",
+    "The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
+    "Library/Math/Konev eng.pdf",
     "Analytical Geometry and Linear Algebra I.md",
     "Midterm 1 - MathAn.md",
     "Mathematical Analysis I.md",
@@ -265,7 +267,6 @@
     "Library/Pasted image 20240928231940.png",
     "Library/Pasted image 20240928231921.png",
     "Library/Pasted image 20240927111043.png",
-    "English от ChatGPT.md",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "smart-chats",

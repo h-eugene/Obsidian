@@ -22599,6 +22599,7 @@ Convergence
 Converges
 Canonical
 Cardinal
+Condition
 Sections
 Surfaces
 Spaces
@@ -89018,6 +89019,7 @@ conditions
 coordinate
 considering
 cardinal
+coplanarity
 Necessity
 Nikolay
 Natural
