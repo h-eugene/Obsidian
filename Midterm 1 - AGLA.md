@@ -75,9 +75,9 @@ $$cos \theta = \frac{\overline{n}_{1} \cdot \overline{n}_{2}}{|\overline{n}_{1}|
 To find the equation of a plane that contains two parallel lines, we need to determine the **normal vector** to the plane. This vector will be **perpendicular** to both parallel vectors. To find this normal vector, we can use the **cross product** of two **linearly independent vectors** that lie in the plane.
 
 1. **Guiding vector:**
-   To **guiding vector** of a line, denoted as $\overline{q}$, is the vector that defines the direction of the line in space. According to the canonical representation of a line in space:
+   The **guiding vector** of a line, denoted as $\overline{q}$, is the vector that defines the direction of the line in space. According to the canonical representation of a line in space:
    $$\frac{x-x_{0}}{q_{x}} = \frac{y-y_0}{q_{y}} = \frac{z-z_{0}}{q_{z}}$$
-   the components of the guiding vector $(q_{x},q_{y},q_{z}$) are the denominators in this equation. In our case, we have the line $\frac{x+1}{6} = \frac{y-2}{7} =z$, and the guiding vector is $\overline{q} = (6,7,1)$.
+   the components of the guiding vector $(q_{x},q_{y},q_{z}$) are the denominators in this equation. In our case, we have the line $\frac{x+1}{6} = \frac{y-2}{7} =z$, and the guiding vector is $\overline{q} = (6,7,1)$. This vector $\overline{q}$ is parallel to our vectors, so it also lie in the plane of these vectors.
 
 2. **Choosing a second vector:**
-   To find 
+   To find a second vector that lies in the plane, we can pick **two points** – one on each of the parallel lines. The vector connecting these two points will also lie in the plane. 
