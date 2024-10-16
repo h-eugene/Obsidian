@@ -55,4 +55,4 @@ i \begin{bmatrix}
 1 \\ 1 \\ 0 
 \end{bmatrix} = \lambda(-3+-1+0)=8}$$
 $$-4\lambda = 8 \Rightarrow \lambda = -2$$
-**Answer:** 
+**Answer:** $\lambda\begin{bmatrix}-3 \\ -1 \\ 3\end{bmatrix} = \begin{bmatrix}6 \\ 2 \\ -6\end{bmatrix}$
