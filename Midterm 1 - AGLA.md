@@ -37,5 +37,10 @@ v_{1}\times v_{2}=\begin{bmatrix}
 \end{bmatrix} \times \begin{bmatrix}
 1 \\ 3 \\0
 \end{bmatrix} = det \begin{bmatrix}
-i & 1 & 1 \\ j & 0 & 
+i & 1 & 1 \\ j & 0 & 3  \\ k & 1 & 0
+\end{bmatrix} = \\
+i \begin{bmatrix}
+0 & 3  \\  1 & 0
+\end{bmatrix} + j \begin{bmatrix}
+
 \end{bmatrix}}$$
