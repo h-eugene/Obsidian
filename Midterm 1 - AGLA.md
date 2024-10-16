@@ -6,4 +6,6 @@
 2. Condition of coplanarity of three vectors:
    Three vectors are complanar if their scalar triple product is equal to $0$:
    $$\displaylines{a \cdot (b \times c) = 0}$$
-3. Trace of Matrix is the sum of all elements on the main di
+3. Trace of Matrix is the sum of all elements on the main diagonal:
+   $$Tr(A) = \sum^{m}_{i=1}a_{ii}$$
+   

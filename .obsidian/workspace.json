@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f533baca8579e18b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Midterm 1 - AGLA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fb66767c8474a6ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
+                "file": "Home/The Beginning.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Home/The Beginning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Home/The Beginning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Home/The Beginning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Midterm 1 - AGLA.md"
+                "file": "Home/The Beginning.md"
               }
             }
           }
@@ -212,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f533baca8579e18b",
+  "active": "fb66767c8474a6ca",
   "lastOpenFiles": [
     "Change of Basis. Matrix Inverses..md",
     "Midterm 1 - AGLA.md",
