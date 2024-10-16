@@ -22597,6 +22597,7 @@ Closed
 Convergence
 Converges
 Canonical
+Cardinal
 Sections
 Surfaces
 Spaces
@@ -45190,6 +45191,7 @@ processes
 pairs
 provides
 path
+punctured
 Read
 Relations
 RY
@@ -80185,6 +80187,8 @@ sqrt
 sufficiently
 simplifies
 similarly
+small
+sine
 exist
 excalidraw
 everything
@@ -89010,6 +89014,8 @@ closed
 conclude
 conditions
 coordinate
+considering
+cardinal
 Necessity
 Nikolay
 Natural
@@ -91607,6 +91613,7 @@ Neighborhoods
 Neural
 Networks
 Neither
+Notion
 Given
 Graphs
 Gg
@@ -118451,6 +118458,7 @@ rewriting
 rewritten
 recognize
 rewrite
+restricted
 Zorich
 ZM
 ZB
