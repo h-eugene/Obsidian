@@ -45,14 +45,19 @@ i \begin{bmatrix}
 1&1 \\ 1&0
 \end{bmatrix} + k\begin{bmatrix}
 1&1 \\ 0&3
-\end{bmatrix} = -3i - j + 3k=
+\end{bmatrix} = -3i + j + 3k=
 \begin{bmatrix}
--3 \\ -1 \\ 3
+-3 \\ 1 \\ 3
 \end{bmatrix}\\
 \lambda(v_{1} \times v_{2})\cdot v_{3} = \lambda\begin{bmatrix}
--3 \\ -1 \\ 3
+-3 \\ 1 \\ 3
 \end{bmatrix}\cdot \begin{bmatrix}
 1 \\ 1 \\ 0 
-\end{bmatrix} = \lambda(-3+-1+0)=8}$$
-$$-4\lambda = 8 \Rightarrow \lambda = -2$$
-**Answer:** $\lambda\begin{bmatrix}-3 \\ -1 \\ 3\end{bmatrix} = \begin{bmatrix}6 \\ 2 \\ -6\end{bmatrix}$
+\end{bmatrix} = \lambda(-3+1+0)=8}$$
+$$-2\lambda = 8 \Rightarrow \lambda = -4$$
+**Answer:** $\lambda\begin{bmatrix}-3 \\ 1 \\ 3\end{bmatrix} = \begin{bmatrix}12 \\ -4 \\ -12\end{bmatrix}$
+
+### 2. Lines / Planes:
+
+#### Find the angle between the planes $2x - y + z = 6$, $x+y+2z =3$.
+
