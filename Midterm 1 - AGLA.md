@@ -31,7 +31,7 @@ $$\displaylines{\Delta = (2*4*0 + 5*(-2)*(-7) + (-3)* 1 * 3) - \\(-7*4*(-3) + (3
 ---
 #### Find  a vector that is orthogonal to both $v_{1} = (1,0,1)$ and $v_{2}=(1,3,0)$ and which dot product with vector $v_{3} = (1,1,0)$ equals to $8$:
 
-$$\displaylines{(v_{1}\times v_{2})\cdot v_{3} = 8\\
+$$\displaylines{\lambda(v_{1}\times v_{2})\cdot v_{3} = 8\\
 v_{1}\times v_{2}=\begin{bmatrix}
 1 \\ 0 \\ 1
 \end{bmatrix} \times \begin{bmatrix}
@@ -49,8 +49,10 @@ i \begin{bmatrix}
 \begin{bmatrix}
 -3 \\ -1 \\ 3
 \end{bmatrix}\\
-(v_{1} \times v_{2})\cdot v_{3} = \begin{bmatrix}
+\lambda(v_{1} \times v_{2})\cdot v_{3} = \lambda\begin{bmatrix}
 -3 \\ -1 \\ 3
 \end{bmatrix}\cdot \begin{bmatrix}
 1 \\ 1 \\ 0 
-\end{bmatrix} = -3+}$$
+\end{bmatrix} = \lambda(-3+-1+0)=8}$$
+$$-4\lambda = 8 \Rightarrow \lambda = -2$$
+**Answer:** 
