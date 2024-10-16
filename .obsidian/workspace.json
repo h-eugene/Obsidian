@@ -28,9 +28,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb66767c8474a6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction. Vector Spaces. Linear Independence. Basis..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "copla",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Library/Math/Konev eng.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Library/Math/Konev eng.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Library/Math/Konev eng.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Midterm 1 - AGLA.md"
+                "file": "Library/Math/Konev eng.pdf"
               }
             }
           }
@@ -211,10 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f533baca8579e18b",
+  "active": "80607d978acbb61c",
   "lastOpenFiles": [
-    "Analytical Geometry and Linear Algebra I.md",
     "Midterm 1 - AGLA.md",
+    "Introduction. Vector Spaces. Linear Independence. Basis..md",
+    "Analytical Geometry and Linear Algebra I.md",
     "Midterm 1 - MathAn.md",
     "Mathematical Analysis I.md",
     "Innopolis 1st year - Fall Semester.md",
@@ -235,7 +247,6 @@
     "Naive Set Theory.md",
     "Logic and Discrete Mathematics.md",
     "Library/Pasted image 20241009095851.png",
-    "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Library/Pasted image 20241006123050.png",
     "Library/Pasted image 20241006120618.png",
     "Library/Pasted image 20241006115845.png",
