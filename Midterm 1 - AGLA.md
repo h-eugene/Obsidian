@@ -59,6 +59,10 @@ $$-2\lambda = 8 \Rightarrow \lambda = -4$$
 
 ### 2. Lines / Planes:
 
-#### Find the angle between the planes $2x - y + z = 6$, $x+y+2z =3$.
+#### Find the angle between the planes $2x - y + z = 6$, $x+y+2z =3$:
 
+We can consider the planes $a$ and $b$ through a third plane that is **perpendicular** to both of them. 
 ![](Pasted%20image%2020241016210817.png)
+In the diagram, the normal vectors of planes $a$ and $b$ are shown as perpendicular lines. The angle between these normal vectors is the same as the angle between the planes.
+
+Using the dot product of the normal vectors, we can find the angle ve
