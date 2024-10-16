@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -213,10 +214,10 @@
   },
   "active": "f533baca8579e18b",
   "lastOpenFiles": [
-    "Library/Math/Konev eng.pdf",
     "Change of Basis. Matrix Inverses..md",
-    "Matrix Operations and Vector Cross Product..md",
     "Midterm 1 - AGLA.md",
+    "Library/Math/Konev eng.pdf",
+    "Matrix Operations and Vector Cross Product..md",
     "The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Analytical Geometry and Linear Algebra I.md",
