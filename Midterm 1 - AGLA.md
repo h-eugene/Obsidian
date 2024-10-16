@@ -42,5 +42,15 @@ i & 1 & 1 \\ j & 0 & 3  \\ k & 1 & 0
 i \begin{bmatrix}
 0 & 3  \\  1 & 0
 \end{bmatrix} + j \begin{bmatrix}
-
-\end{bmatrix}}$$
+1&1 \\ 1&0
+\end{bmatrix} + k\begin{bmatrix}
+1&1 \\ 0&3
+\end{bmatrix} = -3i - j + 3k=
+\begin{bmatrix}
+-3 \\ -1 \\ 3
+\end{bmatrix}\\
+(v_{1} \times v_{2})\cdot v_{3} = \begin{bmatrix}
+-3 \\ -1 \\ 3
+\end{bmatrix}\cdot \begin{bmatrix}
+1 \\ 1 \\ 0 
+\end{bmatrix} = -3+}$$

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Midterm 1 - AGLA.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Midterm 1 - AGLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Midterm 1 - AGLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home/The Beginning.md",
+                "file": "Midterm 1 - AGLA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/The Beginning.md"
+                "file": "Midterm 1 - AGLA.md"
               }
             }
           }
@@ -201,16 +201,16 @@
   },
   "active": "041b5d45979086bc",
   "lastOpenFiles": [
+    "Analytical Geometry and Linear Algebra I.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Innopolis University.md",
+    "Home/The Beginning.md",
     "Midterm 1 - AGLA.md",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Library/Math/Konev eng.pdf",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Vector Algebra.md",
-    "Analytical Geometry and Linear Algebra I.md",
     "Matrix Operations and Vector Cross Product..md",
-    "Innopolis 1st year - Fall Semester.md",
-    "Innopolis University.md",
-    "Home/The Beginning.md",
     "Change of Basis. Matrix Inverses..md",
     "The Dot product and its properties..md",
     "Midterm 1 - MathAn.md",
