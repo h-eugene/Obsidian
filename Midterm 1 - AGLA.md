@@ -81,8 +81,13 @@ To find the equation of a plane that contains two parallel lines, we need to det
 
 2. **Choosing a second vector:**
    To find a second vector that lies in the plane, we can pick **two points** – one on each of the parallel lines. The vector connecting these two points will also lie in the plane. Let us convert the canonical form of the line into **parametric form**:
-    $$\frac{x+1}{6} = \frac{y-2}{7} = z = t$$
-    $$\begin{cases}
+    $$\frac{x+1}{6} = \frac{y-2}{7} = z = t$$$$\begin{cases}
 x=6t-1 \\
-t
+y=7t+2 \\
+z=t
+\end{cases}$$$$\frac{x-3}{6}=\frac{y-4}{7}=z-1=t$$$$\begin{cases}
+x=6t+3 \\
+y=7t+4 \\
+z=t+1
 \end{cases}$$
+	Let $t=0$, then $P_{1} = (-1,2,0)$, $P_{2} = (3,)$
