@@ -90,4 +90,9 @@ x=6t+3 \\
 y=7t+4 \\
 z=t+1
 \end{cases}$$
-	Let $t=0$, then $P_{1} = (-1,2,0)$, $P_{2} = (3,)$
+   Let $t=0$, then $P_{1} = (-1,2,0)$, $P_{2} = (3,4,1)$
+   And the second vector is $P_{1}P_{2} = (4,2,1)$.
+   
+3. **Finding the normal vector:**
+   Now, we have two vectors lying in the plane: the guiding vector $\overline{q} = (6,7,1)$ and the vector $P_{1}P_{2} = (4,2,1)$ 
+   
