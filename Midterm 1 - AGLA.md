@@ -63,9 +63,9 @@ $$-2\lambda = 8 \Rightarrow \lambda = -4$$
 
 We can consider the planes $2x - y +z = 6$ and $x+y+2z = 3$ through a plane that is perpendicular to both of them. From the equations of these planes, we can directly determine the normal vectors.
 
-Each plane can be written in the general form $Ax+By+Cz =D$, where the coe
+Each plane can be written in the general form $Ax+By+Cz =D$, where the coefficient $A,\ B$ and $C$ are the components of the normal vector to the plane. These coefficient represents the direction in which the plane is perpendicular to all vectors lying on it.
 - For the first plane, the normal vector is $\overline{n}_{1} = \begin{bmatrix}2 \\ -1 \\ 1\end{bmatrix}$
 - For the second plane, the normal vector is $\overline{n}_{2} = \begin{bmatrix}1 \\ 1 \\ 2 \end{bmatrix}$
 ![](Pasted%20image%2020241016210817.png)
 In the diagram, the angle between these planes is represented by the angle between their normal vectors. Using the dot product of the normal vectors, we can calculate this angle:
-$$cos \theta = \frac{\overline{n}_{1} \cdot \overline{n}_{2}}{|\overline{n}_{1}||\overline{n}_{2}|} = $$
+$$cos \theta = \frac{\overline{n}_{1} \cdot \overline{n}_{2}}{|\overline{n}_{1}||\overline{n}_{2}|} = \frac{3}{\sqrt{6}\sqrt{6}} = \frac{1}{2} \Rightarrow \theta = 60^\circ$$
