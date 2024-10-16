@@ -42,35 +42,6 @@ $$a\times b= \hat{n}\|a\|\|b\|\sin\theta \ | \ a,b\in \mathbb{R}^3,\ \hat{n}\per
 
 ## Properties:
 
-- $a\times b = -b \times a$.
-- $a\times a = 0$.
-- $a\times b = 0 \Rightarrow a=\lambda b$ for some $\lambda\in\mathbb{R}$ (or $b=0$).
-- $a\times (\lambda b) = \lambda(a\times b)$.
-- $a\times (b+c)=a\times b + a\times c$.
-
-## Calculating:
-$$\displaylines{a\begin{pmatrix}a_1\\ a_2\\ a_3 \end{pmatrix}\times b\begin{pmatrix}b_1\\ b_2\\ b_3 \end{pmatrix}=\\
-=(a_2b_3-a_3b_2)\hat{i}-(a_1b_3-a_3b_1)\hat{j}+(a_1b_2-a_2b_1)\hat{k}\\
-=(a_2b_3-a_3b_2)\hat{i}+(a_3b_1-a_1b_3)\hat{j}+(a_1b_2-a_2b_1)\hat{k}}$$
-There are more convenient ways to calculate vector cross products.
-
-**Interpretation:** 
-$-a\times b = b\times a$
-![|200](Pasted%20image%2020240921115145.png)
-
-# Scalar Triple Product:
-
-![|500](Pasted%20image%2020240921115510.png)
-![|500](Pasted%20image%2020240921115532.png)
-
->[!abstract] Scalar Triple Product.
->$$a\cdot (b\times c)$$
->$$a\cdot(b\times c)=(a\times b)\cdot c$$
->**Meaning:** $V=\|a\times b\|(\|c\||\cos(\phi)|)$ = Area of base * Height 
-
-# Matrix multiplication:
- ![](Pasted%20image%2020240921115853.png)
-
 >[!abstract] Definition
 >- Let 
   $A$ be $m\times n$ matrix;

@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80607d978acbb61c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Library/Math/Konev eng.pdf"
-              }
-            }
-          },
-          {
             "id": "f533baca8579e18b",
             "type": "leaf",
             "state": {
@@ -35,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copla",
+                "query": "trace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md",
+                "file": "Midterm 1 - AGLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md",
+                "file": "Midterm 1 - AGLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "right": {
     "id": "57e2b10c14e61662",
@@ -157,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md",
+                "file": "Midterm 1 - AGLA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix Operations and Vector Cross Product..md"
+                "file": "Midterm 1 - AGLA.md"
               }
             }
           }
@@ -223,13 +211,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb66767c8474a6ca",
+  "active": "f533baca8579e18b",
   "lastOpenFiles": [
-    "Midterm 1 - AGLA.md",
+    "Library/Math/Konev eng.pdf",
+    "Change of Basis. Matrix Inverses..md",
     "Matrix Operations and Vector Cross Product..md",
+    "Midterm 1 - AGLA.md",
     "The Dot product and its properties..md",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
-    "Library/Math/Konev eng.pdf",
     "Analytical Geometry and Linear Algebra I.md",
     "Midterm 1 - MathAn.md",
     "Mathematical Analysis I.md",
@@ -237,7 +226,6 @@
     "Library/Math/Linear Algebra and Applications.pdf",
     "Library/Math/Analytical Geometry_ 2D and 3D - P. R. Vittal.pdf",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
-    "Change of Basis. Matrix Inverses..md",
     "Vector Algebra.md",
     "Line and Plane.md",
     "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
@@ -259,7 +247,6 @@
     "Introduction.md",
     "Classification of Formulas. Logical Equivalence. Algebraic Normal Form..md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
-    "Books and Courses.md",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "Library/Pasted image 20240930115900.png",
     "Library/Pasted image 20240930111530.png",
