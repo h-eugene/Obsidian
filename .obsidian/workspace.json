@@ -16,8 +16,21 @@
                 "file": "Library/Math/Konev eng.pdf"
               }
             }
+          },
+          {
+            "id": "f533baca8579e18b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Midterm 1 - AGLA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Math/Konev eng.pdf",
+                "file": "Midterm 1 - AGLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +104,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8e68b3348704f47e",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Math/Konev eng.pdf",
+                "file": "Midterm 1 - AGLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Library/Math/Konev eng.pdf",
+                "file": "Midterm 1 - AGLA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Math/Konev eng.pdf"
+                "file": "Midterm 1 - AGLA.md"
               }
             }
           }
@@ -197,24 +211,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80607d978acbb61c",
+  "active": "f533baca8579e18b",
   "lastOpenFiles": [
+    "Analytical Geometry and Linear Algebra I.md",
+    "Midterm 1 - AGLA.md",
+    "Midterm 1 - MathAn.md",
+    "Mathematical Analysis I.md",
+    "Innopolis 1st year - Fall Semester.md",
+    "Library/Math/Konev eng.pdf",
     "Library/Math/Linear Algebra and Applications.pdf",
     "Library/Math/Analytical Geometry_ 2D and 3D - P. R. Vittal.pdf",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
-    "Library/Math/Konev eng.pdf",
     "Change of Basis. Matrix Inverses..md",
     "Vector Algebra.md",
-    "Analytical Geometry and Linear Algebra I.md",
     "Line and Plane.md",
     "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
-    "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
     "Real functions and their limits at a point..md",
     "Theory of limits and continuity.md",
-    "Mathematical Analysis I.md",
-    "The first grading midterm.md",
     "Basic Proof Techniques.md",
     "Basic of Logic.md",
     "Naive Set Theory.md",
@@ -244,7 +259,6 @@
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "smart-chats",
     "Library/Programming/C Programming Language.pdf",
-    "Library/Programming/Vtornikov_A._Stack_ili_Tuda_i_obratno.Fragment.pdf",
     "Без названия.canvas",
     "Без названия 4.canvas",
     "Без названия 3.canvas",
