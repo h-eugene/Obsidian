@@ -147,6 +147,15 @@ x \\ y
 >- $rank(AB)\leq min(rank(A),rank(B))$
 >- $rank(A)=rank(AA^{\top})=rank(A^{\top}A) = rank(A^\top)$
 
+---
+# Trace of a matrix:
+
+>[!abstract] Trace of a square matrix $A$
+>$$Tr(A) = \sum^{m}_{i=1}a_{ii}$$
+>
+>$$
+
+---
 # Graphs and Matrices:
 
 - Given a graph you can define its adjacency matrix, $A$
