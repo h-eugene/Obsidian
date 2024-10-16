@@ -71,3 +71,12 @@ In the diagram, the angle between these planes is represented by the angle betwe
 $$cos \theta = \frac{\overline{n}_{1} \cdot \overline{n}_{2}}{|\overline{n}_{1}||\overline{n}_{2}|} = \frac{3}{\sqrt{6}\sqrt{6}} = \frac{1}{2} \Rightarrow \theta = 60^\circ$$
 
 #### What is the general equation of the plane which contains the following two parallel lines: $\frac{x+1}{6} = \frac{y-2}{7} =z$ and $\frac{x-3}{6} = \frac{y-4}{7} = z-1$:
+
+$$\begin{cases}
+7x+7 = 6y-12 \\
+y - 2 = 7z
+\end{cases} \Rightarrow 7x-5y -7z+10=0$$
+$$\begin{cases}
+7x - 21 = 6y - 24 \\
+y-4 = 7z -7
+\end{cases} \Rightarrow 7x-5y-7z$$
