@@ -61,3 +61,4 @@ $$-2\lambda = 8 \Rightarrow \lambda = -4$$
 
 #### Find the angle between the planes $2x - y + z = 6$, $x+y+2z =3$.
 
+![](Pasted%20image%2020241016210732.png)
