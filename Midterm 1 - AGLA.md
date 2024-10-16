@@ -23,4 +23,11 @@
 
 ## Practice:
 
-1. Vector operations / Matrices
+### 1. Vector operations / Matrices:
+
+#### Find the determinant of the $3 \times 3$ matrix:
+$\begin{bmatrix}2&5&-3 \\ 1& 4 & -2 \\ -7 & 3 & 0\end{bmatrix}$
+
+**Solution:**
+
+$$\displaylines{\Delta = (2*4*0 + 5*(-2)*(-7) + (-3)* 1 * 3) - \\(-7*4*(-3) + (3*(-2)*5))}$$
