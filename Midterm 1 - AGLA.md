@@ -80,4 +80,9 @@ To find the equation of a plane that contains two parallel lines, we need to det
    the components of the guiding vector $(q_{x},q_{y},q_{z}$) are the denominators in this equation. In our case, we have the line $\frac{x+1}{6} = \frac{y-2}{7} =z$, and the guiding vector is $\overline{q} = (6,7,1)$. This vector $\overline{q}$ is parallel to our vectors, so it also lie in the plane of these vectors.
 
 2. **Choosing a second vector:**
-   To find a second vector that lies in the plane, we can pick **two points** – one on each of the parallel lines. The vector connecting these two points will also lie in the plane. 
+   To find a second vector that lies in the plane, we can pick **two points** – one on each of the parallel lines. The vector connecting these two points will also lie in the plane. Let us convert the canonical form of the line into **parametric form**:
+    $$\frac{x+1}{6} = \frac{y-2}{7} = z = t$$
+    $$\begin{cases}
+x=6t-1 \\
+t
+\end{cases}$$
