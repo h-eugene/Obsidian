@@ -79,4 +79,4 @@ y - 2 = 7z
 $$\begin{cases}
 7x - 21 = 6y - 24 \\
 y-4 = 7z -7
-\end{cases} \Rightarrow 7x-5y-7z$$
+\end{cases} \Rightarrow 7x-5y-7z+6 = 0$$
