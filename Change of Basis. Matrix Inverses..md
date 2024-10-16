@@ -153,7 +153,9 @@ x \\ y
 >[!abstract] Trace of a square matrix $A$
 >$$Tr(A) = \sum^{m}_{i=1}a_{ii}$$
 >
->$$
+>$$Tr(A+B) = Tr(A)+Tr(B)$$
+>$$\forall \lambda \in \mathbb{R},\ Tr(\lambda A) = \lambda Tr(A)$$
+
 
 ---
 # Graphs and Matrices:
