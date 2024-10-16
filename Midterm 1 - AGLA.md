@@ -8,4 +8,6 @@
    $$\displaylines{a \cdot (b \times c) = 0}$$
 3. Trace of Matrix is the sum of all elements on the main diagonal:
    $$Tr(A) = \sum^{m}_{i=1}a_{ii}$$
-   
+   Trace is linearity if it satisfies the folloing property:
+   - Additivity
+   - 
