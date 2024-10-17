@@ -62,4 +62,10 @@ n \cdot (r-r_{0}) = 0}$$
 $$\cos \theta = \frac{p \cdot q}{|p||q|}$$
 Where $p$ and $q$ are direction vectors of lines.
 
-- 
+- The angle between two lines is the angle between normal vectors of the lines.
+$$\cos \theta = \frac{n_{1}\cdot n_{2}}{|n_{1}||n_{2}|}$$
+Where $n_{1}$ and $n_{2}$ are normal vectors of lines.
+
+---
+## Distance From a Point to a Line:
+
