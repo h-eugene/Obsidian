@@ -50,4 +50,8 @@ $\begin{cases} x = x_{0} + q_{x}t\\ y = y_{0} + q_{y}t \\ z = z_{0} + q_{z}t\end
 
 ![](Pasted%20image%2020241017110325.png)
 
-$$Ax + By + C = 0$$
+$$\displaylines{Ax + By + C = 0\\
+\text{for point $M_{0}$ on a line:}\\
+Ax_{0}+By_{0}+C = 0}$$
+$$\displaylines{(r-r_{0}) = [x-x_{0}, y-y_{0}]^{\top}; n=[A,B]^{\top}\\
+n \cdot (r-r_{0}) = 0}$$
