@@ -70,4 +70,4 @@ Where $n_{1}$ and $n_{2}$ are normal vectors of lines.
 ## Distance From a Point to a Line:
 
 ![](Pasted%20image%2020241017114740.png)
-$$d = \frac{|n \cdot \overline{PQ}|}{\|n\|}$$
+$$d = \frac{|n \cdot \overline{PQ}|}{\|n\|} = $$
