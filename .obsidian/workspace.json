@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Midterm 1 - AGLA.md"
+                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md"
               }
             }
           }
@@ -201,13 +201,14 @@
   },
   "active": "041b5d45979086bc",
   "lastOpenFiles": [
+    "Line and Plane.md",
+    "Analytical Geometry and Linear Algebra I.md",
+    "Midterm 1 - AGLA.md",
     "Library/Pasted image 20241016210817.png",
     "Library/Pasted image 20241016210732.png",
-    "Analytical Geometry and Linear Algebra I.md",
     "Innopolis 1st year - Fall Semester.md",
     "Innopolis University.md",
     "Home/The Beginning.md",
-    "Midterm 1 - AGLA.md",
     "Library/Math/Analiticheskaya_geometria_i_lineynaya_algebra_2020_Umnov.pdf",
     "Library/Math/Konev eng.pdf",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
@@ -219,7 +220,6 @@
     "Mathematical Analysis I.md",
     "Library/Math/Linear Algebra and Applications.pdf",
     "Library/Math/Analytical Geometry_ 2D and 3D - P. R. Vittal.pdf",
-    "Line and Plane.md",
     "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
     "Real functions and their limits at a point..md",
     "Theory of limits and continuity.md",
@@ -242,7 +242,6 @@
     "Library/Pasted image 20240930111530.png",
     "Library/Pasted image 20240930104143.png",
     "Library/Pasted image 20240928231940.png",
-    "Library/Pasted image 20240928231921.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "smart-chats",
