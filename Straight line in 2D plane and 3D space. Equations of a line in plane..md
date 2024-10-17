@@ -55,3 +55,11 @@ $$\displaylines{Ax + By + C = 0\\
 Ax_{0}+By_{0}+C = 0}$$
 $$\displaylines{(r-r_{0}) = [x-x_{0}, y-y_{0}]^{\top}; n=[A,B]^{\top}\\
 n \cdot (r-r_{0}) = 0}$$
+---
+## Angle Between Two Lines:
+
+- The angle between two lines is the angle between direction vectors of the lines.
+$$\cos \theta = \frac{p \cdot q}{|p||q|}$$
+Where $p$ and $q$ are direction vectors of lines.
+
+- 
