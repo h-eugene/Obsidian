@@ -108,3 +108,6 @@ i&j&k \\ 6&7&1 \\ 4&2&1
    Simplifying:
    $$5x-2y-16z+9=0$$
    
+
+### 3. Find the distance from the point $(1,1,-1)$ to the line of intersection of the planes $x+y+z=1$ and $2x-y-5z=1$:
+
