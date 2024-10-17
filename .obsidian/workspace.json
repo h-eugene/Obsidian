@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
+                "file": "Line and Plane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bc62c3e25db022d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plane in 3D space. Equations..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
+                "file": "Plane in 3D space. Equations..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
+                "file": "Plane in 3D space. Equations..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
+                "file": "Plane in 3D space. Equations..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Straight line in 2D plane and 3D space. Equations of a line in plane..md"
+                "file": "Plane in 3D space. Equations..md"
               }
             }
           }
@@ -199,12 +212,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "041b5d45979086bc",
+  "active": "5bc62c3e25db022d",
   "lastOpenFiles": [
+    "Line and Plane.md",
+    "Plane in 3D space. Equations..md",
+    "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
     "Library/Pasted image 20241017114740.png",
     "Library/Pasted image 20241017110325.png",
     "Library/Pasted image 20241017110312.png",
-    "Line and Plane.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Midterm 1 - AGLA.md",
     "Library/Pasted image 20241016210817.png",
@@ -223,7 +238,6 @@
     "Mathematical Analysis I.md",
     "Library/Math/Linear Algebra and Applications.pdf",
     "Library/Math/Analytical Geometry_ 2D and 3D - P. R. Vittal.pdf",
-    "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
     "Real functions and their limits at a point..md",
     "Theory of limits and continuity.md",
     "Basic Proof Techniques.md",
@@ -242,7 +256,6 @@
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
     "Library/Pasted image 20240930115900.png",
-    "Library/Pasted image 20240930111530.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "smart-chats",

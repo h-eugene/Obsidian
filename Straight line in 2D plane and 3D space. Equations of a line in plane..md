@@ -11,6 +11,12 @@
 ---
 # Straight line in plane:
 ---
+## Definition:
+
+Given a point $M_{0}$ and a vector $\text{a}$, set of all points $M$ for which: 
+$$\overline{M_{0}M} = t\text{a}, \ \ t \in \mathbb{R}$$
+
+---
 ## Parametric Vector Equation:
 
 ![](Pasted%20image%2020241009095851.png)
@@ -72,9 +78,3 @@ Where $n_{1}$ and $n_{2}$ are normal vectors of lines.
 ![](Pasted%20image%2020241017114740.png)
 $$d = \frac{|n \cdot \overline{PQ}|}{\|n\|} = \frac{||n| \cdot |\overline{PQ}| \cdot \cos \theta|}{\|n\|}$$
 $$d = |\overline{PQ}| \cdot |\cos \theta|$$
----
-## Definition:
-
-Given a point $M_{0}$ and a vector $\text{a}$, set of all points $M$ for which: 
-$$\overline{M_{0}M} = t\text{a}, \ \ t \in \mathbb{R}$$
-
