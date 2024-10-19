@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Plane in 3D space. Equations."
             }
-          },
-          {
-            "id": "d1359baa5ca3e7d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Line and Plane.md",
+                "file": "Plane in 3D space. Equations..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Line and Plane"
+              "title": "Обратные ссылки для Plane in 3D space. Equations."
             }
           }
         ]
@@ -144,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Line and Plane.md",
+                "file": "Plane in 3D space. Equations..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Line and Plane"
+              "title": "Исходящие ссылки из Plane in 3D space. Equations."
             }
           }
         ]
@@ -174,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Line and Plane.md",
+                "file": "Plane in 3D space. Equations..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Line and Plane"
+              "title": "Граф Plane in 3D space. Equations."
             }
           }
         ]
@@ -218,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Line and Plane.md"
+                "file": "Plane in 3D space. Equations..md"
               },
               "icon": "lucide-list",
-              "title": "Структура Line and Plane"
+              "title": "Структура Plane in 3D space. Equations."
             }
           }
         ]
@@ -243,11 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1359baa5ca3e7d8",
+  "active": "5bc62c3e25db022d",
   "lastOpenFiles": [
-    "Library/Pasted image 20241017140250.png",
     "Line and Plane.md",
     "Plane in 3D space. Equations..md",
+    "Library/Pasted image 20241017140250.png",
     "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
     "Library/Pasted image 20241017114740.png",
     "Library/Pasted image 20241017110325.png",
@@ -286,7 +274,6 @@
     "Introduction.md",
     "Library/Math/V.A.Zorich-Kniga-I-10-izdanie-Corr.pdf",
     "Library/English/American_English_File_2_-_Student_39_s_Book.pdf",
-    "Library/Pasted image 20240930115900.png",
     "Library/2024_AGLA1_Lecture_4.pdf",
     "Library/AGLA/2024_AGLA1_Lecture_1.pdf",
     "smart-chats",
