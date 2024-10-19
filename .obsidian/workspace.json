@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Line and Plane.md",
+                "file": "Midterm 1 - AGLA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Line and Plane"
+              "title": "Midterm 1 - AGLA"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Plane in 3D space. Equations."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane in 3D space. Equations..md",
+                "file": "Midterm 1 - AGLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Plane in 3D space. Equations."
+              "title": "Обратные ссылки для Midterm 1 - AGLA"
             }
           }
         ]
@@ -132,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plane in 3D space. Equations..md",
+                "file": "Midterm 1 - AGLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Plane in 3D space. Equations."
+              "title": "Исходящие ссылки из Midterm 1 - AGLA"
             }
           }
         ]
@@ -162,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plane in 3D space. Equations..md",
+                "file": "Midterm 1 - AGLA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Plane in 3D space. Equations."
+              "title": "Граф Midterm 1 - AGLA"
             }
           }
         ]
@@ -206,10 +205,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plane in 3D space. Equations..md"
+                "file": "Midterm 1 - AGLA.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Plane in 3D space. Equations."
+              "title": "Структура Midterm 1 - AGLA"
             }
           }
         ]
@@ -231,14 +230,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bc62c3e25db022d",
+  "active": "041b5d45979086bc",
   "lastOpenFiles": [
+    "Line and Plane.md",
+    "Plane in 3D space. Equations..md",
     "Library/Pasted image 20241019170533.png",
     "Library/Pasted image 20241019161641.png",
     "Library/Pasted image 20241019161325.png",
     "Library/Pasted image 20241019154250.png",
-    "Line and Plane.md",
-    "Plane in 3D space. Equations..md",
     "Library/Pasted image 20241017140250.png",
     "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
     "Library/Pasted image 20241017114740.png",
@@ -268,7 +267,6 @@
     "Basic of Logic.md",
     "Naive Set Theory.md",
     "Logic and Discrete Mathematics.md",
-    "Library/Pasted image 20241009095851.png",
     "Theory of sequences and their limits..md",
     "Number Systems. Axiomatic approaches..md",
     "Basics of naive Set Theory..md",

@@ -25416,6 +25416,8 @@ Such
 Specifically
 Summary
 Straight
+Substituting
+Simplifying
 Algebra
 AGLA
 Assignments
@@ -45199,6 +45201,7 @@ pairs
 provides
 path
 punctured
+planes
 Read
 Relations
 RY
@@ -53649,6 +53652,7 @@ large
 leads
 locus
 lengths
+lying
 geometria
 gN
 gQ
@@ -56492,6 +56496,7 @@ grading
 goes
 grows
 geometrical
+guiding
 Umnov
 Uniqueness
 Uf
@@ -72104,6 +72109,7 @@ FALSE
 Files
 From
 Finally
+Finding
 vectors
 vector
 variable
@@ -89026,6 +89032,8 @@ considering
 cardinal
 coplanarity
 complanar
+circ
+compute
 Necessity
 Nikolay
 Natural
