@@ -37,4 +37,12 @@ x-x_{1}&y-y_{1}&z-z_{1} \\ x_{2}-x_{1}&y_{2}-y_{1}&z_{2}-z_{1} \\ x_{3}-x_{1}&y_
 >[!abstract] Equation of a plane in the intercept form
 >![|300](Pasted%20image%2020241019154250.png)
 >$$\frac{x}{a} + \frac{y}{b} + \frac{z}{c} = 1$$
+>We've just converted $a = \frac{D}{A},\ b =\frac{D}{B},\ c = \frac{D}{C}$
+
+---
+# Angle Between Two Planes:
+
+>[!abstract] Definition 
+>The angle between two planes equals the angle between their normal vectors.
+>$$\cos \theta = \frac{n_{1}\cdot n_{2}}{\|n_{1}\|\|n_{2}\|}$$
 
