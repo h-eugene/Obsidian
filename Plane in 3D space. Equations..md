@@ -70,3 +70,4 @@ There are three possible cases:
 - If the rank of the coefficient matrix equals $3$, then $M_{0}(x_0,y_0,z_0)$ is the point of intersection of the plane and the line.
 - If the system is consistent, and the rank of the coefficient matrix equals $2$, then the line $L$ lies in the plane $P$.
 - If system is inconsistent then the line $L$ is parallel to the plane $P$.
+---
