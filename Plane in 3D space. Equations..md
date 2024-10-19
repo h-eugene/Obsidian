@@ -46,3 +46,11 @@ x-x_{1}&y-y_{1}&z-z_{1} \\ x_{2}-x_{1}&y_{2}-y_{1}&z_{2}-z_{1} \\ x_{3}-x_{1}&y_
 >The angle between two planes equals the angle between their normal vectors.
 >$$\cos \theta = \frac{n_{1}\cdot n_{2}}{\|n_{1}\|\|n_{2}\|}$$
 
+---
+# Distance From a Point To a Plane:
+
+- Equation of plane: $Ax + By + Cz + D = 0$
+- Point $Q(x_{1},y_{1},z_{1})$ is not in plane.
+- Point $M(x,y,z)$ is an arbitrary point in plane
+![|350](Pasted%20image%2020241019161325.png)
+$$d = \frac{|n \cdot \overline{QM}|}{\|n\|}$$
