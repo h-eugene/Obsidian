@@ -3097,6 +3097,7 @@ Direct
 Denotions
 Detachment
 Diverges
+Distance
 Lecturer
 Link
 Line
@@ -14445,6 +14446,7 @@ Theorems
 Tests
 Three
 Trace
+Through
 nomemm
 need
 necessary
@@ -28153,6 +28155,7 @@ Anki
 Argument
 Again
 Additivity
+Angle
 and
 algebra
 any
@@ -30987,6 +30990,7 @@ adjacency
 adding
 approx
 analyze
+again
 Plane
 Problem
 Prove
@@ -33565,6 +33569,10 @@ Perform
 Principle
 Paradox
 Parametric
+Passing
+Planes
+Point
+Position
 Quadratic
 Qn
 QL
@@ -38916,6 +38924,7 @@ Based
 Bitwise
 Bolzano
 British
+Between
 Material
 MORE
 Mathematical
@@ -48257,6 +48266,7 @@ Rational
 Russell
 Results
 Review
+Relative
 of
 one
 others
@@ -53653,6 +53663,7 @@ leads
 locus
 lengths
 lying
+lies
 geometria
 gN
 gQ
@@ -69142,6 +69153,8 @@ intervals
 inner
 illustrating
 influences
+intercept
+inconsistent
 For
 Functions
 Frolov
@@ -77356,6 +77369,7 @@ forall
 further
 fields
 final
+forms
 scalars
 sufficient
 settings
@@ -89034,6 +89048,10 @@ coplanarity
 complanar
 circ
 compute
+coplanar
+coincide
+coefficients
+consistent
 Necessity
 Nikolay
 Natural
@@ -103330,6 +103348,7 @@ Object
 Operation
 Occurrences
 OIwB
+Other
 menu
 more
 mA

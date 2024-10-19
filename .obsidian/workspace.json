@@ -35,7 +35,8 @@
               "title": "Plane in 3D space. Equations."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Plane in 3D space. Equations..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Midterm 1 - AGLA"
+              "title": "Обратные ссылки для Plane in 3D space. Equations."
             }
           }
         ]
@@ -131,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Plane in 3D space. Equations..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Midterm 1 - AGLA"
+              "title": "Исходящие ссылки из Plane in 3D space. Equations."
             }
           }
         ]
@@ -161,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Plane in 3D space. Equations..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Midterm 1 - AGLA"
+              "title": "Граф Plane in 3D space. Equations."
             }
           }
         ]
@@ -205,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Midterm 1 - AGLA.md"
+                "file": "Plane in 3D space. Equations..md"
               },
               "icon": "lucide-list",
-              "title": "Структура Midterm 1 - AGLA"
+              "title": "Структура Plane in 3D space. Equations."
             }
           }
         ]
@@ -230,8 +231,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "041b5d45979086bc",
+  "active": "5bc62c3e25db022d",
   "lastOpenFiles": [
+    "Midterm 1 - AGLA.md",
     "Line and Plane.md",
     "Plane in 3D space. Equations..md",
     "Library/Pasted image 20241019170533.png",
@@ -244,7 +246,6 @@
     "Library/Pasted image 20241017110325.png",
     "Library/Pasted image 20241017110312.png",
     "Analytical Geometry and Linear Algebra I.md",
-    "Midterm 1 - AGLA.md",
     "Library/Pasted image 20241016210817.png",
     "Library/Pasted image 20241016210732.png",
     "Innopolis 1st year - Fall Semester.md",
