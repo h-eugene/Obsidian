@@ -16,7 +16,9 @@
                 "file": "Line and Plane.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Line and Plane"
             }
           },
           {
@@ -28,11 +30,25 @@
                 "file": "Plane in 3D space. Equations..md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Plane in 3D space. Equations."
+            }
+          },
+          {
+            "id": "d1359baa5ca3e7d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -67,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -78,7 +98,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -86,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           },
           {
@@ -95,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plane in 3D space. Equations..md",
+                "file": "Line and Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Line and Plane"
             }
           }
         ]
@@ -118,10 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plane in 3D space. Equations..md",
+                "file": "Line and Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Line and Plane"
             }
           }
         ]
@@ -146,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Plane in 3D space. Equations..md",
+                "file": "Line and Plane.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +200,9 @@
                   "scale": 1,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф Line and Plane"
             }
           }
         ]
@@ -188,8 +218,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plane in 3D space. Equations..md"
-              }
+                "file": "Line and Plane.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Line and Plane"
             }
           }
         ]
@@ -208,11 +240,10 @@
       "templates:Вставить шаблон": true,
       "command-palette:Открыть палитру команд": true,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bc62c3e25db022d",
+  "active": "d1359baa5ca3e7d8",
   "lastOpenFiles": [
     "Library/Pasted image 20241017140250.png",
     "Line and Plane.md",
