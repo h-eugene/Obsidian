@@ -58,3 +58,10 @@ $$\displaylines{d = \frac{|n \cdot \overline{QM}|}{\|n\|}=\\
 ---
 # Relative Position of Planes:
 ![400](Pasted%20image%2020241019161641.png)
+- The planes are parallel and coincide if they have the same normal and $D$ coefficient
+- The planes are parallel and not coincide if they have the same normal and the different $D$ coefficients
+- The planes are not parallel if they have the different normal vectors.
+---
+# Relative Position of a Plane and a Line:
+
+$\begin{cases}Ax + B\end{cases}$
