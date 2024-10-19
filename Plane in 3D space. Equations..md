@@ -18,4 +18,9 @@ Hence, the general equation of the plane $A(x-x_{1}) + B(y-y_{1}) + C(z-z_{1}) =
 Can be presented in the vector form:
 $$(r-r_{1})\cdot n = 0, \text{ where $n = \begin{bmatrix} A \\ B \\ C
 \end{bmatrix}$}$$
-If we 
+If we expand the vector form of the plane equation, we will obtain the general form of the equation again.
+
+---
+# Equation of a Plane Passing Through Three Points:
+
+$\$
