@@ -23,4 +23,12 @@ If we expand the vector form of the plane equation, we will obtain the general f
 ---
 # Equation of a Plane Passing Through Three Points:
 
-$\$
+$$\begin{vmatrix}
+x-x_{1}&y-y_{1}&z-z_{1} \\ x_{2}-x_{1}&y_{2}-y_{1}&z_{2}-z_{1} \\ x_{3}-x_{1}&y_{3}-y_{1}&z_{3}-z_{1}
+\end{vmatrix}=0$$
+---
+# Other forms of equation:
+
+>[!abstract] Given two vector: *p,q* that are parallel to a plane, and a point $M_{1}(x_{1},y_{1},z_{1})$ on the plane
+>Consider arbitrary
+  
