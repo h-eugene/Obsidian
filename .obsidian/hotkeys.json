@@ -155,5 +155,14 @@
       ],
       "key": "="
     }
+  ],
+  "find-and-replace-in-selection:find-and-replace-in-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
   ]
 }
