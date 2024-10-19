@@ -16,4 +16,6 @@
 $$r-r_{1}= [x-x_{1}, y-y_{1}, z-z_{1}]^{\top}$$
 Hence, the general equation of the plane $A(x-x_{1}) + B(y-y_{1}) + C(z-z_{1}) = 0$ 
 Can be presented in the vector form:
-$$(r-r_{1})\cdot n = 0$$
+$$(r-r_{1})\cdot n = 0, \text{ where $n = \begin{bmatrix} A \\ B \\ C
+\end{bmatrix}$}$$
+If we 
