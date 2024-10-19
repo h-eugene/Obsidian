@@ -30,5 +30,8 @@ x-x_{1}&y-y_{1}&z-z_{1} \\ x_{2}-x_{1}&y_{2}-y_{1}&z_{2}-z_{1} \\ x_{3}-x_{1}&y_
 # Other forms of equation:
 
 >[!abstract] Given two vector: *p,q* that are parallel to a plane, and a point $M_{1}(x_{1},y_{1},z_{1})$ on the plane
->Consider arbitrary
-  
+>Consider arbitrary vector $r = [x,y,z]$. Then three vectors $r-r_{1},p,q$ are coplanar.
+>$$\begin{vmatrix}x-x_{1}&y-y_{1}&z-z_{1} \\ p_{x}&p_{y}&p_{z} \\ q_{x}&q_{y}&q_{z} 
+\end{vmatrix} = 0$$
+
+>[!abstract] Equation of a plane in the intercept form
