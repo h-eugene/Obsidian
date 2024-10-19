@@ -1,7 +1,7 @@
 # General Equation of a Plane:
 
 >[!abstract] In a rectangular Cartesian coordinate system
->$$Ax+By + Cz + D = 0$$
+>$$A_{1}x+By + Cz + D = 0$$
 >$x,y,z$ are arbitrary coordinates of a point on a plane.
 
 > [!abstract] Given $M_{1}(x_{1},y_{1},z_{1})$ is a point in plane:
@@ -64,4 +64,4 @@ $$\displaylines{d = \frac{|n \cdot \overline{QM}|}{\|n\|}=\\
 ---
 # Relative Position of a Plane and a Line:
 
-$\begin{cases}Ax + B\end{cases}$
+$\begin{cases}Ax + By + Cz = D = 0 \\ A_{1}x + By + Cz = D = 0\\ A_{1}x + By + Cz = D = 0\end{cases}$
