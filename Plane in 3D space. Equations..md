@@ -64,4 +64,9 @@ $$\displaylines{d = \frac{|n \cdot \overline{QM}|}{\|n\|}=\\
 ---
 # Relative Position of a Plane and a Line:
 
-$\begin{cases}Ax + By + Cz = D = 0 \\ A_{1}x + By + Cz = D = 0\\ A_{1}x + By + Cz = D = 0\end{cases}$
+$\begin{cases}Ax + By + Cz + D = 0 \\ A_{1}x + B_{1}y + C_{1}z + D_{1} = 0\\ A_{2}x + B_{2}y + C_{2}z + D_{2}= 0\end{cases}$
+
+There are three possible cases:
+- If the rank of the coefficient matrix equals $3$, then $M_{0}(x_0,y_0,z_0)$ is the point of intersection of the plane and the line.
+- If the system is consistent, and the rank of the coefficient matrix equals $2$, then the line $L$ lies in the plane $P$.
+- If system is inconsisten

@@ -10,5 +10,6 @@
   "note-refactor-obsidian",
   "obsidian-better-internal-link-inserter",
   "quick-latex",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-find-and-replace-in-selection"
 ]
