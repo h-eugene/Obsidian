@@ -71,3 +71,11 @@ There are three possible cases:
 - If the system is consistent, and the rank of the coefficient matrix equals $2$, then the line $L$ lies in the plane $P$.
 - If system is inconsistent then the line $L$ is parallel to the plane $P$.
 ---
+# The Angle Between a Plane and a Line:
+
+>[!abstract] Angle Between a Plane and a Line ($\beta = ?$)
+>![|300](Pasted%20image%2020241019170533.png)
+>- $n$ is a normal vector of the plane
+>- $l$ is a direction of the line
+>- $\beta$ is the angle between the plane and the line
+
