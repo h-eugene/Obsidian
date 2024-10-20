@@ -227,7 +227,6 @@ Thus, the coordinates of the third vertex is $(33,26)$.
 # In a regular tetrahedron $ABCD$, find the coordinates of the point $M$ in the basis $\{D,DA,DB,DC\}$, if the point $M$ has coordinates $(0,\frac{1}{3},\frac{1}{3})$ in the basis $\{A,AD,AB,AC\}$:
 ![|400](Pasted%20image%2020241020183134.png)
 
-$$\displaylines{AM = \frac{1}{3}AB + \frac{1}{3}AC = AD + DM \\
-AB = DB - DA \\
-AC = DC - DA \\ 
-AD = -DA}$$
+- $AM = AD + DM$
+- $AM = \frac{1}{3}AB + \frac{1}{3}AC$
+- $DM = $
