@@ -165,4 +165,6 @@ $$\displaylines{d = \sqrt{\left(- \frac{25}{37}\right)^{2} + \left(- \frac{5}{74
 
 **The second way via cross product (area interpretation):**
 
-1. We find some point in the line and make 
+1. We should find some point in the line and make the vector by this point and the given point
+2. Define the direction vector 
+3. We have two vectorc that makes parallelogramm,
