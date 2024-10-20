@@ -156,5 +156,9 @@ $$\displaylines{\overline{v}\cdot \overline{q} = \frac{4}{9}t + \frac{2}{9} + \f
 t= \frac{19}{37}}$$
 Subsitute $t$ back:
 $$\overline{v}=\begin{bmatrix}
-- \frac{2}{3}t- \frac{1}{3} \\ \frac{7}{6}t - \frac{2}{3} \\ - \frac{1}{2}t + 1
+- \frac{2}{3}\cdot \frac{19}{37}- \frac{1}{3} \\ \frac{7}{6}\cdot \frac{19}{37} - \frac{2}{3} \\ - \frac{1}{2}\cdot \frac{19}{37} + 1
+\end{bmatrix} = \begin{bmatrix}
+- \frac{25}{37} \\ - \frac{5}{74}\\ \frac{55}{74}
 \end{bmatrix}$$
+Calculate the length of this vector:
+$$d = \sqrt{\left(- \frac{25}{37})^{2} + \left(- \frac{5}{74})^{2} + \left(\frac{55}{74})^{2}}$$
