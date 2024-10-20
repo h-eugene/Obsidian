@@ -125,7 +125,14 @@ we should first find the line itself:
    Simplifying:
    $$-\frac{3}{2}x+ 1 = \frac{6}{7}y - \frac{2}{7} = - 2z$$
    
-There are two way to find the distance between line and point:
-We express the point where 
+There are two ways to find the distance between the line and the point:
+- The first uses dot product
+- The second uses the cross product (area interpretation)
+
+The first one via dot product:
+
+We should express the coordinates of the point in our line by converting the Canonical Equation to the Parametric:
+
+$$x = 1$$
    
    
