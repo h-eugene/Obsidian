@@ -189,4 +189,6 @@ $$\displaylines{S = | \overline{PQ}\times \overline{q}| = \sqrt{\left(- \frac{5}
 \sqrt{3 \cdot \frac{25}{36}} = \frac{5\sqrt{12}}{12}}$$
 Then:
 $$S = \frac{5\sqrt{12}}{12} = |\overline{PK}|\cdot |\overline{q}| \Rightarrow |\overline{PK}| = \frac{5\sqrt{12}}{12 |\overline{q}|}$$
-$$|\overline{q}| = \sqrt{\left(- \frac{2}{3}\right)^{2}+ \left(\frac{7}{6}\right)^{2}+\left(- \frac{1}{2}\right)^{2}}= \sqrt{l}$$
+$$|\overline{q}| = \sqrt{\left(- \frac{2}{3}\right)^{2}+ \left(\frac{7}{6}\right)^{2}+\left(- \frac{1}{2}\right)^{2}}= \sqrt{\frac{37}{18}}$$
+$$|\overline{PK}|= \frac{5\sqrt{12\cdot18}}{12\sqrt{37}} = \frac{30\sqrt{6}}{12\sqrt{37}} = \frac{5\sqrt{222}}{74}$$
+**Answer:**
