@@ -123,7 +123,8 @@ we should first find the line itself:
    In our case:
    $$\frac{x-\frac{2}{3}}{0-\frac{2}{3}} = \frac{y - \frac{1}{3}}{\frac{3}{2} - \frac{1}{3}} = \frac{z-0}{\frac{-1}{2}-0}$$
    Simplifying:
-   $$$$
+   $$-\frac{3}{2}x+ 1 = \frac{6}{7}y - \frac{2}{7} = - 2z$$
+   
    
    
    
