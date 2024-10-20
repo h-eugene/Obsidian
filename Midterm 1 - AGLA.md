@@ -229,13 +229,13 @@ Thus, the coordinates of the third vertex is $(33,26)$.
 
 Express new basis through old for transition matrix:
 
-- $DA = -AD$
-- $DB = AB-AD$
-- $DC = AC - AD$
+- $DA = -1 \cdot AD + 0\cdot AB + 0 \cdot AC$
+- $DB = -1\cdot AD + 1\cdot AB + 0 \cdot AC$
+- $DC = -1\cdot AD + 0\cdot AB + 1\cdot AC$
 
-Express new origin through old basis for $b$ vector:
+Express new origin through old basis:
 
-- $AD = AD$
+- $AD = 1\cdot AD+ 0 \cdot AB +0\cdot AC$
 
 We know:
 ![](Change%20of%20Basis.%20Matrix%20Inverses..md#^78c141)
@@ -253,6 +253,8 @@ x_{1} \\ x_{2} \\ x_{3}
 \end{bmatrix} = \begin{bmatrix}
 1 \\ 0\\0
 \end{bmatrix} + \begin{bmatrix}
-0 \\ \frac{1}{3} \\ 
+0 \\ \frac{1}{3} \\ \frac{1}{3} 
+\end{bmatrix} = \begin{bmatrix}
+1 \\ \frac{1}{3} \\ \frac{1}{3}
 \end{bmatrix}
 $$
