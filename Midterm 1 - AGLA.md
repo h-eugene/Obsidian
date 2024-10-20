@@ -151,4 +151,10 @@ $$\overline{q} = \begin{bmatrix}
 \end{bmatrix} - \text{ coefficients before $t$}$$
 Write the dot product of these vectors:
 
-$$\displaylines{\overline{v}\cdot }$$
+$$\displaylines{\overline{v}\cdot \overline{q} = \frac{4}{9}t + \frac{2}{9} + \frac{49}{36}t - \frac{7}{9} + \frac{1}{4}t - \frac{1}{2} =\\
+\frac{37}{18}t -\frac{19}{18}=0 \\
+t= \frac{19}{37}}$$
+Subsitute $t$ back:
+$$\overline{v}=\begin{bmatrix}
+- \frac{2}{3}t- \frac{1}{3} \\ \frac{7}{6}t - \frac{2}{3} \\ - \frac{1}{2}t + 1
+\end{bmatrix}$$
