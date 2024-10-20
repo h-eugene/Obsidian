@@ -198,5 +198,15 @@ $$|\overline{PK}|= \frac{5\sqrt{12\cdot18}}{12\sqrt{37}} = \frac{30\sqrt{6}}{12\
 # 4. Two vertices of a triangle are $(4,-3)$ and $(-2,5)$. If the orthocenter (intersection of altitudes) of the triangle is at $(1,2)$ find the coordinates of the third vertex:
 ![|400](Pasted%20image%2020241020175902.png)
 
+Let $A(4,-3)$, $B(-2,5)$ and $P(1,2)$, then:
+
+- $\overline{AP} = (-3,5)$
+- $\overline{BP} = (3,-3)$
+
+Let $C(x,y)$, then:
+
+- $\overline{AC} = (x-4,y+3)$
+- $\overline{BC} = (x+2, y-5)$
+
 We know that $\overline{AP}\cdot \overline{BC} = 0$ and $\overline{BP}\cdot \overline{AC} =0$:
-- $\overline{AP} = ()$
+- $\overline{AP}\cdot \overline{BC} = -3(x+2) + $
