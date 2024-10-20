@@ -209,4 +209,17 @@ Let $C(x,y)$, then:
 - $\overline{BC} = (x+2, y-5)$
 
 We know that $\overline{AP}\cdot \overline{BC} = 0$ and $\overline{BP}\cdot \overline{AC} =0$:
-- $\overline{AP}\cdot \overline{BC} = -3(x+2) + $
+
+- $\overline{AP}\cdot \overline{BC} = -3(x+2) + 5(y-5) = -3x + 5y -31=0$
+- $\overline{BP}\cdot \overline{AC} = 3(x-4) -3(y+3) = 3x-3y -21=0$
+
+So, we get the system of equation:
+$$\begin{cases}
+-3x + 5y-31 =0 \\
+3x - 3y -21 =0
+\end{cases} \begin{cases}
+2y = 52 \Rightarrow y =26 \\
+3x - 3
+\end{cases}$$
+
+
