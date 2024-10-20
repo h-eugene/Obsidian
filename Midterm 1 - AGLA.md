@@ -125,6 +125,7 @@ we should first find the line itself:
    Simplifying:
    $$-\frac{3}{2}x+ 1 = \frac{6}{7}y - \frac{2}{7} = - 2z$$
    
-   
+There are two way to find the distance between line and point:
+We express the point where 
    
    
