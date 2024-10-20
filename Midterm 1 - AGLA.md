@@ -147,8 +147,9 @@ $$\overline{v} = \begin{bmatrix}- \frac{2}{3}t + \frac{2}{3} - 1 \\ \frac{7}{6}t
 - \frac{2}{3}t- \frac{1}{3} \\ \frac{7}{6}t - \frac{2}{3} \\ - \frac{1}{2}t + 1
 \end{bmatrix}$$
 $$\overline{q} = \begin{bmatrix}
-- \frac{2}{3}\\ \frac{7}{6} \\ - 1/2
-\end{bmatrix} - \text{coefficients before $t$}$$
+- \frac{3}{2}\\ \frac{6}{7} \\ - 2
+\end{bmatrix} - \text{reversed coefficients before $t$}$$
 Write the dot product of these vectors:
 $$\displaylines{\overline{v} \cdot \overline{q} = 0\\
-\left(- \frac{2}{3}t - \frac{1}{3}\right)\left(- \frac{2}{3}\right) + \left(\frac{7}{6}t - \frac{2}{3}\right)\frac{7}{6}+ \left(\right)}$$
+\left(- \frac{2}{3}t - \frac{1}{3}\right)\left(- \frac{3}{2}\right) + \left(\frac{7}{6}t - \frac{2}{3}\right)\frac{6}{7}+ \left(- \frac{1}{2}t + 1\right) \left(-2\right) =\\
+t + \frac{1}{2} + t - \frac{4}{7} + t }$$
