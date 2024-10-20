@@ -148,7 +148,7 @@ $$\overline{v} = \begin{bmatrix}- \frac{2}{3}t + \frac{2}{3} - 1 \\ \frac{7}{6}t
 \end{bmatrix}$$
 $$\overline{q} = \begin{bmatrix}
 - \frac{2}{3}\\ \frac{7}{6} \\ - \frac{1}{2}
-\end{bmatrix} - \text{ coefficients before $t$}$$
+\end{bmatrix} - \text{ coefficients before }t$$
 Write the dot product of these vectors:
 
 $$\displaylines{\overline{v}\cdot \overline{q} = \frac{4}{9}t + \frac{2}{9} + \frac{49}{36}t - \frac{7}{9} + \frac{1}{4}t - \frac{1}{2} =\\
@@ -191,4 +191,5 @@ Then:
 $$S = \frac{5\sqrt{12}}{12} = |\overline{PK}|\cdot |\overline{q}| \Rightarrow |\overline{PK}| = \frac{5\sqrt{12}}{12 |\overline{q}|}$$
 $$|\overline{q}| = \sqrt{\left(- \frac{2}{3}\right)^{2}+ \left(\frac{7}{6}\right)^{2}+\left(- \frac{1}{2}\right)^{2}}= \sqrt{\frac{37}{18}}$$
 $$|\overline{PK}|= \frac{5\sqrt{12\cdot18}}{12\sqrt{37}} = \frac{30\sqrt{6}}{12\sqrt{37}} = \frac{5\sqrt{222}}{74}$$
-**Answer:**
+
+**Answer:** $\displaystyle \frac{5\sqrt{222}}{74}$
