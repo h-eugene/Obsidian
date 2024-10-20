@@ -161,4 +161,5 @@ $$\overline{v} = \begin{bmatrix}
 - \frac{50}{63}  \\ \frac{5}{36}  \\ \frac{55}{84}
 \end{bmatrix}$$
 Calculate the lenght of this vector:
-$$d = \sqrt{2500/}$$
+$$\displaylines{d = \sqrt{ \left(- \frac{50}{63}\right)^{2}+ \left(\frac{5}{36}\right)^{2}+ \left( \frac{55}{84}\right)^{2}}=\\ \sqrt{\frac{2500}{3969} + \frac{25}{1296} + \frac{3025}{7056}} = \\
+\sqrt{\frac{25}{9} (\frac{100}{441} + \frac{1}{144}+)}}$$
