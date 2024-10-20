@@ -173,4 +173,9 @@ $$\displaylines{d = \sqrt{\left(- \frac{25}{37}\right)^{2} + \left(- \frac{5}{74
 
 Let given point is $P(1,1,-1)$, and let us select some point in intersection line $Q(0,\frac{3}{2}, - \frac{1}{2})$, direction vector $\overline{q}(- \frac{2}{3},\frac{7}{6},- \frac{1}{2})$, $\overline{PK}$ – perpendicular vector to line.
 
-Find the area of the parallelogramm via cross product of the vectors $PQ,$
+Find the area of the parallelogramm via cross product of the vectors $\overline{PQ}(-1,\frac{1}{2},\frac{1}{2}),\ \overline{q}(- \frac{2}{3},\frac{7}{6},- \frac{1}{2})$ :
+$$\overline{PQ} \times \overline{q} = \begin{bmatrix}
+-1  \\ \frac{1}{2} \\ \frac{1}{2}
+\end{bmatrix} \times \begin{bmatrix}
+- \frac{2}{3} \\ \frac{7}{6} \\ - 1/2
+\end{bmatrix}$$
