@@ -227,11 +227,25 @@ Thus, the coordinates of the third vertex is $(33,26)$.
 # In a regular tetrahedron $ABCD$, find the coordinates of the point $M$ in the basis $\{D,DA,DB,DC\}$, if the point $M$ has coordinates $(0,\frac{1}{3},\frac{1}{3})$ in the basis $\{A,AD,AB,AC\}$:
 ![|400](Pasted%20image%2020241020183134.png)
 
-Express new base
+Express new basis through old for transition matrix:
+
 - $DA = -AD$
 - $DB = AB-AD$
 - $DC = AC - AD$
 
-$$\begin{bmatrix}
+Express new origin through old basis for :
+- $AD = AD$
 
-\end{bmatrix}$$
+Thus,
+$$
+\begin{bmatrix}
+x_{1} \\ x_{2} \\ x_{3}
+\end{bmatrix} = \begin{bmatrix}
+b_{1} \\ b_{2}\\b_{3}
+\end{bmatrix} + \begin{bmatrix}
+\alpha_{11}&\alpha_{12}&\alpha_{13}\\ \alpha_{21}&\alpha_{22}&\alpha_{23}\\ 
+\alpha_{31}&\alpha_{32}&\alpha_{33}\\
+\end{bmatrix} \begin{bmatrix}
+x_{1}' \\ x_{2}' \\ x_{3}'
+\end{bmatrix}
+$$
