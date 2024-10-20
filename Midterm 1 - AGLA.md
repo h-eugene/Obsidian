@@ -219,7 +219,8 @@ $$\begin{cases}
 3x - 3y -21 =0
 \end{cases} \begin{cases}
 2y = 52 \Rightarrow y =26 \\
-3x - 3
+3x  = 21+26*3 = 99 \Rightarrow x = 33
 \end{cases}$$
+Thus, the coordinates of the third vertex is $(33,26)$.
 
 
