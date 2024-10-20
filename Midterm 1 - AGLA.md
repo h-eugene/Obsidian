@@ -249,6 +249,10 @@ x_{1} \\ x_{2} \\ x_{3}
 -1&0&0\\ -1&1&0\\ 
 -1&0&1\\
 \end{bmatrix} \begin{bmatrix}
-x_{1}' \\ x_{2}' \\ x_{3}'
+0 \\ \frac{1}{3} \\ \frac{1}{3}
+\end{bmatrix} = \begin{bmatrix}
+1 \\ 0\\0
+\end{bmatrix} + \begin{bmatrix}
+0 \\ \frac{1}{3} \\ 
 \end{bmatrix}
 $$
