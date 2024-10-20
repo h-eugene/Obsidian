@@ -5627,6 +5627,7 @@ Learning
 Limit
 Limits
 Locus
+Lines
 Vladimir
 Vector
 VIEW
@@ -22605,6 +22606,7 @@ Converges
 Canonical
 Cardinal
 Condition
+Choosing
 Sections
 Surfaces
 Spaces
@@ -28156,6 +28158,7 @@ Argument
 Again
 Additivity
 Angle
+According
 and
 algebra
 any
@@ -33573,6 +33576,7 @@ Passing
 Planes
 Point
 Position
+Practice
 Quadratic
 Qn
 QL
@@ -45211,6 +45215,8 @@ provides
 path
 punctured
 planes
+pick
+parametric
 Read
 Relations
 RY
@@ -50990,6 +50996,7 @@ ordered
 open
 orthonormal
 optionally
+orthogonal
 lecture
 lineynaya
 linear
@@ -53664,6 +53671,7 @@ locus
 lengths
 lying
 lies
+lines
 geometria
 gN
 gQ
@@ -65456,6 +65464,8 @@ defining
 diverges
 distances
 det
+defines
+denominators
 independency
 in
 info
@@ -89052,6 +89062,9 @@ coplanar
 coincide
 coefficients
 consistent
+canonical
+connecting
+convert
 Necessity
 Nikolay
 Natural
@@ -94729,6 +94742,7 @@ Gates
 Gauss
 Give
 General
+Guiding
 basis
 be
 bd

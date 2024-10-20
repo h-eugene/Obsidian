@@ -118,9 +118,12 @@ we should first find the line itself:
    Let $x = 0$, then:
    $\begin{cases}y+z= 1\\-y-5z=1\end{cases}\Rightarrow \begin{cases}z=- \frac{1}{2}\\y = \frac{3}{2}\end{cases} - \text{This is the second point}$
 
-2. Now we can make the Canonical Form of the Line:
-   
-   $x$
+2. Now we can make the Canonical Equation of the Line:
+   ![](Straight%20line%20in%202D%20plane%20and%203D%20space.%20Equations%20of%20a%20line%20in%20plane..md#^522015)
+   In our case:
+   $$\frac{x-\frac{2}{3}}{0-\frac{2}{3}} = \frac{y - \frac{1}{3}}{\frac{3}{2} - \frac{1}{3}} = \frac{z-0}{\frac{-1}{2}-0}$$
+   Simplifying:
+   $$$$
    
    
    
