@@ -152,4 +152,11 @@ $$\overline{q} = \begin{bmatrix}
 Write the dot product of these vectors:
 $$\displaylines{\overline{v} \cdot \overline{q} = 0\\
 \left(- \frac{2}{3}t - \frac{1}{3}\right)\left(- \frac{3}{2}\right) + \left(\frac{7}{6}t - \frac{2}{3}\right)\frac{6}{7}+ \left(- \frac{1}{2}t + 1\right) \left(-2\right) =\\
-t + \frac{1}{2} + t - \frac{4}{7} + t }$$
+t + \frac{1}{2} + t - \frac{4}{7} + t -2 =3t- \frac{29}{14} = 0 \\
+3t = \frac{29}{14} \Rightarrow t = \frac{29}{42}}$$
+Substitute $t$ back:
+$$\overline{v} = \begin{bmatrix}
+- \frac{2}{3} \cdot \frac{29}{42}- \frac{1}{3} \\ \frac{7}{6}\cdot \frac{29}{42} - \frac{2}{3} \\ - \frac{1}{2}\cdot \frac{29}{42} + 1
+\end{bmatrix} = \begin{matrix}
+
+\end{matrix}$$
