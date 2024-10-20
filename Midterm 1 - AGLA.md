@@ -109,4 +109,10 @@ i&j&k \\ 6&7&1 \\ 4&2&1
 
 ### 3. Find the distance from the point $(1,1,-1)$ to the line of intersection of the planes $x+y+z=1$ and $2x-y-5z=1$:
 
-
+To find distance from the point $(1,1,-1)$ to the line of intersection of the planes $x + y + z = 1$ and $2x-y-5z = 1$, 
+we should first find the line itself:
+1. Let us find two point in the intersection of the planes:
+   Let $z=0$, then the system of equations:
+   $\begin{cases}x+y=1 \\2x-y = 1\end{cases} \Rightarrow cas$
+   
+   
