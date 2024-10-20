@@ -144,11 +144,11 @@ z = - \frac{1}{2}t
 Next, we define the vector via the point from the condition and point in line and the direction vector:
 
 $$\overline{v} = \begin{bmatrix}- \frac{2}{3}t + \frac{2}{3} - 1 \\ \frac{7}{6}t + \frac{1}{3} - 1 \\ - \frac{1}{2}t + 1\end{bmatrix} = \begin{bmatrix}
-- \frac{2}{3}- \frac{1}{3} \\ \frac{7}{6}t - \frac{2}{3} \\ - \frac{1}{2}t + 1
+- \frac{2}{3}t- \frac{1}{3} \\ \frac{7}{6}t - \frac{2}{3} \\ - \frac{1}{2}t + 1
 \end{bmatrix}$$
 $$\overline{q} = \begin{bmatrix}
 - \frac{2}{3}\\ \frac{7}{6} \\ - 1/2
-\end{bmatrix} - \text{coefficient before $t$}$$
-
-
-   
+\end{bmatrix} - \text{coefficients before $t$}$$
+Write the dot product of these vectors:
+$$\displaylines{\overline{v} \cdot \overline{q} = 0\\
+\left(- \frac{2}{3}t - \frac{1}{3}\right)\left(- \frac{2}{3}\right) + \left(\frac{7}{6}t - \frac{2}{3}\right)\frac{7}{6}+ \left(\right)}$$
