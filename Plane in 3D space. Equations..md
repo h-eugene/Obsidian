@@ -79,3 +79,10 @@ There are three possible cases:
 >- $l$ is a direction of the line
 >- $\beta$ is the angle between the plane and the line
 
+---
+# Linear Map:
+
+- Given two vector spaces $E$ and $F$, a linear map between $E$ and $F$ is a function $f: E \to F$ satisfying the following two conditions:
+	- $f(a+b) = f(a) + f(b),\ \forall a, b \in E$
+	- $f(\lambda a) = \lambda f(a),\ \ \ \forall a \in E, \lambda \in \mathbb{R}$
+- 
