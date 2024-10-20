@@ -193,3 +193,6 @@ $$|\overline{q}| = \sqrt{\left(- \frac{2}{3}\right)^{2}+ \left(\frac{7}{6}\right
 $$|\overline{PK}|= \frac{5\sqrt{12\cdot18}}{12\sqrt{37}} = \frac{30\sqrt{6}}{12\sqrt{37}} = \frac{5\sqrt{222}}{74}$$
 
 **Answer:** $\displaystyle \frac{5\sqrt{222}}{74}$
+
+---
+# 4. Two vertices of a triangle are $(4,-3)$ and $(-2,5)$. If the orthocenter (intersection of altitudes) of the triangle is at $(1,2)$ find the coordinates of the third vertex:
