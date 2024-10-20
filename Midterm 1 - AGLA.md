@@ -167,4 +167,5 @@ $$\displaylines{d = \sqrt{\left(- \frac{25}{37}\right)^{2} + \left(- \frac{5}{74
 
 1. We should find some point in the line and make the vector by this point and the given point
 2. Define the direction vector 
-3. We have two vectorc that makes parallelogramm,
+3. We have two vectors that makes parallelogramm square which is equal to length of the cross product of those vectors.
+4. Area is also equal to multiplication of the direction vector length and the distance between given point and line.
