@@ -49,6 +49,9 @@ b_{1} \\ b_{2}\\b_{3}
 x_{1}' \\ x_{2}' \\ x_{3}'
 \end{bmatrix} \\ x = b + Ax'
 }$$
+
+^78c141
+
 # Matrix rotating:
 
 - Let $v$ be a vector with coordinates $\begin{bmatrix}x\\y\end{bmatrix}$.

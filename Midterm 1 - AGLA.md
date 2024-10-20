@@ -233,18 +233,21 @@ Express new basis through old for transition matrix:
 - $DB = AB-AD$
 - $DC = AC - AD$
 
-Express new origin through old basis for :
+Express new origin through old basis for $b$ vector:
+
 - $AD = AD$
 
-Thus,
+We know:
+![](Change%20of%20Basis.%20Matrix%20Inverses..md#^78c141)
+In our case:
 $$
 \begin{bmatrix}
 x_{1} \\ x_{2} \\ x_{3}
 \end{bmatrix} = \begin{bmatrix}
-b_{1} \\ b_{2}\\b_{3}
+1 \\ 0\\0
 \end{bmatrix} + \begin{bmatrix}
-\alpha_{11}&\alpha_{12}&\alpha_{13}\\ \alpha_{21}&\alpha_{22}&\alpha_{23}\\ 
-\alpha_{31}&\alpha_{32}&\alpha_{33}\\
+-1&0&0\\ -1&1&0\\ 
+-1&0&1\\
 \end{bmatrix} \begin{bmatrix}
 x_{1}' \\ x_{2}' \\ x_{3}'
 \end{bmatrix}
