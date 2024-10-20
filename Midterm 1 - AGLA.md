@@ -186,4 +186,7 @@ i&j&k \\ -1& \frac{1}{2} & \frac{1}{2} \\ - \frac{2}{3}& \frac{7}{6}& - \frac{1}
 \end{bmatrix}}$$
 So, the area is:
 $$\displaylines{S = | \overline{PQ}\times \overline{q}| = \sqrt{\left(- \frac{5}{6}\right)^2+\left(- \frac{5}{6}\right)^2+\left(- \frac{5}{6}\right)^2}=\\
-\sqrt{3 \cdot \frac{25}{36}} = 5}$$
+\sqrt{3 \cdot \frac{25}{36}} = \frac{5\sqrt{12}}{12}}$$
+Then:
+$$S = \frac{5\sqrt{12}}{12} = |\overline{PK}|\cdot |\overline{q}| \Rightarrow |\overline{PK}| = \frac{5\sqrt{12}}{12 |\overline{q}|}$$
+$$|\overline{q}| = \sqrt{\left(- \frac{2}{3}\right)^{2}+ \left(\frac{7}{6}\right)^{2}+\left(- \frac{1}{2}\right)^{2}}= \sqrt{l}$$
