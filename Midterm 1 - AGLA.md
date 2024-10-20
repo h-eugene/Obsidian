@@ -163,4 +163,4 @@ $$\overline{v} = \begin{bmatrix}
 Calculate the lenght of this vector:
 $$\displaylines{d = \sqrt{ \left(- \frac{50}{63}\right)^{2}+ \left(\frac{5}{36}\right)^{2}+ \left( \frac{55}{84}\right)^{2}}=\\ \sqrt{\frac{2500}{3969} + \frac{25}{1296} + \frac{3025}{7056}} = \\
 \sqrt{\frac{25}{9} (\frac{100}{441} + \frac{1}{144}+ \frac{121}{784})}=\\
-\frac{5}{3}\sqrt{\frac{1600+49 + 1089}{7056}} = \frac{5}{3}\sqrt{\frac{2739}{7056}} = \frac{5}{3} \sqrt{913/}}$$
+\frac{5}{3}\sqrt{\frac{1600+49 + 1089}{7056}} = \frac{5}{3}\sqrt{\frac{2739}{7056}} = \frac{5}{3} \sqrt{\frac{913}{2352}}}$$
