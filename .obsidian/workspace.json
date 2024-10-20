@@ -35,8 +35,7 @@
               "title": "Change of Basis. Matrix Inverses."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
+                "file": "Midterm 1 - AGLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Change of Basis. Matrix Inverses."
+              "title": "Обратные ссылки для Midterm 1 - AGLA"
             }
           }
         ],
@@ -133,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Change of Basis. Matrix Inverses..md",
+                "file": "Midterm 1 - AGLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Change of Basis. Matrix Inverses."
+              "title": "Исходящие ссылки из Midterm 1 - AGLA"
             }
           }
         ]
@@ -232,8 +231,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa394187938b9527",
+  "active": "041b5d45979086bc",
   "lastOpenFiles": [
+    "Change of Basis. Matrix Inverses..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Line and Plane.md",
@@ -257,7 +257,6 @@
     "Library/Math/Konev eng.pdf",
     "Introduction. Vector Spaces. Linear Independence. Basis..md",
     "Matrix Operations and Vector Cross Product..md",
-    "Change of Basis. Matrix Inverses..md",
     "The Dot product and its properties..md",
     "Midterm 1 - MathAn.md",
     "Mathematical Analysis I.md",
