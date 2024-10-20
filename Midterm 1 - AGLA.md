@@ -124,28 +124,31 @@ we should first find the line itself:
    $$\frac{x-\frac{2}{3}}{0-\frac{2}{3}} = \frac{y - \frac{1}{3}}{\frac{3}{2} - \frac{1}{3}} = \frac{z-0}{\frac{-1}{2}-0}$$
    Simplifying:
    $$-\frac{3}{2}x+ 1 = \frac{6}{7}y - \frac{2}{7} = - 2z$$
-   
+
 There are two ways to find the distance between the line and the point:
+
 - The first uses dot product
 - The second uses the cross product (area interpretation)
 
 **The first one via dot product:**
 
-1. We express vector that is perpendicular to the line and contains the given point
-2. 
-
+1. We express vector that is perpendicular to the line and contains the given point with some parameter $t$.
+2. Dot product of this vector and the direction vector of line will be $0$, because they are perpendicular.
 
 We should express the coordinates of the point in our line by converting the Canonical Equation to the Parametric:
-
 $$\begin{cases}
 x = - \frac{2}{3}t + \frac{2}{3} \\
 y = \frac{7}{6}t+ \frac{1}{3} \\
 z = - \frac{1}{2}t
 \end{cases}$$
-Next, we define the vector by the point from the condition and point in line:
+Next, we define the vector via the point from the condition and point in line and the direction vector:
 
 $$\overline{v} = \begin{bmatrix}- \frac{2}{3}t + \frac{2}{3} - 1 \\ \frac{7}{6}t + \frac{1}{3} - 1 \\ - \frac{1}{2}t + 1\end{bmatrix} = \begin{bmatrix}
 - \frac{2}{3}- \frac{1}{3} \\ \frac{7}{6}t - \frac{2}{3} \\ - \frac{1}{2}t + 1
 \end{bmatrix}$$
+$$\overline{q} = \begin{bmatrix}
+- \frac{2}{3}\\ \frac{7}{6} \\ - 1/2
+\end{bmatrix} - \text{coefficient before $t$}$$
+
 
    
