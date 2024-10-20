@@ -129,7 +129,11 @@ There are two ways to find the distance between the line and the point:
 - The first uses dot product
 - The second uses the cross product (area interpretation)
 
-The first one via dot product:
+**The first one via dot product:**
+
+1. We express vector that is perpendicular to the line and contains the given point
+2. 
+
 
 We should express the coordinates of the point in our line by converting the Canonical Equation to the Parametric:
 
@@ -138,5 +142,10 @@ x = - \frac{2}{3}t + \frac{2}{3} \\
 y = \frac{7}{6}t+ \frac{1}{3} \\
 z = - \frac{1}{2}t
 \end{cases}$$
-Next, we define the vector by point from the condition
+Next, we define the vector by the point from the condition and point in line:
+
+$$\overline{v} = \begin{bmatrix}- \frac{2}{3}t + \frac{2}{3} - 1 \\ \frac{7}{6}t + \frac{1}{3} - 1 \\ - \frac{1}{2}t + 1\end{bmatrix} = \begin{bmatrix}
+- \frac{2}{3}- \frac{1}{3} \\ \frac{7}{6}t - \frac{2}{3} \\ - \frac{1}{2}t + 1
+\end{bmatrix}$$
+
    
