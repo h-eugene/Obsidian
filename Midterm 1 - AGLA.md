@@ -180,5 +180,10 @@ $$\displaylines{\overline{PQ} \times \overline{q} = \begin{bmatrix}
 - \frac{2}{3} \\ \frac{7}{6} \\ - \frac{1}{2}
 \end{bmatrix} = \begin{vmatrix}
 i&j&k \\ -1& \frac{1}{2} & \frac{1}{2} \\ - \frac{2}{3}& \frac{7}{6}& - \frac{1}{2}
-\end{vmatrix} =\\ i\left(- \frac{1}{4} - \frac{7}{12}\right)- j\left(\frac{1}{2} + \frac{1}{3}\right)+ k\left(-\frac{7}{6}-\frac{1}{3}\right)=\\
--\frac{5}{6}i - \frac{5}{6}j - \frac{3}{2}k}$$
+\end{vmatrix} =\\ i\left(- \frac{1}{4} - \frac{7}{12}\right)- j\left(\frac{1}{2} + \frac{1}{3}\right)+ k\left(-\frac{7}{6}+\frac{1}{3}\right)=\\
+-\frac{5}{6}i - \frac{5}{6}j - \frac{5}{6}k =\begin{bmatrix}
+-\frac{5}{6} \\ -\frac{5}{6} \\ -\frac{5}{6}
+\end{bmatrix}}$$
+So, the area is:
+$$\displaylines{S = | \overline{PQ}\times \overline{q}| = \sqrt{\left(- \frac{5}{6}\right)^2+\left(- \frac{5}{6}\right)^2+\left(- \frac{5}{6}\right)^2}=\\
+\sqrt{3 \cdot \frac{25}{36}} = 5}$$
