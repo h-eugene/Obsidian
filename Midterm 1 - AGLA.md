@@ -18,9 +18,7 @@
    $$Tr(A+B) = \sum^{m}_{i=1}(a_{ii} + b_{ii}) = \sum^{m}_{i=1}a_{ii} + \sum^{m}_{i=1}b_{ii} = Tr(A) + Tr(B)$$
    
    **Homogeneity:**
-   $$Tr(c \cdot A) = \sum^{m}_{i=1}(c \cdot a_{ii}) = c \cdot \sum^{m}_{i=1}a_{ii} = c \cdot Tr(A)$$$$Tr(c\cdot A) = \sum^{m}_{i=1}(c \cdot a_{ii}) = c \cdot \sum^{m}_{i=1}a_{ii}$$
-
-
+   $$Tr(c \cdot A) = \sum^{m}_{i=1}(c \cdot a_{ii}) = c \cdot \sum^{m}_{i=1}a_{ii} = c \cdot Tr(A)$$
 ## Practice:
 
 ### 1. Vector operations / Matrices:
@@ -110,4 +108,5 @@ i&j&k \\ 6&7&1 \\ 4&2&1
    
 
 ### 3. Find the distance from the point $(1,1,-1)$ to the line of intersection of the planes $x+y+z=1$ and $2x-y-5z=1$:
+
 
