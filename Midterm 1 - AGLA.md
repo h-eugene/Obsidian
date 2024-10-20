@@ -147,20 +147,8 @@ $$\overline{v} = \begin{bmatrix}- \frac{2}{3}t + \frac{2}{3} - 1 \\ \frac{7}{6}t
 - \frac{2}{3}t- \frac{1}{3} \\ \frac{7}{6}t - \frac{2}{3} \\ - \frac{1}{2}t + 1
 \end{bmatrix}$$
 $$\overline{q} = \begin{bmatrix}
-- \frac{3}{2}\\ \frac{6}{7} \\ - 2
-\end{bmatrix} - \text{reversed coefficients before $t$}$$
+- \frac{2}{3}\\ \frac{7}{6} \\ - \frac{1}{2}
+\end{bmatrix} - \text{ coefficients before $t$}$$
 Write the dot product of these vectors:
-$$\displaylines{\overline{v} \cdot \overline{q} = 0\\
-\left(- \frac{2}{3}t - \frac{1}{3}\right)\left(- \frac{3}{2}\right) + \left(\frac{7}{6}t - \frac{2}{3}\right)\frac{6}{7}+ \left(- \frac{1}{2}t + 1\right) \left(-2\right) =\\
-t + \frac{1}{2} + t - \frac{4}{7} + t -2 =3t- \frac{29}{14} = 0 \\
-3t = \frac{29}{14} \Rightarrow t = \frac{29}{42}}$$
-Substitute $t$ back:
-$$\overline{v} = \begin{bmatrix}
-- \frac{2}{3} \cdot \frac{29}{42}- \frac{1}{3} \\ \frac{7}{6}\cdot \frac{29}{42} - \frac{2}{3} \\ - \frac{1}{2}\cdot \frac{29}{42} + 1
-\end{bmatrix} = \begin{bmatrix}
-- \frac{50}{63}  \\ \frac{5}{36}  \\ \frac{55}{84}
-\end{bmatrix}$$
-Calculate the lenght of this vector:
-$$\displaylines{d = \sqrt{ \left(- \frac{50}{63}\right)^{2}+ \left(\frac{5}{36}\right)^{2}+ \left( \frac{55}{84}\right)^{2}}=\\ \sqrt{\frac{2500}{3969} + \frac{25}{1296} + \frac{3025}{7056}} = \\
-\sqrt{\frac{25}{9} (\frac{100}{441} + \frac{1}{144}+ \frac{121}{784})}=\\
-\frac{5}{3}\sqrt{\frac{1600+49 + 1089}{7056}} = \frac{5}{3}\sqrt{\frac{2739}{7056}} = \frac{5}{3} \sqrt{\frac{913}{2352}}}$$
+
+$$\displaylines{\overline{v}\cdot }$$
