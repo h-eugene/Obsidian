@@ -35,7 +35,8 @@
               "title": "Change of Basis. Matrix Inverses."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Midterm 1 - AGLA"
+              "title": "Обратные ссылки для Change of Basis. Matrix Inverses."
             }
           }
         ],
@@ -132,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Midterm 1 - AGLA.md",
+                "file": "Change of Basis. Matrix Inverses..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Midterm 1 - AGLA"
+              "title": "Исходящие ссылки из Change of Basis. Matrix Inverses."
             }
           }
         ]
@@ -231,14 +232,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "041b5d45979086bc",
+  "active": "fa394187938b9527",
   "lastOpenFiles": [
+    "Midterm 1 - AGLA.md",
     "Change of Basis. Matrix Inverses..md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Line and Plane.md",
     "Straight line in 2D plane and 3D space. Equations of a line in plane..md",
-    "Midterm 1 - AGLA.md",
     "Library/Pasted image 20241020183134.png",
     "Library/Pasted image 20241020175902.png",
     "Library/Pasted image 20241020141649.png",
