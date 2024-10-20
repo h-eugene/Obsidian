@@ -157,6 +157,8 @@ t + \frac{1}{2} + t - \frac{4}{7} + t -2 =3t- \frac{29}{14} = 0 \\
 Substitute $t$ back:
 $$\overline{v} = \begin{bmatrix}
 - \frac{2}{3} \cdot \frac{29}{42}- \frac{1}{3} \\ \frac{7}{6}\cdot \frac{29}{42} - \frac{2}{3} \\ - \frac{1}{2}\cdot \frac{29}{42} + 1
-\end{bmatrix} = \begin{matrix}
-
-\end{matrix}$$
+\end{bmatrix} = \begin{bmatrix}
+- \frac{50}{63}  \\ \frac{5}{36}  \\ \frac{55}{84}
+\end{bmatrix}$$
+Calculate the lenght of this vector:
+$$d = \sqrt{2500/}$$
