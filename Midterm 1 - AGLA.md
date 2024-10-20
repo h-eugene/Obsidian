@@ -239,6 +239,10 @@ Express new origin through old basis:
 
 We know:
 ![](Change%20of%20Basis.%20Matrix%20Inverses..md#^78c141)
+
+
+
+
 In our case:
 $$
 \begin{bmatrix}
