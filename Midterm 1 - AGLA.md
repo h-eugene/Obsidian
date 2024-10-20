@@ -133,6 +133,10 @@ The first one via dot product:
 
 We should express the coordinates of the point in our line by converting the Canonical Equation to the Parametric:
 
-$$x = 1$$
-   
+$$\begin{cases}
+x = - \frac{2}{3}t + \frac{2}{3} \\
+y = \frac{7}{6}t+ \frac{1}{3} \\
+z = - \frac{1}{2}t
+\end{cases}$$
+Next, we define the vector by point from the condition
    
