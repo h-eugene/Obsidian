@@ -162,3 +162,7 @@ $$\overline{v}=\begin{bmatrix}
 \end{bmatrix}$$
 Calculate the length of this vector:
 $$\displaylines{d = \sqrt{\left(- \frac{25}{37}\right)^{2} + \left(- \frac{5}{74}\right)^{2} + \left(\frac{55}{74}\right)^{2}} =\\ \sqrt{\frac{5^{2}}{37^{2}}\left(25 + \frac{1}{4} + \frac{121}{4}\right)} = \frac{5\sqrt{111}}{37\sqrt{2}}}$$
+
+**The second way via cross product (area interpretation):**
+
+1. We find some point in the line and make 
