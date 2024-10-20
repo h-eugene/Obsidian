@@ -169,3 +169,6 @@ $$\displaylines{d = \sqrt{\left(- \frac{25}{37}\right)^{2} + \left(- \frac{5}{74
 2. Define the direction vector 
 3. We have two vectors that makes parallelogramm square which is equal to length of the cross product of those vectors.
 4. Area is also equal to multiplication of the direction vector length and the distance between given point and line.
+![|300](Pasted%20image%2020241020141012.png)
+
+Let given point is $P(1,1,-1)$, and let us select some point in intersection line $Q(0,\frac{3}{2}, - \frac{1}{2})$ 
