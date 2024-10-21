@@ -109,5 +109,10 @@ $$x=-3, \ \ y = 4$$
 Hence, our second vector is $p=\begin{bmatrix}1-(-3) \\ -2-4 \\ 0-1\end{bmatrix} = \begin{bmatrix}4 \\ -6 \\ -1\end{bmatrix}$
 Let us find the orthogonal vector to both these vectors:
 $$q \times p =\begin{bmatrix}
-
+5 \\ 3 \\ 1
+\end{bmatrix} \times\begin{bmatrix}4 \\ -6 \\ -1\end{bmatrix}=\begin{bmatrix}
+3 \\ 9 \\ -42
 \end{bmatrix}$$
+So, general equation of a plane:
+$$3x+9y-42+D=0$$
+Now, we should find $D$ substituting some point from our lines, let it be 
