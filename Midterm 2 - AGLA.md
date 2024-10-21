@@ -160,6 +160,6 @@ $$S =|p \times q| = \left|\begin{bmatrix}
 \end{bmatrix}\right| = \left|\begin{bmatrix}
 25 \\ 1 \\ 7
 \end{bmatrix}\right| = \sqrt{625+50} = \sqrt{675}$$
-$d = $
-
+$$d = \frac{S}{|q|}=\frac{\sqrt{675}}{\sqrt{26}} = \frac{15\sqrt{3}}{\sqrt{26}} = \frac{15\sqrt{78}}{26}$$
+**Answer:** $\frac{15\sqrt{78}}{26}$.
 
