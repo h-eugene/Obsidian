@@ -77,4 +77,15 @@ Answer: $\begin{bmatrix}1 \\ 2 \\ 1\end{bmatrix}$
 ---
 ## Lines / Planes:
 
-Find the angle between the planes $x+y-4z = 8$, $4x + y -z = 8$.
+### Find the angle between the planes $x+y-4z = 8$, $4x + y -z = 8$:
+
+The angle between two planes is equal to the angle between their normal vectors. The angle between vectors:
+$$\cos \theta = \frac{a \cdot b}{|a||b|}$$
+The normal vector of our planes:
+$$n_{1}= \begin{bmatrix}
+1 \\ 2 \\ -4
+\end{bmatrix}, \ \ n_{2}= \begin{bmatrix}
+4 \\ 1 \\ -1
+\end{bmatrix}$$
+Hence,
+$$\cos \theta = \frac{4+2+4}{\sqrt{21}\sqrt{18}} = \frac{10}{9\sqrt{42}} = 5\sqrt{42}/189$$
