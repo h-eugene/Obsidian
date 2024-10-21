@@ -114,5 +114,9 @@ $$q \times p =\begin{bmatrix}
 3 \\ 9 \\ -42
 \end{bmatrix}$$
 So, general equation of a plane:
-$$3x+9y-42+D=0$$
-Now, we should find $D$ substituting some point from our lines, let it be 
+$$3x+9y-42z+D=0$$
+Now, we should find $D$ substituting some point from our lines, let it be $(0,1,-2)$:
+$$3\cdot0+9\cdot1-42\cdot(-2) + D = 0$$
+$$D = -93$$
+Thus, answer is:
+$$3x+9y-42z-93=0$$
