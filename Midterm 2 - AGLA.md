@@ -144,5 +144,7 @@ x+y = 6
 x=2 \\
 y=4
 \end{cases}$$
+Now, we can find canonical equation of line via two points:
+![](Straight%20line%20in%202D%20plane%20and%203D%20space.%20Equations%20of%20a%20line%20in%20plane..md#^522015)
 
-
+$$\frac{x- \frac{11}{3}}{-\frac{5}{3}} = \frac{y+\frac{8}{3}}{}$$
