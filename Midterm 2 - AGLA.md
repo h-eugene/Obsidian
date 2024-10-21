@@ -44,6 +44,11 @@ $$\begin{vmatrix}1&-2&2\\2&1&-1\\4&-3&5\end{vmatrix} = 2 + 2*14 -2*10 = 10$$
 Find the orthogonal vector $q$ to both $v_1$ and $v_{2}$ using cross product:
 $$v_{1}\times v_{2} = \begin{vmatrix}
 i & j&k \\ 1&-1&1 \\ 6&-3&0
-\end{vmatrix} = 3i+6j-6k = \begin{bmatrix}
-3 \\ 6 \\ -6
+\end{vmatrix} = 3i+6j+3k = \begin{bmatrix}
+3 \\ 6 \\ 3
 \end{bmatrix}$$
+We know that dot product of collinear vector to $q$ and $v_{3}$ is 10:
+$$\lambda q \cdot v_{3} = 10$$
+Let us define $\lambda$:
+$$3\lambda *3 + 6\lambda*2 +3\lambda * 3 = 10$$
+$$\lambda = \frac{1}{3} \Rightarrow $$
