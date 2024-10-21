@@ -154,12 +154,12 @@ Let us find direction vector of our line by denominators of canonical equation, 
 So, we can define distance between point and line from area:
 
 $$S =|p \times q| = \left|\begin{bmatrix}
-1 \\ 3 \\ -4 
+0 \\ 2 \\ -1 
 \end{bmatrix} \times \begin{bmatrix}
--1 \\ 4 \\ 3
+-4 \\ 7 \\ -3
 \end{bmatrix}\right| = \left|\begin{bmatrix}
-25 \\ 1 \\ 7
-\end{bmatrix}\right| = \sqrt{625+50} = \sqrt{675}$$
-$$d = \frac{S}{|q|}=\frac{\sqrt{675}}{\sqrt{26}} = \frac{15\sqrt{3}}{\sqrt{26}} = \frac{15\sqrt{78}}{26}$$
+1 \\ 4 \\ 8
+\end{bmatrix}\right| = \sqrt{1+16+64} = \sqrt{81}$$
+$$d = \frac{S}{|q|}=\frac{\sqrt{81}}{\sqrt{16+49+9}} = \frac{9}{\sqrt{74}} = \frac{9\sqrt{74}}{74}$$
 **Answer:** $\frac{15\sqrt{78}}{26}$.
 
