@@ -227,38 +227,7 @@ Thus, the coordinates of the third vertex is $(33,26)$.
 # In a regular tetrahedron $ABCD$, find the coordinates of the point $M$ in the basis $\{D,DA,DB,DC\}$, if the point $M$ has coordinates $(0,\frac{1}{3},\frac{1}{3})$ in the basis $\{A,AD,AB,AC\}$:
 ![|400](Pasted%20image%2020241020183134.png)
 
-Express new basis through old for transition matrix:
-
-- $DA = -1 \cdot AD + 0\cdot AB + 0 \cdot AC$
-- $DB = -1\cdot AD + 1\cdot AB + 0 \cdot AC$
-- $DC = -1\cdot AD + 0\cdot AB + 1\cdot AC$
-
-Express new origin through old basis:
-
-- $DA = -1\cdot AD +0\cdot AB + 0\cdot AC$
-
-We know:
-![](Change%20of%20Basis.%20Matrix%20Inverses..md#^78c141)
-
-
-
-
-In our case:
-$$
-\begin{bmatrix}
-x_{1} \\ x_{2} \\ x_{3}
-\end{bmatrix} = \begin{bmatrix}
--1 \\ 0\\0
-\end{bmatrix} + \begin{bmatrix}
--1&0&0\\ -1&1&0\\ 
--1&0&1\\
-\end{bmatrix} \begin{bmatrix}
-0 \\ \frac{1}{3} \\ \frac{1}{3}
-\end{bmatrix} = \begin{bmatrix}
-1 \\ 0\\0
-\end{bmatrix} + \begin{bmatrix}
-0 \\ \frac{1}{3} \\ \frac{1}{3} 
-\end{bmatrix} = \begin{bmatrix}
-1 \\ \frac{1}{3} \\ \frac{1}{3}
-\end{bmatrix}
-$$
+To find the coordinates of the $M$ in the another basis, we should find the vector $DM$ by new basis. Let us express it:
+$DM = DA+AM$
+$AM = \frac{1}{3}AB + \frac{1}{3}AC$
+$AB = DB - DA$
