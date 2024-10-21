@@ -36,3 +36,14 @@ So, $|a \times b|$ gives the length of the vector normal to the plane defined by
 ### Find the determinant of matrix:$\begin{bmatrix}1&-2&2\\2&1&-1\\4&-3&5\end{bmatrix}$
 
 $$\begin{vmatrix}1&-2&2\\2&1&-1\\4&-3&5\end{vmatrix} = 2 + 2*14 -2*10 = 10$$
+---
+### Find a vector that is orthogonal to both $v_{1} = (1,-1,1)$ and $v_{2} = (6,-3,0)$ and which dot product with a vector $v_{3}= (3,2,3)$ equals to 10:
+
+**First Solution:**
+
+Find the orthogonal vector $q$ to both $v_1$ and $v_{2}$ using cross product:
+$$v_{1}\times v_{2} = \begin{vmatrix}
+i & j&k \\ 1&-1&1 \\ 6&-3&0
+\end{vmatrix} = 3i+6j-6k = \begin{bmatrix}
+3 \\ 6 \\ -6
+\end{bmatrix}$$
