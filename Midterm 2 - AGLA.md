@@ -100,9 +100,14 @@ Let the first vector be the direction vector of our parallel lines, its coordina
 $$q = \begin{bmatrix}
 5 \\ 3 \\ 1
 \end{bmatrix}$$
-Let us find 2 point for the second vector:
+Let us find 2 point for the second vector $p$ from each line:
 
 Let $z=0$:
 $$x=1,\ \  y=-2$$
-Let $x = 0$: 
-$$$$
+Let $z = 1$: 
+$$x=-3, \ \ y = 4$$
+Hence, our second vector is $p=\begin{bmatrix}1-(-3) \\ -2-4 \\ 0-1\end{bmatrix} = \begin{bmatrix}4 \\ -6 \\ -1\end{bmatrix}$
+Let us find the orthogonal vector to both these vectors:
+$$q \times p =\begin{bmatrix}
+
+\end{bmatrix}$$
