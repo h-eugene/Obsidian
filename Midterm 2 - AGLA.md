@@ -150,7 +150,7 @@ Now, we can find canonical equation of line via two points:
 $$\frac{x- \frac{11}{3}}{-\frac{5}{3}} = \frac{y+\frac{8}{3}}{\frac{20}{3}}=\frac{z}{-5}$$
 We can also define the vector connecting points $(2,4-5)$ and $(1,1,-1)$, let it be $p=\begin{bmatrix}1 \\ 3 \\ -4\end{bmatrix}$.
 
-Let us find direction vector of our line by denominators of canonical equation, and since it is just direction vector we can muliply it by some scalar: $q = \frac{3}{5} \cdot \begin{matrix}- \frac{5}{3} \\ \frac{20}{3} \\ -5\end{matrix} = \begin{bmatrix}-1 \\ 4 \\ -3\end{bmatrix}$
+Let us find direction vector of our line by denominators of canonical equation, and since it is just direction vector we can muliply it by some scalar: $q = \frac{3}{5} \cdot \begin{bmatrix}- \frac{5}{3} \\ \frac{20}{3} \\ -5\end{bmatrix} = \begin{bmatrix}-1 \\ 4 \\ -3\end{bmatrix}$
 So, we can define distance between point and line from area:
 
 $$S =|p \times q| = \left|\begin{bmatrix}
