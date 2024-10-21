@@ -26,5 +26,11 @@ So, $|a \times b|$ gives the length of the vector normal to the plane defined by
    
    The $(i,i)$-th element of the matrix $BC$ is: $$(BC)_{ii} = \sum^{n}_{j=1}B_{ij}C_{ji}$$Therefore, the trace of $BC$ is:$$Tr(BC) = \sum^{n}_{i=1}(BC)_{ii} = \sum^{n}_{i=1}\sum^{n}_{j=1}B_{ij}C_{ji}$$
 3. **Symmetry:** Now, consider the matrix $CB$. The $(i,i)$-th element of the matrix $CB$ is:$$(CB)_{ii} = \sum^{n}_{j=1}C_{ij}B_{ji}$$So the trace of $CB$ is:$$Tr(CB) = \sum^{n}_{i=1}(CB)_{ii} = \sum^{n}_{i=1}\sum^{n}_{j=1}C_{ij}B_{ji}$$
-4. **Interchanging the Summation Using Commutativity:** Notice that in both expression $\sum^{n}_{i=1}\sum^{n}_{j=1}B_{ij}C_{ji}$ and $\sum^{n}_{i=1}\sum^{n}_{j=1}C_{ij}B_{ji}$, we are multiplying two scalars: $B_{ij}$ and $C_{ji}$ in one case, and $C_{ij}$ and $B_{ji}$ in the other. Since scalar multiplication is **commutative**, we have:$$B_{ij}C_{ji} = C_{ji}B_{ij}$$Therefore, the terms in both summations are identical, meaning:$$\sum^{n}_{i=1}\sum^{n}_{j=1}B_{ij}C_{ji}$$
+4. **Interchanging the Summation Using Commutativity:** Notice that in both expression $\sum^{n}_{i=1}\sum^{n}_{j=1}B_{ij}C_{ji}$ and $\sum^{n}_{i=1}\sum^{n}_{j=1}C_{ij}B_{ji}$, we are multiplying two scalars: $B_{ij}$ and $C_{ji}$ in one case, and $C_{ij}$ and $B_{ji}$ in the other. Since scalar multiplication is **commutative**, we have:$$B_{ij}C_{ji} = C_{ji}B_{ij}$$Therefore, the terms in both summations are identical, meaning:$$\sum^{n}_{i=1}\sum^{n}_{j=1}B_{ij}C_{ji}=\sum^{n}_{i=1}\sum^{n}_{j=1}C_{ji}B_{ij}=\sum^{n}_{i=1}\sum^{n}_{j=1}C_{ij}B_{ji}$$
+5. **Conclusion:** Since the two summations are equal, it follows that:$$Tr(BC) = Tr(CB).$$
+---
+# Practice:
 
+## 1. Vector operations / Matrices:
+
+Find 
