@@ -51,4 +51,15 @@ We know that dot product of collinear vector to $q$ and $v_{3}$ is 10:
 $$\lambda q \cdot v_{3} = 10$$
 Let us define $\lambda$:
 $$3\lambda *3 + 6\lambda*2 +3\lambda * 3 = 10$$
-$$\lambda = \frac{1}{3} \Rightarrow $$
+$$\lambda = \frac{1}{3} \Rightarrow \text{Answer:} \begin{bmatrix}
+1 \\ 2 \\ 3
+\end{bmatrix}$$
+**Second Solution:**
+
+Let the vector that we want to find be $q = (x,y,z)$, then, since it is orthogonal to both $v_{1}$ and $v_{2}$, we can conclude: $q \cdot v_{1} = 0$ and $q \cdot v_{2} = 0$
+
+Also, we know that $q \cdot v_{3} = 10$, so we have the system of equations:
+$$\begin{cases}
+q \cdot v_{1}= x - y + z =0 \\
+
+\end{cases}$$
