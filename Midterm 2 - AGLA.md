@@ -19,9 +19,10 @@ The magnitude of the cross product $|a \times b|$ represents two things geometri
 So, $|a \times b|$ gives the length of the vector normal to the plane defined by $a$ and $b$, and this length corresponds to the area of the parallelogram.
 
 ---
-
 ### Given that $BC$ and $CB$ are valid, prove that $Tr(BC) = Tr(CB)$:
 
-
+1.  **Definition of Trace:** The trace of a matrix is the sum of its diagonal elements. Fon any $n \times n$ matrix $A$, we have:
+   $$Tr(A) = \sum^{n}_{i=1}A_{ii}$$
+   
 
 
