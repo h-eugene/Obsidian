@@ -11,11 +11,17 @@ In this context, any vector $w \in \text{span}(S)$ can ve expressed as a linear 
 ---
 ### What is the geometrical interpretation of the magnitude of $a \times b$?
 
-The magnitude of the cross product $a \times b$ of two vectors $a$ and $b$ can be interpreted geometrically as the area of the parallelogram formed by the two vectors:
+The magnitude of the cross product $|a \times b|$ represents two things geometrically:
 
-$$|a \times b| = |a||b|\sin \theta,$$
-where:
-- $|a|$ and $|b|$ are the magnitudes (lengths) of the vectors $a$ and $b$,
-- $\theta$ is the angle between the vectors $a$ and $b$ 
+1. The area of the parallelogramm spanned by vectors $a$ and $b$: $|a||b||\sin \theta|$
+2. The length of the vector that is perpendicular to both $a$ and $b$, as $a \times b$ itself is a vector that is orthogonal to both $a$ and $b$.
+
+So, $|a \times b|$ gives the length of the vector normal to the plane defined by $a$ and $b$, and this length corresponds to the area of the parallelogram.
+
+---
+
+### Given that $BC$ and $CB$ are valid, prove that $Tr(BC) = Tr(CB)$:
+
+
 
 
