@@ -33,4 +33,6 @@ So, $|a \times b|$ gives the length of the vector normal to the plane defined by
 
 ## 1. Vector operations / Matrices:
 
-Find 
+### Find the determinant of matrix:$\begin{bmatrix}1&-2&2\\2&1&-1\\4&-3&5\end{bmatrix}$
+
+$$\begin{vmatrix}1&-2&2\\2&1&-1\\4&-3&5\end{vmatrix} = 2 + 2*14 -2*10 = 10$$
