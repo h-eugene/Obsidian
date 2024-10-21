@@ -35,8 +35,7 @@
               "title": "Change of Basis. Matrix Inverses."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,10 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa394187938b9527",
+  "active": "041b5d45979086bc",
   "lastOpenFiles": [
-    "Midterm 1 - AGLA.md",
     "Change of Basis. Matrix Inverses..md",
+    "Midterm 1 - AGLA.md",
     "Vector Algebra.md",
     "Analytical Geometry and Linear Algebra I.md",
     "Line and Plane.md",
