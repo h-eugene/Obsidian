@@ -161,5 +161,7 @@ $$S =|p \times q| = \left|\begin{bmatrix}
 1 \\ 4 \\ 8
 \end{bmatrix}\right| = \sqrt{1+16+64} = \sqrt{81}$$
 $$d = \frac{S}{|q|}=\frac{\sqrt{81}}{\sqrt{16+49+9}} = \frac{9}{\sqrt{74}} = \frac{9\sqrt{74}}{74}$$
-**Answer:** $\frac{15\sqrt{78}}{26}$.
+**Answer:** $\frac{9\sqrt{74}}{74}$.
+
+**Second Solution:**
 
