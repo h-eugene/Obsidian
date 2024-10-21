@@ -148,5 +148,8 @@ Now, we can find canonical equation of line via two points:
 ![](Straight%20line%20in%202D%20plane%20and%203D%20space.%20Equations%20of%20a%20line%20in%20plane..md#^522015)
 
 $$\frac{x- \frac{11}{3}}{-\frac{5}{3}} = \frac{y+\frac{8}{3}}{\frac{20}{3}}=\frac{z}{-5}$$
-We can also define the vector connecting points $(2,4-5)$ and $(1,1,-1)$, let it be $p$:
-$p=\begin{bmatrix}1 \\ 3 \\ -4\end{bmatrix}$
+We can also define the vector connecting points $(2,4-5)$ and $(1,1,-1)$, let it be $p=\begin{bmatrix}1 \\ 3 \\ -4\end{bmatrix}$.
+
+Let us find direction vector of our line by denominators of canonical equation, and since it is just direction vector we can muliply it by some scalar: $q = \frac{3}{5} \cdot \begin{matrix}- \frac{5}{3} \\ \frac{20}{3} \\ -5\end{matrix} = \begin{bmatrix}-1 \\ 4 \\ -3\end{bmatrix}$
+
+
