@@ -52,7 +52,7 @@ $$\lambda q \cdot v_{3} = 10$$
 Let us define $\lambda$:
 $$3\lambda *3 + 6\lambda*2 +3\lambda * 3 = 10$$
 $$\lambda = \frac{1}{3} \Rightarrow \text{Answer:} \begin{bmatrix}
-1 \\ 2 \\ 3
+1 \\ 2 \\ 1
 \end{bmatrix}$$
 **Second Solution:**
 
@@ -61,5 +61,20 @@ Let the vector that we want to find be $q = (x,y,z)$, then, since it is orthogon
 Also, we know that $q \cdot v_{3} = 10$, so we have the system of equations:
 $$\begin{cases}
 q \cdot v_{1}= x - y + z =0 \\
-
+q \cdot v_{2} = 6x -3y = 0 \\
+q \cdot v_{3} = 3x + 2y + 3z = 10
+\end{cases}\Rightarrow \begin{cases}
+x=z \\
+y=2z \\
+3z + 4z + 3z = 10
+\end{cases} \Rightarrow \begin{cases}
+x=1 \\
+y=2 \\
+z=1 \\
 \end{cases}$$
+Answer: $\begin{bmatrix}1 \\ 2 \\ 1\end{bmatrix}$
+
+---
+## Lines / Planes:
+
+Find the angle between the planes $x+y-4z = 8$, $4x + y -z = 8$.
