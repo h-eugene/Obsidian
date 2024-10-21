@@ -193,7 +193,7 @@ $$|\overline{PK}|= \frac{5\sqrt{12\cdot18}}{12\sqrt{37}} = \frac{30\sqrt{6}}{12\
 **Answer:** $\displaystyle \frac{5\sqrt{222}}{74}$
 
 ---
-# 4. Two vertices of a triangle are $(4,-3)$ and $(-2,5)$. If the orthocenter (intersection of altitudes) of the triangle is at $(1,2)$ find the coordinates of the third vertex:
+## 4. Two vertices of a triangle are $(4,-3)$ and $(-2,5)$. If the orthocenter (intersection of altitudes) of the triangle is at $(1,2)$ find the coordinates of the third vertex:
 ![|400](Pasted%20image%2020241020175902.png)
 
 Let $A(4,-3)$, $B(-2,5)$ and $P(1,2)$, then:
@@ -222,7 +222,7 @@ $$\begin{cases}
 Thus, the coordinates of the third vertex is $(33,26)$.
 
 ---
-# In a regular tetrahedron $ABCD$, find the coordinates of the point $M$ in the basis $\{D,DA,DB,DC\}$, if the point $M$ has coordinates $(0,\frac{1}{3},\frac{1}{3})$ in the basis $\{A,AD,AB,AC\}$:
+## In a regular tetrahedron $ABCD$, find the coordinates of the point $M$ in the basis $\{D,DA,DB,DC\}$, if the point $M$ has coordinates $(0,\frac{1}{3},\frac{1}{3})$ in the basis $\{A,AD,AB,AC\}$:
 ![|400](Pasted%20image%2020241020183134.png)
 
 To find the coordinates of the $M$ in the another basis, we should find the vector $DM$ by new basis. Let us express it:
@@ -233,9 +233,6 @@ $DM = DA+AM = DA + \frac{1}{3}DB + \frac{1}{3}DC- \frac{2}{3}DA = \frac{1}{3}DA 
 
 Thus, the coordinates of the $M$ in the new basis is $(\frac{1}{3},\frac{1}{3},\frac{1}{3})$.
 
----
-# Variant 2:
----
 
 
 

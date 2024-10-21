@@ -40,7 +40,7 @@
 	2. $u,v \in W \Rightarrow u + v \in W$ (closure under addition)
 	3. $u \in W,\ \lambda \in \mathbb{R} \Rightarrow \lambda u \in W$ (closure under scalar multiplication)
 ## Span, Linear Independence.
-- Vector $w\in V$ is a linear combination of vectors $v_{1}, ... ,v_{n} \in V \ with \ coefficients\ c_{k}\in \mathbb{R};\ (k = 1..n)$ such that: $$w = c_{1}v_{1}+c_{2}v_{2} +\ ...\ + c_{n}v_{n} = \sum^{n}_{k=1}c_{k}v_{k} $$
+- Vector $w\in V$ is a linear combination of vectors $v_{1}, ... ,v_{n} \in V$ with coefficients $c_{k}\in \mathbb{R};\ (k = 1..n)$ such that: $$w = c_{1}v_{1}+c_{2}v_{2} +\ ...\ + c_{n}v_{n} = \sum^{n}_{k=1}c_{k}v_{k} $$
 - Let $S = \{v_{1},\ v_{2},...,\ v_{n}\}\subset V.$ $$span(S) = \{w\in V : w = \sum^{n}_{k=1}c_{k}v_{k}, \ \forall c_{k} \in \mathbb{R}\}$$
 - **Linearly independent vectors** in $\mathbb{R}^{n}$, where $n\in\mathbb{N}$
 	- Vectors $v_{1},\ v_{2},...,\ v_{n}$ are *linearly independent* if for $\lambda_{1},\ \lambda_{2},...,\ \lambda_{n}\in\mathbb{R},\ \lambda_{1}v_{1} + \lambda_{2}v_{2} +\ ...\ + \lambda_{n}v_{n} = 0$ if and only if $\lambda_{1}=\lambda_2=...=\lambda_{n}=0.$ 

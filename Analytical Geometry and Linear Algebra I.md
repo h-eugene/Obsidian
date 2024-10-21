@@ -14,3 +14,4 @@
 **Tests and Exams:**
 
 - [Midterm 1 - AGLA](Midterm%201%20-%20AGLA.md)
+- [Midterm 2 - AGLA](Midterm%202%20-%20AGLA.md)
