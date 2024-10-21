@@ -83,9 +83,16 @@ The angle between two planes is equal to the angle between their normal vectors.
 $$\cos \theta = \frac{a \cdot b}{|a||b|}$$
 The normal vector of our planes:
 $$n_{1}= \begin{bmatrix}
-1 \\ 2 \\ -4
+1 \\ 1 \\ -4
 \end{bmatrix}, \ \ n_{2}= \begin{bmatrix}
 4 \\ 1 \\ -1
 \end{bmatrix}$$
 Hence,
-$$\cos \theta = \frac{4+2+4}{\sqrt{21}\sqrt{18}} = \frac{10}{9\sqrt{42}} = 5\sqrt{42}/189$$
+$$\cos \theta = \frac{4+1+4}{\sqrt{18}\sqrt{18}} = \frac{9}{18} = \frac{1}{2}$$
+**Answer:** $60^\circ$
+
+---
+### What is the general equation of the plane which contains the following two parallel lines: $\frac{x-1}{5}=\frac{y+2}{3}=z$ and $\frac{x+3}{5}=\frac{y-4}{3}=z-1$:
+
+To find the equation of a plane we should first find the normal vector of this play. This  
+
