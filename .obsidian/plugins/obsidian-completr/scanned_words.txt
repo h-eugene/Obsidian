@@ -80227,6 +80227,7 @@ simplifies
 similarly
 small
 sine
+span
 exist
 excalidraw
 everything
