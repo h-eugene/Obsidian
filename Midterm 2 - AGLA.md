@@ -126,4 +126,23 @@ $$x + 3 y - 14z + 5=0$$
 
 ## Find the distance from the point $(1,1,-1)$ to the line of intersection of the planes $x+y+z = 1$ and $2x-y-5z=10$:
 
+Let us find the equation of the intersection line. To do that, we should find two point on this:
+
+Let $z=0$:
+$$\begin{cases}
+x+y = 1 \\
+2x-y = 10
+\end{cases} \begin{cases}
+x = \frac{11}{3} \\
+y=-\frac{8}{3}
+\end{cases}$$
+Let $z=-5$:
+$$\begin{cases}
+2x-y = 0 \\
+x+y = 6
+\end{cases} \begin{cases}
+x=2 \\
+y=4
+\end{cases}$$
+
 
