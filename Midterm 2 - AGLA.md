@@ -151,5 +151,15 @@ $$\frac{x- \frac{11}{3}}{-\frac{5}{3}} = \frac{y+\frac{8}{3}}{\frac{20}{3}}=\fra
 We can also define the vector connecting points $(2,4-5)$ and $(1,1,-1)$, let it be $p=\begin{bmatrix}1 \\ 3 \\ -4\end{bmatrix}$.
 
 Let us find direction vector of our line by denominators of canonical equation, and since it is just direction vector we can muliply it by some scalar: $q = \frac{3}{5} \cdot \begin{matrix}- \frac{5}{3} \\ \frac{20}{3} \\ -5\end{matrix} = \begin{bmatrix}-1 \\ 4 \\ -3\end{bmatrix}$
+So, we can define distance between point and line from area:
+
+$$S =|p \times q| = \left|\begin{bmatrix}
+1 \\ 3 \\ -4 
+\end{bmatrix} \times \begin{bmatrix}
+-1 \\ 4 \\ 3
+\end{bmatrix}\right| = \left|\begin{bmatrix}
+25 \\ 1 \\ 7
+\end{bmatrix}\right| = \sqrt{625+50} = \sqrt{675}$$
+$d = $
 
 
