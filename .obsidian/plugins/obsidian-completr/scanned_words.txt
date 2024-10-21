@@ -11816,6 +11816,7 @@ Inductive
 Intuitively
 Integer
 Indicate
+Interchanging
 Telegram
 Theorem
 Text
@@ -19764,6 +19765,7 @@ tool
 tends
 traced
 triple
+trace
 Course
 Curves
 Continuation
@@ -25422,6 +25424,8 @@ Summary
 Straight
 Substituting
 Simplifying
+Symmetry
+Summation
 Algebra
 AGLA
 Assignments
@@ -28159,6 +28163,7 @@ Again
 Additivity
 Angle
 According
+Also
 and
 algebra
 any
@@ -30993,6 +30998,7 @@ adding
 approx
 analyze
 again
+area
 Plane
 Problem
 Prove
@@ -45216,6 +45222,7 @@ punctured
 planes
 pick
 parametric
+parallelogram
 Read
 Relations
 RY
@@ -56515,6 +56522,7 @@ goes
 grows
 geometrical
 guiding
+geometrically
 Umnov
 Uniqueness
 Uf
@@ -69164,6 +69172,7 @@ illustrating
 influences
 intercept
 inconsistent
+identical
 For
 Functions
 Frolov
@@ -74793,6 +74802,7 @@ viewing
 varepsilon
 vee
 vmatrix
+valid
 for
 file
 form
@@ -77380,6 +77390,7 @@ further
 fields
 final
 forms
+finded
 scalars
 sufficient
 settings
@@ -80228,6 +80239,9 @@ similarly
 small
 sine
 span
+spanned
+summations
+substituting
 exist
 excalidraw
 everything
@@ -83189,6 +83203,7 @@ epsilon
 exponent
 examine
 equation
+expressed
 have
 hQ
 hfRF
@@ -89066,6 +89081,9 @@ consistent
 canonical
 connecting
 convert
+combinations
+corresponds
+collinear
 Necessity
 Nikolay
 Natural
@@ -91664,6 +91682,7 @@ Neural
 Networks
 Neither
 Notion
+Notice
 Given
 Graphs
 Gg

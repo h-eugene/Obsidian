@@ -115,8 +115,15 @@ $$q \times p =\begin{bmatrix}
 \end{bmatrix}$$
 So, general equation of a plane:
 $$3x+9y-42z+D=0$$
-Now, we should find $D$ substituting some point from our lines, let it be $(0,1,-2)$:
-$$3\cdot0+9\cdot1-42\cdot(-2) + D = 0$$
-$$D = -93$$
+Now, we should find $D$ substituting some point from our lines, let it be $(1,-2,0)$:
+$$3\cdot1+9 \cdot(-2) - 42\cdot0+ D = 0$$
+$$D = 15$$
 Thus, answer is:
-$$3x+9y-42z-93=0$$
+$$3x+9y-42z+15=0$$
+or 
+$$x + 3 y - 14z + 5=0$$
+---
+
+## Find the distance from the point $(1,1,-1)$ to the line of intersection of the planes $x+y+z = 1$ and $2x-y-5z=10$:
+
+
