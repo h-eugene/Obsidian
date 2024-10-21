@@ -24,5 +24,7 @@ So, $|a \times b|$ gives the length of the vector normal to the plane defined by
 1.  **Definition of Trace:** The trace of a matrix is the sum of its diagonal elements. For any $n \times n$ matrix $A$, we have:$$Tr(A) = \sum^{n}_{i=1}A_{ii}$$where $A_{ii}$ represents the $i$-th diagonal element of matrix $A$.
 2. **Trace of a Product:** Let $B$ and $C$ be two $n \times n$ matrices such that both $BC$ and $CB$ are valid matrix multiplication.
    
-   The $(i,i)$-th element of the matrix $BC$ is:   $$(BC)_{ii} = \sum^{n}_{j=1}B_{ij}C_{ji}$$Therefore, the trace of $BC$ is:$$Tr(BC) = $$
+   The $(i,i)$-th element of the matrix $BC$ is: $$(BC)_{ii} = \sum^{n}_{j=1}B_{ij}C_{ji}$$Therefore, the trace of $BC$ is:$$Tr(BC) = \sum^{n}_{i=1}(BC)_{ii} = \sum^{n}_{i=1}\sum^{n}_{j=1}B_{ij}C_{ji}$$
+3. **Symmetry:** Now, consider the matrix $CB$. The $(i,i)$-th element of the matrix $CB$ is:$$(CB)_{ii} = \sum^{n}_{j=1}C_{ij}B_{ji}$$So the trace of $CB$ is:$$Tr(CB) = \sum^{n}_{i=1}(CB)_{ii} = \sum^{n}_{i=1}\sum^{n}_{j=1}C_{ij}B_{ji}$$
+4. **Interchanging the Summation Using Commutativity:** Notice that in both expression $$
 
