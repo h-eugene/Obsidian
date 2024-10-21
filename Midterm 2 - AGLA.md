@@ -11,6 +11,11 @@ In this context, any vector $w \in \text{span}(S)$ can ve expressed as a linear 
 ---
 ### What is the geometrical interpretation of the magnitude of $a \times b$?
 
-The magnitude of the cross product $a \times b$ of two vector
+The magnitude of the cross product $a \times b$ of two vectors $a$ and $b$ can be interpreted geometrically as the area of the parallelogram formed by the two vectors:
+
+$$|a \times b| = |a||b|\sin \theta,$$
+where:
+- $|a|$ and $|b|$ are the magnitudes (lengths) of the vectors $a$ and $b$,
+- $\theta$ is the angle between the vectors $a$ and $b$ 
 
 
