@@ -165,3 +165,12 @@ $$d = \frac{S}{|q|}=\frac{\sqrt{81}}{\sqrt{16+49+9}} = \frac{9}{\sqrt{74}} = \fr
 
 **Second Solution:**
 
+Let the vector orthogonal to line and contain given point be $p$.
+The coordinates of the point in line:
+$$\begin{cases}x= \frac{11}{3}-\frac{8}{3}t \\
+y = - \frac{8}{3}+ \frac{14}{3}t \\
+z= -2t\end{cases}$$
+Then, 
+$$p = \begin{bmatrix}
+1-
+\end{bmatrix}$$
